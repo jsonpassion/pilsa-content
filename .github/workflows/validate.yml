@@ -1,0 +1,27 @@
+name: validate
+
+# 앱은 live 브랜치의 manifest.json을 따라 콘텐츠를 받는다.
+# main에 올린 콘텐츠는 이 점검을 통과해야 live로 넘어가므로, 잘못 올린 파일이 바로 앱에 퍼지지 않는다.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 콘텐츠 점검
+        run: python3 tools/validate.py
+      - name: 통과한 main을 live로 넘기기
+        if: github.event_name == 'push'
+        run: git push origin HEAD:refs/heads/live

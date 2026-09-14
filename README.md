@@ -2,7 +2,7 @@
 
 Pilsa(필사) 앱이 동기화하는 콘텐츠 저장소. 앱 코드는 비공개 저장소에 따로 있다.
 
-앱은 열릴 때와 다시 앞으로 올 때 `manifest.json`을 받아 파일별 체크섬을 비교하고, 바뀐 파일만 내려받아 바로 반영한다. 인터넷이 없으면 앱에 들어 있는 사본을 쓴다.
+앱은 열릴 때와 다시 앞으로 올 때 **live 브랜치**의 `manifest.json`을 받아 파일별 체크섬을 비교하고, 바뀐 파일만 내려받아 바로 반영한다. 인터넷이 없으면 앱에 들어 있는 사본을 쓴다.
 
 ## 구조
 
@@ -62,6 +62,13 @@ tools/
 ## 낭독 파일
 
 - 영어(`en_`, `kjv_`, `dra_`): Kokoro-82M bf_emma. 한국어(`ko_`, `krv_`, `plain_`): OpenAI gpt-4o-mini-tts cedar, 받아쓰기로 원문 대조.
+
+## 올리는 순서
+
+1. `python3 tools/build_manifest.py`, `python3 tools/validate.py`
+2. main에 커밋하고 푸시한다
+3. GitHub Actions의 validate가 같은 점검을 돌리고, 통과하면 그 커밋을 live 브랜치로 넘긴다. 앱은 live만 본다.
+4. 점검이 실패하면 live는 그대로라 앱에 퍼지지 않는다. 고쳐서 다시 푸시한다.
 
 ## 주의
 
