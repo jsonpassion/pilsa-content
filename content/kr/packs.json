@@ -1,0 +1,971 @@
+[
+ {
+  "id": "daily",
+  "kind": "daily",
+  "title": "오늘의 말씀",
+  "subtitle": "하루 한 구절",
+  "summary": "매일 한 구절씩 바뀝니다. 언제든 무료로 쓸 수 있어요.",
+  "symbol": "sun.max",
+  "tint": "mustard",
+  "highlights": [],
+  "previewDays": 0,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "사랑",
+    "passage": "JHN.3.16",
+    "prompt": null
+   },
+   {
+    "title": "목자",
+    "passage": "PSA.23.1",
+    "prompt": null
+   },
+   {
+    "title": "의뢰",
+    "passage": "PRO.3.5-6",
+    "prompt": null
+   },
+   {
+    "title": "새 힘",
+    "passage": "ISA.40.31",
+    "prompt": null
+   },
+   {
+    "title": "평안의 생각",
+    "passage": "JER.29.11",
+    "prompt": null
+   },
+   {
+    "title": "담대함",
+    "passage": "JOS.1.9",
+    "prompt": null
+   },
+   {
+    "title": "합력하여 선",
+    "passage": "ROM.8.28",
+    "prompt": null
+   },
+   {
+    "title": "능력",
+    "passage": "PHP.4.13",
+    "prompt": null
+   },
+   {
+    "title": "발의 등",
+    "passage": "PSA.119.105",
+    "prompt": null
+   },
+   {
+    "title": "쉼",
+    "passage": "MAT.11.28",
+    "prompt": null
+   },
+   {
+    "title": "평안",
+    "passage": "JHN.14.27",
+    "prompt": null
+   },
+   {
+    "title": "아침마다",
+    "passage": "LAM.3.22-23",
+    "prompt": null
+   },
+   {
+    "title": "피난처",
+    "passage": "PSA.46.1",
+    "prompt": null
+   },
+   {
+    "title": "믿음",
+    "passage": "HEB.11.1",
+    "prompt": null
+   },
+   {
+    "title": "근신하는 마음",
+    "passage": "2TI.1.7",
+    "prompt": null
+   },
+   {
+    "title": "선한 것",
+    "passage": "MIC.6.8",
+    "prompt": null
+   },
+   {
+    "title": "마음을 지키라",
+    "passage": "PRO.4.23",
+    "prompt": null
+   },
+   {
+    "title": "걸음",
+    "passage": "PRO.16.9",
+    "prompt": null
+   },
+   {
+    "title": "먼저 구하라",
+    "passage": "MAT.6.33",
+    "prompt": null
+   },
+   {
+    "title": "성령의 열매",
+    "passage": "GAL.5.22-23",
+    "prompt": null
+   },
+   {
+    "title": "제일은 사랑",
+    "passage": "1CO.13.13",
+    "prompt": null
+   },
+   {
+    "title": "축복",
+    "passage": "NUM.6.24-26",
+    "prompt": null
+   },
+   {
+    "title": "가만히 있어",
+    "passage": "PSA.46.10",
+    "prompt": null
+   },
+   {
+    "title": "태초에",
+    "passage": "GEN.1.1",
+    "prompt": null
+   },
+   {
+    "title": "길",
+    "passage": "JHN.14.6",
+    "prompt": null
+   },
+   {
+    "title": "맡기라",
+    "passage": "PRO.16.3",
+    "prompt": null
+   },
+   {
+    "title": "염려 대신 기도",
+    "passage": "PHP.4.6-7",
+    "prompt": null
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "psalm23",
+  "kind": "plan",
+  "title": "시편 23편 7일",
+  "subtitle": "하루 한 절씩 7일",
+  "summary": "필사가 처음이라면 여기서 시작해 보세요. 마지막 날에는 23편 전체를 한 번에 씁니다.",
+  "symbol": "leaf",
+  "tint": "sage",
+  "highlights": [
+   "하루 5분이면 충분해요",
+   "끝까지 무료예요"
+  ],
+  "previewDays": 0,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "나의 목자",
+    "passage": "PSA.23.1",
+    "prompt": "요즘 내게 '부족하다'고 느껴지는 것은 무엇인가요?"
+   },
+   {
+    "title": "쉴만한 물가",
+    "passage": "PSA.23.2",
+    "prompt": "나를 쉬게 하는 풀밭과 물가는 어디인가요?"
+   },
+   {
+    "title": "소생",
+    "passage": "PSA.23.3",
+    "prompt": "지친 마음이 다시 살아났던 순간을 떠올려 보세요."
+   },
+   {
+    "title": "골짜기에서도",
+    "passage": "PSA.23.4",
+    "prompt": "지나고 있는 골짜기가 있다면, 누가 함께 걷고 있나요?"
+   },
+   {
+    "title": "넘치는 잔",
+    "passage": "PSA.23.5",
+    "prompt": "오늘 넘치도록 받은 것 세 가지를 적어 보세요."
+   },
+   {
+    "title": "평생에",
+    "passage": "PSA.23.6",
+    "prompt": "나를 따라온 선하심과 인자하심은 어떤 모습이었나요?"
+   },
+   {
+    "title": "23편 전체",
+    "passage": "PSA.23.1-6",
+    "prompt": "일주일 동안 마음에 가장 오래 남은 구절은 무엇인가요?"
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "rest14",
+  "kind": "plan",
+  "title": "쉼과 위로 14일",
+  "subtitle": "지친 날을 위한 말씀",
+  "summary": "마태복음의 초대에서 시작해 시편 121편과 민수기의 축복으로 마무리합니다.",
+  "symbol": "cloud.sun",
+  "tint": "sky",
+  "highlights": [
+   "잠들기 전에 쓰기 좋아요",
+   "앞의 3일은 무료예요"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "내게로 오라",
+    "passage": "MAT.11.28",
+    "prompt": "오늘 내려놓고 싶은 짐은 무엇인가요?"
+   },
+   {
+    "title": "쉬운 멍에",
+    "passage": "MAT.11.29-30",
+    "prompt": "내가 억지로 지고 있는 멍에가 있나요?"
+   },
+   {
+    "title": "피난처",
+    "passage": "PSA.46.1",
+    "prompt": null
+   },
+   {
+    "title": "가만히 있어",
+    "passage": "PSA.46.10",
+    "prompt": "오늘 5분 동안 멈춰 보았나요?"
+   },
+   {
+    "title": "세상과 다른 평안",
+    "passage": "JHN.14.27",
+    "prompt": null
+   },
+   {
+    "title": "염려 대신 감사",
+    "passage": "PHP.4.6-7",
+    "prompt": "염려 하나를 감사 하나로 바꿔 적어 보세요."
+   },
+   {
+    "title": "독수리의 날개",
+    "passage": "ISA.40.31",
+    "prompt": null
+   },
+   {
+    "title": "아침마다 새로우니",
+    "passage": "LAM.3.22-23",
+    "prompt": "어제와 달리 오늘 새로운 것은 무엇인가요?"
+   },
+   {
+    "title": "산을 향하여",
+    "passage": "PSA.121.1-2",
+    "prompt": null
+   },
+   {
+    "title": "졸지 아니하시는",
+    "passage": "PSA.121.3-4",
+    "prompt": null
+   },
+   {
+    "title": "나의 그늘",
+    "passage": "PSA.121.5-6",
+    "prompt": null
+   },
+   {
+    "title": "출입을 지키시는",
+    "passage": "PSA.121.7-8",
+    "prompt": "오늘 들고 나는 모든 길을 떠올리며 써 보세요."
+   },
+   {
+    "title": "복을 주시고",
+    "passage": "NUM.6.24-26",
+    "prompt": "이 축복을 전하고 싶은 사람의 이름을 적어 보세요."
+   },
+   {
+    "title": "두려움 아닌 마음",
+    "passage": "2TI.1.7",
+    "prompt": "14일을 마친 지금, 마음에 남은 한 단어는?"
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "beatitudes",
+  "kind": "plan",
+  "title": "팔복 8일",
+  "subtitle": "여덟 가지 복을 하루에 하나씩",
+  "summary": "마태복음 5장의 팔복을 한 줄씩 새깁니다. 짧아서 외워 쓰기에도 좋아요.",
+  "symbol": "mountain.2",
+  "tint": "lavender",
+  "highlights": [
+   "암송쓰기와 잘 맞아요",
+   "앞의 2일은 무료예요"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "recall",
+  "translationID": null,
+  "days": [
+   {
+    "title": "심령이 가난한 자",
+    "passage": "MAT.5.3",
+    "prompt": null
+   },
+   {
+    "title": "애통하는 자",
+    "passage": "MAT.5.4",
+    "prompt": null
+   },
+   {
+    "title": "온유한 자",
+    "passage": "MAT.5.5",
+    "prompt": null
+   },
+   {
+    "title": "의에 주린 자",
+    "passage": "MAT.5.6",
+    "prompt": null
+   },
+   {
+    "title": "긍휼히 여기는 자",
+    "passage": "MAT.5.7",
+    "prompt": null
+   },
+   {
+    "title": "마음이 청결한 자",
+    "passage": "MAT.5.8",
+    "prompt": null
+   },
+   {
+    "title": "화평케 하는 자",
+    "passage": "MAT.5.9",
+    "prompt": null
+   },
+   {
+    "title": "핍박을 받은 자",
+    "passage": "MAT.5.10",
+    "prompt": "여덟 가지 복 중 오늘의 나에게 가장 필요한 것은?"
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "psalms",
+  "kind": "plan",
+  "title": "시편 필사 노트",
+  "subtitle": "1편, 121편, 23편",
+  "summary": "시편의 대표적인 세 편을 나눠 씁니다. 원고지에 쓰면 시의 호흡이 잘 느껴져요.",
+  "symbol": "music.quarternote.3",
+  "tint": "peach",
+  "highlights": [
+   "원고지 테마와 잘 맞아요",
+   "첫날은 무료예요"
+  ],
+  "previewDays": 1,
+  "recommendedMode": "copy",
+  "translationID": null,
+  "days": [
+   {
+    "title": "복 있는 사람",
+    "passage": "PSA.1.1-3",
+    "prompt": null
+   },
+   {
+    "title": "바람에 나는 겨",
+    "passage": "PSA.1.4-6",
+    "prompt": null
+   },
+   {
+    "title": "나의 도움",
+    "passage": "PSA.121.1-4",
+    "prompt": null
+   },
+   {
+    "title": "영원까지",
+    "passage": "PSA.121.5-8",
+    "prompt": null
+   },
+   {
+    "title": "목자와 물가",
+    "passage": "PSA.23.1-3",
+    "prompt": null
+   },
+   {
+    "title": "원수의 목전에서",
+    "passage": "PSA.23.4-6",
+    "prompt": null
+   },
+   {
+    "title": "우리의 피난처",
+    "passage": "PSA.46.1",
+    "prompt": null
+   },
+   {
+    "title": "발의 등, 길의 빛",
+    "passage": "PSA.119.105",
+    "prompt": "세 편의 시 중 나의 시는 어느 것인가요?"
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "wisdom",
+  "kind": "plan",
+  "title": "지혜의 말씀 8일",
+  "subtitle": "잠언과 미가서",
+  "summary": "아침에 쓰기 좋은 짧은 말씀입니다. 계획과 걸음, 마음을 지키는 일을 다룹니다.",
+  "symbol": "lightbulb",
+  "tint": "mustard",
+  "highlights": [
+   "아침 5분에 알맞아요",
+   "앞의 2일은 무료예요"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "copy",
+  "translationID": null,
+  "days": [
+   {
+    "title": "지식의 근본",
+    "passage": "PRO.1.7",
+    "prompt": null
+   },
+   {
+    "title": "나의 법을 잊지 말고",
+    "passage": "PRO.3.1-2",
+    "prompt": null
+   },
+   {
+    "title": "마음판에 새기라",
+    "passage": "PRO.3.3-4",
+    "prompt": "마음판에 새기고 싶은 한 문장은?"
+   },
+   {
+    "title": "범사에 인정하라",
+    "passage": "PRO.3.5-6",
+    "prompt": null
+   },
+   {
+    "title": "생명의 근원",
+    "passage": "PRO.4.23",
+    "prompt": null
+   },
+   {
+    "title": "맡기라",
+    "passage": "PRO.16.3",
+    "prompt": "이번 주 맡기고 싶은 계획을 적어 보세요."
+   },
+   {
+    "title": "걸음을 인도하시는",
+    "passage": "PRO.16.9",
+    "prompt": null
+   },
+   {
+    "title": "겸손히 함께 행하는",
+    "passage": "MIC.6.8",
+    "prompt": null
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "love",
+  "kind": "plan",
+  "title": "사랑의 말씀 7일",
+  "subtitle": "고린도전서 13장",
+  "summary": "사랑장을 천천히 나눠 쓰고 요한복음 3장 16절로 마칩니다. 완성한 카드는 선물하기 좋아요.",
+  "symbol": "heart",
+  "tint": "peach",
+  "highlights": [
+   "카드로 선물하기 좋아요",
+   "첫날은 무료예요"
+  ],
+  "previewDays": 1,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "오래 참고",
+    "passage": "1CO.13.4",
+    "prompt": null
+   },
+   {
+    "title": "성내지 아니하며",
+    "passage": "1CO.13.5",
+    "prompt": null
+   },
+   {
+    "title": "모든 것을 견디는",
+    "passage": "1CO.13.6-7",
+    "prompt": "오늘 사랑으로 견뎌야 할 일이 있나요?"
+   },
+   {
+    "title": "제일은 사랑",
+    "passage": "1CO.13.13",
+    "prompt": null
+   },
+   {
+    "title": "성령의 열매",
+    "passage": "GAL.5.22-23",
+    "prompt": "아홉 열매 중 올해 더 맺고 싶은 것은?"
+   },
+   {
+    "title": "이처럼 사랑하사",
+    "passage": "JHN.3.16",
+    "prompt": null
+   },
+   {
+    "title": "합력하여 선을",
+    "passage": "ROM.8.28",
+    "prompt": "이 카드를 전하고 싶은 사람은 누구인가요?"
+   }
+  ],
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null
+ },
+ {
+  "id": "kjv21",
+  "kind": "plan",
+  "title": "영어로 쓰는 말씀 21일",
+  "subtitle": "익숙한 구절을 KJV로",
+  "summary": "아는 구절이라 영어가 어렵지 않아요. 한글 대역과 단어 풀이, 발음 듣기가 함께 있습니다.",
+  "symbol": "character.book.closed",
+  "tint": "sky",
+  "highlights": [
+   "영어 학습 모드가 들어 있어요",
+   "앞의 3일은 무료예요"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "bilingual",
+  "translationID": "kjv",
+  "days": [
+   {
+    "title": "In the beginning",
+    "passage": "GEN.1.1",
+    "prompt": null
+   },
+   {
+    "title": "The Word",
+    "passage": "JHN.1.1-3",
+    "prompt": null
+   },
+   {
+    "title": "The light shineth",
+    "passage": "JHN.1.4-5",
+    "prompt": null
+   },
+   {
+    "title": "My shepherd",
+    "passage": "PSA.23.1-3",
+    "prompt": null
+   },
+   {
+    "title": "My cup runneth over",
+    "passage": "PSA.23.4-6",
+    "prompt": null
+   },
+   {
+    "title": "A lamp unto my feet",
+    "passage": "PSA.119.105",
+    "prompt": null
+   },
+   {
+    "title": "Trust in the LORD",
+    "passage": "PRO.3.5-6",
+    "prompt": null
+   },
+   {
+    "title": "Wings as eagles",
+    "passage": "ISA.40.31",
+    "prompt": null
+   },
+   {
+    "title": "Blessed are the poor",
+    "passage": "MAT.5.3-5",
+    "prompt": null
+   },
+   {
+    "title": "Blessed are the pure",
+    "passage": "MAT.5.6-8",
+    "prompt": null
+   },
+   {
+    "title": "Seek ye first",
+    "passage": "MAT.6.33",
+    "prompt": null
+   },
+   {
+    "title": "Come unto me",
+    "passage": "MAT.11.28-30",
+    "prompt": null
+   },
+   {
+    "title": "God so loved",
+    "passage": "JHN.3.16",
+    "prompt": null
+   },
+   {
+    "title": "The way, the truth",
+    "passage": "JHN.14.6",
+    "prompt": null
+   },
+   {
+    "title": "Peace I leave",
+    "passage": "JHN.14.27",
+    "prompt": null
+   },
+   {
+    "title": "All things work together",
+    "passage": "ROM.8.28",
+    "prompt": null
+   },
+   {
+    "title": "Charity suffereth long",
+    "passage": "1CO.13.4-5",
+    "prompt": null
+   },
+   {
+    "title": "The greatest is charity",
+    "passage": "1CO.13.13",
+    "prompt": null
+   },
+   {
+    "title": "Be careful for nothing",
+    "passage": "PHP.4.6-7",
+    "prompt": null
+   },
+   {
+    "title": "I can do all things",
+    "passage": "PHP.4.13",
+    "prompt": null
+   },
+   {
+    "title": "Now faith is",
+    "passage": "HEB.11.1",
+    "prompt": "21일 동안 새로 알게 된 영어 단어 하나를 적어 보세요."
+   }
+  ],
+  "collection": "bible",
+  "includedModes": [
+   "bilingual"
+  ],
+  "includedThemes": null
+ },
+ {
+  "id": "affirmDaily",
+  "collection": "affirm",
+  "kind": "daily",
+  "title": "오늘의 확언",
+  "subtitle": "하루 한 문장",
+  "summary": "매일 한 문장씩 바뀝니다. 영어와 한글 중에 골라 쓸 수 있어요.",
+  "symbol": "sun.haze",
+  "tint": "mustard",
+  "highlights": [],
+  "previewDays": 0,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "쉬어도 괜찮다",
+    "passage": "aff.03",
+    "prompt": null
+   },
+   {
+    "title": "나의 가치",
+    "passage": "aff.04",
+    "prompt": null
+   },
+   {
+    "title": "다정한 말",
+    "passage": "aff.05",
+    "prompt": null
+   },
+   {
+    "title": "내려놓기",
+    "passage": "aff.07",
+    "prompt": null
+   },
+   {
+    "title": "실수에서 배우기",
+    "passage": "aff.08",
+    "prompt": null
+   },
+   {
+    "title": "나와의 약속",
+    "passage": "aff.11",
+    "prompt": null
+   },
+   {
+    "title": "완벽하지 않아도",
+    "passage": "aff.14",
+    "prompt": null
+   },
+   {
+    "title": "지나가는 감정",
+    "passage": "aff.16",
+    "prompt": null
+   },
+   {
+    "title": "힘든 날",
+    "passage": "aff.20",
+    "prompt": null
+   },
+   {
+    "title": "충분한 최선",
+    "passage": "aff.23",
+    "prompt": null
+   }
+  ]
+ },
+ {
+  "id": "affirmStart7",
+  "collection": "affirm",
+  "kind": "plan",
+  "title": "영어 확언 7일",
+  "subtitle": "쉬운 영어 한 문장씩",
+  "summary": "짧고 쉬운 영어 문장을 따라 쓰며 하루를 시작합니다. 한글 뜻과 단어 풀이가 함께 있어요.",
+  "symbol": "leaf",
+  "tint": "sky",
+  "highlights": [
+   "끝까지 무료예요",
+   "영어 학습 모드를 써 볼 수 있어요"
+  ],
+  "previewDays": 0,
+  "recommendedMode": "bilingual",
+  "translationID": "en",
+  "includedModes": [
+   "bilingual"
+  ],
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "고요한 시작",
+    "passage": "aff.01",
+    "prompt": "오늘 나에게 가장 필요한 한 단어는 무엇인가요?"
+   },
+   {
+    "title": "작은 걸음",
+    "passage": "aff.02",
+    "prompt": "이번 주에 내딛은 작은 걸음 하나를 적어 보세요."
+   },
+   {
+    "title": "잘되고 있는 것",
+    "passage": "aff.06",
+    "prompt": "오늘 잘되고 있는 일 세 가지를 떠올려 보세요."
+   },
+   {
+    "title": "천천히",
+    "passage": "aff.09",
+    "prompt": "천천히 해도 되는 일은 무엇인가요?"
+   },
+   {
+    "title": "숨 고르기",
+    "passage": "aff.10",
+    "prompt": "숨을 고르고 싶을 때 나는 어디에 있나요?"
+   },
+   {
+    "title": "다시 시작",
+    "passage": "aff.19",
+    "prompt": "다시 시작하고 싶은 일이 있나요?"
+   },
+   {
+    "title": "지금 이 자리",
+    "passage": "aff.30",
+    "prompt": "30일 동안 가장 마음에 남은 문장은 무엇인가요?"
+   }
+  ]
+ },
+ {
+  "id": "affirm30",
+  "collection": "affirm",
+  "kind": "plan",
+  "title": "영어 확언 30일",
+  "subtitle": "마음을 단단하게 하는 문장",
+  "summary": "한 달 동안 매일 한 문장씩 영어로 씁니다. 단어 풀이와 발음 듣기, 생각해 볼 질문이 함께 있어요.",
+  "symbol": "sparkles",
+  "tint": "lavender",
+  "highlights": [
+   "영어 학습 모드가 들어 있어요",
+   "크라프트 노트 테마를 함께 드려요",
+   "앞의 3일은 무료예요"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "bilingual",
+  "translationID": "en",
+  "includedModes": [
+   "bilingual"
+  ],
+  "includedThemes": [
+   "kraft"
+  ],
+  "days": [
+   {
+    "title": "고요한 시작",
+    "passage": "aff.01",
+    "prompt": "오늘 나에게 가장 필요한 한 단어는 무엇인가요?"
+   },
+   {
+    "title": "작은 걸음",
+    "passage": "aff.02",
+    "prompt": "이번 주에 내딛은 작은 걸음 하나를 적어 보세요."
+   },
+   {
+    "title": "쉬어도 괜찮다",
+    "passage": "aff.03",
+    "prompt": "쉬는 것이 어려운 순간은 언제인가요?"
+   },
+   {
+    "title": "나의 가치",
+    "passage": "aff.04",
+    "prompt": "결과와 상관없이 나를 좋아하는 이유 하나는?"
+   },
+   {
+    "title": "다정한 말",
+    "passage": "aff.05",
+    "prompt": "오늘 나에게 해 주고 싶은 다정한 말은?"
+   },
+   {
+    "title": "잘되고 있는 것",
+    "passage": "aff.06",
+    "prompt": "오늘 잘되고 있는 일 세 가지를 떠올려 보세요."
+   },
+   {
+    "title": "내려놓기",
+    "passage": "aff.07",
+    "prompt": "내려놓고 싶은 걱정 하나를 적어 보세요."
+   },
+   {
+    "title": "실수에서 배우기",
+    "passage": "aff.08",
+    "prompt": "최근의 실수에서 배운 것은 무엇인가요?"
+   },
+   {
+    "title": "천천히",
+    "passage": "aff.09",
+    "prompt": "천천히 해도 되는 일은 무엇인가요?"
+   },
+   {
+    "title": "숨 고르기",
+    "passage": "aff.10",
+    "prompt": "숨을 고르고 싶을 때 나는 어디에 있나요?"
+   },
+   {
+    "title": "나와의 약속",
+    "passage": "aff.11",
+    "prompt": "나와 한 약속 중 지키고 싶은 것은?"
+   },
+   {
+    "title": "미래의 나에게",
+    "passage": "aff.12",
+    "prompt": "1년 뒤의 나에게 한 줄을 남긴다면?"
+   },
+   {
+    "title": "조금씩 용감하게",
+    "passage": "aff.13",
+    "prompt": "오늘 조금 용감했던 순간이 있었나요?"
+   },
+   {
+    "title": "완벽하지 않아도",
+    "passage": "aff.14",
+    "prompt": "완벽하지 않아도 괜찮았던 경험을 떠올려 보세요."
+   },
+   {
+    "title": "한 번에 하나",
+    "passage": "aff.15",
+    "prompt": "지금 한 가지에만 집중한다면 무엇인가요?"
+   },
+   {
+    "title": "지나가는 감정",
+    "passage": "aff.16",
+    "prompt": "요즘 자주 찾아오는 감정은 무엇인가요?"
+   },
+   {
+    "title": "평범한 기쁨",
+    "passage": "aff.17",
+    "prompt": "평범한 하루 속 작은 기쁨은?"
+   },
+   {
+    "title": "곁에 있는 사람들",
+    "passage": "aff.18",
+    "prompt": "곁에 있어 주는 사람의 이름을 적어 보세요."
+   },
+   {
+    "title": "다시 시작",
+    "passage": "aff.19",
+    "prompt": "다시 시작하고 싶은 일이 있나요?"
+   },
+   {
+    "title": "힘든 날",
+    "passage": "aff.20",
+    "prompt": "힘든 날을 지나게 해 준 것은 무엇이었나요?"
+   },
+   {
+    "title": "과정을 믿기",
+    "passage": "aff.21",
+    "prompt": "느리지만 자라고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "목소리 내기",
+    "passage": "aff.22",
+    "prompt": "나에게 정말 중요한 것은 무엇인가요?"
+   },
+   {
+    "title": "충분한 최선",
+    "passage": "aff.23",
+    "prompt": "오늘의 최선은 어떤 모습이었나요?"
+   },
+   {
+    "title": "평안 지키기",
+    "passage": "aff.24",
+    "prompt": "지키고 싶은 나만의 선이 있나요?"
+   },
+   {
+    "title": "호기심",
+    "passage": "aff.25",
+    "prompt": "요즘 궁금한 것 하나를 적어 보세요."
+   },
+   {
+    "title": "여기까지 온 나",
+    "passage": "aff.26",
+    "prompt": "여기까지 온 나를 한 문장으로 칭찬해 보세요."
+   },
+   {
+    "title": "변화 반기기",
+    "passage": "aff.27",
+    "prompt": "최근에 찾아온 변화는 무엇인가요?"
+   },
+   {
+    "title": "한 글자씩",
+    "passage": "aff.28",
+    "prompt": "필사하며 달라진 점이 있나요?"
+   },
+   {
+    "title": "하루 마치기",
+    "passage": "aff.29",
+    "prompt": "오늘 몸과 마음에 고마운 점은?"
+   },
+   {
+    "title": "지금 이 자리",
+    "passage": "aff.30",
+    "prompt": "30일 동안 가장 마음에 남은 문장은 무엇인가요?"
+   }
+  ]
+ }
+]

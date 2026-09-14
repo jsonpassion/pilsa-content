@@ -1,0 +1,797 @@
+{
+ "translations": [
+  {
+   "id": "en",
+   "name": "English",
+   "shortName": "영어",
+   "language": "en",
+   "speechLanguage": "en-US",
+   "attribution": "Pilsa에서 직접 쓴 문장입니다."
+  },
+  {
+   "id": "ko",
+   "name": "한국어",
+   "shortName": "한글",
+   "language": "ko",
+   "speechLanguage": "ko-KR",
+   "attribution": "Pilsa에서 직접 쓴 문장입니다."
+  }
+ ],
+ "items": {
+  "aff.01": {
+   "title": {
+    "en": "고요한 시작",
+    "ko": "고요한 시작"
+   },
+   "lines": {
+    "en": [
+     "I start today with a quiet and open heart."
+    ],
+    "ko": [
+     "나는 고요하고 열린 마음으로 오늘을 시작한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "quiet",
+     "ko": "고요한",
+     "note": ""
+    },
+    {
+     "word": "open heart",
+     "ko": "열린 마음",
+     "note": "마음을 열어 둔다는 뜻이에요."
+    }
+   ]
+  },
+  "aff.02": {
+   "title": {
+    "en": "작은 걸음",
+    "ko": "작은 걸음"
+   },
+   "lines": {
+    "en": [
+     "Small steps still move me forward."
+    ],
+    "ko": [
+     "작은 걸음도 나를 앞으로 데려간다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "still",
+     "ko": "그래도, 여전히",
+     "note": "문장 중간의 still은 '그래도'의 느낌이에요."
+    },
+    {
+     "word": "move forward",
+     "ko": "앞으로 나아가다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.03": {
+   "title": {
+    "en": "쉬어도 괜찮다",
+    "ko": "쉬어도 괜찮다"
+   },
+   "lines": {
+    "en": [
+     "I can rest without feeling guilty."
+    ],
+    "ko": [
+     "나는 죄책감 없이 쉴 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "rest",
+     "ko": "쉬다",
+     "note": ""
+    },
+    {
+     "word": "guilty",
+     "ko": "죄책감을 느끼는",
+     "note": "feel guilty는 '마음이 불편하다'에 가까워요."
+    }
+   ]
+  },
+  "aff.04": {
+   "title": {
+    "en": "나의 가치",
+    "ko": "나의 가치"
+   },
+   "lines": {
+    "en": [
+     "My worth does not depend on my results."
+    ],
+    "ko": [
+     "나의 가치는 결과에 달려 있지 않다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "worth",
+     "ko": "가치",
+     "note": ""
+    },
+    {
+     "word": "depend on",
+     "ko": "~에 달려 있다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.05": {
+   "title": {
+    "en": "다정한 말",
+    "ko": "다정한 말"
+   },
+   "lines": {
+    "en": [
+     "I choose kind words for others and for myself."
+    ],
+    "ko": [
+     "나는 남에게도 나에게도 다정한 말을 고른다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "choose",
+     "ko": "고르다",
+     "note": ""
+    },
+    {
+     "word": "kind",
+     "ko": "다정한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.06": {
+   "title": {
+    "en": "잘되고 있는 것",
+    "ko": "잘되고 있는 것"
+   },
+   "lines": {
+    "en": [
+     "Today I will notice what is going well."
+    ],
+    "ko": [
+     "오늘 나는 잘되고 있는 것을 알아차린다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "notice",
+     "ko": "알아차리다",
+     "note": ""
+    },
+    {
+     "word": "go well",
+     "ko": "잘되다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.07": {
+   "title": {
+    "en": "내려놓기",
+    "ko": "내려놓기"
+   },
+   "lines": {
+    "en": [
+     "I let go of what I cannot control."
+    ],
+    "ko": [
+     "나는 어쩔 수 없는 것을 내려놓는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "let go of",
+     "ko": "내려놓다",
+     "note": ""
+    },
+    {
+     "word": "control",
+     "ko": "통제하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.08": {
+   "title": {
+    "en": "실수에서 배우기",
+    "ko": "실수에서 배우기"
+   },
+   "lines": {
+    "en": [
+     "Mistakes help me learn and grow."
+    ],
+    "ko": [
+     "실수는 내가 배우고 자라게 돕는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "mistake",
+     "ko": "실수",
+     "note": ""
+    },
+    {
+     "word": "grow",
+     "ko": "자라다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.09": {
+   "title": {
+    "en": "천천히",
+    "ko": "천천히"
+   },
+   "lines": {
+    "en": [
+     "I am allowed to take my time."
+    ],
+    "ko": [
+     "나는 천천히 해도 괜찮다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "be allowed to",
+     "ko": "~해도 된다",
+     "note": ""
+    },
+    {
+     "word": "take my time",
+     "ko": "서두르지 않다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.10": {
+   "title": {
+    "en": "숨 고르기",
+    "ko": "숨 고르기"
+   },
+   "lines": {
+    "en": [
+     "I breathe in calm and breathe out worry."
+    ],
+    "ko": [
+     "나는 평온을 들이쉬고 걱정을 내쉰다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "breathe in",
+     "ko": "들이쉬다",
+     "note": ""
+    },
+    {
+     "word": "worry",
+     "ko": "걱정",
+     "note": ""
+    }
+   ]
+  },
+  "aff.11": {
+   "title": {
+    "en": "나와의 약속",
+    "ko": "나와의 약속"
+   },
+   "lines": {
+    "en": [
+     "I keep the promises I make to myself."
+    ],
+    "ko": [
+     "나는 나 자신과 한 약속을 지킨다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "keep a promise",
+     "ko": "약속을 지키다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.12": {
+   "title": {
+    "en": "미래의 나에게",
+    "ko": "미래의 나에게"
+   },
+   "lines": {
+    "en": [
+     "Every page I write is a gift to my future self."
+    ],
+    "ko": [
+     "내가 쓰는 한 장 한 장은 미래의 나에게 주는 선물이다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "gift",
+     "ko": "선물",
+     "note": ""
+    },
+    {
+     "word": "future self",
+     "ko": "미래의 나",
+     "note": ""
+    }
+   ]
+  },
+  "aff.13": {
+   "title": {
+    "en": "조금씩 용감하게",
+    "ko": "조금씩 용감하게"
+   },
+   "lines": {
+    "en": [
+     "I am becoming a little braver every day."
+    ],
+    "ko": [
+     "나는 날마다 조금씩 더 용감해지고 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "become",
+     "ko": "~이 되다",
+     "note": ""
+    },
+    {
+     "word": "brave",
+     "ko": "용감한",
+     "note": "braver는 '더 용감한'이에요."
+    }
+   ]
+  },
+  "aff.14": {
+   "title": {
+    "en": "완벽하지 않아도",
+    "ko": "완벽하지 않아도"
+   },
+   "lines": {
+    "en": [
+     "I do not have to be perfect to be loved."
+    ],
+    "ko": [
+     "사랑받기 위해 완벽할 필요는 없다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "have to",
+     "ko": "~해야 한다",
+     "note": "do not have to는 '~할 필요 없다'예요."
+    },
+    {
+     "word": "perfect",
+     "ko": "완벽한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.15": {
+   "title": {
+    "en": "한 번에 하나",
+    "ko": "한 번에 하나"
+   },
+   "lines": {
+    "en": [
+     "I focus on one thing at a time."
+    ],
+    "ko": [
+     "나는 한 번에 한 가지에 집중한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "focus on",
+     "ko": "~에 집중하다",
+     "note": ""
+    },
+    {
+     "word": "at a time",
+     "ko": "한 번에",
+     "note": ""
+    }
+   ]
+  },
+  "aff.16": {
+   "title": {
+    "en": "지나가는 감정",
+    "ko": "지나가는 감정"
+   },
+   "lines": {
+    "en": [
+     "My feelings are real, and they will pass."
+    ],
+    "ko": [
+     "내 감정은 진짜이고, 또 지나갈 것이다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "feeling",
+     "ko": "감정",
+     "note": ""
+    },
+    {
+     "word": "pass",
+     "ko": "지나가다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.17": {
+   "title": {
+    "en": "평범한 기쁨",
+    "ko": "평범한 기쁨"
+   },
+   "lines": {
+    "en": [
+     "I make room for joy in ordinary moments."
+    ],
+    "ko": [
+     "나는 평범한 순간에도 기쁨이 들어올 자리를 만든다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "make room for",
+     "ko": "~을 위한 자리를 만들다",
+     "note": ""
+    },
+    {
+     "word": "ordinary",
+     "ko": "평범한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.18": {
+   "title": {
+    "en": "곁에 있는 사람들",
+    "ko": "곁에 있는 사람들"
+   },
+   "lines": {
+    "en": [
+     "I am grateful for the people who stand by me."
+    ],
+    "ko": [
+     "나는 내 곁에 있어 주는 사람들에게 감사하다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "grateful",
+     "ko": "감사하는",
+     "note": ""
+    },
+    {
+     "word": "stand by",
+     "ko": "곁에 있어 주다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.19": {
+   "title": {
+    "en": "다시 시작",
+    "ko": "다시 시작"
+   },
+   "lines": {
+    "en": [
+     "I can start again at any moment."
+    ],
+    "ko": [
+     "나는 언제든 다시 시작할 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "start again",
+     "ko": "다시 시작하다",
+     "note": ""
+    },
+    {
+     "word": "at any moment",
+     "ko": "언제든",
+     "note": ""
+    }
+   ]
+  },
+  "aff.20": {
+   "title": {
+    "en": "힘든 날",
+    "ko": "힘든 날"
+   },
+   "lines": {
+    "en": [
+     "Hard days do not last forever."
+    ],
+    "ko": [
+     "힘든 날은 영원히 계속되지 않는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "last",
+     "ko": "계속되다",
+     "note": "동사 last는 '지속되다'예요."
+    },
+    {
+     "word": "forever",
+     "ko": "영원히",
+     "note": ""
+    }
+   ]
+  },
+  "aff.21": {
+   "title": {
+    "en": "과정을 믿기",
+    "ko": "과정을 믿기"
+   },
+   "lines": {
+    "en": [
+     "I trust the process, even when it is slow."
+    ],
+    "ko": [
+     "느리더라도 나는 과정을 믿는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "trust",
+     "ko": "믿다",
+     "note": ""
+    },
+    {
+     "word": "even when",
+     "ko": "~할 때조차",
+     "note": ""
+    }
+   ]
+  },
+  "aff.22": {
+   "title": {
+    "en": "목소리 내기",
+    "ko": "목소리 내기"
+   },
+   "lines": {
+    "en": [
+     "I speak up for what matters to me."
+    ],
+    "ko": [
+     "나는 나에게 중요한 것을 위해 목소리를 낸다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "speak up",
+     "ko": "목소리를 내다",
+     "note": ""
+    },
+    {
+     "word": "matter",
+     "ko": "중요하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.23": {
+   "title": {
+    "en": "충분한 최선",
+    "ko": "충분한 최선"
+   },
+   "lines": {
+    "en": [
+     "I give my best, and my best is enough."
+    ],
+    "ko": [
+     "나는 최선을 다하고, 그 최선이면 충분하다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "give my best",
+     "ko": "최선을 다하다",
+     "note": ""
+    },
+    {
+     "word": "enough",
+     "ko": "충분한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.24": {
+   "title": {
+    "en": "평안 지키기",
+    "ko": "평안 지키기"
+   },
+   "lines": {
+    "en": [
+     "I protect my peace with gentle boundaries."
+    ],
+    "ko": [
+     "나는 부드러운 선을 그어 내 평안을 지킨다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "protect",
+     "ko": "지키다",
+     "note": ""
+    },
+    {
+     "word": "boundary",
+     "ko": "경계, 선",
+     "note": ""
+    }
+   ]
+  },
+  "aff.25": {
+   "title": {
+    "en": "호기심",
+    "ko": "호기심"
+   },
+   "lines": {
+    "en": [
+     "Curiosity opens new doors for me."
+    ],
+    "ko": [
+     "호기심은 나에게 새로운 문을 열어 준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "curiosity",
+     "ko": "호기심",
+     "note": ""
+    },
+    {
+     "word": "open a door",
+     "ko": "문을 열다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.26": {
+   "title": {
+    "en": "여기까지 온 나",
+    "ko": "여기까지 온 나"
+   },
+   "lines": {
+    "en": [
+     "I am proud of how far I have come."
+    ],
+    "ko": [
+     "나는 여기까지 온 내가 자랑스럽다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "be proud of",
+     "ko": "~이 자랑스럽다",
+     "note": ""
+    },
+    {
+     "word": "how far I have come",
+     "ko": "내가 얼마나 멀리 왔는지",
+     "note": ""
+    }
+   ]
+  },
+  "aff.27": {
+   "title": {
+    "en": "변화 반기기",
+    "ko": "변화 반기기"
+   },
+   "lines": {
+    "en": [
+     "I welcome change as a chance to grow."
+    ],
+    "ko": [
+     "나는 변화를 자랄 기회로 반긴다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "welcome",
+     "ko": "반기다",
+     "note": ""
+    },
+    {
+     "word": "chance",
+     "ko": "기회",
+     "note": ""
+    }
+   ]
+  },
+  "aff.28": {
+   "title": {
+    "en": "한 글자씩",
+    "ko": "한 글자씩"
+   },
+   "lines": {
+    "en": [
+     "My hands are learning patience, one letter at a time."
+    ],
+    "ko": [
+     "내 손은 한 글자씩 인내를 배우고 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "patience",
+     "ko": "인내",
+     "note": ""
+    },
+    {
+     "word": "one letter at a time",
+     "ko": "한 글자씩",
+     "note": ""
+    }
+   ]
+  },
+  "aff.29": {
+   "title": {
+    "en": "하루 마치기",
+    "ko": "하루 마치기"
+   },
+   "lines": {
+    "en": [
+     "I end the day by thanking my body and mind."
+    ],
+    "ko": [
+     "나는 몸과 마음에 고마워하며 하루를 마친다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "end the day",
+     "ko": "하루를 마치다",
+     "note": ""
+    },
+    {
+     "word": "thank",
+     "ko": "고마워하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.30": {
+   "title": {
+    "en": "지금 이 자리",
+    "ko": "지금 이 자리"
+   },
+   "lines": {
+    "en": [
+     "I am exactly where I need to be today."
+    ],
+    "ko": [
+     "오늘 나는 있어야 할 바로 그 자리에 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "exactly",
+     "ko": "바로, 정확히",
+     "note": ""
+    },
+    {
+     "word": "need to be",
+     "ko": "있어야 하다",
+     "note": ""
+    }
+   ]
+  }
+ }
+}
