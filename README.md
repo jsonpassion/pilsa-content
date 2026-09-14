@@ -14,10 +14,10 @@ content/
 │   └── affirmations.json   # 영어 확언과 한글 뜻, 단어 풀이
 ├── bible/
 │   ├── books.json          # 성경 책 이름 (한글, 영어)
-│   ├── krv.json            # 개역한글 (1961)
-│   ├── kjv.json            # King James Version
+│   ├── krv.json            # 개역한글 (1961) 전체 본문
+│   ├── kjv.json            # King James Version 전체 본문
 │   └── glossary_kjv.json   # KJV 옛 영어 단어장
-└── voice/                  # 미리 만든 낭독 파일 <번역ID>_<본문키>_<줄번호>.m4a
+└── voice/                  # 미리 만든 낭독 파일. 확언 en_aff.NN_0.m4a, 성경 절 kjv_PSA.23.1_0.m4a
 tools/
 └── build_manifest.py       # content/ 스캔, 체크섬 계산, manifest.json 생성
 ```
@@ -30,9 +30,20 @@ tools/
 4. 커밋하고 `main`에 푸시한다. 앱은 다음에 열릴 때 받아 간다.
 5. 출시 전에는 앱 저장소의 `tools/pull_content.py`로 앱 번들 사본도 맞춘다.
 
+## 성경 본문 출처 (2026-09-14 받음)
+
+| 역본 | 원본 | 정리 |
+|---|---|---|
+| KJV | eBible.org `eng-kjv2006_vpl.zip` (1769 표준본, 외경 없음) | 인쇄본의 기울임 표시 [ ]와 문단 표시 ¶를 빼고 단어는 그대로 둠 |
+| 개역한글 | SourceForge Zefania `SF_2022-09-19_KOR_KORRV` (위키문헌 기반 1952/1961) | 그대로 둠. 본문 속 [ ]는 개역한글 인쇄본에 있는 표시라 남김 |
+
+- 두 역본 모두 시편 표제(다윗의 시, A Psalm of David.)를 1절에서 떼어 `titles`에 둔다 (116편).
+- 변환: 앱 저장소의 `tools/import_bible.py` (zefania, vpl 형식).
+- 개역한글 원본에 빠진 절 19개: 2CO.13.14, ACT.15.26, ACT.15.34, ACT.28.29, ACT.8.37, EZK.24.5, ISA.30.2, ISA.48.2, JER.21.2, LUK.17.36, LUK.23.17, MAT.18.11, MRK.11.26, MRK.15.28, MRK.9.44, MRK.9.46, PSA.72.20, ROM.16.24, ROM.9.2. 앞뒤 절에 합쳐졌을 수 있어 팩에 쓰지 않는다.
+- 원본 오탈자로 보이는 곳: PSA.121.7 "여호와께 너를 지켜" (인쇄본은 "여호와께서"로 알려져 있음). 인쇄본으로 확인한 뒤에만 고친다.
+
 ## 주의
 
-- 성경 본문은 아직 샘플이다. 원문 대조 전까지 `verification` 표시를 지우지 않는다.
 - 스키마를 바꾸면 `schema_version`을 올린다. 그 버전을 모르는 옛 앱은 동기화를 건너뛰고 번들 사본을 쓴다.
 - 팩의 상품 ID와 가격은 앱 코드(`KoreanFlavor.swift`)에 있다. 판매 팩을 새로 넣을 때는 앱 업데이트가 함께 필요하다.
 
