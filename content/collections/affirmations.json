@@ -792,6 +792,968 @@
      "note": ""
     }
    ]
+  },
+  "aff.31": {
+   "title": {
+    "en": "첫 줄",
+    "ko": "첫 줄"
+   },
+   "lines": {
+    "en": [
+     "Today I write one good line."
+    ],
+    "ko": [
+     "오늘 나는 좋은 한 줄을 쓴다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "line",
+     "ko": "줄, 한 줄의 글",
+     "note": "write a line은 '한 줄을 쓰다'예요."
+    },
+    {
+     "word": "today",
+     "ko": "오늘",
+     "note": "문장 맨 앞에 두면 '오늘은'의 느낌이 살아나요."
+    }
+   ]
+  },
+  "aff.32": {
+   "title": {
+    "en": "천천히 숨",
+    "ko": "천천히 숨"
+   },
+   "lines": {
+    "en": [
+     "I slow down and take a deep breath."
+    ],
+    "ko": [
+     "나는 속도를 늦추고 깊게 숨을 쉰다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "slow down",
+     "ko": "속도를 늦추다",
+     "note": ""
+    },
+    {
+     "word": "take a deep breath",
+     "ko": "깊게 숨을 쉬다",
+     "note": "breath는 명사(숨), breathe는 동사(숨 쉬다)예요."
+    }
+   ]
+  },
+  "aff.33": {
+   "title": {
+    "en": "작은 감사",
+    "ko": "작은 감사"
+   },
+   "lines": {
+    "en": [
+     "I am thankful for small things."
+    ],
+    "ko": [
+     "나는 작은 것들에 감사한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thankful for",
+     "ko": "~에 감사하는",
+     "note": ""
+    },
+    {
+     "word": "small things",
+     "ko": "작은 것들",
+     "note": ""
+    }
+   ]
+  },
+  "aff.34": {
+   "title": {
+    "en": "나에게 다정하게",
+    "ko": "나에게 다정하게"
+   },
+   "lines": {
+    "en": [
+     "I can be gentle with myself."
+    ],
+    "ko": [
+     "나는 나에게 부드럽게 대할 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "gentle with",
+     "ko": "~에게 부드러운, 다정한",
+     "note": ""
+    },
+    {
+     "word": "myself",
+     "ko": "나 자신",
+     "note": ""
+    }
+   ]
+  },
+  "aff.35": {
+   "title": {
+    "en": "지금 이 순간",
+    "ko": "지금 이 순간"
+   },
+   "lines": {
+    "en": [
+     "I pay attention to this moment."
+    ],
+    "ko": [
+     "나는 지금 이 순간에 마음을 둔다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "pay attention to",
+     "ko": "~에 주의를 기울이다",
+     "note": ""
+    },
+    {
+     "word": "moment",
+     "ko": "순간",
+     "note": ""
+    }
+   ]
+  },
+  "aff.36": {
+   "title": {
+    "en": "다정한 생각",
+    "ko": "다정한 생각"
+   },
+   "lines": {
+    "en": [
+     "A kind thought can change my day."
+    ],
+    "ko": [
+     "다정한 생각 하나가 내 하루를 바꿀 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thought",
+     "ko": "생각",
+     "note": "think의 명사형이에요."
+    },
+    {
+     "word": "change",
+     "ko": "바꾸다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.37": {
+   "title": {
+    "en": "나를 위한 한 주",
+    "ko": "나를 위한 한 주"
+   },
+   "lines": {
+    "en": [
+     "I showed up for myself this week."
+    ],
+    "ko": [
+     "나는 이번 주에 나를 위한 자리를 지켰다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "show up for",
+     "ko": "~의 곁을 지키다, 챙기다",
+     "note": "showed는 show의 과거형이에요."
+    },
+    {
+     "word": "this week",
+     "ko": "이번 주",
+     "note": ""
+    }
+   ]
+  },
+  "aff.38": {
+   "title": {
+    "en": "도움 청하기",
+    "ko": "도움 청하기"
+   },
+   "lines": {
+    "en": [
+     "It is okay to ask for help."
+    ],
+    "ko": [
+     "도움을 청해도 괜찮다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "ask for",
+     "ko": "~을 청하다, 요청하다",
+     "note": ""
+    },
+    {
+     "word": "It is okay to",
+     "ko": "~해도 괜찮다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.39": {
+   "title": {
+    "en": "나만의 길",
+    "ko": "나만의 길"
+   },
+   "lines": {
+    "en": [
+     "I do not need to compare my path with others."
+    ],
+    "ko": [
+     "나의 길을 남의 길과 비교하지 않아도 된다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "compare A with B",
+     "ko": "A를 B와 비교하다",
+     "note": ""
+    },
+    {
+     "word": "path",
+     "ko": "길, 삶의 방향",
+     "note": ""
+    }
+   ]
+  },
+  "aff.40": {
+   "title": {
+    "en": "잘 듣기",
+    "ko": "잘 듣기"
+   },
+   "lines": {
+    "en": [
+     "Today I will listen more than I speak."
+    ],
+    "ko": [
+     "오늘 나는 말하기보다 더 많이 듣겠다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "listen",
+     "ko": "귀 기울여 듣다",
+     "note": "hear는 저절로 들리는 것, listen은 마음을 두고 듣는 거예요."
+    },
+    {
+     "word": "more than",
+     "ko": "~보다 더",
+     "note": ""
+    }
+   ]
+  },
+  "aff.41": {
+   "title": {
+    "en": "부드러운 거절",
+    "ko": "부드러운 거절"
+   },
+   "lines": {
+    "en": [
+     "I can say no with kindness."
+    ],
+    "ko": [
+     "나는 친절하게 거절할 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "say no",
+     "ko": "거절하다",
+     "note": ""
+    },
+    {
+     "word": "with kindness",
+     "ko": "친절하게",
+     "note": "with와 명사를 함께 쓰면 '~하게'의 뜻이 돼요."
+    }
+   ]
+  },
+  "aff.42": {
+   "title": {
+    "en": "웃음",
+    "ko": "웃음"
+   },
+   "lines": {
+    "en": [
+     "I let myself laugh today."
+    ],
+    "ko": [
+     "오늘 나는 마음껏 웃는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "let myself",
+     "ko": "나 자신이 ~하게 두다",
+     "note": ""
+    },
+    {
+     "word": "laugh",
+     "ko": "소리 내어 웃다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.43": {
+   "title": {
+    "en": "늦지 않은 배움",
+    "ko": "늦지 않은 배움"
+   },
+   "lines": {
+    "en": [
+     "I am never too old to learn."
+    ],
+    "ko": [
+     "배우기에 너무 늦은 나이는 없다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "too old to",
+     "ko": "~하기에 너무 나이 든",
+     "note": ""
+    },
+    {
+     "word": "learn",
+     "ko": "배우다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.44": {
+   "title": {
+    "en": "정돈된 책상",
+    "ko": "정돈된 책상"
+   },
+   "lines": {
+    "en": [
+     "A tidy desk helps me think clearly."
+    ],
+    "ko": [
+     "정돈된 책상은 생각을 맑게 해 준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "tidy",
+     "ko": "정돈된, 깔끔한",
+     "note": ""
+    },
+    {
+     "word": "clearly",
+     "ko": "분명하게, 맑게",
+     "note": ""
+    }
+   ]
+  },
+  "aff.45": {
+   "title": {
+    "en": "잠이라는 친절",
+    "ko": "잠이라는 친절"
+   },
+   "lines": {
+    "en": [
+     "Sleep is a kindness I give my body."
+    ],
+    "ko": [
+     "잠은 내가 몸에게 주는 친절이다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "kindness",
+     "ko": "친절, 다정함",
+     "note": ""
+    },
+    {
+     "word": "give",
+     "ko": "주다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.46": {
+   "title": {
+    "en": "짧은 산책",
+    "ko": "짧은 산책"
+   },
+   "lines": {
+    "en": [
+     "A short walk can clear my mind."
+    ],
+    "ko": [
+     "짧은 산책이 마음을 맑게 해 줄 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "walk",
+     "ko": "산책, 걷기",
+     "note": "명사로 쓰면 '산책'이에요."
+    },
+    {
+     "word": "clear my mind",
+     "ko": "머리를 식히다, 마음을 맑게 하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.47": {
+   "title": {
+    "en": "용서",
+    "ko": "용서"
+   },
+   "lines": {
+    "en": [
+     "Forgiving others also sets me free."
+    ],
+    "ko": [
+     "남을 용서하는 일은 나도 자유롭게 한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "forgive",
+     "ko": "용서하다",
+     "note": "동사에 -ing를 붙이면 '~하는 것'이 돼요."
+    },
+    {
+     "word": "set free",
+     "ko": "자유롭게 하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.48": {
+   "title": {
+    "en": "작은 해냄",
+    "ko": "작은 해냄"
+   },
+   "lines": {
+    "en": [
+     "I celebrate the small wins."
+    ],
+    "ko": [
+     "나는 작게 해낸 일들을 축하한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "celebrate",
+     "ko": "축하하다",
+     "note": ""
+    },
+    {
+     "word": "win",
+     "ko": "이긴 일, 해낸 일",
+     "note": "명사로 쓰면 '성취'의 느낌이에요."
+    }
+   ]
+  },
+  "aff.49": {
+   "title": {
+    "en": "고개 들기",
+    "ko": "고개 들기"
+   },
+   "lines": {
+    "en": [
+     "I put my phone down and look up."
+    ],
+    "ko": [
+     "나는 휴대폰을 내려놓고 고개를 든다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "put down",
+     "ko": "내려놓다",
+     "note": ""
+    },
+    {
+     "word": "look up",
+     "ko": "고개를 들다, 올려다보다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.50": {
+   "title": {
+    "en": "정직한 말",
+    "ko": "정직한 말"
+   },
+   "lines": {
+    "en": [
+     "Honest words build trust."
+    ],
+    "ko": [
+     "정직한 말이 신뢰를 쌓는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "honest",
+     "ko": "정직한",
+     "note": "h가 소리 나지 않아 '오니스트'에 가깝게 읽어요."
+    },
+    {
+     "word": "trust",
+     "ko": "신뢰",
+     "note": ""
+    }
+   ]
+  },
+  "aff.51": {
+   "title": {
+    "en": "오늘의 희망",
+    "ko": "오늘의 희망"
+   },
+   "lines": {
+    "en": [
+     "There is still hope in this day."
+    ],
+    "ko": [
+     "오늘에도 여전히 희망이 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "still",
+     "ko": "여전히",
+     "note": ""
+    },
+    {
+     "word": "hope",
+     "ko": "희망",
+     "note": ""
+    }
+   ]
+  },
+  "aff.52": {
+   "title": {
+    "en": "몸 돌보기",
+    "ko": "몸 돌보기"
+   },
+   "lines": {
+    "en": [
+     "I drink water and stretch my body."
+    ],
+    "ko": [
+     "나는 물을 마시고 몸을 쭉 편다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "drink water",
+     "ko": "물을 마시다",
+     "note": ""
+    },
+    {
+     "word": "stretch",
+     "ko": "몸을 쭉 펴다, 스트레칭하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.53": {
+   "title": {
+    "en": "무언가 만들기",
+    "ko": "무언가 만들기"
+   },
+   "lines": {
+    "en": [
+     "I make something, even if it is small."
+    ],
+    "ko": [
+     "작더라도 나는 무언가를 만든다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "something",
+     "ko": "무언가",
+     "note": ""
+    },
+    {
+     "word": "even if",
+     "ko": "~일지라도",
+     "note": ""
+    }
+   ]
+  },
+  "aff.54": {
+   "title": {
+    "en": "나누기",
+    "ko": "나누기"
+   },
+   "lines": {
+    "en": [
+     "Sharing makes good things grow."
+    ],
+    "ko": [
+     "나누면 좋은 것이 자란다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "share",
+     "ko": "나누다",
+     "note": ""
+    },
+    {
+     "word": "grow",
+     "ko": "자라다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.55": {
+   "title": {
+    "en": "있는 그대로",
+    "ko": "있는 그대로"
+   },
+   "lines": {
+    "en": [
+     "I let people be who they are."
+    ],
+    "ko": [
+     "나는 사람들을 있는 그대로 둔다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "let ... be",
+     "ko": "그대로 두다",
+     "note": ""
+    },
+    {
+     "word": "who they are",
+     "ko": "그들의 본래 모습",
+     "note": ""
+    }
+   ]
+  },
+  "aff.56": {
+   "title": {
+    "en": "지치기 전에",
+    "ko": "지치기 전에"
+   },
+   "lines": {
+    "en": [
+     "I rest before I am too tired."
+    ],
+    "ko": [
+     "나는 너무 지치기 전에 쉰다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "before",
+     "ko": "~하기 전에",
+     "note": ""
+    },
+    {
+     "word": "tired",
+     "ko": "피곤한, 지친",
+     "note": ""
+    }
+   ]
+  },
+  "aff.57": {
+   "title": {
+    "en": "해 보는 용기",
+    "ko": "해 보는 용기"
+   },
+   "lines": {
+    "en": [
+     "I am willing to try something new."
+    ],
+    "ko": [
+     "나는 새로운 것을 기꺼이 해 본다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "be willing to",
+     "ko": "기꺼이 ~하다",
+     "note": ""
+    },
+    {
+     "word": "try",
+     "ko": "해 보다, 시도하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.58": {
+   "title": {
+    "en": "한 걸음씩 끝까지",
+    "ko": "한 걸음씩 끝까지"
+   },
+   "lines": {
+    "en": [
+     "I finish what I started, one step at a time."
+    ],
+    "ko": [
+     "나는 시작한 일을 한 걸음씩 끝낸다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "finish",
+     "ko": "끝내다",
+     "note": ""
+    },
+    {
+     "word": "one step at a time",
+     "ko": "한 걸음씩",
+     "note": ""
+    }
+   ]
+  },
+  "aff.59": {
+   "title": {
+    "en": "고요한 시간",
+    "ko": "고요한 시간"
+   },
+   "lines": {
+    "en": [
+     "Quiet time helps me hear my heart."
+    ],
+    "ko": [
+     "고요한 시간은 내 마음의 소리를 듣게 해 준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "quiet",
+     "ko": "고요한",
+     "note": "quite(꽤)와 철자가 비슷해요."
+    },
+    {
+     "word": "hear my heart",
+     "ko": "마음의 소리를 듣다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.60": {
+   "title": {
+    "en": "좋은 친구",
+    "ko": "좋은 친구"
+   },
+   "lines": {
+    "en": [
+     "I am thankful for friends who tell me the truth."
+    ],
+    "ko": [
+     "나는 진실을 말해 주는 친구들에게 감사한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "tell the truth",
+     "ko": "진실을 말하다",
+     "note": ""
+    },
+    {
+     "word": "friends who",
+     "ko": "~하는 친구들",
+     "note": "who가 앞의 사람을 꾸며 줘요."
+    }
+   ]
+  },
+  "aff.61": {
+   "title": {
+    "en": "누구에게서든",
+    "ko": "누구에게서든"
+   },
+   "lines": {
+    "en": [
+     "I can learn from anyone."
+    ],
+    "ko": [
+     "나는 누구에게서든 배울 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "learn from",
+     "ko": "~에게서 배우다",
+     "note": ""
+    },
+    {
+     "word": "anyone",
+     "ko": "누구든",
+     "note": ""
+    }
+   ]
+  },
+  "aff.62": {
+   "title": {
+    "en": "하늘 보기",
+    "ko": "하늘 보기"
+   },
+   "lines": {
+    "en": [
+     "I look at the sky and feel small in a good way."
+    ],
+    "ko": [
+     "하늘을 보면 나는 좋은 의미로 작아진다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "look at",
+     "ko": "~을 바라보다",
+     "note": ""
+    },
+    {
+     "word": "in a good way",
+     "ko": "좋은 의미로",
+     "note": ""
+    }
+   ]
+  },
+  "aff.63": {
+   "title": {
+    "en": "천천히 한 끼",
+    "ko": "천천히 한 끼"
+   },
+   "lines": {
+    "en": [
+     "I eat slowly and enjoy my meal."
+    ],
+    "ko": [
+     "나는 천천히 먹으며 식사를 즐긴다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "slowly",
+     "ko": "천천히",
+     "note": ""
+    },
+    {
+     "word": "meal",
+     "ko": "식사, 한 끼",
+     "note": ""
+    }
+   ]
+  },
+  "aff.64": {
+   "title": {
+    "en": "시간이 걸리는 일",
+    "ko": "시간이 걸리는 일"
+   },
+   "lines": {
+    "en": [
+     "Good things can take time."
+    ],
+    "ko": [
+     "좋은 일은 시간이 걸릴 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "take time",
+     "ko": "시간이 걸리다",
+     "note": ""
+    },
+    {
+     "word": "can",
+     "ko": "~할 수 있다, ~일 수도 있다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.65": {
+   "title": {
+    "en": "하나의 친절",
+    "ko": "하나의 친절"
+   },
+   "lines": {
+    "en": [
+     "I will do one kind thing for someone today."
+    ],
+    "ko": [
+     "오늘 누군가를 위해 친절한 일 하나를 하겠다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "kind",
+     "ko": "친절한",
+     "note": ""
+    },
+    {
+     "word": "someone",
+     "ko": "누군가",
+     "note": ""
+    }
+   ]
+  },
+  "aff.66": {
+   "title": {
+    "en": "생각 정리",
+    "ko": "생각 정리"
+   },
+   "lines": {
+    "en": [
+     "Writing helps me sort out my thoughts."
+    ],
+    "ko": [
+     "쓰기는 생각을 정리하도록 도와준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "sort out",
+     "ko": "정리하다, 풀어내다",
+     "note": ""
+    },
+    {
+     "word": "thoughts",
+     "ko": "생각들",
+     "note": ""
+    }
+   ]
+  },
+  "aff.67": {
+   "title": {
+    "en": "내일의 걱정은 내일에",
+    "ko": "내일의 걱정은 내일에"
+   },
+   "lines": {
+    "en": [
+     "Tonight I leave tomorrow's worries for tomorrow."
+    ],
+    "ko": [
+     "오늘 밤 나는 내일의 걱정을 내일에게 맡긴다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "worry",
+     "ko": "걱정",
+     "note": "복수형은 worries예요."
+    },
+    {
+     "word": "leave A for B",
+     "ko": "A를 B에게 남겨 두다",
+     "note": ""
+    }
+   ]
   }
  }
 }

@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "54d0020489eb",
- "generated_at": "2026-09-14T06:04:38Z",
+ "version": "a05e792d9663",
+ "generated_at": "2026-09-14T06:19:47Z",
  "entries": [
   {
    "id": "books.json",
@@ -30,14 +30,14 @@
   {
    "id": "affirmations.json",
    "path": "content/collections/affirmations.json",
-   "checksum_sha256": "d5d69dcc5b00849b70094d7b083c20931642bbc68677ceb153b27c0893c0c98d",
-   "size": 14002
+   "checksum_sha256": "a4d857a0209ab1324ce36cdcebf7e4ff295a9610ba7fd13db2322f8651ef3413",
+   "size": 31051
   },
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "a5fec319c583f95bfc0da3b167981c9b1bd814842247076e5ddf7613e2020269",
-   "size": 22417
+   "checksum_sha256": "69fcdb7ef643dbc497927cff54cf3b87bb976c12c4742da574e4f998d5dd27ab",
+   "size": 30760
   },
   {
    "id": "en_aff.01_0.m4a",
@@ -218,6 +218,228 @@
    "path": "content/voice/en_aff.30_0.m4a",
    "checksum_sha256": "bec3757f945ac2e63418f25c0212637bafa237be2479b272a8a0f67a2fc5b9ae",
    "size": 20499
+  },
+  {
+   "id": "en_aff.31_0.m4a",
+   "path": "content/voice/en_aff.31_0.m4a",
+   "checksum_sha256": "fd7d33e785d3a69683e06e210cbcb48e3b6fff22ea7ad25e4a99d7f620ebed74",
+   "size": 18179
+  },
+  {
+   "id": "en_aff.32_0.m4a",
+   "path": "content/voice/en_aff.32_0.m4a",
+   "checksum_sha256": "86a6951e14bf4e11dfde345842a64ce78ee9229827039203163af0c14f5ea9a7",
+   "size": 18692
+  },
+  {
+   "id": "en_aff.33_0.m4a",
+   "path": "content/voice/en_aff.33_0.m4a",
+   "checksum_sha256": "55182b12b7bbcaa4d5369ef0c03bda3714090b1bf04feed60bdff2b3ff09243f",
+   "size": 18272
+  },
+  {
+   "id": "en_aff.34_0.m4a",
+   "path": "content/voice/en_aff.34_0.m4a",
+   "checksum_sha256": "cb8c300b13cf5587df596ba7be795bff0daac61dbdd8700e6a5479c396ac5b0a",
+   "size": 17482
+  },
+  {
+   "id": "en_aff.35_0.m4a",
+   "path": "content/voice/en_aff.35_0.m4a",
+   "checksum_sha256": "0e7ce8a1af8cd2ab4cbd101b1d1dca0e5a7c247a698ad66c57ab00fa36504fe5",
+   "size": 18049
+  },
+  {
+   "id": "en_aff.36_0.m4a",
+   "path": "content/voice/en_aff.36_0.m4a",
+   "checksum_sha256": "6e44913fb5da5c3f48389561b1159ab89f4d9aa895190f0185f256bb6893a467",
+   "size": 19267
+  },
+  {
+   "id": "en_aff.37_0.m4a",
+   "path": "content/voice/en_aff.37_0.m4a",
+   "checksum_sha256": "4f7a37949422ccb823cdf57c979579d5fff80dfdca118145c8270a4379a32202",
+   "size": 19111
+  },
+  {
+   "id": "en_aff.38_0.m4a",
+   "path": "content/voice/en_aff.38_0.m4a",
+   "checksum_sha256": "8e2774dce94c8d0cba88ca458de44ad989813e2822bfbebdf4a77784102c4355",
+   "size": 17310
+  },
+  {
+   "id": "en_aff.39_0.m4a",
+   "path": "content/voice/en_aff.39_0.m4a",
+   "checksum_sha256": "21e077fee5f751e3f7cb389705d2aaef36fd370429f4503d13a412b6f8788f15",
+   "size": 21322
+  },
+  {
+   "id": "en_aff.40_0.m4a",
+   "path": "content/voice/en_aff.40_0.m4a",
+   "checksum_sha256": "a8bca70ae2658c0e9c91f8e6d4fb2bb8e66892797d07cd075010c652a321f9a9",
+   "size": 19775
+  },
+  {
+   "id": "en_aff.41_0.m4a",
+   "path": "content/voice/en_aff.41_0.m4a",
+   "checksum_sha256": "31a7d867c7965f74b7953da96fd762282ceff03c65f560c059242aefea08168d",
+   "size": 17387
+  },
+  {
+   "id": "en_aff.42_0.m4a",
+   "path": "content/voice/en_aff.42_0.m4a",
+   "checksum_sha256": "a189ffedd710f2b1ed7df09fdfe06741746f8193dc8df82a39f0c8c2debbe0af",
+   "size": 17155
+  },
+  {
+   "id": "en_aff.43_0.m4a",
+   "path": "content/voice/en_aff.43_0.m4a",
+   "checksum_sha256": "d2a927c9497c29ef9afc1ecca8e18b40927e913709f804a4a4d1f3159da2d050",
+   "size": 16723
+  },
+  {
+   "id": "en_aff.44_0.m4a",
+   "path": "content/voice/en_aff.44_0.m4a",
+   "checksum_sha256": "2f1f7a465845f8409812f56b94003bdbabf3040153665f53b36d766225f8a0f0",
+   "size": 19357
+  },
+  {
+   "id": "en_aff.45_0.m4a",
+   "path": "content/voice/en_aff.45_0.m4a",
+   "checksum_sha256": "fdc54634dc9adebeea8722f63319b8fd9f856cd67688c62f5799cd5e220cddb7",
+   "size": 20721
+  },
+  {
+   "id": "en_aff.46_0.m4a",
+   "path": "content/voice/en_aff.46_0.m4a",
+   "checksum_sha256": "6cb22cd0df7e91d3a443676eba20ec7a3bc6b0b49dfcb3d6eac9c79490726205",
+   "size": 18680
+  },
+  {
+   "id": "en_aff.47_0.m4a",
+   "path": "content/voice/en_aff.47_0.m4a",
+   "checksum_sha256": "0059a881c427ba791f50ffc18bb0b911883e289ce1d76c267992f1da309d6a1a",
+   "size": 19958
+  },
+  {
+   "id": "en_aff.48_0.m4a",
+   "path": "content/voice/en_aff.48_0.m4a",
+   "checksum_sha256": "82ca4582ea4b8839df814a0e2e8ff5738f9631afa42fba920b7887d49b25a935",
+   "size": 17618
+  },
+  {
+   "id": "en_aff.49_0.m4a",
+   "path": "content/voice/en_aff.49_0.m4a",
+   "checksum_sha256": "09a92d44a033aeb6601b974bdf67d5b6806751ada76f55d1cab9bda8daca69ac",
+   "size": 17853
+  },
+  {
+   "id": "en_aff.50_0.m4a",
+   "path": "content/voice/en_aff.50_0.m4a",
+   "checksum_sha256": "aadd78f5291a54e6740479ee2f849c060e72725dfe0bbc33384c2567de80b0ee",
+   "size": 16837
+  },
+  {
+   "id": "en_aff.51_0.m4a",
+   "path": "content/voice/en_aff.51_0.m4a",
+   "checksum_sha256": "e35905e8d1afb9db0b3ba1da1764a3c2edf18a9504cab3360bad4774b03182a8",
+   "size": 16730
+  },
+  {
+   "id": "en_aff.52_0.m4a",
+   "path": "content/voice/en_aff.52_0.m4a",
+   "checksum_sha256": "232b978b98315c872d3be24d31515f6565b9bbe1c04df1998526f8c32e89ce2b",
+   "size": 19168
+  },
+  {
+   "id": "en_aff.53_0.m4a",
+   "path": "content/voice/en_aff.53_0.m4a",
+   "checksum_sha256": "cb56965ae8247aca889fe63ef1bc43e080c6bb333ec1043792a0faa7b19260d1",
+   "size": 19877
+  },
+  {
+   "id": "en_aff.54_0.m4a",
+   "path": "content/voice/en_aff.54_0.m4a",
+   "checksum_sha256": "9bc264ef20306b94b71b066f59bbc3173053acef772960a29a761c27c417b8be",
+   "size": 17548
+  },
+  {
+   "id": "en_aff.55_0.m4a",
+   "path": "content/voice/en_aff.55_0.m4a",
+   "checksum_sha256": "fa94158d10f36238afd6890f9eb70bbaadcaca0194433068235ff741ca36b477",
+   "size": 17477
+  },
+  {
+   "id": "en_aff.56_0.m4a",
+   "path": "content/voice/en_aff.56_0.m4a",
+   "checksum_sha256": "79ecc9cb2206597ba6154ff25ddbdc62f39d3628e7466a1b5644d1a7d63880cc",
+   "size": 18580
+  },
+  {
+   "id": "en_aff.57_0.m4a",
+   "path": "content/voice/en_aff.57_0.m4a",
+   "checksum_sha256": "dc10f76e71dc76a9b3ddc948c78a1f3d5c19839e4293253dc6501e562f0a1052",
+   "size": 18453
+  },
+  {
+   "id": "en_aff.58_0.m4a",
+   "path": "content/voice/en_aff.58_0.m4a",
+   "checksum_sha256": "d0084456224027a857392900ddbccf6e98fe834f08f9e6bc9bcaaaf005c49496",
+   "size": 23527
+  },
+  {
+   "id": "en_aff.59_0.m4a",
+   "path": "content/voice/en_aff.59_0.m4a",
+   "checksum_sha256": "aed71265a0c2264299f5f764a3fb0acf517f5052d88db11a0dff3f219fa52b08",
+   "size": 19307
+  },
+  {
+   "id": "en_aff.60_0.m4a",
+   "path": "content/voice/en_aff.60_0.m4a",
+   "checksum_sha256": "ff68f524353866f4df3cbea4f62e68792dc722bfd9d9513c00c78cc636c22e05",
+   "size": 21545
+  },
+  {
+   "id": "en_aff.61_0.m4a",
+   "path": "content/voice/en_aff.61_0.m4a",
+   "checksum_sha256": "7df78cf8ccec3eaf8f190c9f5d72c9d68f0e43f0364caf28c275116366dd3aa8",
+   "size": 16116
+  },
+  {
+   "id": "en_aff.62_0.m4a",
+   "path": "content/voice/en_aff.62_0.m4a",
+   "checksum_sha256": "201b270adab214f64a3d36a3594c57801c278480bc874e2fc6f09168672f26ee",
+   "size": 21615
+  },
+  {
+   "id": "en_aff.63_0.m4a",
+   "path": "content/voice/en_aff.63_0.m4a",
+   "checksum_sha256": "252519cef39da98517d3448c62868e3f210baed0614f6fabbb74442c9454eeb8",
+   "size": 19080
+  },
+  {
+   "id": "en_aff.64_0.m4a",
+   "path": "content/voice/en_aff.64_0.m4a",
+   "checksum_sha256": "9eaa6770a4dda10422a57caa52f64a5c1edfdf74320959a25e331bec39fbeb90",
+   "size": 16723
+  },
+  {
+   "id": "en_aff.65_0.m4a",
+   "path": "content/voice/en_aff.65_0.m4a",
+   "checksum_sha256": "b0fc2b6504d825cd71d9e685f3092196fbbd9ac121e662e6813fa5fff95cd9e1",
+   "size": 19623
+  },
+  {
+   "id": "en_aff.66_0.m4a",
+   "path": "content/voice/en_aff.66_0.m4a",
+   "checksum_sha256": "f90ad2d4797789e520e6daddcdf9d460e482dfdaaa5fe79699923e2474a6025a",
+   "size": 19523
+  },
+  {
+   "id": "en_aff.67_0.m4a",
+   "path": "content/voice/en_aff.67_0.m4a",
+   "checksum_sha256": "1f73e71b10d058ec9244540a31231ccc554c9fed58461bac26b514bf25cf16c0",
+   "size": 21913
   }
  ]
 }
