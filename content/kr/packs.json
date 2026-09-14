@@ -315,7 +315,255 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "Today's Verse",
+   "subtitle": "One verse a day",
+   "summary": "Write one verse each day, with no repeats for two months. The verses do not overlap with paid packs, so you can write them for free anytime.",
+   "highlights": [],
+   "days": [
+    {
+     "title": "In the beginning",
+     "prompt": "What would you like to begin anew today?"
+    },
+    {
+     "title": "I will not leave thee",
+     "prompt": "Was there a time when you felt you were not alone?"
+    },
+    {
+     "title": "Strong and courageous",
+     "prompt": "Where do you need a little courage today?"
+    },
+    {
+     "title": "Give thanks",
+     "prompt": "Write one thing you are thankful for today."
+    },
+    {
+     "title": "Lie down in peace",
+     "prompt": "What can you let go of tonight to rest more easily?"
+    },
+    {
+     "title": "With my whole heart",
+     "prompt": "Write one line about something that has amazed you lately."
+    },
+    {
+     "title": "The path of life",
+     "prompt": "What path is bringing you joy these days?"
+    },
+    {
+     "title": "Joy in the morning",
+     "prompt": "Do you remember a time when joy came after tears?"
+    },
+    {
+     "title": "Taste and see",
+     "prompt": "What small moment of goodness did you notice today?"
+    },
+    {
+     "title": "Thine heart's desires",
+     "prompt": "What is a desire of your heart these days?"
+    },
+    {
+     "title": "Commit thy way",
+     "prompt": "Write down one plan you would like to entrust."
+    },
+    {
+     "title": "A clean heart",
+     "prompt": "What part of your heart would you like to renew?"
+    },
+    {
+     "title": "Cast thy burden",
+     "prompt": "What burden feels heaviest right now?"
+    },
+    {
+     "title": "When I am afraid",
+     "prompt": "If something is making you afraid these days, write it quietly."
+    },
+    {
+     "title": "Wait in silence",
+     "prompt": "Did you have a quiet moment today?"
+    },
+    {
+     "title": "This is the day",
+     "prompt": "Find one reason to rejoice in today."
+    },
+    {
+     "title": "Lamp and light",
+     "prompt": "What word lit your next step today?"
+    },
+    {
+     "title": "Wonderfully made",
+     "prompt": "Write one thing about yourself that you are grateful for."
+    },
+    {
+     "title": "Hear in the morning",
+     "prompt": "What words would you most like to hear this morning?"
+    },
+    {
+     "title": "A soft answer",
+     "prompt": "Is there someone you want to answer gently today?"
+    },
+    {
+     "title": "A merry heart",
+     "prompt": "When did your heart feel glad lately?"
+    },
+    {
+     "title": "Perfect peace",
+     "prompt": "What helps your heart stay steady these days?"
+    },
+    {
+     "title": "Shall stand forever",
+     "prompt": "What do you hope will not change with time?"
+    },
+    {
+     "title": "Fear thou not",
+     "prompt": "What would you like to be upheld in today?"
+    },
+    {
+     "title": "Through the waters",
+     "prompt": "Is there a difficult river you are passing through?"
+    },
+    {
+     "title": "Thoughts of peace",
+     "prompt": "Write one line about how you feel when you think of the days ahead."
+    },
+    {
+     "title": "Call unto me",
+     "prompt": "What are you longing to ask for these days?"
+    },
+    {
+     "title": "Rejoice in the Lord",
+     "prompt": "What can you rejoice in, apart from your circumstances?"
+    },
+    {
+     "title": "Light of the world",
+     "prompt": "How could you be a small light for someone today?"
+    },
+    {
+     "title": "Seek ye first",
+     "prompt": "What do you want to put first today?"
+    },
+    {
+     "title": "Tomorrow's care",
+     "prompt": "What worry would you like to leave to tomorrow?"
+    },
+    {
+     "title": "Ask and seek",
+     "prompt": "What door do you want to knock on these days?"
+    },
+    {
+     "title": "All things are possible",
+     "prompt": "What feels impossible to do on your own?"
+    },
+    {
+     "title": "Nothing is impossible",
+     "prompt": "Is there something you still hope for, even if it seems impossible?"
+    },
+    {
+     "title": "Light in darkness",
+     "prompt": "What lit your heart on a dark day?"
+    },
+    {
+     "title": "So loved",
+     "prompt": "Was there a moment today when you felt loved?"
+    },
+    {
+     "title": "Light of life",
+     "prompt": "What light is guiding you these days?"
+    },
+    {
+     "title": "Love one another",
+     "prompt": "Who would you like to show love to today?"
+    },
+    {
+     "title": "Way, truth, life",
+     "prompt": "What kind of road do you feel you are standing on these days?"
+    },
+    {
+     "title": "Vine and branches",
+     "prompt": "What relationship holds you steady and helps you bear fruit?"
+    },
+    {
+     "title": "Be of good cheer",
+     "prompt": "What hardship do you want to overcome these days?"
+    },
+    {
+     "title": "Work together for good",
+     "prompt": "Has something become good only after time had passed?"
+    },
+    {
+     "title": "Renew your mind",
+     "prompt": "What thought would you like to change these days?"
+    },
+    {
+     "title": "Rejoicing in hope",
+     "prompt": "Which do you need most today: hope, patience, or prayer?"
+    },
+    {
+     "title": "God of hope",
+     "prompt": "What small thing helps hope overflow today?"
+    },
+    {
+     "title": "A new creature",
+     "prompt": "What from the past would you like to let go?"
+    },
+    {
+     "title": "Fruit of the Spirit",
+     "prompt": "Which of the nine fruits would you like to bear today?"
+    },
+    {
+     "title": "Do not grow weary",
+     "prompt": "What good thing do you want to keep doing without giving up?"
+    },
+    {
+     "title": "Forgive one another",
+     "prompt": "Is there someone you would like to offer forgiveness to?"
+    },
+    {
+     "title": "Prayer instead of worry",
+     "prompt": "What worry would you like to turn into thanks today?"
+    },
+    {
+     "title": "Strength in Christ",
+     "prompt": "Where do you need strength these days?"
+    },
+    {
+     "title": "With all your heart",
+     "prompt": "What would you like to do with all your heart today?"
+    },
+    {
+     "title": "Rejoice always",
+     "prompt": "Which will you hold to today: joy, prayer, or thanks?"
+    },
+    {
+     "title": "Not a spirit of fear",
+     "prompt": "What spirit would you like to hold instead of fear?"
+    },
+    {
+     "title": "Faith is",
+     "prompt": "What are you hoping for, though you cannot see it yet?"
+    },
+    {
+     "title": "Be content",
+     "prompt": "What do you already have that feels enough?"
+    },
+    {
+     "title": "If any lack wisdom",
+     "prompt": "What decision needs wisdom these days?"
+    },
+    {
+     "title": "Cast all your care",
+     "prompt": "What care would you like to cast away today?"
+    },
+    {
+     "title": "Perfect love",
+     "prompt": "Have you ever felt love cast out fear?"
+    },
+    {
+     "title": "Wipe away tears",
+     "prompt": "Think of someone who needs comfort."
+    }
+   ]
+  }
  },
  {
   "id": "psalm23",
@@ -371,7 +619,46 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "Psalm 23 in 7 Days",
+   "subtitle": "One verse a day for 7 days",
+   "summary": "If you are new to copywork, start here. On the last day, write all of Psalm 23 in one sitting.",
+   "highlights": [
+    "Five minutes a day is enough",
+    "Free to the end"
+   ],
+   "days": [
+    {
+     "title": "My Shepherd",
+     "prompt": "What feels lacking in your life these days?"
+    },
+    {
+     "title": "Still Waters",
+     "prompt": "Where are the green pastures and still waters that help you rest?"
+    },
+    {
+     "title": "Restored Soul",
+     "prompt": "Think of a time when your weary heart felt alive again."
+    },
+    {
+     "title": "Through the Valley",
+     "prompt": "If you are walking through a valley, who is walking with you?"
+    },
+    {
+     "title": "Overflowing Cup",
+     "prompt": "Write down three things you received in abundance today."
+    },
+    {
+     "title": "All My Life",
+     "prompt": "What has goodness and mercy looked like in your life?"
+    },
+    {
+     "title": "All of Psalm 23",
+     "prompt": "Which verse stayed with you the longest this week?"
+    }
+   ]
+  }
  },
  {
   "id": "rest14",
@@ -462,7 +749,74 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "Rest and Comfort, 14 Days",
+   "subtitle": "Scripture for weary days",
+   "summary": "Begins with Matthew’s invitation, moves through Psalm 46, Isaiah 40, and Psalm 121, and closes with the blessing in Numbers.",
+   "highlights": [
+    "Good to write before bed",
+    "The first 3 days are free"
+   ],
+   "days": [
+    {
+     "title": "Come to me",
+     "prompt": "What burden would you like to lay down today?"
+    },
+    {
+     "title": "An easy yoke",
+     "prompt": "Is there a yoke you are forcing yourself to carry?"
+    },
+    {
+     "title": "Though mountains shake",
+     "prompt": "What are you holding onto, even in unsteady times?"
+    },
+    {
+     "title": "Be still",
+     "prompt": "Have you paused in stillness for 5 minutes today?"
+    },
+    {
+     "title": "Strength for the weary",
+     "prompt": "Where do you feel most weary these days?"
+    },
+    {
+     "title": "Wings like eagles",
+     "prompt": "What has helped you rise again on weary days?"
+    },
+    {
+     "title": "New every morning",
+     "prompt": "What feels newly given today, unlike yesterday?"
+    },
+    {
+     "title": "Toward the hills",
+     "prompt": "Where do you look when you need help?"
+    },
+    {
+     "title": "He does not slumber",
+     "prompt": "What would you like to entrust tonight, without worry?"
+    },
+    {
+     "title": "My shade",
+     "prompt": "What has been a sheltering shade for you lately?"
+    },
+    {
+     "title": "Coming and going",
+     "prompt": "Write while thinking of the paths you take today."
+    },
+    {
+     "title": "Do not be troubled",
+     "prompt": "What is one worry you would like to lay down from your heart?"
+    },
+    {
+     "title": "Peace unlike the world",
+     "prompt": "Have you ever felt a peace different from what the world gives?"
+    },
+    {
+     "title": "Bless and keep",
+     "prompt": "Write the name of someone you want to share this blessing with."
+    }
+   ]
+  }
  },
  {
   "id": "beatitudes",
@@ -523,7 +877,50 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "The Beatitudes in 8 Days",
+   "subtitle": "One blessing each day",
+   "summary": "Write the Beatitudes from Matthew 5, one line at a time. They are short enough for Recall.",
+   "highlights": [
+    "Pairs well with Recall",
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "Poor in spirit",
+     "prompt": "Where do you feel unable to fill yourself?"
+    },
+    {
+     "title": "Those who mourn",
+     "prompt": "If something has been hurting your heart lately, write it down quietly."
+    },
+    {
+     "title": "The meek",
+     "prompt": "Who would you like to treat with gentleness today?"
+    },
+    {
+     "title": "Hungry for righteousness",
+     "prompt": "Where do you feel a deep longing for what is right?"
+    },
+    {
+     "title": "The merciful",
+     "prompt": "Is there someone you would like to show mercy to today?"
+    },
+    {
+     "title": "Pure in heart",
+     "prompt": "What would you like to let go of to clear your heart?"
+    },
+    {
+     "title": "The peacemakers",
+     "prompt": "Is there a relationship where you would like to bring peace?"
+    },
+    {
+     "title": "Persecuted for righteousness",
+     "prompt": "Which of the eight blessings do you need most today?"
+    }
+   ]
+  }
  },
  {
   "id": "psalms",
@@ -584,7 +981,50 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "Psalms Notebook",
+   "subtitle": "Seven beloved psalms",
+   "summary": "Write Psalms 1, 8, 19, 27, 42, 90, and 103 in sections. On Manuscript Grid, you can feel the rhythm of the poems.",
+   "highlights": [
+    "Pairs well with the Manuscript Grid theme",
+    "The first day is free"
+   ],
+   "days": [
+    {
+     "title": "Blessed is the man",
+     "prompt": "What helps you grow like a tree planted by water?"
+    },
+    {
+     "title": "Chaff in the wind",
+     "prompt": "Write about a moment when you were easily shaken, and what you held on to then."
+    },
+    {
+     "title": "Moon and stars",
+     "prompt": "Did you look up at the sky today?"
+    },
+    {
+     "title": "The heavens declare",
+     "prompt": "Has a landscape ever spoken to your heart without words?"
+    },
+    {
+     "title": "My light, my salvation",
+     "prompt": "What light do you want to hold on to instead of fear these days?"
+    },
+    {
+     "title": "The thirsty deer",
+     "prompt": "What is your heart thirsting for these days?"
+    },
+    {
+     "title": "Number our days",
+     "prompt": "What could you set aside to use this day wisely?"
+    },
+    {
+     "title": "Forget not his benefits",
+     "prompt": "Write down three graces you do not want to forget."
+    }
+   ]
+  }
  },
  {
   "id": "wisdom",
@@ -645,7 +1085,50 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "Words of Wisdom, 8 Days",
+   "subtitle": "Proverbs and Micah",
+   "summary": "Short Scripture passages for the morning. They reflect on plans, steps, and guarding your heart.",
+   "highlights": [
+    "Good for 5 minutes in the morning",
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "The beginning of knowledge",
+     "prompt": "What wisdom would you like to learn these days?"
+    },
+    {
+     "title": "Do not forget",
+     "prompt": "Write one teaching you want to remember."
+    },
+    {
+     "title": "Write on your heart",
+     "prompt": "What sentence would you like to write on your heart?"
+    },
+    {
+     "title": "In all your ways",
+     "prompt": "What would you like to acknowledge and entrust today?"
+    },
+    {
+     "title": "The wellspring of life",
+     "prompt": "What is one thing you can do today to guard your heart?"
+    },
+    {
+     "title": "Commit your plans",
+     "prompt": "Write down a plan you would like to entrust this week."
+    },
+    {
+     "title": "He guides your steps",
+     "prompt": "Has a path ever been guided differently than you planned?"
+    },
+    {
+     "title": "Walk humbly together",
+     "prompt": "Which would you like to hold close this week: justice, mercy, or humility?"
+    }
+   ]
+  }
  },
  {
   "id": "love",
@@ -701,7 +1184,46 @@
   ],
   "collection": "bible",
   "includedModes": null,
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "The Love Chapter, 7 Days",
+   "subtitle": "1 Corinthians 13",
+   "summary": "Write the love chapter from beginning to end over seven days. Finished cards make a thoughtful gift.",
+   "highlights": [
+    "Good to give as a card",
+    "The first day is free"
+   ],
+   "days": [
+    {
+     "title": "Without charity",
+     "prompt": "Have my words carried love lately?"
+    },
+    {
+     "title": "I am nothing",
+     "prompt": "Gently write down anything you may have done without love."
+    },
+    {
+     "title": "Charity suffereth long",
+     "prompt": "Think of someone who has been patient with you, and of the patience you have shown, too."
+    },
+    {
+     "title": "Not easily provoked",
+     "prompt": "When have you been quick to anger lately?"
+    },
+    {
+     "title": "Endureth all things",
+     "prompt": "Is there anything you need to endure with love today?"
+    },
+    {
+     "title": "Charity never faileth",
+     "prompt": "What kind of love remains as time passes?"
+    },
+    {
+     "title": "The greatest is charity",
+     "prompt": "Who would you like to give this card to?"
+    }
+   ]
+  }
  },
  {
   "id": "kjv21",
@@ -829,7 +1351,102 @@
   "includedModes": [
    "bilingual"
   ],
-  "includedThemes": null
+  "includedThemes": null,
+  "en": {
+   "title": "21 Days in the KJV",
+   "subtitle": "Familiar verses from the KJV",
+   "summary": "Familiar verses make the KJV feel close. Write slowly, with read-aloud when you want it.",
+   "highlights": [
+    "Includes read-aloud",
+    "The first 3 days are free"
+   ],
+   "days": [
+    {
+     "title": "In the beginning",
+     "prompt": "What beginning are you grateful for today?"
+    },
+    {
+     "title": "The Word",
+     "prompt": "Read the verse aloud and notice what stays with you."
+    },
+    {
+     "title": "The light shineth",
+     "prompt": "Where did you notice a small light today?"
+    },
+    {
+     "title": "My shepherd",
+     "prompt": "What is one thing that feels enough today?"
+    },
+    {
+     "title": "My cup runneth over",
+     "prompt": "Where do you feel comfort on a hard path?"
+    },
+    {
+     "title": "A lamp unto my feet",
+     "prompt": "What small light is guiding your next step?"
+    },
+    {
+     "title": "Trust in the LORD",
+     "prompt": "What helps you trust when you do not understand?"
+    },
+    {
+     "title": "Wings as eagles",
+     "prompt": "What gives you strength to keep going today?"
+    },
+    {
+     "title": "Blessed are the poor",
+     "prompt": "Who would you like to bless with gentle words today?"
+    },
+    {
+     "title": "Blessed are the pure",
+     "prompt": "Which word feels close to your heart today: hunger, mercy, or pure?"
+    },
+    {
+     "title": "Seek ye first",
+     "prompt": "What do you want to seek first today?"
+    },
+    {
+     "title": "Come unto me",
+     "prompt": "What burden would you like to lay down for a while?"
+    },
+    {
+     "title": "God so loved",
+     "prompt": "Where have you felt loved like this?"
+    },
+    {
+     "title": "The way, the truth",
+     "prompt": "Read the way, the truth, the life slowly three times."
+    },
+    {
+     "title": "Peace I leave",
+     "prompt": "What would help your heart feel less troubled today?"
+    },
+    {
+     "title": "All things work together",
+     "prompt": "What came together for good in your day?"
+    },
+    {
+     "title": "Charity suffereth long",
+     "prompt": "Where can love be patient and kind in you today?"
+    },
+    {
+     "title": "The greatest is charity",
+     "prompt": "Choose faith, hope, or charity, and write one line about it."
+    },
+    {
+     "title": "Be careful for nothing",
+     "prompt": "What worry can you set down today?"
+    },
+    {
+     "title": "I can do all things",
+     "prompt": "Complete this line for today: I can..."
+    },
+    {
+     "title": "Now faith is",
+     "prompt": "What word or verse will you carry with you from these 21 days?"
+    }
+   ]
+  }
  },
  {
   "id": "affirmDaily",
@@ -997,7 +1614,135 @@
     "passage": "aff.67",
     "prompt": "내일에게 맡기고 싶은 걱정은 무엇인가요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "Today's Affirmation",
+   "subtitle": "One sentence a day",
+   "summary": "A new sentence appears each day. These sentences do not overlap with the 30-day paid pack, so you can write them for free anytime.",
+   "highlights": [],
+   "days": [
+    {
+     "title": "Ask for help",
+     "prompt": "What do you need help with these days?"
+    },
+    {
+     "title": "Your own path",
+     "prompt": "What are you moving through at your own pace?"
+    },
+    {
+     "title": "Listen well",
+     "prompt": "Who did you listen to today?"
+    },
+    {
+     "title": "A gentle no",
+     "prompt": "Is there something you want to say no to gently?"
+    },
+    {
+     "title": "Laughter",
+     "prompt": "When did you last laugh out loud?"
+    },
+    {
+     "title": "Never too late",
+     "prompt": "What would you like to learn these days?"
+    },
+    {
+     "title": "A tidy desk",
+     "prompt": "What is one thing you want to clear from your desk?"
+    },
+    {
+     "title": "Kindness of sleep",
+     "prompt": "About what time would you like to fall asleep tonight?"
+    },
+    {
+     "title": "A short walk",
+     "prompt": "Is there a short path you would like to walk?"
+    },
+    {
+     "title": "Forgiveness",
+     "prompt": "Is there something you want to let go of in your heart?"
+    },
+    {
+     "title": "Small wins",
+     "prompt": "Write one small thing you accomplished this week."
+    },
+    {
+     "title": "Look up",
+     "prompt": "What would you like to see after putting down your phone?"
+    },
+    {
+     "title": "Honest words",
+     "prompt": "What would you like to say honestly today?"
+    },
+    {
+     "title": "Hope today",
+     "prompt": "What small hope did you notice today?"
+    },
+    {
+     "title": "Care for your body",
+     "prompt": "What does your body want right now?"
+    },
+    {
+     "title": "Make something",
+     "prompt": "Did you make anything today?"
+    },
+    {
+     "title": "Sharing",
+     "prompt": "What good thing would you like to share?"
+    },
+    {
+     "title": "As they are",
+     "prompt": "Is there someone you want to accept as they are?"
+    },
+    {
+     "title": "Before you tire",
+     "prompt": "What signs tell you to rest before you are worn out?"
+    },
+    {
+     "title": "Courage to try",
+     "prompt": "Is there something you have wanted to try but put off?"
+    },
+    {
+     "title": "One step at a time",
+     "prompt": "What is the next step toward finishing something?"
+    },
+    {
+     "title": "Quiet time",
+     "prompt": "What does your heart say when it is quiet?"
+    },
+    {
+     "title": "Good friends",
+     "prompt": "Write the name of a friend who tells you the truth."
+    },
+    {
+     "title": "Learn from anyone",
+     "prompt": "Have you learned something recently from an unexpected person?"
+    },
+    {
+     "title": "Look at the sky",
+     "prompt": "What color was the sky today?"
+    },
+    {
+     "title": "A slow meal",
+     "prompt": "What food would you like to eat slowly?"
+    },
+    {
+     "title": "Things take time",
+     "prompt": "What are you willing to wait for, even if it takes time?"
+    },
+    {
+     "title": "One kindness",
+     "prompt": "What is one kind thing you can offer today?"
+    },
+    {
+     "title": "Sort your thoughts",
+     "prompt": "Write one line about a thought you want to sort out."
+    },
+    {
+     "title": "Tomorrow's worries",
+     "prompt": "What worry would you like to leave for tomorrow?"
+    }
+   ]
+  }
  },
  {
   "id": "affirmStart7",
@@ -1055,7 +1800,46 @@
     "passage": "aff.37",
     "prompt": "7일 동안 가장 마음에 남은 문장은 무엇인가요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "Affirmations, 7 Days",
+   "subtitle": "One short sentence at a time",
+   "summary": "Start your day by writing short, simple English sentences with read-aloud.",
+   "highlights": [
+    "Free to the end",
+    "Write with read-aloud"
+   ],
+   "days": [
+    {
+     "title": "First line",
+     "prompt": "What line would you like to write today?"
+    },
+    {
+     "title": "Slow breath",
+     "prompt": "Was there a moment when you paused today?"
+    },
+    {
+     "title": "Small thanks",
+     "prompt": "Write down one small thing you were grateful for today."
+    },
+    {
+     "title": "Kind to myself",
+     "prompt": "Have you been too hard on yourself lately?"
+    },
+    {
+     "title": "This moment",
+     "prompt": "Write down three sounds you can hear right now."
+    },
+    {
+     "title": "Kind thought",
+     "prompt": "Did one thought change your day today?"
+    },
+    {
+     "title": "A week for me",
+     "prompt": "Which sentence stayed with you most over these 7 days?"
+    }
+   ]
+  }
  },
  {
   "id": "affirmPages3",
@@ -1093,7 +1877,30 @@
     "passage": "aff.p3",
     "prompt": "오늘 받은 작은 친절, 또는 건네고 싶은 친절을 적어 보세요."
    }
-  ]
+  ],
+  "en": {
+   "title": "One-Page Affirmations",
+   "subtitle": "Affirmations in short stories",
+   "summary": "These one-page writings are a little longer than a one-line affirmation, with a small story inside. They move through worry, comparison, and a day that goes wrong, then end with words that comfort you. Includes read-aloud.",
+   "highlights": [
+    "Free from start to finish",
+    "One-page writings with a beginning, middle, and end"
+   ],
+   "days": [
+    {
+     "title": "Morning after rain",
+     "prompt": "What worry has been keeping you awake lately, and what small step can you take today?"
+    },
+    {
+     "title": "At my own pace",
+     "prompt": "Is there something you have been comparing with others? Write one thing you can do at your own pace."
+    },
+    {
+     "title": "A small kindness",
+     "prompt": "Write about a small kindness you received today, or one you would like to offer."
+    }
+   ]
+  }
  },
  {
   "id": "affirm30",
@@ -1269,7 +2076,139 @@
     "passage": "aff.30",
     "prompt": "30일 동안 가장 마음에 남은 문장은 무엇인가요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "Affirmations, 30 Days",
+   "subtitle": "Sentences to steady your heart",
+   "summary": "Write one English sentence each day for a month, with read-aloud and a gentle reflection.",
+   "highlights": [
+    "Includes read-aloud",
+    "Comes with the Kraft Notebook theme",
+    "The first 3 days are free"
+   ],
+   "days": [
+    {
+     "title": "A quiet start",
+     "prompt": "What is one word you need most today?"
+    },
+    {
+     "title": "Small steps",
+     "prompt": "Write down one small step you took this week."
+    },
+    {
+     "title": "Rest is okay",
+     "prompt": "When does it feel hard to rest?"
+    },
+    {
+     "title": "My worth",
+     "prompt": "What is one reason to like yourself, apart from results?"
+    },
+    {
+     "title": "Kind words",
+     "prompt": "What kind words would you like to offer yourself today?"
+    },
+    {
+     "title": "What is going well",
+     "prompt": "Think of three things that are going well today."
+    },
+    {
+     "title": "Letting go",
+     "prompt": "Write down one worry you would like to let go of."
+    },
+    {
+     "title": "Learning from mistakes",
+     "prompt": "What did a recent mistake teach you?"
+    },
+    {
+     "title": "Taking time",
+     "prompt": "What is one thing you can do slowly?"
+    },
+    {
+     "title": "A steady breath",
+     "prompt": "Where are you when you most want to pause and breathe?"
+    },
+    {
+     "title": "Promises to myself",
+     "prompt": "What promise to yourself do you want to keep?"
+    },
+    {
+     "title": "To my future self",
+     "prompt": "What one line would you leave for yourself a year from now?"
+    },
+    {
+     "title": "A little braver",
+     "prompt": "Was there a moment today when you were a little brave?"
+    },
+    {
+     "title": "Not perfect",
+     "prompt": "Remember a time when it was okay not to be perfect."
+    },
+    {
+     "title": "One thing",
+     "prompt": "If you focused on only one thing right now, what would it be?"
+    },
+    {
+     "title": "Passing feelings",
+     "prompt": "What feeling has been visiting you often lately?"
+    },
+    {
+     "title": "Ordinary joy",
+     "prompt": "What small joy can you find in an ordinary day?"
+    },
+    {
+     "title": "People beside me",
+     "prompt": "Write the name of someone who stands by you."
+    },
+    {
+     "title": "Starting again",
+     "prompt": "Is there something you would like to begin again?"
+    },
+    {
+     "title": "Hard days",
+     "prompt": "What helped you get through a hard day?"
+    },
+    {
+     "title": "Trust the process",
+     "prompt": "What is growing slowly in your life?"
+    },
+    {
+     "title": "Speaking up",
+     "prompt": "What truly matters to you?"
+    },
+    {
+     "title": "Enough for today",
+     "prompt": "What did your best look like today?"
+    },
+    {
+     "title": "Keeping peace",
+     "prompt": "Is there a gentle boundary you want to keep?"
+    },
+    {
+     "title": "Curiosity",
+     "prompt": "Write down one thing you are curious about these days."
+    },
+    {
+     "title": "How far I’ve come",
+     "prompt": "Praise yourself in one sentence for how far you have come."
+    },
+    {
+     "title": "Welcoming change",
+     "prompt": "What change has come into your life recently?"
+    },
+    {
+     "title": "One letter at a time",
+     "prompt": "Has copywork changed anything for you?"
+    },
+    {
+     "title": "Closing the day",
+     "prompt": "What are you grateful for in your body and mind today?"
+    },
+    {
+     "title": "Right here",
+     "prompt": "Which sentence stayed with you most over these 30 days?"
+    }
+   ]
+  }
  },
  {
   "id": "catholicDaily",
@@ -1502,7 +2441,187 @@
     "passage": "1JN.4.18",
     "prompt": "사랑이 두려움을 밀어낸 경험이 있나요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "Today's Verse",
+   "subtitle": "One verse a day",
+   "summary": "Write one verse in English each day. Chosen from the Gospels, Epistles, and wisdom books, and always free.",
+   "highlights": [],
+   "days": [
+    {
+     "title": "In the beginning",
+     "prompt": "What would you like to begin anew today?"
+    },
+    {
+     "title": "Take courage",
+     "prompt": "Where do you need courage today?"
+    },
+    {
+     "title": "What the Lord asks",
+     "prompt": "What small act of mercy can you offer today?"
+    },
+    {
+     "title": "Hope in the Lord",
+     "prompt": "Where would you like to find strength again?"
+    },
+    {
+     "title": "I am with you",
+     "prompt": "What would you like to ask God to steady today?"
+    },
+    {
+     "title": "You are mine",
+     "prompt": "How does it feel today to be called by name?"
+    },
+    {
+     "title": "Thoughts of peace",
+     "prompt": "Write one line about how you feel when you think of the days ahead."
+    },
+    {
+     "title": "Love all things made",
+     "prompt": "What would you like to look at with love today?"
+    },
+    {
+     "title": "Trust in the Lord",
+     "prompt": "What path would you like to entrust to God these days?"
+    },
+    {
+     "title": "Light of the world",
+     "prompt": "How could you be a small light for someone today?"
+    },
+    {
+     "title": "Where your treasure is",
+     "prompt": "What treasure has your heart been resting in lately?"
+    },
+    {
+     "title": "As you would receive",
+     "prompt": "What can you offer first in the way you hope to receive?"
+    },
+    {
+     "title": "Two or three gathered",
+     "prompt": "Who would you like to pray with?"
+    },
+    {
+     "title": "For one who believes",
+     "prompt": "What needs your faith these days?"
+    },
+    {
+     "title": "Full of grace",
+     "prompt": "Write down one grace you received today."
+    },
+    {
+     "title": "Nothing impossible with God",
+     "prompt": "Is there something you want to ask for, even if it seems impossible?"
+    },
+    {
+     "title": "According to your word",
+     "prompt": "What would you like to entrust to the Lord today?"
+    },
+    {
+     "title": "Kept in her heart",
+     "prompt": "What words would you like to keep in your heart today?"
+    },
+    {
+     "title": "Be merciful",
+     "prompt": "Who would you like to show mercy to today?"
+    },
+    {
+     "title": "Ask, and receive",
+     "prompt": "What do you long to ask for these days?"
+    },
+    {
+     "title": "So loved",
+     "prompt": "Was there a moment today when you felt loved?"
+    },
+    {
+     "title": "Light of life",
+     "prompt": "What light is guiding you these days?"
+    },
+    {
+     "title": "Love one another",
+     "prompt": "Who would you like to show love to today?"
+    },
+    {
+     "title": "Peace I leave you",
+     "prompt": "What has been unsettling your heart lately?"
+    },
+    {
+     "title": "All things work together",
+     "prompt": "Can you remember something that became good in time?"
+    },
+    {
+     "title": "Rejoicing in hope",
+     "prompt": "Which do you need most today: hope, patience, or prayer?"
+    },
+    {
+     "title": "God of hope",
+     "prompt": "What small thing helps hope grow in you today?"
+    },
+    {
+     "title": "Faith, hope, and charity",
+     "prompt": "Which of these three do you need most these days?"
+    },
+    {
+     "title": "A cheerful giver",
+     "prompt": "What would you like to share gladly today?"
+    },
+    {
+     "title": "Fruit of the Spirit",
+     "prompt": "Which fruit would you like to bear today?"
+    },
+    {
+     "title": "Do not grow weary",
+     "prompt": "What good work would you like to keep doing without giving up?"
+    },
+    {
+     "title": "Forgive one another",
+     "prompt": "Is there someone you would like to offer forgiveness to?"
+    },
+    {
+     "title": "Rejoice in the Lord",
+     "prompt": "Look for one reason to rejoice today."
+    },
+    {
+     "title": "In him who strengthens me",
+     "prompt": "Where would you like to receive strength these days?"
+    },
+    {
+     "title": "Bond of perfection",
+     "prompt": "What relationship would you like to bind together with love today?"
+    },
+    {
+     "title": "With all your heart",
+     "prompt": "What would you like to do with all your heart today?"
+    },
+    {
+     "title": "Rejoice, pray, give thanks",
+     "prompt": "Which will you hold today: joy, prayer, or gratitude?"
+    },
+    {
+     "title": "Power and love",
+     "prompt": "What would you like to hold instead of fear?"
+    },
+    {
+     "title": "Faith is",
+     "prompt": "What are you hoping for, though you cannot see it yet?"
+    },
+    {
+     "title": "Every good gift",
+     "prompt": "Write down one good gift you received today."
+    },
+    {
+     "title": "Cast all your cares",
+     "prompt": "What care would you like to entrust to God today?"
+    },
+    {
+     "title": "God is love",
+     "prompt": "Write one line about what love is today."
+    },
+    {
+     "title": "No fear in love",
+     "prompt": "Have you ever felt love cast out fear?"
+    }
+   ]
+  }
  },
  {
   "id": "lordsPrayer5",
@@ -1550,7 +2669,38 @@
     "passage": "MAT.6.13",
     "prompt": "5일 동안 영어로 쓴 기도에서 가장 마음에 남은 줄은 무엇인가요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "The Lord's Prayer, 5 Days",
+   "subtitle": "One line a day",
+   "summary": "Write the Lord’s Prayer from Matthew 6 in English, one line at a time, with read-aloud.",
+   "highlights": [
+    "Free to the end",
+    "Write with read-aloud"
+   ],
+   "days": [
+    {
+     "title": "Our Father",
+     "prompt": "Read the opening line aloud, slowly."
+    },
+    {
+     "title": "Thy Will Be Done",
+     "prompt": "What would you like to entrust to God today?"
+    },
+    {
+     "title": "Daily Bread",
+     "prompt": "What daily bread are you grateful for today?"
+    },
+    {
+     "title": "As We Forgive",
+     "prompt": "Is there someone you would like to forgive today?"
+    },
+    {
+     "title": "Deliver Us",
+     "prompt": "Which line from these five days stays with you most?"
+    }
+   ]
+  }
  },
  {
   "id": "gospel21",
@@ -1678,7 +2828,102 @@
     "passage": "MAT.28.19-20",
     "prompt": "all days를 오늘의 영어로 바꾸면? (always) 21일 동안 새로 알게 된 단어 하나를 적어 보세요."
    }
-  ]
+  ],
+  "en": {
+   "title": "The Gospels, 21 Days",
+   "subtitle": "Familiar Gospel passages in Douay-Rheims",
+   "summary": "Begin with the opening of John, pass through Mary's song and the beatitudes, and end with “I am with you all days.” Write each passage with read-aloud.",
+   "highlights": [
+    "Includes read-aloud",
+    "The first 3 days are free"
+   ],
+   "days": [
+    {
+     "title": "In the beginning",
+     "prompt": "Notice the Word at the center of the passage, and write slowly."
+    },
+    {
+     "title": "The Word was made flesh",
+     "prompt": "Pause with the mystery of God coming near in flesh."
+    },
+    {
+     "title": "Fear not, Mary",
+     "prompt": "What fear would you like to place in God's hands today?"
+    },
+    {
+     "title": "My soul doth magnify",
+     "prompt": "Name one quiet reason for praise today."
+    },
+    {
+     "title": "Good tidings of great joy",
+     "prompt": "What good news has brought you joy lately?"
+    },
+    {
+     "title": "My beloved Son",
+     "prompt": "Rest for a moment in the words, my beloved Son."
+    },
+    {
+     "title": "Blessed are the poor in spirit",
+     "prompt": "Where do you most need comfort today?"
+    },
+    {
+     "title": "Blessed are they that mourn",
+     "prompt": "What are you longing for with your whole heart?"
+    },
+    {
+     "title": "Blessed are the peacemakers",
+     "prompt": "Which blessing do you want to carry into your day?"
+    },
+    {
+     "title": "Seek ye first",
+     "prompt": "What worry would you like to leave for tomorrow?"
+    },
+    {
+     "title": "Ask, and it shall be given",
+     "prompt": "What door are you gently knocking on these days?"
+    },
+    {
+     "title": "Come to me",
+     "prompt": "What burden would you like to set down today?"
+    },
+    {
+     "title": "Suffer the little children",
+     "prompt": "What would a childlike heart look like for you today?"
+    },
+    {
+     "title": "With thy whole heart",
+     "prompt": "Write with your heart, soul, strength, and mind."
+    },
+    {
+     "title": "His father saw him",
+     "prompt": "Have you ever waited for someone with compassion?"
+    },
+    {
+     "title": "The bread of life",
+     "prompt": "What helps sustain you in this season?"
+    },
+    {
+     "title": "The good shepherd",
+     "prompt": "Bring to mind someone who has cared for you."
+    },
+    {
+     "title": "The resurrection and the life",
+     "prompt": "When have you felt life return to you?"
+    },
+    {
+     "title": "The way, the truth, the life",
+     "prompt": "Read these words aloud three times, slowly."
+    },
+    {
+     "title": "As the Father hath loved me",
+     "prompt": "Let yourself remain in love for a quiet moment."
+    },
+    {
+     "title": "I am with you all days",
+     "prompt": "What word from these 21 days do you want to remember?"
+    }
+   ]
+  }
  },
  {
   "id": "wisdomBooks8",
@@ -1739,7 +2984,50 @@
     "passage": "TOB.4.16",
     "prompt": "여덟 날 동안 가장 오래 마음에 남은 구절은 무엇인가요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "Books of Wisdom, 8 Days",
+   "subtitle": "Wisdom, Sirach, Tobit",
+   "summary": "Write eight short passages from the wisdom books of the deuterocanon, found in Catholic Bibles. These brief verses are good for a quiet morning.",
+   "highlights": [
+    "Verses from the deuterocanonical books",
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "With a simple heart",
+     "prompt": "What is one thing you want to keep simple these days?"
+    },
+    {
+     "title": "In God's hand",
+     "prompt": "Write a short prayer for someone who has gone before you."
+    },
+    {
+     "title": "Wisdom is found",
+     "prompt": "What wisdom are you seeking these days?"
+    },
+    {
+     "title": "Brightness of eternal light",
+     "prompt": "Choose one word from the verse and let it stay with you today."
+    },
+    {
+     "title": "Do not rush",
+     "prompt": "Is there something you feel tempted to rush right now?"
+    },
+    {
+     "title": "Humble as you rise",
+     "prompt": "What is one humble thing you can do today?"
+    },
+    {
+     "title": "A faithful friend",
+     "prompt": "Write the name of a friend who feels like a treasure to you."
+    },
+    {
+     "title": "What you dislike",
+     "prompt": "Which line from these eight days stayed with you the longest?"
+    }
+   ]
+  }
  },
  {
   "id": "buddhistDaily",
@@ -1907,7 +3195,135 @@
     "passage": "bud.d.tansaeng",
     "prompt": "여기서 나는 누구나 지닌 존귀한 생명으로 풀기도 해요. 나를 귀하게 여긴 순간은 언제인가요?"
    }
-  ]
+  ],
+  "en": {
+   "title": "Today's Line",
+   "subtitle": "One line a day",
+   "summary": "Lines chosen from texts like the Diamond Sutra, Avatamsaka Sutra, and Dhammapada change each day. They do not overlap with paid packs, so they are always free.",
+   "highlights": [],
+   "days": [
+    {
+     "title": "Diamond Sutra Verse",
+     "prompt": "Has your mind been drawn to outward appearances lately?"
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "Write down one kind thought you held today."
+    },
+    {
+     "title": "Avatamsaka Sutra Verse",
+     "prompt": "What kind of scene has your mind made today?"
+    },
+    {
+     "title": "The Eightfold Path",
+     "prompt": "If you chose just one of the eight today, which would it be?"
+    },
+    {
+     "title": "Diamond Sutra Verse",
+     "prompt": "Think of something that now feels like a dream."
+    },
+    {
+     "title": "Vimalakirti Sutra",
+     "prompt": "What looks different when your mind becomes clear?"
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "Write down one thing that is already enough today."
+    },
+    {
+     "title": "Six Paramitas",
+     "prompt": "Write down one small thing you can offer today."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "What is one thing you can do with an unattached mind?"
+    },
+    {
+     "title": "Awakening of Faith",
+     "prompt": "Write down one thought that arose and passed away."
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "Was there a small moment today when you overcame yourself?"
+    },
+    {
+     "title": "Four Immeasurables",
+     "prompt": "Is there someone you can rejoice with today?"
+    },
+    {
+     "title": "Diamond Sutra Verse",
+     "prompt": "Have you ever looked beyond what is visible to find what matters?"
+    },
+    {
+     "title": "Snow Mountain Verse",
+     "prompt": "Think of a moment when stillness felt like joy."
+    },
+    {
+     "title": "Bequeathed Teaching",
+     "prompt": "Write down three things you are grateful for among what you have now."
+    },
+    {
+     "title": "The Five Precepts",
+     "prompt": "Write down one promise you want to keep."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "What are you holding in your hand right now?"
+    },
+    {
+     "title": "Avatamsaka Sutra",
+     "prompt": "What would you like to paint today with the brush of your mind?"
+    },
+    {
+     "title": "Udana-varga Teaching",
+     "prompt": "Is there any resentment you would like to let rest?"
+    },
+    {
+     "title": "Four Noble Truths",
+     "prompt": "Notice one cause of suffering in your life lately."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "Is there a raft you still carry after crossing the river?"
+    },
+    {
+     "title": "Perfect Enlightenment Sutra",
+     "prompt": "Is there a thought you can let go of by seeing it as an illusion?"
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "What is one word you truly need?"
+    },
+    {
+     "title": "Bodhisattva Path",
+     "prompt": "Write down one thing you want to learn and one person you want to help."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "Write down one thing you endured today."
+    },
+    {
+     "title": "Lotus Sutra",
+     "prompt": "Where are you on the path you are walking slowly?"
+    },
+    {
+     "title": "Precept Verse",
+     "prompt": "Quietly recall something that was hard to endure."
+    },
+    {
+     "title": "Platform Sutra",
+     "prompt": "Is there something you understood only after experiencing it yourself?"
+    },
+    {
+     "title": "Nirvana Sutra",
+     "prompt": "Write down a good quality you saw in someone you met today."
+    },
+    {
+     "title": "The Birth Verse",
+     "prompt": "You may read this as the precious life in every person. When have you treated yourself as precious?"
+    }
+   ]
+  }
  },
  {
   "id": "sagyeongStart5",
@@ -1953,7 +3369,38 @@
     "passage": "bud.yeongi",
     "prompt": "지금의 나를 있게 한 인연 하나를 떠올려 보세요."
    }
-  ]
+  ],
+  "en": {
+   "title": "First Sutra Copying, 5 Days",
+   "subtitle": "Start slowly with short verses",
+   "summary": "Begin sutra copying with short, familiar texts like the Three Refuges, the Four Great Vows, and the Seven Buddhas' Verse. You can write them as plain English explanations or in Classical Chinese.",
+   "highlights": [
+    "Free all the way",
+    "You can also write in Classical Chinese"
+   ],
+   "days": [
+    {
+     "title": "Three Refuges",
+     "prompt": "What would you like to lean on today?"
+    },
+    {
+     "title": "Four Great Vows",
+     "prompt": "If you could wish for one thing today, what would it be?"
+    },
+    {
+     "title": "Seven Buddhas' Verse",
+     "prompt": "Write one thing you will not do today, and one thing you will do."
+    },
+    {
+     "title": "Three Dharma Seals",
+     "prompt": "Is there something changing lately that you would like to accept?"
+    },
+    {
+     "title": "Dependent Arising",
+     "prompt": "Think of one connection that has helped make you who you are now."
+    }
+   ]
+  }
  },
  {
   "id": "heartSutra10",
@@ -2024,7 +3471,58 @@
     "passage": "bud.heart.all",
     "prompt": "처음부터 끝까지 쓰고 나서 마음이 어떤지 적어 보세요."
    }
-  ]
+  ],
+  "en": {
+   "title": "The Heart Sutra, 10 Days",
+   "subtitle": "Nine days in sections, then the full text",
+   "summary": "Write the Heart Sutra in nine sections, then write it from beginning to end on the last day.",
+   "highlights": [
+    "Classical Chinese copying is included",
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "Heart Sutra 1",
+     "prompt": "Before you begin, take three quiet breaths."
+    },
+    {
+     "title": "Heart Sutra 2",
+     "prompt": "Try letting go of one thought you were holding today."
+    },
+    {
+     "title": "Heart Sutra 3",
+     "prompt": "Is there anything comforting about the words neither increasing nor decreasing?"
+    },
+    {
+     "title": "Heart Sutra 4",
+     "prompt": "Which was busiest today: your eyes, ears, nose, tongue, body, or mind?"
+    },
+    {
+     "title": "Heart Sutra 5",
+     "prompt": "Bring to mind one thing you have been trying hard to gain."
+    },
+    {
+     "title": "Heart Sutra 6",
+     "prompt": "If your heart had no hindrance, what would you like to do today?"
+    },
+    {
+     "title": "Heart Sutra 7",
+     "prompt": "One character at a time, bring your attention to the hand that writes."
+    },
+    {
+     "title": "Heart Sutra 8",
+     "prompt": "Write down one phrase that helps you feel at ease."
+    },
+    {
+     "title": "Heart Sutra 9",
+     "prompt": "Mantras are traditionally recited for their sound as much as their meaning. Try reading it aloud once."
+    },
+    {
+     "title": "Full Heart Sutra",
+     "prompt": "After writing it from beginning to end, note how your heart feels."
+    }
+   ]
+  }
  },
  {
   "id": "beopseong7",
@@ -2080,7 +3578,46 @@
     "passage": "bud.beopseong.all",
     "prompt": "다 쓰고 나서 가장 오래 남는 구절을 적어 보세요."
    }
-  ]
+  ],
+  "en": {
+   "title": "Song of Dharma Nature, 7 Days",
+   "subtitle": "Uisang's 210-character verse",
+   "summary": "Write thirty lines of Huayan teaching, five lines a day for six days, then the full text on day seven.",
+   "highlights": [
+    "Pairs well with the Manuscript Grid theme",
+    "The first day is free"
+   ],
+   "days": [
+    {
+     "title": "Lines 1–5",
+     "prompt": "Write slowly, holding the thought that stillness is our original place."
+    },
+    {
+     "title": "Lines 6–10",
+     "prompt": "Bring to mind one person you are connected to."
+    },
+    {
+     "title": "Lines 11–15",
+     "prompt": "Remember the moment you first set your intention."
+    },
+    {
+     "title": "Lines 16–20",
+     "prompt": "Reflect on today through the thought that life and nirvana belong together."
+    },
+    {
+     "title": "Lines 21–25",
+     "prompt": "Write down one thought you would like to let rest."
+    },
+    {
+     "title": "Lines 26–30",
+     "prompt": "What does the home you want to return to today look like?"
+    },
+    {
+     "title": "Full Beopseongge",
+     "prompt": "After you finish, write down the line that stays with you the longest."
+    }
+   ]
+  }
  },
  {
   "id": "seon14",
@@ -2171,6 +3708,73 @@
     "passage": "bud.zen.seosan",
     "prompt": "이름 붙이지 않고 지금 마음을 가만히 바라보세요."
    }
-  ]
+  ],
+  "en": {
+   "title": "Words of Old Masters, 14 Days",
+   "subtitle": "Short writings from Zen masters",
+   "summary": "Write one short passage each day from old monks, from Huineng and Linji to Wonhyo, Jinul, and Master Seosan.",
+   "highlights": [
+    "Works well with Recall",
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "Shenxiu's verse",
+     "prompt": "What dust would you like to brush away today?"
+    },
+    {
+     "title": "Huineng's verse",
+     "prompt": "Place it beside yesterday's verse and notice what feels different."
+    },
+    {
+     "title": "Four Zen lines",
+     "prompt": "Is there something you would rather share through the heart than through words?"
+    },
+    {
+     "title": "Opening of Xinxin Ming",
+     "prompt": "Is there anything you feel tired from choosing and judging lately?"
+    },
+    {
+     "title": "Opening of Zhengdao Ge",
+     "prompt": "Write down one thing you do not need to strive to find."
+    },
+    {
+     "title": "Linji's words",
+     "prompt": "Where would you like to stand as your own master today?"
+    },
+    {
+     "title": "Every day is good",
+     "prompt": "Write one reason to call today a good day."
+    },
+    {
+     "title": "Gateless Gate verse",
+     "prompt": "Is there a threshold you would like to cross lately?"
+    },
+    {
+     "title": "Ordinary mind is the way",
+     "prompt": "Gently let go of one thing your mind has been holding."
+    },
+    {
+     "title": "Clouds and water",
+     "prompt": "Write what is here in your place, just as it is."
+    },
+    {
+     "title": "Awakening the mind",
+     "prompt": "Is there a small pleasure you can set down today?"
+    },
+    {
+     "title": "Rising from the ground",
+     "prompt": "Recall a time you rose again from the place where you had fallen."
+    },
+    {
+     "title": "Three days of practice",
+     "prompt": "How much time did you spend tending your mind today?"
+    },
+    {
+     "title": "One thing",
+     "prompt": "Look quietly at your mind now, without giving it a name."
+    }
+   ]
+  }
  }
 ]

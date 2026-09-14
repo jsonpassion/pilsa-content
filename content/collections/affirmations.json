@@ -20,7 +20,7 @@
  "items": {
   "aff.01": {
    "title": {
-    "en": "고요한 시작",
+    "en": "A quiet start",
     "ko": "고요한 시작"
    },
    "lines": {
@@ -46,7 +46,7 @@
   },
   "aff.02": {
    "title": {
-    "en": "작은 걸음",
+    "en": "Small steps forward",
     "ko": "작은 걸음"
    },
    "lines": {
@@ -72,7 +72,7 @@
   },
   "aff.03": {
    "title": {
-    "en": "쉬어도 괜찮다",
+    "en": "Rest without guilt",
     "ko": "쉬어도 괜찮다"
    },
    "lines": {
@@ -98,7 +98,7 @@
   },
   "aff.04": {
    "title": {
-    "en": "나의 가치",
+    "en": "Worth beyond results",
     "ko": "나의 가치"
    },
    "lines": {
@@ -124,7 +124,7 @@
   },
   "aff.05": {
    "title": {
-    "en": "다정한 말",
+    "en": "Choose kind words",
     "ko": "다정한 말"
    },
    "lines": {
@@ -150,7 +150,7 @@
   },
   "aff.06": {
    "title": {
-    "en": "잘되고 있는 것",
+    "en": "Notice what is well",
     "ko": "잘되고 있는 것"
    },
    "lines": {
@@ -176,7 +176,7 @@
   },
   "aff.07": {
    "title": {
-    "en": "내려놓기",
+    "en": "Letting go",
     "ko": "내려놓기"
    },
    "lines": {
@@ -202,7 +202,7 @@
   },
   "aff.08": {
    "title": {
-    "en": "실수에서 배우기",
+    "en": "Learning from mistakes",
     "ko": "실수에서 배우기"
    },
    "lines": {
@@ -228,7 +228,7 @@
   },
   "aff.09": {
    "title": {
-    "en": "천천히",
+    "en": "Take your time",
     "ko": "천천히"
    },
    "lines": {
@@ -254,7 +254,7 @@
   },
   "aff.10": {
    "title": {
-    "en": "숨 고르기",
+    "en": "Breathe in calm",
     "ko": "숨 고르기"
    },
    "lines": {
@@ -280,7 +280,7 @@
   },
   "aff.11": {
    "title": {
-    "en": "나와의 약속",
+    "en": "Promises to myself",
     "ko": "나와의 약속"
    },
    "lines": {
@@ -301,7 +301,7 @@
   },
   "aff.12": {
    "title": {
-    "en": "미래의 나에게",
+    "en": "A future gift",
     "ko": "미래의 나에게"
    },
    "lines": {
@@ -327,7 +327,7 @@
   },
   "aff.13": {
    "title": {
-    "en": "조금씩 용감하게",
+    "en": "A little braver",
     "ko": "조금씩 용감하게"
    },
    "lines": {
@@ -353,7 +353,7 @@
   },
   "aff.14": {
    "title": {
-    "en": "완벽하지 않아도",
+    "en": "Loved without perfection",
     "ko": "완벽하지 않아도"
    },
    "lines": {
@@ -379,7 +379,7 @@
   },
   "aff.15": {
    "title": {
-    "en": "한 번에 하나",
+    "en": "One thing at a time",
     "ko": "한 번에 하나"
    },
    "lines": {
@@ -405,7 +405,7 @@
   },
   "aff.16": {
    "title": {
-    "en": "지나가는 감정",
+    "en": "Feelings will pass",
     "ko": "지나가는 감정"
    },
    "lines": {
@@ -431,7 +431,7 @@
   },
   "aff.17": {
    "title": {
-    "en": "평범한 기쁨",
+    "en": "Joy in ordinary moments",
     "ko": "평범한 기쁨"
    },
    "lines": {
@@ -457,7 +457,7 @@
   },
   "aff.18": {
    "title": {
-    "en": "곁에 있는 사람들",
+    "en": "People beside me",
     "ko": "곁에 있는 사람들"
    },
    "lines": {
@@ -483,7 +483,7 @@
   },
   "aff.19": {
    "title": {
-    "en": "다시 시작",
+    "en": "Start again",
     "ko": "다시 시작"
    },
    "lines": {
@@ -509,7 +509,7 @@
   },
   "aff.20": {
    "title": {
-    "en": "힘든 날",
+    "en": "Hard days pass",
     "ko": "힘든 날"
    },
    "lines": {
@@ -535,7 +535,7 @@
   },
   "aff.21": {
    "title": {
-    "en": "과정을 믿기",
+    "en": "Trust the process",
     "ko": "과정을 믿기"
    },
    "lines": {
@@ -561,7 +561,7 @@
   },
   "aff.22": {
    "title": {
-    "en": "목소리 내기",
+    "en": "Speak up",
     "ko": "목소리 내기"
    },
    "lines": {
@@ -587,7 +587,7 @@
   },
   "aff.23": {
    "title": {
-    "en": "충분한 최선",
+    "en": "My best is enough",
     "ko": "충분한 최선"
    },
    "lines": {
@@ -613,7 +613,7 @@
   },
   "aff.24": {
    "title": {
-    "en": "평안 지키기",
+    "en": "Protect my peace",
     "ko": "평안 지키기"
    },
    "lines": {
@@ -639,7 +639,7 @@
   },
   "aff.25": {
    "title": {
-    "en": "호기심",
+    "en": "Curiosity opens doors",
     "ko": "호기심"
    },
    "lines": {
@@ -665,7 +665,7 @@
   },
   "aff.26": {
    "title": {
-    "en": "여기까지 온 나",
+    "en": "How far I have come",
     "ko": "여기까지 온 나"
    },
    "lines": {
@@ -691,7 +691,7 @@
   },
   "aff.27": {
    "title": {
-    "en": "변화 반기기",
+    "en": "Welcome change",
     "ko": "변화 반기기"
    },
    "lines": {
@@ -717,7 +717,7 @@
   },
   "aff.28": {
    "title": {
-    "en": "한 글자씩",
+    "en": "One letter at a time",
     "ko": "한 글자씩"
    },
    "lines": {
@@ -743,7 +743,7 @@
   },
   "aff.29": {
    "title": {
-    "en": "하루 마치기",
+    "en": "Thank body and mind",
     "ko": "하루 마치기"
    },
    "lines": {
@@ -769,7 +769,7 @@
   },
   "aff.30": {
    "title": {
-    "en": "지금 이 자리",
+    "en": "Where I need to be",
     "ko": "지금 이 자리"
    },
    "lines": {
@@ -795,7 +795,7 @@
   },
   "aff.31": {
    "title": {
-    "en": "첫 줄",
+    "en": "One good line",
     "ko": "첫 줄"
    },
    "lines": {
@@ -821,7 +821,7 @@
   },
   "aff.32": {
    "title": {
-    "en": "천천히 숨",
+    "en": "A deep breath",
     "ko": "천천히 숨"
    },
    "lines": {
@@ -847,7 +847,7 @@
   },
   "aff.33": {
    "title": {
-    "en": "작은 감사",
+    "en": "Small thanks",
     "ko": "작은 감사"
    },
    "lines": {
@@ -873,7 +873,7 @@
   },
   "aff.34": {
    "title": {
-    "en": "나에게 다정하게",
+    "en": "Gentle with myself",
     "ko": "나에게 다정하게"
    },
    "lines": {
@@ -899,7 +899,7 @@
   },
   "aff.35": {
    "title": {
-    "en": "지금 이 순간",
+    "en": "This moment",
     "ko": "지금 이 순간"
    },
    "lines": {
@@ -925,7 +925,7 @@
   },
   "aff.36": {
    "title": {
-    "en": "다정한 생각",
+    "en": "A kind thought",
     "ko": "다정한 생각"
    },
    "lines": {
@@ -951,7 +951,7 @@
   },
   "aff.37": {
    "title": {
-    "en": "나를 위한 한 주",
+    "en": "Showing up for myself",
     "ko": "나를 위한 한 주"
    },
    "lines": {
@@ -977,7 +977,7 @@
   },
   "aff.38": {
    "title": {
-    "en": "도움 청하기",
+    "en": "Ask for help",
     "ko": "도움 청하기"
    },
    "lines": {
@@ -1003,7 +1003,7 @@
   },
   "aff.39": {
    "title": {
-    "en": "나만의 길",
+    "en": "My own path",
     "ko": "나만의 길"
    },
    "lines": {
@@ -1029,7 +1029,7 @@
   },
   "aff.40": {
    "title": {
-    "en": "잘 듣기",
+    "en": "Listen more",
     "ko": "잘 듣기"
    },
    "lines": {
@@ -1055,7 +1055,7 @@
   },
   "aff.41": {
    "title": {
-    "en": "부드러운 거절",
+    "en": "Say no kindly",
     "ko": "부드러운 거절"
    },
    "lines": {
@@ -1081,7 +1081,7 @@
   },
   "aff.42": {
    "title": {
-    "en": "웃음",
+    "en": "Let myself laugh",
     "ko": "웃음"
    },
    "lines": {
@@ -1107,7 +1107,7 @@
   },
   "aff.43": {
    "title": {
-    "en": "늦지 않은 배움",
+    "en": "Never too old",
     "ko": "늦지 않은 배움"
    },
    "lines": {
@@ -1133,7 +1133,7 @@
   },
   "aff.44": {
    "title": {
-    "en": "정돈된 책상",
+    "en": "A tidy desk",
     "ko": "정돈된 책상"
    },
    "lines": {
@@ -1159,7 +1159,7 @@
   },
   "aff.45": {
    "title": {
-    "en": "잠이라는 친절",
+    "en": "Sleep as kindness",
     "ko": "잠이라는 친절"
    },
    "lines": {
@@ -1185,7 +1185,7 @@
   },
   "aff.46": {
    "title": {
-    "en": "짧은 산책",
+    "en": "A short walk",
     "ko": "짧은 산책"
    },
    "lines": {
@@ -1211,7 +1211,7 @@
   },
   "aff.47": {
    "title": {
-    "en": "용서",
+    "en": "Forgiveness sets me free",
     "ko": "용서"
    },
    "lines": {
@@ -1237,7 +1237,7 @@
   },
   "aff.48": {
    "title": {
-    "en": "작은 해냄",
+    "en": "Small wins",
     "ko": "작은 해냄"
    },
    "lines": {
@@ -1263,7 +1263,7 @@
   },
   "aff.49": {
    "title": {
-    "en": "고개 들기",
+    "en": "Look up",
     "ko": "고개 들기"
    },
    "lines": {
@@ -1289,7 +1289,7 @@
   },
   "aff.50": {
    "title": {
-    "en": "정직한 말",
+    "en": "Honest words",
     "ko": "정직한 말"
    },
    "lines": {
@@ -1315,7 +1315,7 @@
   },
   "aff.51": {
    "title": {
-    "en": "오늘의 희망",
+    "en": "Hope in this day",
     "ko": "오늘의 희망"
    },
    "lines": {
@@ -1341,7 +1341,7 @@
   },
   "aff.52": {
    "title": {
-    "en": "몸 돌보기",
+    "en": "Care for my body",
     "ko": "몸 돌보기"
    },
    "lines": {
@@ -1367,7 +1367,7 @@
   },
   "aff.53": {
    "title": {
-    "en": "무언가 만들기",
+    "en": "Make something small",
     "ko": "무언가 만들기"
    },
    "lines": {
@@ -1393,7 +1393,7 @@
   },
   "aff.54": {
    "title": {
-    "en": "나누기",
+    "en": "Sharing helps good grow",
     "ko": "나누기"
    },
    "lines": {
@@ -1419,7 +1419,7 @@
   },
   "aff.55": {
    "title": {
-    "en": "있는 그대로",
+    "en": "As they are",
     "ko": "있는 그대로"
    },
    "lines": {
@@ -1445,7 +1445,7 @@
   },
   "aff.56": {
    "title": {
-    "en": "지치기 전에",
+    "en": "Rest before too tired",
     "ko": "지치기 전에"
    },
    "lines": {
@@ -1471,7 +1471,7 @@
   },
   "aff.57": {
    "title": {
-    "en": "해 보는 용기",
+    "en": "Try something new",
     "ko": "해 보는 용기"
    },
    "lines": {
@@ -1497,7 +1497,7 @@
   },
   "aff.58": {
    "title": {
-    "en": "한 걸음씩 끝까지",
+    "en": "One step at a time",
     "ko": "한 걸음씩 끝까지"
    },
    "lines": {
@@ -1523,7 +1523,7 @@
   },
   "aff.59": {
    "title": {
-    "en": "고요한 시간",
+    "en": "Quiet time",
     "ko": "고요한 시간"
    },
    "lines": {
@@ -1549,7 +1549,7 @@
   },
   "aff.60": {
    "title": {
-    "en": "좋은 친구",
+    "en": "Truthful friends",
     "ko": "좋은 친구"
    },
    "lines": {
@@ -1575,7 +1575,7 @@
   },
   "aff.61": {
    "title": {
-    "en": "누구에게서든",
+    "en": "Learn from anyone",
     "ko": "누구에게서든"
    },
    "lines": {
@@ -1601,7 +1601,7 @@
   },
   "aff.62": {
    "title": {
-    "en": "하늘 보기",
+    "en": "Look at the sky",
     "ko": "하늘 보기"
    },
    "lines": {
@@ -1627,7 +1627,7 @@
   },
   "aff.63": {
    "title": {
-    "en": "천천히 한 끼",
+    "en": "Eat slowly",
     "ko": "천천히 한 끼"
    },
    "lines": {
@@ -1653,7 +1653,7 @@
   },
   "aff.64": {
    "title": {
-    "en": "시간이 걸리는 일",
+    "en": "Good things take time",
     "ko": "시간이 걸리는 일"
    },
    "lines": {
@@ -1679,7 +1679,7 @@
   },
   "aff.65": {
    "title": {
-    "en": "하나의 친절",
+    "en": "One kind thing",
     "ko": "하나의 친절"
    },
    "lines": {
@@ -1705,7 +1705,7 @@
   },
   "aff.66": {
    "title": {
-    "en": "생각 정리",
+    "en": "Sort out thoughts",
     "ko": "생각 정리"
    },
    "lines": {
@@ -1731,7 +1731,7 @@
   },
   "aff.67": {
    "title": {
-    "en": "내일의 걱정은 내일에",
+    "en": "Tomorrow's worries tomorrow",
     "ko": "내일의 걱정은 내일에"
    },
    "lines": {
@@ -1757,7 +1757,7 @@
   },
   "aff.p1": {
    "title": {
-    "en": "비 온 뒤의 아침",
+    "en": "After the rain",
     "ko": "비 온 뒤의 아침"
    },
    "lines": {
@@ -1817,7 +1817,7 @@
   },
   "aff.p2": {
    "title": {
-    "en": "나의 속도로",
+    "en": "At my own pace",
     "ko": "나의 속도로"
    },
    "lines": {
@@ -1877,7 +1877,7 @@
   },
   "aff.p3": {
    "title": {
-    "en": "작은 친절",
+    "en": "A small kindness",
     "ko": "작은 친절"
    },
    "lines": {

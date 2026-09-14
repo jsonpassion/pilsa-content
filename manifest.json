@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "87d8a6240d2d",
- "generated_at": "2026-09-14T15:45:13Z",
+ "version": "b9cd548a5e61",
+ "generated_at": "2026-09-14T16:01:40Z",
  "entries": [
   {
    "id": "books.json",
@@ -48,20 +48,20 @@
   {
    "id": "affirmations.json",
    "path": "content/collections/affirmations.json",
-   "checksum_sha256": "90364e2c6baed9dc368003ffe50575df66c9a21448c19e885fe49b9b229869ab",
-   "size": 37166
+   "checksum_sha256": "f4847abde27bb88d359dd5795a37f2ebea55d6a632a8df0ace5333d89263d7f7",
+   "size": 37172
   },
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "79612a8e58125563a1ac1747e57c5b96f5dfce6dd8e435f71c875415296b0544",
-   "size": 48651
+   "checksum_sha256": "761d92567e1946888db787a9349bb25e27aa02ea357a406123c341a505565784",
+   "size": 67641
   },
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "224216ff38beb169387ac8fdcde393c39bbb3d6cc5863e43fb8e3f5187bb5201",
-   "size": 66176
+   "checksum_sha256": "0619f9e9c1263c2101cbc98b469faaeab0dda0e0584cc404d9eb04adb9f0f142",
+   "size": 112949
   },
   {
    "id": "stickers.json",
