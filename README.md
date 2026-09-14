@@ -54,6 +54,15 @@ tools/
 - 우리말 풀이와 마음 살피기 질문은 Pilsa가 직접 썼다. 공식 번역이 아니다.
 - 글마다 `source`에 출전을 적어 둔다.
 
+## 스티커
+
+- `content/stickers/stickers.json`: 스티커 팩 목록. `access`는 `free` 또는 `plus`. 그림 이름은 `stk_`로 시작한다.
+- 그림은 Pilsa가 GPT Image 2.5로 그린 원본 캐릭터(먹물이, 사각이)와 소품이다. 앱 저장소 `tools/art/build_doodles.py`가 흰 스티커 테두리를 둘러 384px로 만든다.
+
+## 낭독 파일
+
+- 영어(`en_`, `kjv_`, `dra_`): Kokoro-82M bf_emma. 한국어(`ko_`, `krv_`, `plain_`): OpenAI gpt-4o-mini-tts cedar, 받아쓰기로 원문 대조.
+
 ## 주의
 
 - 스키마를 바꾸면 `schema_version`을 올린다. 그 버전을 모르는 옛 앱은 동기화를 건너뛰고 번들 사본을 쓴다.
