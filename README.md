@@ -9,13 +9,16 @@ Pilsa(필사) 앱이 동기화하는 콘텐츠 저장소. 앱 코드는 비공�
 ```
 manifest.json               # 앱이 처음 읽는 파일: 스키마, 버전, 파일 목록과 SHA-256
 content/
-├── kr/packs.json           # 한국 플레이버의 팩 구성 (오늘의 말씀, 계획 팩, 확언 팩)
+├── kr/packs.json           # 한국 플레이버의 팩 구성. collection이 bible(개신교), catholic(천주교), affirm(확언)
 ├── collections/
 │   └── affirmations.json   # 영어 확언과 한글 뜻, 단어 풀이
 ├── bible/
 │   ├── books.json          # 성경 책 이름 (한글, 영어)
 │   ├── krv.json            # 개역한글 (1961) 전체 본문
 │   ├── kjv.json            # King James Version 전체 본문
+│   ├── dra.json            # Douay-Rheims 전체 본문 (천주교)
+│   ├── books_catholic.json # 천주교 책 이름과 약어 73권
+│   ├── glossary_dra.json   # Douay-Rheims 옛 영어 단어장
 │   └── glossary_kjv.json   # KJV 옛 영어 단어장
 └── voice/                  # 미리 만든 낭독 파일. 확언 en_aff.NN_0.m4a, 성경 절 kjv_PSA.23.1_0.m4a
 tools/
@@ -36,6 +39,7 @@ tools/
 |---|---|---|
 | KJV | eBible.org `eng-kjv2006_vpl.zip` (1769 표준본, 외경 없음) | 인쇄본의 기울임 표시 [ ]와 문단 표시 ¶를 빼고 단어는 그대로 둠 |
 | 개역한글 | SourceForge Zefania `SF_2022-09-19_KOR_KORRV` (위키문헌 기반 1952/1961) | 그대로 둠. 본문 속 [ ]는 개역한글 인쇄본에 있는 표시라 남김 |
+| Douay-Rheims | eBible.org `engDRA_vpl.zip` (1899 미국판, Challoner 본문, 73권) | 그대로 둠. 시편은 불가타 번호. 천주교 사용자에게만 보인다 |
 
 - 두 역본 모두 시편 표제(다윗의 시, A Psalm of David.)를 1절에서 떼어 `titles`에 둔다 (116편).
 - 변환: 앱 저장소의 `tools/import_bible.py` (zefania, vpl 형식).

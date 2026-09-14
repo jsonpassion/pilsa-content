@@ -1,13 +1,31 @@
 {
  "schema_version": 1,
- "version": "664692620550",
- "generated_at": "2026-09-14T07:11:03Z",
+ "version": "58ba41650fb7",
+ "generated_at": "2026-09-14T10:59:33Z",
  "entries": [
   {
    "id": "books.json",
    "path": "content/bible/books.json",
    "checksum_sha256": "338f79aa3e453e5536a736924492db302b5331b49e49e6bb457a52429901e6ab",
    "size": 3139
+  },
+  {
+   "id": "books_catholic.json",
+   "path": "content/bible/books_catholic.json",
+   "checksum_sha256": "db06f3eaa3f94c03f5c5ae5fe6d70850e37275499995ef9dea2aef7d24ce2d16",
+   "size": 6656
+  },
+  {
+   "id": "dra.json",
+   "path": "content/bible/dra.json",
+   "checksum_sha256": "8f8bf04187da4592f1efc6b6ef4595166b23c7ad27c8893aa3925f157804ea8d",
+   "size": 5269318
+  },
+  {
+   "id": "glossary_dra.json",
+   "path": "content/bible/glossary_dra.json",
+   "checksum_sha256": "74064ea239378d0c3d77d1afdcda22955940a54b22b49a718009f076eb14ca95",
+   "size": 13672
   },
   {
    "id": "glossary_kjv.json",
@@ -36,8 +54,602 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "e73c8eb8f22b2e4e77fe03f6c816fdfb9a2e42506e5c4389c4b059de9d490ad0",
-   "size": 36275
+   "checksum_sha256": "8e30916e63de13e8769b20890e0774b769c87db79a3577bd40c140ce07ff6b7f",
+   "size": 51795
+  },
+  {
+   "id": "dra_1CO.13.13_0.m4a",
+   "path": "content/voice/dra_1CO.13.13_0.m4a",
+   "checksum_sha256": "0a231d31de9cc192e2918b23f143d3b0a61fd40c507ca85605c8333a72d7f50d",
+   "size": 40198
+  },
+  {
+   "id": "dra_1JN.4.18_0.m4a",
+   "path": "content/voice/dra_1JN.4.18_0.m4a",
+   "checksum_sha256": "2e038dd4f1336429896f40be0fd50bc88592f7a49085dd598964dbb2183d02b9",
+   "size": 57140
+  },
+  {
+   "id": "dra_1JN.4.8_0.m4a",
+   "path": "content/voice/dra_1JN.4.8_0.m4a",
+   "checksum_sha256": "94ad87e2d63d7b21cdb6ce46c5ffc578eed7703b2bd592e96c266c4f2cfa38ff",
+   "size": 28245
+  },
+  {
+   "id": "dra_1PE.5.7_0.m4a",
+   "path": "content/voice/dra_1PE.5.7_0.m4a",
+   "checksum_sha256": "21e9babe77a3f527787041a5961c22ddcba3d93839eb90ca06078bf735b8c1e3",
+   "size": 23815
+  },
+  {
+   "id": "dra_1TH.5.16_0.m4a",
+   "path": "content/voice/dra_1TH.5.16_0.m4a",
+   "checksum_sha256": "f458455a55a00645fb67a59a11ebb5ef379c870d09bb17d1f85bb8b4053b57a0",
+   "size": 14415
+  },
+  {
+   "id": "dra_1TH.5.17_0.m4a",
+   "path": "content/voice/dra_1TH.5.17_0.m4a",
+   "checksum_sha256": "13954e25e4bce1727708443d6d0a35dc79f4ac836578da9cdcc492ba8ed6b9ae",
+   "size": 14827
+  },
+  {
+   "id": "dra_1TH.5.18_0.m4a",
+   "path": "content/voice/dra_1TH.5.18_0.m4a",
+   "checksum_sha256": "974893e92f1518a4cd973ac09f66c673231abddb19a1d322667ee87cef5ccb44",
+   "size": 37067
+  },
+  {
+   "id": "dra_2CO.9.7_0.m4a",
+   "path": "content/voice/dra_2CO.9.7_0.m4a",
+   "checksum_sha256": "d266103b5232c5907ede0e011352e0986ad0dc24f88aa301b397db966c76abc3",
+   "size": 46663
+  },
+  {
+   "id": "dra_2TI.1.7_0.m4a",
+   "path": "content/voice/dra_2TI.1.7_0.m4a",
+   "checksum_sha256": "47f4e413ab58ed3de20cba867670cb988fdcab8a8cc9c58ae99484866db89e50",
+   "size": 38686
+  },
+  {
+   "id": "dra_COL.3.14_0.m4a",
+   "path": "content/voice/dra_COL.3.14_0.m4a",
+   "checksum_sha256": "c99c55c283266d711d90983c84d79e62ecc5e69cf66bb76100895824e87a3020",
+   "size": 29701
+  },
+  {
+   "id": "dra_COL.3.23_0.m4a",
+   "path": "content/voice/dra_COL.3.23_0.m4a",
+   "checksum_sha256": "e17de3c69525ef85c5b3a3c10be424d777bfc0df6a03dbf3ce91c0c3a3323a81",
+   "size": 29470
+  },
+  {
+   "id": "dra_EPH.4.32_0.m4a",
+   "path": "content/voice/dra_EPH.4.32_0.m4a",
+   "checksum_sha256": "1713773cf31727fdf0567ed61370dcd25feb7930407225cb318bbf68ca541414",
+   "size": 44020
+  },
+  {
+   "id": "dra_GAL.5.22_0.m4a",
+   "path": "content/voice/dra_GAL.5.22_0.m4a",
+   "checksum_sha256": "2fc793e1d795683e4e52bcf33bf51b2d9de6457335e912658bf003d92f0106bb",
+   "size": 40761
+  },
+  {
+   "id": "dra_GAL.5.23_0.m4a",
+   "path": "content/voice/dra_GAL.5.23_0.m4a",
+   "checksum_sha256": "873d541d61733a02c137b519edeaa35c7b69cc9a67064526cf73389474d7c5db",
+   "size": 37585
+  },
+  {
+   "id": "dra_GAL.6.9_0.m4a",
+   "path": "content/voice/dra_GAL.6.9_0.m4a",
+   "checksum_sha256": "6b9d8b56a5ebea0a3a41522e9403a0b1a9f0a38bdb8799d9330e85bf55f2d898",
+   "size": 33815
+  },
+  {
+   "id": "dra_GEN.1.1_0.m4a",
+   "path": "content/voice/dra_GEN.1.1_0.m4a",
+   "checksum_sha256": "ea799ceca72725e88dd4faec395bb6e168f0214a08c516efc5944b39f12c893c",
+   "size": 22721
+  },
+  {
+   "id": "dra_HEB.11.1_0.m4a",
+   "path": "content/voice/dra_HEB.11.1_0.m4a",
+   "checksum_sha256": "27dbba5707761e50a035938a910f7a72d1347dfce9e211805158e69f87158b8c",
+   "size": 37653
+  },
+  {
+   "id": "dra_ISA.40.31_0.m4a",
+   "path": "content/voice/dra_ISA.40.31_0.m4a",
+   "checksum_sha256": "bd302a8d66558f75b5d40e1e53e7c5ea62e5e79c4681fca70b7e491fb2c56546",
+   "size": 55330
+  },
+  {
+   "id": "dra_ISA.41.10_0.m4a",
+   "path": "content/voice/dra_ISA.41.10_0.m4a",
+   "checksum_sha256": "1651096f95b24eb228a17bfc38039ac7fd6ae1477519e9d742047496e3b1e3ec",
+   "size": 58237
+  },
+  {
+   "id": "dra_ISA.43.1_0.m4a",
+   "path": "content/voice/dra_ISA.43.1_0.m4a",
+   "checksum_sha256": "7e8062c58a1c2444465edc7ea91884e9475238002f855855630e151a4a404877",
+   "size": 62423
+  },
+  {
+   "id": "dra_JAS.1.17_0.m4a",
+   "path": "content/voice/dra_JAS.1.17_0.m4a",
+   "checksum_sha256": "25af0921c8ef4c0ebd41644bbb673197b993a038b817689aed1239afd655964f",
+   "size": 59773
+  },
+  {
+   "id": "dra_JER.29.11_0.m4a",
+   "path": "content/voice/dra_JER.29.11_0.m4a",
+   "checksum_sha256": "8507e2a9ec5488cf28fb8f605dcee40e61f5be6a66aeec3cb266a1e316ec16a5",
+   "size": 48801
+  },
+  {
+   "id": "dra_JHN.1.14_0.m4a",
+   "path": "content/voice/dra_JHN.1.14_0.m4a",
+   "checksum_sha256": "4ba4412f2564959018706df93fdf5228197862ea74b7baa632bdae184db8e033",
+   "size": 59109
+  },
+  {
+   "id": "dra_JHN.1.1_0.m4a",
+   "path": "content/voice/dra_JHN.1.1_0.m4a",
+   "checksum_sha256": "77e1dc51ac1ffff0217153eee91bf6b98b05236e4809c2ff057a2520f56b97d1",
+   "size": 31760
+  },
+  {
+   "id": "dra_JHN.1.2_0.m4a",
+   "path": "content/voice/dra_JHN.1.2_0.m4a",
+   "checksum_sha256": "915d4f3ee8bb21378f49afa2a23c9a4b562a7a0d19d45cd3fadea54bd3039b89",
+   "size": 19013
+  },
+  {
+   "id": "dra_JHN.1.3_0.m4a",
+   "path": "content/voice/dra_JHN.1.3_0.m4a",
+   "checksum_sha256": "c1c1e6dd05da8f30925a66a0e403f413557cc26f7aecd12f71ce7d446a306756",
+   "size": 31749
+  },
+  {
+   "id": "dra_JHN.10.11_0.m4a",
+   "path": "content/voice/dra_JHN.10.11_0.m4a",
+   "checksum_sha256": "9837d247f0334b8ec02b1f368c30d30bf4b78d87efe12a63f1e1c9ed3f4c4830",
+   "size": 30034
+  },
+  {
+   "id": "dra_JHN.11.25_0.m4a",
+   "path": "content/voice/dra_JHN.11.25_0.m4a",
+   "checksum_sha256": "8323c6fc36a47036b43c7f7bc99aebdba517cedd4e5f5a055ad3f5de05512ed1",
+   "size": 42848
+  },
+  {
+   "id": "dra_JHN.13.34_0.m4a",
+   "path": "content/voice/dra_JHN.13.34_0.m4a",
+   "checksum_sha256": "c7ae5bc23e4da85b853935be1229e5a6684b460d67efe47f7a36e8627a7f347f",
+   "size": 41389
+  },
+  {
+   "id": "dra_JHN.14.27_0.m4a",
+   "path": "content/voice/dra_JHN.14.27_0.m4a",
+   "checksum_sha256": "e616258248c1457a4a6a136e05a13cc0736f70125b395ae98a9838a5140d8b10",
+   "size": 55942
+  },
+  {
+   "id": "dra_JHN.14.6_0.m4a",
+   "path": "content/voice/dra_JHN.14.6_0.m4a",
+   "checksum_sha256": "10b720583dc0674c0568844f4d09fcc7aaae2b3365d8e6613b56fdc1369cc590",
+   "size": 42763
+  },
+  {
+   "id": "dra_JHN.15.9_0.m4a",
+   "path": "content/voice/dra_JHN.15.9_0.m4a",
+   "checksum_sha256": "0d9e487c962a6b5558b64f516d93ea408fd8f8bbc3045dcc9bf5fefd8fa78b15",
+   "size": 23354
+  },
+  {
+   "id": "dra_JHN.3.16_0.m4a",
+   "path": "content/voice/dra_JHN.3.16_0.m4a",
+   "checksum_sha256": "a6522dc64138530119efc1e9e4b91f71f177d97a23938afae06757598770d1f6",
+   "size": 56657
+  },
+  {
+   "id": "dra_JHN.6.35_0.m4a",
+   "path": "content/voice/dra_JHN.6.35_0.m4a",
+   "checksum_sha256": "ee5a4175d3de9afe1b2fa361d6af8c0ff70345e6d9df60d79b4bc30abbae4443",
+   "size": 50743
+  },
+  {
+   "id": "dra_JHN.8.12_0.m4a",
+   "path": "content/voice/dra_JHN.8.12_0.m4a",
+   "checksum_sha256": "7f1f7cc656fddf35c4508914f3e096e33e09b5294daafa8f5123e6106f136897",
+   "size": 57375
+  },
+  {
+   "id": "dra_JOS.1.9_0.m4a",
+   "path": "content/voice/dra_JOS.1.9_0.m4a",
+   "checksum_sha256": "d65abbd6f1f2a79ca5b78aacd99b1fbb26807c1f5a7cd55f85222ebc1d878ba1",
+   "size": 62319
+  },
+  {
+   "id": "dra_LUK.1.28_0.m4a",
+   "path": "content/voice/dra_LUK.1.28_0.m4a",
+   "checksum_sha256": "c5e91be2bf266a0c9864fc30df7cf15acecc933ce3c9105e40950b0e10367de4",
+   "size": 45662
+  },
+  {
+   "id": "dra_LUK.1.30_0.m4a",
+   "path": "content/voice/dra_LUK.1.30_0.m4a",
+   "checksum_sha256": "017d06ec18eb6b56a0791295fde77a39fbdb3d3002aa276672b9ff15cfe54bc4",
+   "size": 35594
+  },
+  {
+   "id": "dra_LUK.1.31_0.m4a",
+   "path": "content/voice/dra_LUK.1.31_0.m4a",
+   "checksum_sha256": "c975daf2b01868f00eab17bb5b4217886e9cf086f1976f7f99a4992f5f627809",
+   "size": 41573
+  },
+  {
+   "id": "dra_LUK.1.37_0.m4a",
+   "path": "content/voice/dra_LUK.1.37_0.m4a",
+   "checksum_sha256": "50b7d83330569413f0a239567f6410cc3958164f73537d0ba1bd32f71b424626",
+   "size": 21144
+  },
+  {
+   "id": "dra_LUK.1.38_0.m4a",
+   "path": "content/voice/dra_LUK.1.38_0.m4a",
+   "checksum_sha256": "2c23109721335ffac16338274200b604eed174b411dee2a026823d22b54954a4",
+   "size": 49722
+  },
+  {
+   "id": "dra_LUK.1.46_0.m4a",
+   "path": "content/voice/dra_LUK.1.46_0.m4a",
+   "checksum_sha256": "1f95c1d5208a50249c093cfec2552258ecef3b88e85d44440c9e864a461b8721",
+   "size": 25858
+  },
+  {
+   "id": "dra_LUK.1.47_0.m4a",
+   "path": "content/voice/dra_LUK.1.47_0.m4a",
+   "checksum_sha256": "035a6bca07767aa0789294cb9a2fd55daaa43b626eddc51be3e0c14051bd6895",
+   "size": 23899
+  },
+  {
+   "id": "dra_LUK.1.48_0.m4a",
+   "path": "content/voice/dra_LUK.1.48_0.m4a",
+   "checksum_sha256": "48ec40dbc6ea7bfaa4220e3525b8fcf4a17503169258b4b5f90c81544a3148cf",
+   "size": 46377
+  },
+  {
+   "id": "dra_LUK.10.27_0.m4a",
+   "path": "content/voice/dra_LUK.10.27_0.m4a",
+   "checksum_sha256": "4f7eb7dcebb9c9da9ec9ae6e51c366f683fdca2c7c3cdad46b295ad185301b98",
+   "size": 67443
+  },
+  {
+   "id": "dra_LUK.11.9_0.m4a",
+   "path": "content/voice/dra_LUK.11.9_0.m4a",
+   "checksum_sha256": "e27157ac4c08e0cd1a3f5e6cda5bb6ff9c15a01fdae81b63956a17d7c7e8f215",
+   "size": 43013
+  },
+  {
+   "id": "dra_LUK.15.20_0.m4a",
+   "path": "content/voice/dra_LUK.15.20_0.m4a",
+   "checksum_sha256": "1e6d2d1f26589f7c7dbed17fa9aee9848b4d6f6b6a377375e80170eeb43f5c04",
+   "size": 65750
+  },
+  {
+   "id": "dra_LUK.2.10_0.m4a",
+   "path": "content/voice/dra_LUK.2.10_0.m4a",
+   "checksum_sha256": "d8b668def92b4be897aa541e922d58653df5d2841b34bf469993c991a0dc8ab1",
+   "size": 49905
+  },
+  {
+   "id": "dra_LUK.2.11_0.m4a",
+   "path": "content/voice/dra_LUK.2.11_0.m4a",
+   "checksum_sha256": "617f3f2c3995055bf4a014d6761dfa1a970688d4b040ba44bc5ab6f14033973f",
+   "size": 35203
+  },
+  {
+   "id": "dra_LUK.2.19_0.m4a",
+   "path": "content/voice/dra_LUK.2.19_0.m4a",
+   "checksum_sha256": "7faee4693503a62c1590762a17cc21ea8f38b42e6dc0e134187a202666f0eb09",
+   "size": 24729
+  },
+  {
+   "id": "dra_LUK.6.36_0.m4a",
+   "path": "content/voice/dra_LUK.6.36_0.m4a",
+   "checksum_sha256": "ae9243d1013c153f39bf6d68f52ea68d84159c44448119ffd9b778e0a2f6898d",
+   "size": 28798
+  },
+  {
+   "id": "dra_MAT.11.28_0.m4a",
+   "path": "content/voice/dra_MAT.11.28_0.m4a",
+   "checksum_sha256": "0758b464ad4136e613382ad94232b33ea9d60aafb18fad855621792b8f2cac47",
+   "size": 28281
+  },
+  {
+   "id": "dra_MAT.11.29_0.m4a",
+   "path": "content/voice/dra_MAT.11.29_0.m4a",
+   "checksum_sha256": "f7baed1188e0fb690a0c3431743442618b76a91bd24776fc2aaffc2625a7f8c0",
+   "size": 44652
+  },
+  {
+   "id": "dra_MAT.11.30_0.m4a",
+   "path": "content/voice/dra_MAT.11.30_0.m4a",
+   "checksum_sha256": "743f16a6bc28d13a76dfb7c06f2874eaeebd20da3c02fa8c8bcafd6aecaa035c",
+   "size": 21617
+  },
+  {
+   "id": "dra_MAT.18.20_0.m4a",
+   "path": "content/voice/dra_MAT.18.20_0.m4a",
+   "checksum_sha256": "3586d4893ab59c4969c7f9c1216dbe878024318124b786d3e0614f7b71149916",
+   "size": 34602
+  },
+  {
+   "id": "dra_MAT.28.19_0.m4a",
+   "path": "content/voice/dra_MAT.28.19_0.m4a",
+   "checksum_sha256": "90f703527bc2956b12e8a2f2fd5ede745f4d26b085f1e6a12f2cb2eb661749dd",
+   "size": 46753
+  },
+  {
+   "id": "dra_MAT.28.20_0.m4a",
+   "path": "content/voice/dra_MAT.28.20_0.m4a",
+   "checksum_sha256": "f97fbc12e327c72f80cec7d7c46e82ffef8e6b2d2d589cd147a963555f9844ad",
+   "size": 56227
+  },
+  {
+   "id": "dra_MAT.3.17_0.m4a",
+   "path": "content/voice/dra_MAT.3.17_0.m4a",
+   "checksum_sha256": "f93481f6ec57159b5edb80b44fd54bb408f672c950f5611db55efbc90dcc1f97",
+   "size": 37850
+  },
+  {
+   "id": "dra_MAT.5.14_0.m4a",
+   "path": "content/voice/dra_MAT.5.14_0.m4a",
+   "checksum_sha256": "95104b10f80e6db6f409f5eabfed97ed33cf6b50f795bde6b42bd5ce36cc9f60",
+   "size": 32124
+  },
+  {
+   "id": "dra_MAT.5.3_0.m4a",
+   "path": "content/voice/dra_MAT.5.3_0.m4a",
+   "checksum_sha256": "bfd1f6d05dd8013668f4fc90e7ca84e67a1174f205db81999f9db100fdf3f50c",
+   "size": 28520
+  },
+  {
+   "id": "dra_MAT.5.4_0.m4a",
+   "path": "content/voice/dra_MAT.5.4_0.m4a",
+   "checksum_sha256": "59b17928d7732e6e4304c6c119e0dc1572b90db86e945001ce8c244015d1d8c2",
+   "size": 21874
+  },
+  {
+   "id": "dra_MAT.5.5_0.m4a",
+   "path": "content/voice/dra_MAT.5.5_0.m4a",
+   "checksum_sha256": "90e2d22dc5095c663f2ddc8bb7360e005dcd4d72bba40183f1718f5d9b73693e",
+   "size": 23541
+  },
+  {
+   "id": "dra_MAT.5.6_0.m4a",
+   "path": "content/voice/dra_MAT.5.6_0.m4a",
+   "checksum_sha256": "83831783c98e7d2be4ae1c508ffefc8fa23fd23e2db94e309fb52612502f08da",
+   "size": 33714
+  },
+  {
+   "id": "dra_MAT.5.7_0.m4a",
+   "path": "content/voice/dra_MAT.5.7_0.m4a",
+   "checksum_sha256": "0624e8799f591521dc0d71559bcbbe8761d84a7a2d21917b8f40d9b078eb916b",
+   "size": 24270
+  },
+  {
+   "id": "dra_MAT.5.8_0.m4a",
+   "path": "content/voice/dra_MAT.5.8_0.m4a",
+   "checksum_sha256": "8d592efe28f714125a8b5e8f7df160185a28b872892a666ac6ce2f829734c46d",
+   "size": 22512
+  },
+  {
+   "id": "dra_MAT.5.9_0.m4a",
+   "path": "content/voice/dra_MAT.5.9_0.m4a",
+   "checksum_sha256": "dd79c6063e1878e80c40625645a8571c3479af72ac11805964986abedec960ed",
+   "size": 28902
+  },
+  {
+   "id": "dra_MAT.6.10_0.m4a",
+   "path": "content/voice/dra_MAT.6.10_0.m4a",
+   "checksum_sha256": "c93d6f8e8e1a014d9830b423ac3892ea425f8162bb555e782a58ca96ab5be45f",
+   "size": 28129
+  },
+  {
+   "id": "dra_MAT.6.11_0.m4a",
+   "path": "content/voice/dra_MAT.6.11_0.m4a",
+   "checksum_sha256": "8cfbc1ec7b0c2730f4400efcfd3349af9945f65a77eb84b02cdd1134df1bdd8e",
+   "size": 22282
+  },
+  {
+   "id": "dra_MAT.6.12_0.m4a",
+   "path": "content/voice/dra_MAT.6.12_0.m4a",
+   "checksum_sha256": "e8001c8c27f3a1337f0393fafbc12b9910ec1dae82aa34fd82a851686d7680df",
+   "size": 24943
+  },
+  {
+   "id": "dra_MAT.6.13_0.m4a",
+   "path": "content/voice/dra_MAT.6.13_0.m4a",
+   "checksum_sha256": "f9d2a14572494d046bd0d14c360ba5f436873e16e3991c592e72a5c4732fb11f",
+   "size": 30791
+  },
+  {
+   "id": "dra_MAT.6.21_0.m4a",
+   "path": "content/voice/dra_MAT.6.21_0.m4a",
+   "checksum_sha256": "f54199fd05e07565d1c3caa2ffa4a67b0cf1b601a6726631e8fff51f6f6551a1",
+   "size": 24193
+  },
+  {
+   "id": "dra_MAT.6.33_0.m4a",
+   "path": "content/voice/dra_MAT.6.33_0.m4a",
+   "checksum_sha256": "5f865656b9d98da83b70456f1e3a9c56b48cf87904846f3b4311ed43a8df1b55",
+   "size": 39826
+  },
+  {
+   "id": "dra_MAT.6.34_0.m4a",
+   "path": "content/voice/dra_MAT.6.34_0.m4a",
+   "checksum_sha256": "91115d85a3049cff109a63d66352b3b0e5a4cb1cafb9aae2d062ddf9cfe4535b",
+   "size": 51572
+  },
+  {
+   "id": "dra_MAT.6.9_0.m4a",
+   "path": "content/voice/dra_MAT.6.9_0.m4a",
+   "checksum_sha256": "8f998c61815fee6e0501003c8874c4be36ac75e31d8c79d9d8a6ddfad7a18ec4",
+   "size": 32863
+  },
+  {
+   "id": "dra_MAT.7.12_0.m4a",
+   "path": "content/voice/dra_MAT.7.12_0.m4a",
+   "checksum_sha256": "2e9782b50fa0f2600a0c0268d8ff0567b87229d4820035e2901e662aa1af848a",
+   "size": 46882
+  },
+  {
+   "id": "dra_MAT.7.7_0.m4a",
+   "path": "content/voice/dra_MAT.7.7_0.m4a",
+   "checksum_sha256": "fe1d8f91f3fc5b7e5dabab7b2a92929e395ab53abeebcb94b5011ea6f00cec97",
+   "size": 35901
+  },
+  {
+   "id": "dra_MAT.7.8_0.m4a",
+   "path": "content/voice/dra_MAT.7.8_0.m4a",
+   "checksum_sha256": "01bfef68fb408d756e84e6c099c199a4a9d346c24f5f1d77bc84222d314c9683",
+   "size": 43877
+  },
+  {
+   "id": "dra_MIC.6.8_0.m4a",
+   "path": "content/voice/dra_MIC.6.8_0.m4a",
+   "checksum_sha256": "afd2440831de0fa2308294705efb6536086b91e46719898482fec44c4e907c40",
+   "size": 60309
+  },
+  {
+   "id": "dra_MRK.10.14_0.m4a",
+   "path": "content/voice/dra_MRK.10.14_0.m4a",
+   "checksum_sha256": "dd4d528c30f27f4de8d987c979a66aa6a8680d4c16e7a84b8d9a4ecc19476f84",
+   "size": 62240
+  },
+  {
+   "id": "dra_MRK.9.22_0.m4a",
+   "path": "content/voice/dra_MRK.9.22_0.m4a",
+   "checksum_sha256": "7f2f64a1f17350283f17ed8141291491ca09a47375d72ef96865e5a247472282",
+   "size": 38155
+  },
+  {
+   "id": "dra_PHP.4.13_0.m4a",
+   "path": "content/voice/dra_PHP.4.13_0.m4a",
+   "checksum_sha256": "15389f8e35167de7dd8e90c2621b0787f93ad3c376466ec5f7f66e87e7a993d1",
+   "size": 22547
+  },
+  {
+   "id": "dra_PHP.4.4_0.m4a",
+   "path": "content/voice/dra_PHP.4.4_0.m4a",
+   "checksum_sha256": "9635c60d21cebd57a1ee5d2f13e5312a8634a84907863e6b850092569bfbc868",
+   "size": 25811
+  },
+  {
+   "id": "dra_ROM.12.12_0.m4a",
+   "path": "content/voice/dra_ROM.12.12_0.m4a",
+   "checksum_sha256": "eac2583d23da115e47a756132a4960f9ab910243718b3a29f39a300cb18b8dc0",
+   "size": 31328
+  },
+  {
+   "id": "dra_ROM.15.13_0.m4a",
+   "path": "content/voice/dra_ROM.15.13_0.m4a",
+   "checksum_sha256": "03e8d5c0b6a99173c53b85a8b827ca20f732027ee8cf667140c308a5f86f8a62",
+   "size": 48965
+  },
+  {
+   "id": "dra_ROM.8.28_0.m4a",
+   "path": "content/voice/dra_ROM.8.28_0.m4a",
+   "checksum_sha256": "1f07d99d0f27d95fe49af93b97941982f7c921a7c529e6193dbb359969b49d94",
+   "size": 53798
+  },
+  {
+   "id": "dra_SIR.2.1_0.m4a",
+   "path": "content/voice/dra_SIR.2.1_0.m4a",
+   "checksum_sha256": "92b8e385d43458a02c38ff0dd119a1156c0925efa65389a6658063fa98993b9c",
+   "size": 46489
+  },
+  {
+   "id": "dra_SIR.2.2_0.m4a",
+   "path": "content/voice/dra_SIR.2.2_0.m4a",
+   "checksum_sha256": "8b223e860e955d75875eebaf0feec1d795ec0b05f0c4fd29ff1168487c502f69",
+   "size": 52663
+  },
+  {
+   "id": "dra_SIR.2.6_0.m4a",
+   "path": "content/voice/dra_SIR.2.6_0.m4a",
+   "checksum_sha256": "974a0fdd344cca03b233339b2cc8d6aca6a9de75e16def32668c950e765018d0",
+   "size": 46084
+  },
+  {
+   "id": "dra_SIR.3.20_0.m4a",
+   "path": "content/voice/dra_SIR.3.20_0.m4a",
+   "checksum_sha256": "7e6991e7c8cea505ae35d0bab9a64540afb15ef86c57843ef7246ca3f1f3d135",
+   "size": 39282
+  },
+  {
+   "id": "dra_SIR.6.14_0.m4a",
+   "path": "content/voice/dra_SIR.6.14_0.m4a",
+   "checksum_sha256": "4b1c1625b523860beaba70aa609deb83ad1254e08916c4ba9ee2641ad0ebdffe",
+   "size": 35096
+  },
+  {
+   "id": "dra_SIR.6.15_0.m4a",
+   "path": "content/voice/dra_SIR.6.15_0.m4a",
+   "checksum_sha256": "7cb2feea07586134a23bc9c6ee42a879209748b1735e94644454ab0f13f6cc7d",
+   "size": 50289
+  },
+  {
+   "id": "dra_TOB.4.16_0.m4a",
+   "path": "content/voice/dra_TOB.4.16_0.m4a",
+   "checksum_sha256": "29296ad5b1a9e9e334ec35d8335ac68a09e4a9b273c17fddc3b2d4aab539d8cd",
+   "size": 30495
+  },
+  {
+   "id": "dra_WIS.1.1_0.m4a",
+   "path": "content/voice/dra_WIS.1.1_0.m4a",
+   "checksum_sha256": "c5fe293c796cfa043fd885dcad4b074f515a48d4d40f7aa9cd0254302e0baa42",
+   "size": 46503
+  },
+  {
+   "id": "dra_WIS.11.25_0.m4a",
+   "path": "content/voice/dra_WIS.11.25_0.m4a",
+   "checksum_sha256": "051c0ca95426cda202e48e82de3410019fb7a6d9c2ae65a09ccdc6aff2f19892",
+   "size": 57131
+  },
+  {
+   "id": "dra_WIS.3.1_0.m4a",
+   "path": "content/voice/dra_WIS.3.1_0.m4a",
+   "checksum_sha256": "311d57a71f49f17c92f96dc5661438b3a4699a9eb5839570c2194f384397f306",
+   "size": 35812
+  },
+  {
+   "id": "dra_WIS.3.2_0.m4a",
+   "path": "content/voice/dra_WIS.3.2_0.m4a",
+   "checksum_sha256": "01f14c4a68ab64da264d7303b37bb9f22532f41424b5c591c7c636a277a518f8",
+   "size": 35590
+  },
+  {
+   "id": "dra_WIS.3.3_0.m4a",
+   "path": "content/voice/dra_WIS.3.3_0.m4a",
+   "checksum_sha256": "2b6098512a148667c3f4bae8875defe2cd8e23bdbb8232e289f6bde3bd5e4897",
+   "size": 30274
+  },
+  {
+   "id": "dra_WIS.6.13_0.m4a",
+   "path": "content/voice/dra_WIS.6.13_0.m4a",
+   "checksum_sha256": "7583c9dbc100b6847aebf1079e021283b6e022fd11c232a7ab13e55441074066",
+   "size": 49251
+  },
+  {
+   "id": "dra_WIS.7.26_0.m4a",
+   "path": "content/voice/dra_WIS.7.26_0.m4a",
+   "checksum_sha256": "1cba21e107f0d8e67218d1e68ae7671da5c66e96d8ad201be69f2d04f3e53793",
+   "size": 46492
   },
   {
    "id": "en_aff.01_0.m4a",
