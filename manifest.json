@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "58ba41650fb7",
- "generated_at": "2026-09-14T10:59:33Z",
+ "version": "98c66e7e79c3",
+ "generated_at": "2026-09-14T11:48:51Z",
  "entries": [
   {
    "id": "books.json",
@@ -52,10 +52,16 @@
    "size": 31051
   },
   {
+   "id": "buddhist.json",
+   "path": "content/collections/buddhist.json",
+   "checksum_sha256": "79612a8e58125563a1ac1747e57c5b96f5dfce6dd8e435f71c875415296b0544",
+   "size": 48651
+  },
+  {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "8e30916e63de13e8769b20890e0774b769c87db79a3577bd40c140ce07ff6b7f",
-   "size": 51795
+   "checksum_sha256": "35c1be8c63769a10ed2d87633c3709a8dcf03a52bf0945c4a989e02dba4dcc6f",
+   "size": 64876
   },
   {
    "id": "dra_1CO.13.13_0.m4a",
