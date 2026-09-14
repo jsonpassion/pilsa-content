@@ -1,0 +1,440 @@
+[
+ {
+  "id": "GEN",
+  "ko": "창세기",
+  "abbr": "창세",
+  "en": "Genesis"
+ },
+ {
+  "id": "EXO",
+  "ko": "탈출기",
+  "abbr": "탈출",
+  "en": "Exodus"
+ },
+ {
+  "id": "LEV",
+  "ko": "레위기",
+  "abbr": "레위",
+  "en": "Leviticus"
+ },
+ {
+  "id": "NUM",
+  "ko": "민수기",
+  "abbr": "민수",
+  "en": "Numbers"
+ },
+ {
+  "id": "DEU",
+  "ko": "신명기",
+  "abbr": "신명",
+  "en": "Deuteronomy"
+ },
+ {
+  "id": "JOS",
+  "ko": "여호수아기",
+  "abbr": "여호",
+  "en": "Joshua"
+ },
+ {
+  "id": "JDG",
+  "ko": "판관기",
+  "abbr": "판관",
+  "en": "Judges"
+ },
+ {
+  "id": "RUT",
+  "ko": "룻기",
+  "abbr": "룻",
+  "en": "Ruth"
+ },
+ {
+  "id": "1SA",
+  "ko": "사무엘기 상권",
+  "abbr": "1사무",
+  "en": "1 Samuel"
+ },
+ {
+  "id": "2SA",
+  "ko": "사무엘기 하권",
+  "abbr": "2사무",
+  "en": "2 Samuel"
+ },
+ {
+  "id": "1KI",
+  "ko": "열왕기 상권",
+  "abbr": "1열왕",
+  "en": "1 Kings"
+ },
+ {
+  "id": "2KI",
+  "ko": "열왕기 하권",
+  "abbr": "2열왕",
+  "en": "2 Kings"
+ },
+ {
+  "id": "1CH",
+  "ko": "역대기 상권",
+  "abbr": "1역대",
+  "en": "1 Chronicles"
+ },
+ {
+  "id": "2CH",
+  "ko": "역대기 하권",
+  "abbr": "2역대",
+  "en": "2 Chronicles"
+ },
+ {
+  "id": "EZR",
+  "ko": "에즈라기",
+  "abbr": "에즈",
+  "en": "Ezra"
+ },
+ {
+  "id": "NEH",
+  "ko": "느헤미야기",
+  "abbr": "느헤",
+  "en": "Nehemiah"
+ },
+ {
+  "id": "TOB",
+  "ko": "토빗기",
+  "abbr": "토빗",
+  "en": "Tobit"
+ },
+ {
+  "id": "JDT",
+  "ko": "유딧기",
+  "abbr": "유딧",
+  "en": "Judith"
+ },
+ {
+  "id": "EST",
+  "ko": "에스테르기",
+  "abbr": "에스",
+  "en": "Esther"
+ },
+ {
+  "id": "1MA",
+  "ko": "마카베오기 상권",
+  "abbr": "1마카",
+  "en": "1 Maccabees"
+ },
+ {
+  "id": "2MA",
+  "ko": "마카베오기 하권",
+  "abbr": "2마카",
+  "en": "2 Maccabees"
+ },
+ {
+  "id": "JOB",
+  "ko": "욥기",
+  "abbr": "욥",
+  "en": "Job"
+ },
+ {
+  "id": "PSA",
+  "ko": "시편",
+  "abbr": "시편",
+  "en": "Psalms"
+ },
+ {
+  "id": "PRO",
+  "ko": "잠언",
+  "abbr": "잠언",
+  "en": "Proverbs"
+ },
+ {
+  "id": "ECC",
+  "ko": "코헬렛",
+  "abbr": "코헬",
+  "en": "Ecclesiastes"
+ },
+ {
+  "id": "SNG",
+  "ko": "아가",
+  "abbr": "아가",
+  "en": "Song of Songs"
+ },
+ {
+  "id": "WIS",
+  "ko": "지혜서",
+  "abbr": "지혜",
+  "en": "Wisdom"
+ },
+ {
+  "id": "SIR",
+  "ko": "집회서",
+  "abbr": "집회",
+  "en": "Sirach"
+ },
+ {
+  "id": "ISA",
+  "ko": "이사야서",
+  "abbr": "이사",
+  "en": "Isaiah"
+ },
+ {
+  "id": "JER",
+  "ko": "예레미야서",
+  "abbr": "예레",
+  "en": "Jeremiah"
+ },
+ {
+  "id": "LAM",
+  "ko": "애가",
+  "abbr": "애가",
+  "en": "Lamentations"
+ },
+ {
+  "id": "BAR",
+  "ko": "바룩서",
+  "abbr": "바룩",
+  "en": "Baruch"
+ },
+ {
+  "id": "EZK",
+  "ko": "에제키엘서",
+  "abbr": "에제",
+  "en": "Ezekiel"
+ },
+ {
+  "id": "DAN",
+  "ko": "다니엘서",
+  "abbr": "다니",
+  "en": "Daniel"
+ },
+ {
+  "id": "HOS",
+  "ko": "호세아서",
+  "abbr": "호세",
+  "en": "Hosea"
+ },
+ {
+  "id": "JOL",
+  "ko": "요엘서",
+  "abbr": "요엘",
+  "en": "Joel"
+ },
+ {
+  "id": "AMO",
+  "ko": "아모스서",
+  "abbr": "아모",
+  "en": "Amos"
+ },
+ {
+  "id": "OBA",
+  "ko": "오바드야서",
+  "abbr": "오바",
+  "en": "Obadiah"
+ },
+ {
+  "id": "JON",
+  "ko": "요나서",
+  "abbr": "요나",
+  "en": "Jonah"
+ },
+ {
+  "id": "MIC",
+  "ko": "미카서",
+  "abbr": "미카",
+  "en": "Micah"
+ },
+ {
+  "id": "NAM",
+  "ko": "나훔서",
+  "abbr": "나훔",
+  "en": "Nahum"
+ },
+ {
+  "id": "HAB",
+  "ko": "하바쿡서",
+  "abbr": "하바",
+  "en": "Habakkuk"
+ },
+ {
+  "id": "ZEP",
+  "ko": "스바니야서",
+  "abbr": "스바",
+  "en": "Zephaniah"
+ },
+ {
+  "id": "HAG",
+  "ko": "하까이서",
+  "abbr": "하까",
+  "en": "Haggai"
+ },
+ {
+  "id": "ZEC",
+  "ko": "즈카르야서",
+  "abbr": "즈카",
+  "en": "Zechariah"
+ },
+ {
+  "id": "MAL",
+  "ko": "말라키서",
+  "abbr": "말라",
+  "en": "Malachi"
+ },
+ {
+  "id": "MAT",
+  "ko": "마태오 복음서",
+  "abbr": "마태",
+  "en": "Matthew"
+ },
+ {
+  "id": "MRK",
+  "ko": "마르코 복음서",
+  "abbr": "마르",
+  "en": "Mark"
+ },
+ {
+  "id": "LUK",
+  "ko": "루카 복음서",
+  "abbr": "루카",
+  "en": "Luke"
+ },
+ {
+  "id": "JHN",
+  "ko": "요한 복음서",
+  "abbr": "요한",
+  "en": "John"
+ },
+ {
+  "id": "ACT",
+  "ko": "사도행전",
+  "abbr": "사도",
+  "en": "Acts"
+ },
+ {
+  "id": "ROM",
+  "ko": "로마 신자들에게 보낸 서간",
+  "abbr": "로마",
+  "en": "Romans"
+ },
+ {
+  "id": "1CO",
+  "ko": "코린토 신자들에게 보낸 첫째 서간",
+  "abbr": "1코린",
+  "en": "1 Corinthians"
+ },
+ {
+  "id": "2CO",
+  "ko": "코린토 신자들에게 보낸 둘째 서간",
+  "abbr": "2코린",
+  "en": "2 Corinthians"
+ },
+ {
+  "id": "GAL",
+  "ko": "갈라티아 신자들에게 보낸 서간",
+  "abbr": "갈라",
+  "en": "Galatians"
+ },
+ {
+  "id": "EPH",
+  "ko": "에페소 신자들에게 보낸 서간",
+  "abbr": "에페",
+  "en": "Ephesians"
+ },
+ {
+  "id": "PHP",
+  "ko": "필리피 신자들에게 보낸 서간",
+  "abbr": "필리",
+  "en": "Philippians"
+ },
+ {
+  "id": "COL",
+  "ko": "콜로새 신자들에게 보낸 서간",
+  "abbr": "콜로",
+  "en": "Colossians"
+ },
+ {
+  "id": "1TH",
+  "ko": "테살로니카 신자들에게 보낸 첫째 서간",
+  "abbr": "1테살",
+  "en": "1 Thessalonians"
+ },
+ {
+  "id": "2TH",
+  "ko": "테살로니카 신자들에게 보낸 둘째 서간",
+  "abbr": "2테살",
+  "en": "2 Thessalonians"
+ },
+ {
+  "id": "1TI",
+  "ko": "티모테오에게 보낸 첫째 서간",
+  "abbr": "1티모",
+  "en": "1 Timothy"
+ },
+ {
+  "id": "2TI",
+  "ko": "티모테오에게 보낸 둘째 서간",
+  "abbr": "2티모",
+  "en": "2 Timothy"
+ },
+ {
+  "id": "TIT",
+  "ko": "티토에게 보낸 서간",
+  "abbr": "티토",
+  "en": "Titus"
+ },
+ {
+  "id": "PHM",
+  "ko": "필레몬에게 보낸 서간",
+  "abbr": "필레",
+  "en": "Philemon"
+ },
+ {
+  "id": "HEB",
+  "ko": "히브리인들에게 보낸 서간",
+  "abbr": "히브",
+  "en": "Hebrews"
+ },
+ {
+  "id": "JAS",
+  "ko": "야고보 서간",
+  "abbr": "야고",
+  "en": "James"
+ },
+ {
+  "id": "1PE",
+  "ko": "베드로의 첫째 서간",
+  "abbr": "1베드",
+  "en": "1 Peter"
+ },
+ {
+  "id": "2PE",
+  "ko": "베드로의 둘째 서간",
+  "abbr": "2베드",
+  "en": "2 Peter"
+ },
+ {
+  "id": "1JN",
+  "ko": "요한의 첫째 서간",
+  "abbr": "1요한",
+  "en": "1 John"
+ },
+ {
+  "id": "2JN",
+  "ko": "요한의 둘째 서간",
+  "abbr": "2요한",
+  "en": "2 John"
+ },
+ {
+  "id": "3JN",
+  "ko": "요한의 셋째 서간",
+  "abbr": "3요한",
+  "en": "3 John"
+ },
+ {
+  "id": "JUD",
+  "ko": "유다 서간",
+  "abbr": "유다",
+  "en": "Jude"
+ },
+ {
+  "id": "REV",
+  "ko": "요한 묵시록",
+  "abbr": "묵시",
+  "en": "Revelation"
+ }
+]
