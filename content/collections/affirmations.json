@@ -1754,6 +1754,186 @@
      "note": ""
     }
    ]
+  },
+  "aff.p1": {
+   "title": {
+    "en": "비 온 뒤의 아침",
+    "ko": "비 온 뒤의 아침"
+   },
+   "lines": {
+    "en": [
+     "Last night the rain would not stop, and neither would my worries.",
+     "I lay awake and counted everything that could go wrong.",
+     "This morning I opened the window, and the air smelled clean.",
+     "The street was still wet, but the sky was slowly turning blue.",
+     "I realized that storms are loud, but they do not last forever.",
+     "My worries were real, but they were not the whole story.",
+     "So today I will take one small step and let the rest wait.",
+     "After the rain, I can begin again."
+    ],
+    "ko": [
+     "어젯밤 비는 그치지 않았고, 내 걱정도 그랬다.",
+     "나는 잠들지 못한 채 잘못될 수 있는 일을 하나하나 셌다.",
+     "오늘 아침 창문을 열자 공기에서 깨끗한 냄새가 났다.",
+     "길은 아직 젖어 있었지만 하늘은 천천히 파랗게 바뀌고 있었다.",
+     "폭풍은 요란하지만 영원히 계속되지는 않는다는 걸 깨달았다.",
+     "내 걱정은 진짜였지만 그게 이야기의 전부는 아니었다.",
+     "그래서 오늘은 작은 한 걸음만 내딛고 나머지는 기다리게 두겠다.",
+     "비가 그친 뒤에 나는 다시 시작할 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "would not stop",
+     "ko": "도무지 멈추지 않았다",
+     "note": "would not은 과거에 '도무지 ~하려 하지 않았다'는 뜻으로 써요."
+    },
+    {
+     "word": "neither would my worries",
+     "ko": "내 걱정도 그랬다",
+     "note": "앞 문장의 부정을 받아 '~도 마찬가지로 아니었다'예요."
+    },
+    {
+     "word": "lie awake",
+     "ko": "잠들지 못하고 누워 있다",
+     "note": "lay는 lie의 과거형이에요."
+    },
+    {
+     "word": "last",
+     "ko": "계속되다, 오래가다",
+     "note": "여기서는 동사예요."
+    },
+    {
+     "word": "the whole story",
+     "ko": "이야기의 전부",
+     "note": ""
+    },
+    {
+     "word": "begin again",
+     "ko": "다시 시작하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.p2": {
+   "title": {
+    "en": "나의 속도로",
+    "ko": "나의 속도로"
+   },
+   "lines": {
+    "en": [
+     "Everyone around me seemed to be running ahead.",
+     "I looked at their lives and felt that I was falling behind.",
+     "The harder I tried to catch up, the more tired I became.",
+     "One afternoon I sat under an old tree in the park.",
+     "It had grown slowly for many years, one ring at a time.",
+     "No one told the tree to hurry, and still it stood tall and strong.",
+     "I do not need to win a race that I never chose to run.",
+     "I will grow at my own pace, and that is enough."
+    ],
+    "ko": [
+     "내 주변 사람들은 모두 앞서 달려가는 것처럼 보였다.",
+     "나는 그들의 삶을 보며 내가 뒤처지고 있다고 느꼈다.",
+     "따라잡으려 애쓸수록 나는 더 지쳐 갔다.",
+     "어느 오후, 나는 공원의 오래된 나무 아래에 앉았다.",
+     "그 나무는 오랜 세월 나이테를 하나씩 더하며 천천히 자라 왔다.",
+     "아무도 나무에게 서두르라고 하지 않았지만 나무는 크고 튼튼하게 서 있었다.",
+     "나는 내가 고르지도 않은 경주에서 이길 필요가 없다.",
+     "나는 나만의 속도로 자랄 것이고, 그걸로 충분하다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "seem to",
+     "ko": "~하는 것처럼 보이다",
+     "note": ""
+    },
+    {
+     "word": "fall behind",
+     "ko": "뒤처지다",
+     "note": ""
+    },
+    {
+     "word": "the harder ..., the more ...",
+     "ko": "~할수록 더 ~하다",
+     "note": "비교급 두 개를 나란히 써요."
+    },
+    {
+     "word": "catch up",
+     "ko": "따라잡다",
+     "note": ""
+    },
+    {
+     "word": "ring",
+     "ko": "나이테",
+     "note": "tree ring이라고도 해요."
+    },
+    {
+     "word": "at my own pace",
+     "ko": "나만의 속도로",
+     "note": ""
+    }
+   ]
+  },
+  "aff.p3": {
+   "title": {
+    "en": "작은 친절",
+    "ko": "작은 친절"
+   },
+   "lines": {
+    "en": [
+     "It was one of those days when nothing went right.",
+     "I missed the bus, spilled my coffee, and forgot an important email.",
+     "By noon, I was sure the whole day was ruined.",
+     "Then a stranger held the door for me and smiled.",
+     "It took only a second, but my shoulders began to relax.",
+     "That small kindness reminded me that the day was not over yet.",
+     "I decided to pass the smile on to the next person I met.",
+     "Kindness starts small, but it grows as it travels."
+    ],
+    "ko": [
+     "아무것도 뜻대로 되지 않는 그런 날이었다.",
+     "버스를 놓치고, 커피를 쏟고, 중요한 이메일을 깜빡했다.",
+     "점심때쯤엔 오늘 하루를 완전히 망쳤다고 확신했다.",
+     "그때 모르는 사람이 나를 위해 문을 잡아 주며 웃었다.",
+     "잠깐이었지만 굳어 있던 어깨가 풀리기 시작했다.",
+     "그 작은 친절이 하루가 아직 끝나지 않았다는 걸 떠올리게 했다.",
+     "나는 그 미소를 다음에 만나는 사람에게 건네기로 했다.",
+     "친절은 작게 시작하지만 건너갈수록 커진다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "one of those days",
+     "ko": "일이 잘 안 풀리는 그런 날",
+     "note": "짜증 나는 하루를 말할 때 자주 써요."
+    },
+    {
+     "word": "go right",
+     "ko": "뜻대로 되다",
+     "note": "went는 go의 과거형이에요."
+    },
+    {
+     "word": "spill",
+     "ko": "쏟다",
+     "note": ""
+    },
+    {
+     "word": "ruined",
+     "ko": "망친, 엉망이 된",
+     "note": ""
+    },
+    {
+     "word": "hold the door",
+     "ko": "문을 잡아 주다",
+     "note": ""
+    },
+    {
+     "word": "pass on",
+     "ko": "전하다, 건네다",
+     "note": "pass the smile on처럼 사이에 목적어를 넣을 수 있어요."
+    }
+   ]
   }
  }
 }

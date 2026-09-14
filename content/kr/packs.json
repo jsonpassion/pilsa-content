@@ -1058,6 +1058,44 @@
   ]
  },
  {
+  "id": "affirmPages3",
+  "kind": "plan",
+  "title": "한 페이지 영어 확언 3편",
+  "subtitle": "짧은 이야기로 쓰는 확언",
+  "summary": "한 줄 확언보다 조금 긴, 이야기가 있는 한 페이지 글이에요. 걱정과 비교, 일이 꼬인 하루를 지나 나를 다독이는 문장으로 끝나요. 한글 뜻과 단어 풀이, 발음 듣기가 함께 있어요.",
+  "symbol": "doc.text",
+  "tint": "peach",
+  "highlights": [
+   "끝까지 무료예요",
+   "기승전결이 있는 한 페이지 글"
+  ],
+  "previewDays": 0,
+  "recommendedMode": "bilingual",
+  "translationID": "en",
+  "collection": "affirm",
+  "includedModes": [
+   "bilingual"
+  ],
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "비 온 뒤의 아침",
+    "passage": "aff.p1",
+    "prompt": "요즘 나를 잠 못 들게 한 걱정은 무엇이고, 오늘 내디딜 작은 한 걸음은 무엇인가요?"
+   },
+   {
+    "title": "나의 속도로",
+    "passage": "aff.p2",
+    "prompt": "요즘 남과 비교하게 되는 일이 있나요? 나만의 속도로 해도 괜찮은 일 하나를 적어 보세요."
+   },
+   {
+    "title": "작은 친절",
+    "passage": "aff.p3",
+    "prompt": "오늘 받은 작은 친절, 또는 건네고 싶은 친절을 적어 보세요."
+   }
+  ]
+ },
+ {
   "id": "affirm30",
   "collection": "affirm",
   "kind": "plan",
