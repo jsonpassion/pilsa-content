@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "a05e792d9663",
- "generated_at": "2026-09-14T06:19:47Z",
+ "version": "664692620550",
+ "generated_at": "2026-09-14T07:11:03Z",
  "entries": [
   {
    "id": "books.json",
@@ -18,14 +18,14 @@
   {
    "id": "kjv.json",
    "path": "content/bible/kjv.json",
-   "checksum_sha256": "e1d4fff144438e7e15793569c58ea312cf968ee259a6554a5758343fc29dec85",
-   "size": 8622
+   "checksum_sha256": "41c8b3bd5fe31b1221aec311ea70482264f4881464204c98d33958c9408c6578",
+   "size": 4689059
   },
   {
    "id": "krv.json",
    "path": "content/bible/krv.json",
-   "checksum_sha256": "e4c1bf2ef51cec50eab64bc8ebcb63e6ebf91f9759733b82a34ccb3207058a84",
-   "size": 10270
+   "checksum_sha256": "27c6a93ffb4dedc5104d4db9b4fb760e8fb037d5160a0b550e62e8a88142cfeb",
+   "size": 4972433
   },
   {
    "id": "affirmations.json",
@@ -36,8 +36,8 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "69fcdb7ef643dbc497927cff54cf3b87bb976c12c4742da574e4f998d5dd27ab",
-   "size": 30760
+   "checksum_sha256": "e73c8eb8f22b2e4e77fe03f6c816fdfb9a2e42506e5c4389c4b059de9d490ad0",
+   "size": 36275
   },
   {
    "id": "en_aff.01_0.m4a",
@@ -440,6 +440,882 @@
    "path": "content/voice/en_aff.67_0.m4a",
    "checksum_sha256": "1f73e71b10d058ec9244540a31231ccc554c9fed58461bac26b514bf25cf16c0",
    "size": 21913
+  },
+  {
+   "id": "kjv_1CH.16.34_0.m4a",
+   "path": "content/voice/kjv_1CH.16.34_0.m4a",
+   "checksum_sha256": "a590fce1d074cb501a6a47fe66444dfe9965bf21c9bf3b491c39e130a1b3404e",
+   "size": 32734
+  },
+  {
+   "id": "kjv_1CO.13.13_0.m4a",
+   "path": "content/voice/kjv_1CO.13.13_0.m4a",
+   "checksum_sha256": "97dc14305d316322a179d1b2d7d0c4f8fa9fea91aac63f6c35caa7a27bca6bbb",
+   "size": 37735
+  },
+  {
+   "id": "kjv_1CO.13.1_0.m4a",
+   "path": "content/voice/kjv_1CO.13.1_0.m4a",
+   "checksum_sha256": "e082adc4655db6435e7d8728e4c2a756ad0d75c3f875790f402d6cd765717249",
+   "size": 48549
+  },
+  {
+   "id": "kjv_1CO.13.2_0.m4a",
+   "path": "content/voice/kjv_1CO.13.2_0.m4a",
+   "checksum_sha256": "671df72f40e4de685dabf4bba32932f8e51fb899b3b18aefc17361e671075f65",
+   "size": 66145
+  },
+  {
+   "id": "kjv_1CO.13.3_0.m4a",
+   "path": "content/voice/kjv_1CO.13.3_0.m4a",
+   "checksum_sha256": "c0f4a6e6538dbf288de42b5ad0d9f89106e6570799a5d1f7625a33818119679a",
+   "size": 52851
+  },
+  {
+   "id": "kjv_1CO.13.4_0.m4a",
+   "path": "content/voice/kjv_1CO.13.4_0.m4a",
+   "checksum_sha256": "c5117f7a74816254f03098a000b69d1a403f3964e1492eb92a1a1c4913817de3",
+   "size": 45629
+  },
+  {
+   "id": "kjv_1CO.13.5_0.m4a",
+   "path": "content/voice/kjv_1CO.13.5_0.m4a",
+   "checksum_sha256": "8ec37a6b469abf08cd2851cfb380031cd8d8d82fb486880487e8005f9c9ee1fe",
+   "size": 42384
+  },
+  {
+   "id": "kjv_1CO.13.6_0.m4a",
+   "path": "content/voice/kjv_1CO.13.6_0.m4a",
+   "checksum_sha256": "8fb014a506d1ce10c7e9e40ab91e36e3b674ed74f4e3578e2141432c4b432eef",
+   "size": 26653
+  },
+  {
+   "id": "kjv_1CO.13.7_0.m4a",
+   "path": "content/voice/kjv_1CO.13.7_0.m4a",
+   "checksum_sha256": "c51b3ddfbf02de2e54c69796e7048778be635efe6a8f1ff63fa24e243a9d220c",
+   "size": 34796
+  },
+  {
+   "id": "kjv_1CO.13.8_0.m4a",
+   "path": "content/voice/kjv_1CO.13.8_0.m4a",
+   "checksum_sha256": "2b5e1e3a8a8eae706f19e77c5602facbf18d758242e2bf895b9d65f4004821a7",
+   "size": 58937
+  },
+  {
+   "id": "kjv_1JN.4.18_0.m4a",
+   "path": "content/voice/kjv_1JN.4.18_0.m4a",
+   "checksum_sha256": "5154ce1afffffbae58197ffa6320a067d6402bb4ee5cdf0c3a42a922981f43c4",
+   "size": 53294
+  },
+  {
+   "id": "kjv_1PE.5.7_0.m4a",
+   "path": "content/voice/kjv_1PE.5.7_0.m4a",
+   "checksum_sha256": "169cd49a49e95a4e2aa45b9e754c7d9b5e368a1edf62545d8b2d51bebbd4b677",
+   "size": 24134
+  },
+  {
+   "id": "kjv_1TH.5.16_0.m4a",
+   "path": "content/voice/kjv_1TH.5.16_0.m4a",
+   "checksum_sha256": "d7217050529e69176ba181d38fbd38c762a602aa11e08af91fe6b7a2fb7a50b0",
+   "size": 14626
+  },
+  {
+   "id": "kjv_1TH.5.17_0.m4a",
+   "path": "content/voice/kjv_1TH.5.17_0.m4a",
+   "checksum_sha256": "02ed7a06dcfa2b0c4df2bb62e99606b2d236e817c5ddea01a4e75b821f1f8f1d",
+   "size": 14827
+  },
+  {
+   "id": "kjv_1TH.5.18_0.m4a",
+   "path": "content/voice/kjv_1TH.5.18_0.m4a",
+   "checksum_sha256": "c430e2fcf983dde16600a6298ffe9b5e771e5fe8f5d5d33115bcd48e77a89e74",
+   "size": 36440
+  },
+  {
+   "id": "kjv_2CO.5.17_0.m4a",
+   "path": "content/voice/kjv_2CO.5.17_0.m4a",
+   "checksum_sha256": "2369d2d3d816664102eb414e16f4590e0ada8ef409d61757bd9a4518f41dddca",
+   "size": 46706
+  },
+  {
+   "id": "kjv_2TI.1.7_0.m4a",
+   "path": "content/voice/kjv_2TI.1.7_0.m4a",
+   "checksum_sha256": "d019f7cb4c1ec89dbd305d5cdddf17d8162639d027ebf40b7ab1de117a999228",
+   "size": 39687
+  },
+  {
+   "id": "kjv_COL.3.23_0.m4a",
+   "path": "content/voice/kjv_COL.3.23_0.m4a",
+   "checksum_sha256": "dd1f2da95553a2e416bc0fbb21a933ad1892ebd833ab6cafe1a97e565212277a",
+   "size": 31010
+  },
+  {
+   "id": "kjv_EPH.4.32_0.m4a",
+   "path": "content/voice/kjv_EPH.4.32_0.m4a",
+   "checksum_sha256": "4ec28ef442981fcb683b82b4a03801a4f26042d99f9d1ccf72fda19c7ea352b0",
+   "size": 46262
+  },
+  {
+   "id": "kjv_GAL.5.22_0.m4a",
+   "path": "content/voice/kjv_GAL.5.22_0.m4a",
+   "checksum_sha256": "81eb0b66eec62c3ae6f70edce3418683ca3145764979f8d2736826eb12c5ac56",
+   "size": 35733
+  },
+  {
+   "id": "kjv_GAL.5.23_0.m4a",
+   "path": "content/voice/kjv_GAL.5.23_0.m4a",
+   "checksum_sha256": "ac4b1da32d608ac0a869d25ba66c19266cc7b55728a5704bd70412a85fb8b1f9",
+   "size": 25177
+  },
+  {
+   "id": "kjv_GAL.6.9_0.m4a",
+   "path": "content/voice/kjv_GAL.6.9_0.m4a",
+   "checksum_sha256": "f26bdbd7dbed0c68cffa16052fa8528f585cc998de5f5d41710912f1eefe1725",
+   "size": 35793
+  },
+  {
+   "id": "kjv_GEN.1.1_0.m4a",
+   "path": "content/voice/kjv_GEN.1.1_0.m4a",
+   "checksum_sha256": "d59cb2c77a80ac2dc02f00aa36f78aa0d4c9dd53afc67cda86584d7e6b3c4c5f",
+   "size": 23381
+  },
+  {
+   "id": "kjv_GEN.28.15_0.m4a",
+   "path": "content/voice/kjv_GEN.28.15_0.m4a",
+   "checksum_sha256": "0abd89951fb7db5fe8880ca7aa1ba94edd1b32c54ba5be21086608f1f1125b96",
+   "size": 74087
+  },
+  {
+   "id": "kjv_HAB.3.18_0.m4a",
+   "path": "content/voice/kjv_HAB.3.18_0.m4a",
+   "checksum_sha256": "95438b827ea0c9f311feefa14c466688e34dada55f5f7988a148a8f6e8fbc633",
+   "size": 31704
+  },
+  {
+   "id": "kjv_HEB.11.1_0.m4a",
+   "path": "content/voice/kjv_HEB.11.1_0.m4a",
+   "checksum_sha256": "6d9ac6a1b1cdb2042b930055b455325d9f469f6b4fa80d8ebd590a61724262e4",
+   "size": 33631
+  },
+  {
+   "id": "kjv_HEB.13.5_0.m4a",
+   "path": "content/voice/kjv_HEB.13.5_0.m4a",
+   "checksum_sha256": "257fd00d3bd61b7f9141d52b196c1144660ce86b8ae0c12da2793063c9d07e20",
+   "size": 56686
+  },
+  {
+   "id": "kjv_ISA.26.3_0.m4a",
+   "path": "content/voice/kjv_ISA.26.3_0.m4a",
+   "checksum_sha256": "1e222eb40ac89158dbb5563702538a480d87e91271fef08a2cb4e4875fe1536e",
+   "size": 38053
+  },
+  {
+   "id": "kjv_ISA.40.28_0.m4a",
+   "path": "content/voice/kjv_ISA.40.28_0.m4a",
+   "checksum_sha256": "6fe87710d94882f7e221c9205cfd2a46ef6bcd64d1769a4ee359f588b29a53d7",
+   "size": 73187
+  },
+  {
+   "id": "kjv_ISA.40.29_0.m4a",
+   "path": "content/voice/kjv_ISA.40.29_0.m4a",
+   "checksum_sha256": "5cb11dd98bc26dfbd77b64efcc77bf22d9ce2a36da10d1623fe8e2b55f7868ea",
+   "size": 33762
+  },
+  {
+   "id": "kjv_ISA.40.30_0.m4a",
+   "path": "content/voice/kjv_ISA.40.30_0.m4a",
+   "checksum_sha256": "10762cc6d7ca1a27954c6a108298a022dc7a9feac756a5c7e052cb8916bd198d",
+   "size": 31039
+  },
+  {
+   "id": "kjv_ISA.40.31_0.m4a",
+   "path": "content/voice/kjv_ISA.40.31_0.m4a",
+   "checksum_sha256": "7c94f5a5fa23846935a868ac273be11cc40325bd3e97e0f59b208284595b080d",
+   "size": 59707
+  },
+  {
+   "id": "kjv_ISA.40.8_0.m4a",
+   "path": "content/voice/kjv_ISA.40.8_0.m4a",
+   "checksum_sha256": "54586ef75026abc899797e0a5d13b21b1629c924ae565e12db455b9ba02f37d3",
+   "size": 33801
+  },
+  {
+   "id": "kjv_ISA.41.10_0.m4a",
+   "path": "content/voice/kjv_ISA.41.10_0.m4a",
+   "checksum_sha256": "1f6dcf8114f26c78702eb74996289c79c4e4dd8a60e69fb6ce28734b94e30552",
+   "size": 65201
+  },
+  {
+   "id": "kjv_ISA.43.2_0.m4a",
+   "path": "content/voice/kjv_ISA.43.2_0.m4a",
+   "checksum_sha256": "71ca4b3be8a701b066c7cbb33dbd904227874c29716b6c84b9e2d65d380ddd50",
+   "size": 72215
+  },
+  {
+   "id": "kjv_JAS.1.5_0.m4a",
+   "path": "content/voice/kjv_JAS.1.5_0.m4a",
+   "checksum_sha256": "90bcc4e3c3ec9754c0c6d32f7afbaae51bc96cad48d18d2cd68ee18ca38f1828",
+   "size": 49231
+  },
+  {
+   "id": "kjv_JER.29.11_0.m4a",
+   "path": "content/voice/kjv_JER.29.11_0.m4a",
+   "checksum_sha256": "2d18b6ff18096a70e097ad8d01c0f71ec9e439e2c2809f5fb91f21f26581ed47",
+   "size": 47925
+  },
+  {
+   "id": "kjv_JER.33.3_0.m4a",
+   "path": "content/voice/kjv_JER.33.3_0.m4a",
+   "checksum_sha256": "1cce78e878e8b3946b07b4400b4f348999ac255feac5e5210a01b39f801bade6",
+   "size": 38813
+  },
+  {
+   "id": "kjv_JHN.1.1_0.m4a",
+   "path": "content/voice/kjv_JHN.1.1_0.m4a",
+   "checksum_sha256": "a7ab049b1fcc2b8e79d17a1fe07b0fe46c9e147fd743c21444b07bf2b82999bc",
+   "size": 31760
+  },
+  {
+   "id": "kjv_JHN.1.2_0.m4a",
+   "path": "content/voice/kjv_JHN.1.2_0.m4a",
+   "checksum_sha256": "52023b8d364c0b5a97c030eb6992f90eb51d4974a16971e98dad82f22eb3871a",
+   "size": 19013
+  },
+  {
+   "id": "kjv_JHN.1.3_0.m4a",
+   "path": "content/voice/kjv_JHN.1.3_0.m4a",
+   "checksum_sha256": "af1fcc4836e117ffe9aa96ce530e6893745759f919385f2e2e4ad288f1be1a7d",
+   "size": 34085
+  },
+  {
+   "id": "kjv_JHN.1.4_0.m4a",
+   "path": "content/voice/kjv_JHN.1.4_0.m4a",
+   "checksum_sha256": "71b8e4c61aae5c7230a62e137d263ee9853265be1c26dc28761ac17a1d7fdcad",
+   "size": 23984
+  },
+  {
+   "id": "kjv_JHN.1.5_0.m4a",
+   "path": "content/voice/kjv_JHN.1.5_0.m4a",
+   "checksum_sha256": "3251965714913bf37d829c2ebf3d20de29dc2471bc8772119da85c4e2f595655",
+   "size": 32059
+  },
+  {
+   "id": "kjv_JHN.13.34_0.m4a",
+   "path": "content/voice/kjv_JHN.13.34_0.m4a",
+   "checksum_sha256": "b8e310ec7e52d687428fc0f9c6d61c89e208faadda4e3502b31dcc9f3d255fe3",
+   "size": 42179
+  },
+  {
+   "id": "kjv_JHN.14.1_0.m4a",
+   "path": "content/voice/kjv_JHN.14.1_0.m4a",
+   "checksum_sha256": "82d2aebd7199c29de4cbe52d5b2a0abf422755bd56c72995f5fe306f30cb256e",
+   "size": 30700
+  },
+  {
+   "id": "kjv_JHN.14.27_0.m4a",
+   "path": "content/voice/kjv_JHN.14.27_0.m4a",
+   "checksum_sha256": "4a1e92456363ac1a0e4b8b2745543204773e921536d6dd12397acf9940c7e00e",
+   "size": 56338
+  },
+  {
+   "id": "kjv_JHN.14.6_0.m4a",
+   "path": "content/voice/kjv_JHN.14.6_0.m4a",
+   "checksum_sha256": "98662bbeeccaefe615b22b9c5a6191505957319fd4803eedae84f6566658e427",
+   "size": 43546
+  },
+  {
+   "id": "kjv_JHN.15.5_0.m4a",
+   "path": "content/voice/kjv_JHN.15.5_0.m4a",
+   "checksum_sha256": "e75638a2a5096f63f07c5573ba8160f8ba5b8a7e124a3abea5edc6677274af5d",
+   "size": 55501
+  },
+  {
+   "id": "kjv_JHN.16.33_0.m4a",
+   "path": "content/voice/kjv_JHN.16.33_0.m4a",
+   "checksum_sha256": "275ada1d43d4f9e833ddbdcdb688f3133d3b95a3341137b4b15367038f696e83",
+   "size": 58006
+  },
+  {
+   "id": "kjv_JHN.3.16_0.m4a",
+   "path": "content/voice/kjv_JHN.3.16_0.m4a",
+   "checksum_sha256": "4433cdea8190c7a5a7f1b6d906edc76a08a387fe08b40fdd68cd3c84cc1678ad",
+   "size": 56522
+  },
+  {
+   "id": "kjv_JHN.8.12_0.m4a",
+   "path": "content/voice/kjv_JHN.8.12_0.m4a",
+   "checksum_sha256": "dfca2fbf46e9981a6c74e485beeb56f7f6936c60c7b397eea525c26a7dc3366b",
+   "size": 56544
+  },
+  {
+   "id": "kjv_JOS.1.9_0.m4a",
+   "path": "content/voice/kjv_JOS.1.9_0.m4a",
+   "checksum_sha256": "4d2d5a3ea75df1fe63ac4ed7bcec54649bc1fa919a28209761339f3eb8b99564",
+   "size": 62156
+  },
+  {
+   "id": "kjv_LAM.3.22_0.m4a",
+   "path": "content/voice/kjv_LAM.3.22_0.m4a",
+   "checksum_sha256": "834a665f1a3f16edf4270ad989082e12b223c08d9057f3b8a523c4de65d29ce1",
+   "size": 35258
+  },
+  {
+   "id": "kjv_LAM.3.23_0.m4a",
+   "path": "content/voice/kjv_LAM.3.23_0.m4a",
+   "checksum_sha256": "7306ffed3ea0ff910831b935a7a61c6ab4658d63b660cb64fceee909ad699c97",
+   "size": 25070
+  },
+  {
+   "id": "kjv_LAM.3.24_0.m4a",
+   "path": "content/voice/kjv_LAM.3.24_0.m4a",
+   "checksum_sha256": "34419295e3e36712c2f5c7a62b339bf0d1aa219912bc91f031ebc8ad3edc0ff1",
+   "size": 29661
+  },
+  {
+   "id": "kjv_LUK.1.37_0.m4a",
+   "path": "content/voice/kjv_LUK.1.37_0.m4a",
+   "checksum_sha256": "3ade1464e85e1b5568ef778613d6f032a37f9475f212780c8d73cbbb794f1de2",
+   "size": 20179
+  },
+  {
+   "id": "kjv_MAT.11.28_0.m4a",
+   "path": "content/voice/kjv_MAT.11.28_0.m4a",
+   "checksum_sha256": "f054c398736c5ba955f995224d101ce5b2defb37f8a0f376c5d714dcdcc1ee62",
+   "size": 31839
+  },
+  {
+   "id": "kjv_MAT.11.29_0.m4a",
+   "path": "content/voice/kjv_MAT.11.29_0.m4a",
+   "checksum_sha256": "3fdbc36791b8c6b805082576062dc5bd8f54842c2deb9703300c7af49b35d76a",
+   "size": 45252
+  },
+  {
+   "id": "kjv_MAT.11.30_0.m4a",
+   "path": "content/voice/kjv_MAT.11.30_0.m4a",
+   "checksum_sha256": "882e6da7caf2ef7e2a03b9507760df60a190ececf1436becaa452367fe668e84",
+   "size": 23333
+  },
+  {
+   "id": "kjv_MAT.5.10_0.m4a",
+   "path": "content/voice/kjv_MAT.5.10_0.m4a",
+   "checksum_sha256": "44dcc6b1e168c2184dd8d953b574f98c358a4bbf184e6f24bdf0a454e6d6f016",
+   "size": 36927
+  },
+  {
+   "id": "kjv_MAT.5.14_0.m4a",
+   "path": "content/voice/kjv_MAT.5.14_0.m4a",
+   "checksum_sha256": "4609a476dcaaffcd885b2dbc90c100d4df02d6e4b5c3f7955063b15b08b580ec",
+   "size": 31999
+  },
+  {
+   "id": "kjv_MAT.5.3_0.m4a",
+   "path": "content/voice/kjv_MAT.5.3_0.m4a",
+   "checksum_sha256": "9c29e3256d143fde7b69a8dfc38245b29a9fc73497eb6c08539a379623817cfd",
+   "size": 28520
+  },
+  {
+   "id": "kjv_MAT.5.4_0.m4a",
+   "path": "content/voice/kjv_MAT.5.4_0.m4a",
+   "checksum_sha256": "8352eb3b013ea34cb1ab24bb4444bb8564c9ad37d962a646425e92b9b02d5180",
+   "size": 23541
+  },
+  {
+   "id": "kjv_MAT.5.5_0.m4a",
+   "path": "content/voice/kjv_MAT.5.5_0.m4a",
+   "checksum_sha256": "1e73b9ee4baab0237fd6da955f224fadd366d986fcf2a82efaeb5a5ad51b10f7",
+   "size": 22359
+  },
+  {
+   "id": "kjv_MAT.5.6_0.m4a",
+   "path": "content/voice/kjv_MAT.5.6_0.m4a",
+   "checksum_sha256": "5da9683fd0bf08f96ee03922f485941d9c7e8918c377a0c45a7bc425034798d7",
+   "size": 34460
+  },
+  {
+   "id": "kjv_MAT.5.7_0.m4a",
+   "path": "content/voice/kjv_MAT.5.7_0.m4a",
+   "checksum_sha256": "a4ad8547cbdb333f57885b6c5fe81f18c94f4b178532519da9587130ef308543",
+   "size": 24270
+  },
+  {
+   "id": "kjv_MAT.5.8_0.m4a",
+   "path": "content/voice/kjv_MAT.5.8_0.m4a",
+   "checksum_sha256": "979947346f93f44858dd1f27f789a695cf8f09d50d8e6b87be461b7cd0c3f558",
+   "size": 23163
+  },
+  {
+   "id": "kjv_MAT.5.9_0.m4a",
+   "path": "content/voice/kjv_MAT.5.9_0.m4a",
+   "checksum_sha256": "2012ff6f564a114203ea8f7e9db5468841a9dc9ba9ad2e654e283516a3a4017b",
+   "size": 29703
+  },
+  {
+   "id": "kjv_MAT.6.33_0.m4a",
+   "path": "content/voice/kjv_MAT.6.33_0.m4a",
+   "checksum_sha256": "80dc85dd2e35f4ff5ced9abb20d4141d269fa1fa7ccb952cc2721d6662d4ce3e",
+   "size": 39170
+  },
+  {
+   "id": "kjv_MAT.6.34_0.m4a",
+   "path": "content/voice/kjv_MAT.6.34_0.m4a",
+   "checksum_sha256": "b1a1f2fe6ee58649656527f51f788f4ebca59766f8db80f07edf074c721a9407",
+   "size": 53870
+  },
+  {
+   "id": "kjv_MAT.7.7_0.m4a",
+   "path": "content/voice/kjv_MAT.7.7_0.m4a",
+   "checksum_sha256": "4c3741d378de8e807417e7efe196da9b8c281c6829180751dd2c111b0220fb6c",
+   "size": 36547
+  },
+  {
+   "id": "kjv_MIC.6.8_0.m4a",
+   "path": "content/voice/kjv_MIC.6.8_0.m4a",
+   "checksum_sha256": "e3a173f8c548960f437314a8fff098614689d99b200b0e9e88f1c7d2a64ebab0",
+   "size": 57200
+  },
+  {
+   "id": "kjv_MRK.10.27_0.m4a",
+   "path": "content/voice/kjv_MRK.10.27_0.m4a",
+   "checksum_sha256": "566033718d687b0410204033f744114872860384ebcfca77d62f8cb33818a206",
+   "size": 46076
+  },
+  {
+   "id": "kjv_NUM.6.24_0.m4a",
+   "path": "content/voice/kjv_NUM.6.24_0.m4a",
+   "checksum_sha256": "9f61b5f198d8c5a50b7cf5e34237be4a7a655d0bd0dc0c28816485c9baab554e",
+   "size": 17840
+  },
+  {
+   "id": "kjv_NUM.6.25_0.m4a",
+   "path": "content/voice/kjv_NUM.6.25_0.m4a",
+   "checksum_sha256": "38c0df5ea5f3b732ad9e9bf6dbc6505a26025823140e996764e620ab5cdd22c7",
+   "size": 27057
+  },
+  {
+   "id": "kjv_NUM.6.26_0.m4a",
+   "path": "content/voice/kjv_NUM.6.26_0.m4a",
+   "checksum_sha256": "6c147ca6c59b11ab54001325ddb3e1e55e4089ac59067f2f1076f79cb0a7a854",
+   "size": 27022
+  },
+  {
+   "id": "kjv_PHP.4.13_0.m4a",
+   "path": "content/voice/kjv_PHP.4.13_0.m4a",
+   "checksum_sha256": "2518f28d6b9ca16135b8074c5967c2c5d78426905b618be42478fceea4e28303",
+   "size": 23240
+  },
+  {
+   "id": "kjv_PHP.4.6_0.m4a",
+   "path": "content/voice/kjv_PHP.4.6_0.m4a",
+   "checksum_sha256": "b84188951ae9b2bb784ebe47da63e48cff9c0872e4fa146551db930fa8518aef",
+   "size": 50883
+  },
+  {
+   "id": "kjv_PHP.4.7_0.m4a",
+   "path": "content/voice/kjv_PHP.4.7_0.m4a",
+   "checksum_sha256": "774996446e92c393caf73fdfb54e3967ee4caf5cb5f8ea921cbc967b49d37ac4",
+   "size": 41374
+  },
+  {
+   "id": "kjv_PRO.1.7_0.m4a",
+   "path": "content/voice/kjv_PRO.1.7_0.m4a",
+   "checksum_sha256": "86f50850d383b0b4003617b7f860214e2447542d1b75a508fdb8a52be00c81b2",
+   "size": 38198
+  },
+  {
+   "id": "kjv_PRO.15.1_0.m4a",
+   "path": "content/voice/kjv_PRO.15.1_0.m4a",
+   "checksum_sha256": "338bf05836f39c0f79fd3ee5143f4c5dcfa0d2129971d2079074955e0370efb2",
+   "size": 31278
+  },
+  {
+   "id": "kjv_PRO.16.3_0.m4a",
+   "path": "content/voice/kjv_PRO.16.3_0.m4a",
+   "checksum_sha256": "1ba73feab13d7bf7bc8e13312bf6fa44eff37164980ae8dbd38420965ee0185d",
+   "size": 28161
+  },
+  {
+   "id": "kjv_PRO.16.9_0.m4a",
+   "path": "content/voice/kjv_PRO.16.9_0.m4a",
+   "checksum_sha256": "d492819dbf06f24ca2da1390020f6f7d410dcbdb940cebdabf3691f7875d4caf",
+   "size": 31305
+  },
+  {
+   "id": "kjv_PRO.17.22_0.m4a",
+   "path": "content/voice/kjv_PRO.17.22_0.m4a",
+   "checksum_sha256": "f9765410238ac0acfd2628c9294c9909f729bc43664d06e86cc45f03634e14e8",
+   "size": 34983
+  },
+  {
+   "id": "kjv_PRO.3.1_0.m4a",
+   "path": "content/voice/kjv_PRO.3.1_0.m4a",
+   "checksum_sha256": "4c4951d144adce8ff9f4fbea2fdf7ab51fb90c5116cece7e5e972763211ba925",
+   "size": 31641
+  },
+  {
+   "id": "kjv_PRO.3.2_0.m4a",
+   "path": "content/voice/kjv_PRO.3.2_0.m4a",
+   "checksum_sha256": "fc9ca236c738186f063507065bea8e197b64c4422468090396f1457d39518f29",
+   "size": 27190
+  },
+  {
+   "id": "kjv_PRO.3.3_0.m4a",
+   "path": "content/voice/kjv_PRO.3.3_0.m4a",
+   "checksum_sha256": "76816dde219f3b7d9f816479a2cbf1ace259271bce1137a1fe8d2537a68e832c",
+   "size": 42257
+  },
+  {
+   "id": "kjv_PRO.3.4_0.m4a",
+   "path": "content/voice/kjv_PRO.3.4_0.m4a",
+   "checksum_sha256": "a7e1da789a220b4c5ffa18cc34e7530d2eebdcc1e6113795bc0735db21c7dee7",
+   "size": 31185
+  },
+  {
+   "id": "kjv_PRO.3.5_0.m4a",
+   "path": "content/voice/kjv_PRO.3.5_0.m4a",
+   "checksum_sha256": "447bf3bf72350600f703052cf25bf0e601d11ca5d6062a171e739369f89431fb",
+   "size": 33399
+  },
+  {
+   "id": "kjv_PRO.3.6_0.m4a",
+   "path": "content/voice/kjv_PRO.3.6_0.m4a",
+   "checksum_sha256": "a2d5447400039bdf120adec1f662175ca45fbb572e19bde5ed14f6ae59cc8e1e",
+   "size": 28058
+  },
+  {
+   "id": "kjv_PRO.4.23_0.m4a",
+   "path": "content/voice/kjv_PRO.4.23_0.m4a",
+   "checksum_sha256": "ec9841d84d32be3e262dfe0db9baa96f129e49d3e987900ad200c9debbf301d5",
+   "size": 30978
+  },
+  {
+   "id": "kjv_PSA.1.1_0.m4a",
+   "path": "content/voice/kjv_PSA.1.1_0.m4a",
+   "checksum_sha256": "867b233ca3bdd2c4e88b11530cf397ca868f0732131dcd5f12c1ff5000199226",
+   "size": 55541
+  },
+  {
+   "id": "kjv_PSA.1.2_0.m4a",
+   "path": "content/voice/kjv_PSA.1.2_0.m4a",
+   "checksum_sha256": "713b7aa393fcd76ff1a885ffb1d29b24a11e187ef97a23ae3e2376a939a8bdec",
+   "size": 37078
+  },
+  {
+   "id": "kjv_PSA.1.3_0.m4a",
+   "path": "content/voice/kjv_PSA.1.3_0.m4a",
+   "checksum_sha256": "dc3d69b0a82c24c5addd48d31bad4d0c5b302127e5f84406affed7ab79af20db",
+   "size": 65258
+  },
+  {
+   "id": "kjv_PSA.1.4_0.m4a",
+   "path": "content/voice/kjv_PSA.1.4_0.m4a",
+   "checksum_sha256": "632642296eb7551ee265a88b1844abe89484558a2520cbb816fbd87d287bbc72",
+   "size": 33201
+  },
+  {
+   "id": "kjv_PSA.1.5_0.m4a",
+   "path": "content/voice/kjv_PSA.1.5_0.m4a",
+   "checksum_sha256": "62b02ceacda3bf27b2546222562d92f21a4ddc5d9ea3595ab2db21c5dc2ab247",
+   "size": 41491
+  },
+  {
+   "id": "kjv_PSA.1.6_0.m4a",
+   "path": "content/voice/kjv_PSA.1.6_0.m4a",
+   "checksum_sha256": "f361266f060e2197deb68f9adbfe955cfb8970371a975f422752fc6c85b7932c",
+   "size": 35241
+  },
+  {
+   "id": "kjv_PSA.103.1_0.m4a",
+   "path": "content/voice/kjv_PSA.103.1_0.m4a",
+   "checksum_sha256": "ee4e9b386f15498403d572b3f3bd35e973df44edd9089c0ce958ff3e11e3fecc",
+   "size": 31595
+  },
+  {
+   "id": "kjv_PSA.103.2_0.m4a",
+   "path": "content/voice/kjv_PSA.103.2_0.m4a",
+   "checksum_sha256": "d019486373e0f9b309990d5f4efc12a21835a7d6ca22e9c7fc6c3a7fb259f709",
+   "size": 27292
+  },
+  {
+   "id": "kjv_PSA.118.24_0.m4a",
+   "path": "content/voice/kjv_PSA.118.24_0.m4a",
+   "checksum_sha256": "d2a9d07342eb870f817e32b294b8a1b7d715c1541d05b19d765118ff6863fe13",
+   "size": 31697
+  },
+  {
+   "id": "kjv_PSA.119.105_0.m4a",
+   "path": "content/voice/kjv_PSA.119.105_0.m4a",
+   "checksum_sha256": "79ae309f9ddec1e557e9ad3adcc79a45d7f7072f1a14f6209885be894924436b",
+   "size": 27590
+  },
+  {
+   "id": "kjv_PSA.121.1_0.m4a",
+   "path": "content/voice/kjv_PSA.121.1_0.m4a",
+   "checksum_sha256": "d87ba8a4096d3ffc04e014e1027e5811dac5271a3cd9d956745679172541ff3a",
+   "size": 29347
+  },
+  {
+   "id": "kjv_PSA.121.2_0.m4a",
+   "path": "content/voice/kjv_PSA.121.2_0.m4a",
+   "checksum_sha256": "fd2870083f6db09abcc4c0d2e2a3da12090c825db83ef2c08a983bebf8ce0fea",
+   "size": 24551
+  },
+  {
+   "id": "kjv_PSA.121.3_0.m4a",
+   "path": "content/voice/kjv_PSA.121.3_0.m4a",
+   "checksum_sha256": "967c0a3a9a0f1cbcd5a328ad2365fd502feb254b69de57a81bb5856ea6042fc3",
+   "size": 32813
+  },
+  {
+   "id": "kjv_PSA.121.4_0.m4a",
+   "path": "content/voice/kjv_PSA.121.4_0.m4a",
+   "checksum_sha256": "473bdd211d4d6e2d0b84a86e8793264446033ed849bc404248c71a8db820df18",
+   "size": 27608
+  },
+  {
+   "id": "kjv_PSA.121.5_0.m4a",
+   "path": "content/voice/kjv_PSA.121.5_0.m4a",
+   "checksum_sha256": "abe0f8c51fd41fbd1a0dc0b9d10500c83ae80f3de1f5405286bc738a8b47517d",
+   "size": 30985
+  },
+  {
+   "id": "kjv_PSA.121.6_0.m4a",
+   "path": "content/voice/kjv_PSA.121.6_0.m4a",
+   "checksum_sha256": "260fb227474717c7448184f19a062d74c75a8efbbadd44a7d0ff06d1285d45c5",
+   "size": 26391
+  },
+  {
+   "id": "kjv_PSA.121.7_0.m4a",
+   "path": "content/voice/kjv_PSA.121.7_0.m4a",
+   "checksum_sha256": "02f8393992a4ef6d5ed3673235c0d9e65ff0bab1e88b0d7856d5355083e8ba97",
+   "size": 29720
+  },
+  {
+   "id": "kjv_PSA.121.8_0.m4a",
+   "path": "content/voice/kjv_PSA.121.8_0.m4a",
+   "checksum_sha256": "2e8fdceada0f8f9d3e23af1155238545c6091fa02a19156c41af93185052b059",
+   "size": 40588
+  },
+  {
+   "id": "kjv_PSA.139.14_0.m4a",
+   "path": "content/voice/kjv_PSA.139.14_0.m4a",
+   "checksum_sha256": "a4a9a7a6f7fc279dea4900b5368c0137e546ab871e196ea0e340b2fe5d575e53",
+   "size": 46558
+  },
+  {
+   "id": "kjv_PSA.143.8_0.m4a",
+   "path": "content/voice/kjv_PSA.143.8_0.m4a",
+   "checksum_sha256": "b244d4d5beca7741edd9da514c0f9caaa52f53efb661b35f3573c2b11c426981",
+   "size": 60449
+  },
+  {
+   "id": "kjv_PSA.16.11_0.m4a",
+   "path": "content/voice/kjv_PSA.16.11_0.m4a",
+   "checksum_sha256": "014fe2bb5c2b6f2ae9f0b61891074292d7355c3e736ca525cec201548833d130",
+   "size": 50293
+  },
+  {
+   "id": "kjv_PSA.19.1_0.m4a",
+   "path": "content/voice/kjv_PSA.19.1_0.m4a",
+   "checksum_sha256": "5c9beccc8e00e98dbdf672970415af0a90a8d45a9a7e748d50abb5e2903c9181",
+   "size": 32612
+  },
+  {
+   "id": "kjv_PSA.19.2_0.m4a",
+   "path": "content/voice/kjv_PSA.19.2_0.m4a",
+   "checksum_sha256": "18bda276ffcca2333fdbd8a276c1dd9e8bbea76b64ef092944b3a7a054e4b3b9",
+   "size": 28315
+  },
+  {
+   "id": "kjv_PSA.23.1_0.m4a",
+   "path": "content/voice/kjv_PSA.23.1_0.m4a",
+   "checksum_sha256": "988ec33712f65fd2b4794582a8f6be66d556097fef931740f10a28140b560cdb",
+   "size": 21958
+  },
+  {
+   "id": "kjv_PSA.23.2_0.m4a",
+   "path": "content/voice/kjv_PSA.23.2_0.m4a",
+   "checksum_sha256": "fa87c96bdcae43251ba10e4141b3ce9dcd349dc05ea97594a7a73b98a07543af",
+   "size": 36136
+  },
+  {
+   "id": "kjv_PSA.23.3_0.m4a",
+   "path": "content/voice/kjv_PSA.23.3_0.m4a",
+   "checksum_sha256": "a9bbbdaa43bcde23628707cc0993a60dcb501e48b590366d39d15bfabcd06c41",
+   "size": 36860
+  },
+  {
+   "id": "kjv_PSA.23.4_0.m4a",
+   "path": "content/voice/kjv_PSA.23.4_0.m4a",
+   "checksum_sha256": "b707351d0b5e1c9bc63558d6502fe7c1ac5ca85ccaf9983fad92f1a80e170d85",
+   "size": 53127
+  },
+  {
+   "id": "kjv_PSA.23.5_0.m4a",
+   "path": "content/voice/kjv_PSA.23.5_0.m4a",
+   "checksum_sha256": "42646db976a75cb871dd9ff7cfe1059d86a89bda2b4b00229ebeb05941b92d5a",
+   "size": 52039
+  },
+  {
+   "id": "kjv_PSA.23.6_0.m4a",
+   "path": "content/voice/kjv_PSA.23.6_0.m4a",
+   "checksum_sha256": "aac8e8f1fac3d4b677077e646c23425d090b636d880fbe176428008428f1e8f7",
+   "size": 44935
+  },
+  {
+   "id": "kjv_PSA.27.1_0.m4a",
+   "path": "content/voice/kjv_PSA.27.1_0.m4a",
+   "checksum_sha256": "78fe7959e5454e856885733d3a482adc927ab911ce1b834fa019fa5ab4448031",
+   "size": 47610
+  },
+  {
+   "id": "kjv_PSA.30.5_0.m4a",
+   "path": "content/voice/kjv_PSA.30.5_0.m4a",
+   "checksum_sha256": "5d6d9c2eb3f376e42b7baf130b65d13834d7e1ca48d52b6241f6e94acb1a483f",
+   "size": 49100
+  },
+  {
+   "id": "kjv_PSA.34.8_0.m4a",
+   "path": "content/voice/kjv_PSA.34.8_0.m4a",
+   "checksum_sha256": "c6373630a91395630d01f802dd1a88525898a408e59e08bf679167209d88222e",
+   "size": 33642
+  },
+  {
+   "id": "kjv_PSA.37.4_0.m4a",
+   "path": "content/voice/kjv_PSA.37.4_0.m4a",
+   "checksum_sha256": "2661eb82984afdbb0c272e0c6a2022b0904b7f5904a2bdf31804778a63bc8462",
+   "size": 35137
+  },
+  {
+   "id": "kjv_PSA.37.5_0.m4a",
+   "path": "content/voice/kjv_PSA.37.5_0.m4a",
+   "checksum_sha256": "7e3685e3366731da700ff85a9521e3cb4a9a36ac1a268aba72d3b483e2267de3",
+   "size": 33622
+  },
+  {
+   "id": "kjv_PSA.4.8_0.m4a",
+   "path": "content/voice/kjv_PSA.4.8_0.m4a",
+   "checksum_sha256": "b7c69b0ebacc284e12afdaa3ec16e874bb6ddd9da0fe1207ffad95fa0deeb283",
+   "size": 38622
+  },
+  {
+   "id": "kjv_PSA.42.1_0.m4a",
+   "path": "content/voice/kjv_PSA.42.1_0.m4a",
+   "checksum_sha256": "1d55610f5a54fc30a7f6477d498f334c9744355eaa078ae829f22334e8678434",
+   "size": 36014
+  },
+  {
+   "id": "kjv_PSA.42.2_0.m4a",
+   "path": "content/voice/kjv_PSA.42.2_0.m4a",
+   "checksum_sha256": "2cfb9747de34eae5ed39007fbfe938eb020cd6fb9557d90c50729e646b07f49e",
+   "size": 35953
+  },
+  {
+   "id": "kjv_PSA.46.10_0.m4a",
+   "path": "content/voice/kjv_PSA.46.10_0.m4a",
+   "checksum_sha256": "1e03cd4a82d2805a3abf4d57f714eb17a461ead0c28a71464edd95f4d519c44a",
+   "size": 41244
+  },
+  {
+   "id": "kjv_PSA.46.11_0.m4a",
+   "path": "content/voice/kjv_PSA.46.11_0.m4a",
+   "checksum_sha256": "416f9470689b86a9dcf32d64fadd774317e59f0a7e115af4c6fe10ec1e8abda8",
+   "size": 32523
+  },
+  {
+   "id": "kjv_PSA.46.1_0.m4a",
+   "path": "content/voice/kjv_PSA.46.1_0.m4a",
+   "checksum_sha256": "2e849fd648499a1024cf7573010f13328d44300eb2faaa50a1bc543c91aaa8e6",
+   "size": 28182
+  },
+  {
+   "id": "kjv_PSA.46.2_0.m4a",
+   "path": "content/voice/kjv_PSA.46.2_0.m4a",
+   "checksum_sha256": "a212c22a65d0b06a8ddb5eada501fedf1da7357f99e4ea51959c2bab189166a9",
+   "size": 42332
+  },
+  {
+   "id": "kjv_PSA.46.3_0.m4a",
+   "path": "content/voice/kjv_PSA.46.3_0.m4a",
+   "checksum_sha256": "3fb45ea643d3b60745be72c1d19fb94d12b46ab56b8e1021edd06e5acb487d09",
+   "size": 40160
+  },
+  {
+   "id": "kjv_PSA.51.10_0.m4a",
+   "path": "content/voice/kjv_PSA.51.10_0.m4a",
+   "checksum_sha256": "38b374dbffc519cb7af5f9b35222f3b3942cdeba5dcea9f2cc66a8f79da12c53",
+   "size": 31782
+  },
+  {
+   "id": "kjv_PSA.55.22_0.m4a",
+   "path": "content/voice/kjv_PSA.55.22_0.m4a",
+   "checksum_sha256": "a87398fbfacf9a84ee5a3609225a2e78c70b3208b3fda103414981a74c2d26e9",
+   "size": 40243
+  },
+  {
+   "id": "kjv_PSA.56.3_0.m4a",
+   "path": "content/voice/kjv_PSA.56.3_0.m4a",
+   "checksum_sha256": "67120fc55bf83f8d8f687f611eb177b8e2ab26f363b6687b9683fb0343c88ffa",
+   "size": 21814
+  },
+  {
+   "id": "kjv_PSA.62.1_0.m4a",
+   "path": "content/voice/kjv_PSA.62.1_0.m4a",
+   "checksum_sha256": "ce1af028c3a83899e73f3466ad18636aa6a65dcec1c0cb3bd65a36bc1c553c85",
+   "size": 32126
+  },
+  {
+   "id": "kjv_PSA.8.3_0.m4a",
+   "path": "content/voice/kjv_PSA.8.3_0.m4a",
+   "checksum_sha256": "519b721da75ece00815b5171c07db374bb570e70b607efb189e2427de59942f3",
+   "size": 40508
+  },
+  {
+   "id": "kjv_PSA.8.4_0.m4a",
+   "path": "content/voice/kjv_PSA.8.4_0.m4a",
+   "checksum_sha256": "74ffde707c71c849895dd114ebbd3e6a2936088d3f17eb19c1364348ce4df0dd",
+   "size": 36153
+  },
+  {
+   "id": "kjv_PSA.9.1_0.m4a",
+   "path": "content/voice/kjv_PSA.9.1_0.m4a",
+   "checksum_sha256": "5f250d7201cc9905fce74d8fd96a53178598b9b1acd59c1cf3ed5cbbae10100b",
+   "size": 38741
+  },
+  {
+   "id": "kjv_PSA.90.12_0.m4a",
+   "path": "content/voice/kjv_PSA.90.12_0.m4a",
+   "checksum_sha256": "4345210303b4f84b86e0e9dcd53fc2dc0e96a6e0c2a4f2a4a65f3adc9d2024ee",
+   "size": 31400
+  },
+  {
+   "id": "kjv_REV.21.4_0.m4a",
+   "path": "content/voice/kjv_REV.21.4_0.m4a",
+   "checksum_sha256": "344c829a51663ff7781500276b0d67909030cb2b58ac70ee727ed81e844b28ba",
+   "size": 67300
+  },
+  {
+   "id": "kjv_ROM.12.12_0.m4a",
+   "path": "content/voice/kjv_ROM.12.12_0.m4a",
+   "checksum_sha256": "37ca350915511806e62871ffabfa11c6fd411499c0d635d76a3e4535738805e5",
+   "size": 35238
+  },
+  {
+   "id": "kjv_ROM.12.2_0.m4a",
+   "path": "content/voice/kjv_ROM.12.2_0.m4a",
+   "checksum_sha256": "f6fbcea6e67b9cfead2cc48ea1df27ac2b596764312c2249537ee6e7e2a74acb",
+   "size": 62733
+  },
+  {
+   "id": "kjv_ROM.15.13_0.m4a",
+   "path": "content/voice/kjv_ROM.15.13_0.m4a",
+   "checksum_sha256": "9822cfbe04e1d5ef92c14880d1c15f549c1002dfe4c7d94b75e6c879ab6949d9",
+   "size": 48910
+  },
+  {
+   "id": "kjv_ROM.8.28_0.m4a",
+   "path": "content/voice/kjv_ROM.8.28_0.m4a",
+   "checksum_sha256": "76082d8f83adc6470bf7c2bb8cf2b91102352693deb7c5adc14c5ffc3787ee84",
+   "size": 45804
   }
  ]
 }
