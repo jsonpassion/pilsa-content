@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "651271fa9e39",
- "generated_at": "2026-09-14T14:37:26Z",
+ "version": "87d8a6240d2d",
+ "generated_at": "2026-09-14T15:45:13Z",
  "entries": [
   {
    "id": "books.json",
@@ -42,8 +42,8 @@
   {
    "id": "krv.json",
    "path": "content/bible/krv.json",
-   "checksum_sha256": "27c6a93ffb4dedc5104d4db9b4fb760e8fb037d5160a0b550e62e8a88142cfeb",
-   "size": 4972433
+   "checksum_sha256": "f8c035e0aad3bd4414b1fee1e392512f1b46205e087a07bdfe47f31506a6c7b2",
+   "size": 4972436
   },
   {
    "id": "affirmations.json",
@@ -5166,8 +5166,8 @@
   {
    "id": "krv_PSA.121.7_0.m4a",
    "path": "content/voice/krv_PSA.121.7_0.m4a",
-   "checksum_sha256": "102ad414f1b8dd2017a1e5dc85ebfd054a909027942330d13aac59dc478c99a0",
-   "size": 45561
+   "checksum_sha256": "e374e6776db6da24aeb3175a30b51eff90702907eca34609423aec9e2f28eb41",
+   "size": 41848
   },
   {
    "id": "krv_PSA.121.8_0.m4a",
