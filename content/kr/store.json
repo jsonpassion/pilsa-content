@@ -1,0 +1,202 @@
+{
+ "items": [
+  {
+   "productID": "kr.pack.rest14",
+   "unlock": "pack:rest14",
+   "price": 2200,
+   "title": "쉼과 위로 14일",
+   "subtitle": "지친 날을 위한 말씀",
+   "en": {
+    "title": "Rest and Comfort, 14 Days",
+    "subtitle": "Scripture for weary days"
+   }
+  },
+  {
+   "productID": "kr.pack.beatitudes",
+   "unlock": "pack:beatitudes",
+   "price": 1100,
+   "title": "팔복 8일",
+   "subtitle": "여덟 가지 복을 하루에 하나씩",
+   "en": {
+    "title": "The Beatitudes in 8 Days",
+    "subtitle": "One blessing each day"
+   }
+  },
+  {
+   "productID": "kr.pack.psalms",
+   "unlock": "pack:psalms",
+   "price": 1100,
+   "title": "시편 필사 노트",
+   "subtitle": "대표 시편 일곱 편",
+   "en": {
+    "title": "Psalms Notebook",
+    "subtitle": "Seven beloved psalms"
+   }
+  },
+  {
+   "productID": "kr.pack.wisdom",
+   "unlock": "pack:wisdom",
+   "price": 1100,
+   "title": "지혜의 말씀 8일",
+   "subtitle": "잠언과 미가서",
+   "en": {
+    "title": "Words of Wisdom, 8 Days",
+    "subtitle": "Proverbs and Micah"
+   }
+  },
+  {
+   "productID": "kr.pack.love",
+   "unlock": "pack:love",
+   "price": 1100,
+   "title": "사랑의 말씀 7일",
+   "subtitle": "고린도전서 13장",
+   "en": {
+    "title": "The Love Chapter, 7 Days",
+    "subtitle": "1 Corinthians 13"
+   }
+  },
+  {
+   "productID": "kr.pack.kjv21",
+   "unlock": "pack:kjv21",
+   "price": 2200,
+   "title": "영어로 쓰는 말씀 21일",
+   "subtitle": "익숙한 구절을 KJV로",
+   "en": {
+    "title": "21 Days in the KJV",
+    "subtitle": "Familiar verses from the KJV"
+   }
+  },
+  {
+   "productID": "kr.pack.gospel21",
+   "unlock": "pack:gospel21",
+   "price": 2200,
+   "title": "영어로 쓰는 복음 21일",
+   "subtitle": "익숙한 복음을 Douay-Rheims로",
+   "en": {
+    "title": "The Gospels, 21 Days",
+    "subtitle": "Familiar Gospel passages in Douay-Rheims"
+   }
+  },
+  {
+   "productID": "kr.pack.wisdombooks8",
+   "unlock": "pack:wisdomBooks8",
+   "price": 1100,
+   "title": "지혜의 책 8일",
+   "subtitle": "지혜서, 집회서, 토빗기",
+   "en": {
+    "title": "Books of Wisdom, 8 Days",
+    "subtitle": "Wisdom, Sirach, Tobit"
+   }
+  },
+  {
+   "productID": "kr.pack.heartsutra10",
+   "unlock": "pack:heartSutra10",
+   "price": 1100,
+   "title": "반야심경 사경 10일",
+   "subtitle": "아홉 날 나눠 쓰고 열째 날 전체",
+   "en": {
+    "title": "The Heart Sutra, 10 Days",
+    "subtitle": "Nine days in sections, then the full text"
+   }
+  },
+  {
+   "productID": "kr.pack.beopseong7",
+   "unlock": "pack:beopseong7",
+   "price": 1100,
+   "title": "법성게 7일",
+   "subtitle": "의상대사의 210자",
+   "en": {
+    "title": "Song of Dharma Nature, 7 Days",
+    "subtitle": "Uisang's 210-character verse"
+   }
+  },
+  {
+   "productID": "kr.pack.seon14",
+   "unlock": "pack:seon14",
+   "price": 2200,
+   "title": "옛 스님의 한마디 14일",
+   "subtitle": "선사들이 남긴 짧은 글",
+   "en": {
+    "title": "Words of Old Masters, 14 Days",
+    "subtitle": "Short writings from Zen masters"
+   }
+  },
+  {
+   "productID": "kr.pack.affirm30",
+   "unlock": "pack:affirm30",
+   "price": 2200,
+   "title": "영어 확언 30일",
+   "subtitle": "마음을 단단하게 하는 문장",
+   "en": {
+    "title": "Affirmations, 30 Days",
+    "subtitle": "Sentences to steady your heart"
+   }
+  },
+  {
+   "productID": "kr.pack.gratitude10",
+   "unlock": "pack:gratitude10",
+   "price": 1100,
+   "title": "감사의 말씀 10일",
+   "subtitle": "하루 한 구절씩 감사",
+   "en": {
+    "title": "Ten Days of Thanks",
+    "subtitle": "One verse of gratitude a day"
+   }
+  },
+  {
+   "productID": "kr.pack.sermon14",
+   "unlock": "pack:sermon14",
+   "price": 2200,
+   "title": "산상수훈 14일",
+   "subtitle": "예수님의 가르침을 따라",
+   "en": {
+    "title": "The Sermon on the Mount, 14 Days",
+    "subtitle": "Following the teaching on the hill"
+   }
+  },
+  {
+   "productID": "kr.pack.proverbs10",
+   "unlock": "pack:proverbs10",
+   "price": 1100,
+   "title": "잠언 열 구절 10일",
+   "subtitle": "지혜로운 한 문장",
+   "en": {
+    "title": "Ten Proverbs in 10 Days",
+    "subtitle": "One wise sentence a day"
+   }
+  },
+  {
+   "productID": "kr.pack.catholicpsalms7",
+   "unlock": "pack:catholicPsalms7",
+   "price": 1100,
+   "title": "시편으로 드리는 기도 7일",
+   "subtitle": "일곱 편의 시편",
+   "en": {
+    "title": "Praying the Psalms, 7 Days",
+    "subtitle": "Seven psalms"
+   }
+  },
+  {
+   "productID": "kr.pack.affirmgratitude14",
+   "unlock": "pack:affirmGratitude14",
+   "price": 2200,
+   "title": "감사 확언 14일",
+   "subtitle": "하루 한 문장, 고마움",
+   "en": {
+    "title": "Gratitude Affirmations, 14 Days",
+    "subtitle": "One thankful line a day"
+   }
+  },
+  {
+   "productID": "kr.pack.affirmnight7",
+   "unlock": "pack:affirmNight7",
+   "price": 1100,
+   "title": "잠들기 전 확언 7일",
+   "subtitle": "하루를 접는 문장",
+   "en": {
+    "title": "Night Affirmations, 7 Days",
+    "subtitle": "Lines for folding up the day"
+   }
+  }
+ ]
+}
