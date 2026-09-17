@@ -3326,6 +3326,462 @@
   }
  },
  {
+  "id": "lifeDaily",
+  "kind": "daily",
+  "collection": "life",
+  "title": "오늘의 한 문장",
+  "subtitle": "하루 한 문장",
+  "summary": "다짐과 상식, 고전에서 온 문장을 하루에 하나씩. 두 달 가까이 겹치지 않게 바뀌고 언제나 무료예요.",
+  "symbol": "lightbulb",
+  "tint": "mustard",
+  "highlights": [],
+  "previewDays": 0,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "오늘 할 하나",
+    "passage": "life.morning.1",
+    "prompt": "오늘 제대로 할 하나는 무엇인가요?"
+   },
+   {
+    "title": "시작이 반",
+    "passage": "life.morning.2",
+    "prompt": "오늘 쓸 첫 줄은 무엇인가요?"
+   },
+   {
+    "title": "작게 자주",
+    "passage": "life.morning.3",
+    "prompt": "작게 자주 할 수 있는 일은 무엇인가요?"
+   },
+   {
+    "title": "비교하지 않기",
+    "passage": "life.morning.4",
+    "prompt": "어제의 나보다 나아진 점 하나는요?"
+   },
+   {
+    "title": "미루지 않는 5분",
+    "passage": "life.morning.5",
+    "prompt": "5분만 해 볼 일은 무엇인가요?"
+   },
+   {
+    "title": "손이 먼저",
+    "passage": "life.morning.6",
+    "prompt": "손부터 움직여 볼 일은 무엇인가요?"
+   },
+   {
+    "title": "끝을 정해 두기",
+    "passage": "life.morning.7",
+    "prompt": "오늘 일은 언제 끝낼 건가요?"
+   },
+   {
+    "title": "오늘의 세 가지",
+    "passage": "life.morning.8",
+    "prompt": "오늘의 세 가지는 무엇인가요?"
+   },
+   {
+    "title": "다시 앉기",
+    "passage": "life.morning.9",
+    "prompt": "다시 앉게 해 주는 것은 무엇인가요?"
+   },
+   {
+    "title": "고요한 십 분",
+    "passage": "life.morning.10",
+    "prompt": "아침 십 분을 어떻게 쓰고 싶나요?"
+   },
+   {
+    "title": "지나간다",
+    "passage": "life.steady.1",
+    "prompt": "지금 지나가고 있는 마음은 어떤 것인가요?"
+   },
+   {
+    "title": "숨 한 번",
+    "passage": "life.steady.2",
+    "prompt": "숨을 한 번 쉬고 나면 무엇이 달라지나요?"
+   },
+   {
+    "title": "할 수 있는 만큼",
+    "passage": "life.steady.3",
+    "prompt": "오늘 할 수 있는 만큼은 어디까지인가요?"
+   },
+   {
+    "title": "실수는 자료",
+    "passage": "life.steady.4",
+    "prompt": "최근의 실수에서 얻은 자료는 무엇인가요?"
+   },
+   {
+    "title": "혼자가 아니다",
+    "passage": "life.steady.5",
+    "prompt": "같은 마음을 지나온 사람이 떠오르나요?"
+   },
+   {
+    "title": "오늘 몫만",
+    "passage": "life.steady.6",
+    "prompt": "내일로 넘겨도 되는 걱정은 무엇인가요?"
+   },
+   {
+    "title": "작은 정리",
+    "passage": "life.steady.7",
+    "prompt": "정리하고 싶은 자리는 어디인가요?"
+   },
+   {
+    "title": "말로 꺼내기",
+    "passage": "life.steady.8",
+    "prompt": "말로 꺼내고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "쉬는 것도 일",
+    "passage": "life.steady.9",
+    "prompt": "쉬는 것이 준비가 된 적이 있나요?"
+   },
+   {
+    "title": "여기서부터",
+    "passage": "life.steady.10",
+    "prompt": "여기서 시작할 한 걸음은 무엇인가요?"
+   },
+   {
+    "title": "같은 시간에 일어나기",
+    "passage": "life.body.1",
+    "prompt": "일어나는 시간을 정한다면 몇 시인가요?"
+   },
+   {
+    "title": "아침 햇빛",
+    "passage": "life.body.2",
+    "prompt": "아침 햇빛을 어디서 볼 수 있나요?"
+   },
+   {
+    "title": "자기 전 화면",
+    "passage": "life.body.3",
+    "prompt": "자기 전 화면 대신 할 일이 있나요?"
+   },
+   {
+    "title": "낮잠은 짧게",
+    "passage": "life.body.4",
+    "prompt": "낮잠을 잔다면 언제가 좋을까요?"
+   },
+   {
+    "title": "카페인의 반감기",
+    "passage": "life.body.5",
+    "prompt": "마지막 커피는 몇 시에 마시나요?"
+   },
+   {
+    "title": "물 한 컵",
+    "passage": "life.body.6",
+    "prompt": "오늘 물을 몇 컵 마셨나요?"
+   },
+   {
+    "title": "걷기의 힘",
+    "passage": "life.body.7",
+    "prompt": "이십 분 걸을 길이 있나요?"
+   },
+   {
+    "title": "앉은 자리에서 일어나기",
+    "passage": "life.body.8",
+    "prompt": "한 시간에 한 번 일어설 신호는 무엇으로 할까요?"
+   },
+   {
+    "title": "코로 숨 쉬기",
+    "passage": "life.body.9",
+    "prompt": "숨을 천천히 내쉬면 몸 어디가 먼저 풀리나요?"
+   },
+   {
+    "title": "어두운 방",
+    "passage": "life.body.10",
+    "prompt": "방을 더 어둡게 할 방법이 있나요?"
+   },
+   {
+    "title": "먼저 떼어 두기",
+    "passage": "life.money.1",
+    "prompt": "먼저 떼어 둘 수 있는 몫은 얼마인가요?"
+   },
+   {
+    "title": "복리의 시간",
+    "passage": "life.money.2",
+    "prompt": "시간을 주고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "작은 정기 지출",
+    "passage": "life.money.3",
+    "prompt": "세어 볼 구독은 몇 개인가요?"
+   },
+   {
+    "title": "하루 자고 사기",
+    "passage": "life.money.4",
+    "prompt": "하루 자고 나서 사기로 한 것이 있나요?"
+   },
+   {
+    "title": "비상금 석 달",
+    "passage": "life.money.5",
+    "prompt": "석 달 치 생활비는 얼마인가요?"
+   },
+   {
+    "title": "시간에도 값이 있다",
+    "passage": "life.money.6",
+    "prompt": "한 시간의 값을 얼마로 두고 싶나요?"
+   },
+   {
+    "title": "아침의 두 시간",
+    "passage": "life.money.7",
+    "prompt": "가장 맑은 두 시간은 언제인가요?"
+   },
+   {
+    "title": "한 번에 하나",
+    "passage": "life.money.8",
+    "prompt": "번갈아 하던 일을 하나로 줄인다면요?"
+   },
+   {
+    "title": "적어 두면 가벼워진다",
+    "passage": "life.money.9",
+    "prompt": "머리에서 종이로 옮길 할 일은 무엇인가요?"
+   },
+   {
+    "title": "빈 시간 남기기",
+    "passage": "life.money.10",
+    "prompt": "비워 두고 싶은 시간은 언제인가요?"
+   },
+   {
+    "title": "배우고 익히면",
+    "passage": "life.classic.1",
+    "prompt": "최근에 배우고 익힌 것은 무엇인가요?"
+   },
+   {
+    "title": "아는 것과 모르는 것",
+    "passage": "life.classic.2",
+    "prompt": "모른다고 말해도 되는 것이 있나요?"
+   },
+   {
+    "title": "천 리 길",
+    "passage": "life.classic.3",
+    "prompt": "발밑의 한 걸음은 무엇인가요?"
+   },
+   {
+    "title": "부드러운 것이 이긴다",
+    "passage": "life.classic.4",
+    "prompt": "부드럽게 이긴 적이 있나요?"
+   },
+   {
+    "title": "선을 쌓는 집",
+    "passage": "life.classic.5",
+    "prompt": "쌓아 두고 싶은 선은 무엇인가요?"
+   },
+   {
+    "title": "말은 적게",
+    "passage": "life.classic.6",
+    "prompt": "삼가고 싶은 말이 있나요?"
+   },
+   {
+    "title": "담박한 마음",
+    "passage": "life.classic.7",
+    "prompt": "담박하게 두고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "한 걸음 물러서기",
+    "passage": "life.classic.8",
+    "prompt": "물러서서 먼저 보낼 사람이 있나요?"
+   },
+   {
+    "title": "지금 여기",
+    "passage": "life.classic.9",
+    "prompt": "지금 하는 일에 마음이 있나요?"
+   },
+   {
+    "title": "장애물이 길",
+    "passage": "life.classic.10",
+    "prompt": "길을 막는 것이 길이 된 적이 있나요?"
+   },
+   {
+    "title": "짧은 인생이 아니라",
+    "passage": "life.classic.11",
+    "prompt": "버리고 있는 시간은 무엇인가요?"
+   },
+   {
+    "title": "매일 무엇을 고쳤나",
+    "passage": "life.classic.12",
+    "prompt": "오늘 고친 병은 무엇인가요?"
+   },
+   {
+    "title": "생각이 삶이 된다",
+    "passage": "life.classic.13",
+    "prompt": "요즘 삶을 물들이는 생각은 무엇인가요?"
+   },
+   {
+    "title": "하루를 다 산 사람",
+    "passage": "life.classic.14",
+    "prompt": "오늘 하루를 온전히 살았나요?"
+   }
+  ],
+  "en": {
+   "title": "Today's sentence",
+   "subtitle": "One sentence a day",
+   "summary": "A resolve, an everyday fact, or a line from the classics, one a day. Nearly two months without repeats, always free.",
+   "highlights": [],
+   "days": [
+    {
+     "title": "One thing today"
+    },
+    {
+     "title": "Starting is half"
+    },
+    {
+     "title": "Small and often"
+    },
+    {
+     "title": "No comparing"
+    },
+    {
+     "title": "Five minutes now"
+    },
+    {
+     "title": "Hands first"
+    },
+    {
+     "title": "Set an end"
+    },
+    {
+     "title": "Three for today"
+    },
+    {
+     "title": "Sitting back down"
+    },
+    {
+     "title": "Ten quiet minutes"
+    },
+    {
+     "title": "It passes"
+    },
+    {
+     "title": "One breath"
+    },
+    {
+     "title": "As much as I can"
+    },
+    {
+     "title": "A mistake is data"
+    },
+    {
+     "title": "Not alone"
+    },
+    {
+     "title": "Only today's share"
+    },
+    {
+     "title": "A small tidying"
+    },
+    {
+     "title": "Saying it out"
+    },
+    {
+     "title": "Rest is work too"
+    },
+    {
+     "title": "From here"
+    },
+    {
+     "title": "Waking at the same time"
+    },
+    {
+     "title": "Morning light"
+    },
+    {
+     "title": "Screens before bed"
+    },
+    {
+     "title": "Short naps"
+    },
+    {
+     "title": "How long caffeine stays"
+    },
+    {
+     "title": "A glass of water"
+    },
+    {
+     "title": "The power of walking"
+    },
+    {
+     "title": "Standing up often"
+    },
+    {
+     "title": "Breathing through the nose"
+    },
+    {
+     "title": "A dark room"
+    },
+    {
+     "title": "Pay yourself first"
+    },
+    {
+     "title": "Compounding takes time"
+    },
+    {
+     "title": "Small regular costs"
+    },
+    {
+     "title": "Sleep on it"
+    },
+    {
+     "title": "Three months of cushion"
+    },
+    {
+     "title": "Time has a price"
+    },
+    {
+     "title": "The first two hours"
+    },
+    {
+     "title": "One at a time"
+    },
+    {
+     "title": "Writing it down"
+    },
+    {
+     "title": "Leaving room"
+    },
+    {
+     "title": "To learn and practice"
+    },
+    {
+     "title": "Knowing and not knowing"
+    },
+    {
+     "title": "A thousand miles"
+    },
+    {
+     "title": "The soft overcomes"
+    },
+    {
+     "title": "A house that stores good"
+    },
+    {
+     "title": "Few words"
+    },
+    {
+     "title": "A plain heart"
+    },
+    {
+     "title": "Stepping back"
+    },
+    {
+     "title": "Here and now"
+    },
+    {
+     "title": "The obstacle is the way"
+    },
+    {
+     "title": "Life is not short"
+    },
+    {
+     "title": "What did I mend today"
+    },
+    {
+     "title": "Thoughts become life"
+    },
+    {
+     "title": "Living a whole day"
+    }
+   ]
+  }
+ },
+ {
   "id": "sagyeongStart5",
   "kind": "plan",
   "title": "사경 첫걸음 5일",
