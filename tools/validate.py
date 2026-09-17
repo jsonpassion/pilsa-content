@@ -65,6 +65,8 @@ def main():
         if track.get("id") in music_ids:
             problems.append(f"배경음악 id가 겹침: {track.get('id')}")
         music_ids.add(track.get("id"))
+        if track.get("access") not in ("free", "plus"):
+            problems.append(f"배경음악 {track.get('id')}: access는 free나 plus")
         if not (CONTENT / "music" / f"{track.get('file')}.m4a").exists():
             problems.append(f"배경음악 {track.get('id')}: 파일 없음 {track.get('file')}.m4a")
 

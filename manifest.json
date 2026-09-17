@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "1417396bd278",
- "generated_at": "2026-09-17T07:50:47Z",
+ "version": "ea155fcd2949",
+ "generated_at": "2026-09-17T08:17:55Z",
  "entries": [
   {
    "id": "books.json",
@@ -72,8 +72,8 @@
   {
    "id": "music.json",
    "path": "content/music/music.json",
-   "checksum_sha256": "d983b9a4300a89653bea1cdae370c7c5dbaeb67f5525ae313ea740e34faff5a0",
-   "size": 1957
+   "checksum_sha256": "2ade03673698d13671dbb50ff93bd554bbd015c1361335663939b1346e5fb121",
+   "size": 2229
   },
   {
    "id": "music_cafe.m4a",
