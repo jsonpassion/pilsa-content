@@ -1934,6 +1934,552 @@
      "note": "pass the smile on처럼 사이에 목적어를 넣을 수 있어요."
     }
    ]
+  },
+  "aff.71": {
+   "title": {
+    "en": "Small good things",
+    "ko": "작은 좋은 것들"
+   },
+   "lines": {
+    "en": [
+     "I notice the small good things today."
+    ],
+    "ko": [
+     "나는 오늘 작은 좋은 것들을 알아차린다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "notice",
+     "ko": "알아차리다",
+     "note": "눈에 담아 둔다는 뜻이에요."
+    },
+    {
+     "word": "small",
+     "ko": "작은",
+     "note": ""
+    }
+   ]
+  },
+  "aff.72": {
+   "title": {
+    "en": "Thank you, body",
+    "ko": "몸에게 고마워"
+   },
+   "lines": {
+    "en": [
+     "Thank you, body, for carrying me today."
+    ],
+    "ko": [
+     "몸아, 오늘도 나를 데려다 주어 고마워."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "carry",
+     "ko": "데려가다, 지탱하다",
+     "note": "무게를 들어 옮긴다는 뜻이에요."
+    },
+    {
+     "word": "today",
+     "ko": "오늘",
+     "note": ""
+    }
+   ]
+  },
+  "aff.73": {
+   "title": {
+    "en": "Enough",
+    "ko": "충분해"
+   },
+   "lines": {
+    "en": [
+     "What I have today is enough."
+    ],
+    "ko": [
+     "오늘 내가 가진 것으로 충분하다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "enough",
+     "ko": "충분한",
+     "note": "더 없어도 된다는 뜻이에요."
+    },
+    {
+     "word": "have",
+     "ko": "가지다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.74": {
+   "title": {
+    "en": "Morning light",
+    "ko": "아침 빛"
+   },
+   "lines": {
+    "en": [
+     "I am thankful for the light that wakes me."
+    ],
+    "ko": [
+     "나를 깨우는 빛에 감사한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thankful",
+     "ko": "감사하는",
+     "note": ""
+    },
+    {
+     "word": "wake",
+     "ko": "깨우다",
+     "note": "잠에서 깨게 한다는 뜻이에요."
+    }
+   ]
+  },
+  "aff.75": {
+   "title": {
+    "en": "People who stay",
+    "ko": "곁에 있는 사람"
+   },
+   "lines": {
+    "en": [
+     "I am grateful for the people who stay."
+    ],
+    "ko": [
+     "곁에 남아 주는 사람들에게 감사한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "grateful",
+     "ko": "고마워하는",
+     "note": "thankful과 같은 뜻이에요."
+    },
+    {
+     "word": "stay",
+     "ko": "머무르다",
+     "note": "떠나지 않고 남는다는 뜻이에요."
+    }
+   ]
+  },
+  "aff.76": {
+   "title": {
+    "en": "A slow meal",
+    "ko": "천천히 먹기"
+   },
+   "lines": {
+    "en": [
+     "I take my time and taste my food."
+    ],
+    "ko": [
+     "천천히 시간을 들여 음식을 맛본다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "take my time",
+     "ko": "천천히 하다",
+     "note": "서두르지 않는다는 뜻이에요."
+    },
+    {
+     "word": "taste",
+     "ko": "맛보다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.77": {
+   "title": {
+    "en": "Work my hands can do",
+    "ko": "손이 할 수 있는 일"
+   },
+   "lines": {
+    "en": [
+     "I am thankful for work my hands can do."
+    ],
+    "ko": [
+     "내 손이 할 수 있는 일에 감사한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "work",
+     "ko": "일",
+     "note": ""
+    },
+    {
+     "word": "hands",
+     "ko": "손",
+     "note": ""
+    }
+   ]
+  },
+  "aff.78": {
+   "title": {
+    "en": "Rain on the window",
+    "ko": "창에 내리는 비"
+   },
+   "lines": {
+    "en": [
+     "Even the rain gives me something to hear."
+    ],
+    "ko": [
+     "비조차 내게 들을 것을 준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "even",
+     "ko": "~조차",
+     "note": "뜻밖의 것까지 포함할 때 써요."
+    },
+    {
+     "word": "hear",
+     "ko": "듣다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.79": {
+   "title": {
+    "en": "A place to rest",
+    "ko": "쉴 자리"
+   },
+   "lines": {
+    "en": [
+     "I have a place where I can rest."
+    ],
+    "ko": [
+     "나에게는 쉴 수 있는 자리가 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "place",
+     "ko": "자리, 곳",
+     "note": ""
+    },
+    {
+     "word": "rest",
+     "ko": "쉬다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.80": {
+   "title": {
+    "en": "Growing slowly",
+    "ko": "천천히 자라기"
+   },
+   "lines": {
+    "en": [
+     "I am thankful that I grow a little each day."
+    ],
+    "ko": [
+     "하루에 조금씩 자라는 것에 감사한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "grow",
+     "ko": "자라다",
+     "note": ""
+    },
+    {
+     "word": "a little",
+     "ko": "조금",
+     "note": ""
+    }
+   ]
+  },
+  "aff.81": {
+   "title": {
+    "en": "Kind words",
+    "ko": "다정한 말"
+   },
+   "lines": {
+    "en": [
+     "I remember the kind words someone gave me."
+    ],
+    "ko": [
+     "누군가 건넨 다정한 말을 기억한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "remember",
+     "ko": "기억하다",
+     "note": ""
+    },
+    {
+     "word": "kind",
+     "ko": "다정한",
+     "note": "따뜻하게 대한다는 뜻이에요."
+    }
+   ]
+  },
+  "aff.82": {
+   "title": {
+    "en": "Every breath",
+    "ko": "숨마다"
+   },
+   "lines": {
+    "en": [
+     "Every breath is a quiet gift."
+    ],
+    "ko": [
+     "숨 하나하나가 조용한 선물이다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "breath",
+     "ko": "숨",
+     "note": ""
+    },
+    {
+     "word": "gift",
+     "ko": "선물",
+     "note": ""
+    }
+   ]
+  },
+  "aff.83": {
+   "title": {
+    "en": "Before today ends",
+    "ko": "오늘이 끝나기 전에"
+   },
+   "lines": {
+    "en": [
+     "I thank today before it ends."
+    ],
+    "ko": [
+     "오늘이 끝나기 전에 오늘에게 고맙다고 한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thank",
+     "ko": "고마워하다",
+     "note": ""
+    },
+    {
+     "word": "end",
+     "ko": "끝나다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.84": {
+   "title": {
+    "en": "Enough for tomorrow",
+    "ko": "내일의 몫"
+   },
+   "lines": {
+    "en": [
+     "I trust there will be enough tomorrow too."
+    ],
+    "ko": [
+     "내일도 충분할 것이라고 믿는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "trust",
+     "ko": "믿다",
+     "note": "걱정하지 않고 맡긴다는 뜻이에요."
+    },
+    {
+     "word": "tomorrow",
+     "ko": "내일",
+     "note": ""
+    }
+   ]
+  },
+  "aff.85": {
+   "title": {
+    "en": "Put it down",
+    "ko": "내려놓기"
+   },
+   "lines": {
+    "en": [
+     "I put down what I cannot finish today."
+    ],
+    "ko": [
+     "오늘 끝내지 못한 것을 내려놓는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "put down",
+     "ko": "내려놓다",
+     "note": "손에서 놓는다는 뜻이에요."
+    },
+    {
+     "word": "finish",
+     "ko": "끝내다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.86": {
+   "title": {
+    "en": "A soft ending",
+    "ko": "부드러운 마무리"
+   },
+   "lines": {
+    "en": [
+     "I let today end softly."
+    ],
+    "ko": [
+     "오늘이 부드럽게 끝나게 둔다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "let",
+     "ko": "~하게 두다",
+     "note": "막지 않는다는 뜻이에요."
+    },
+    {
+     "word": "softly",
+     "ko": "부드럽게",
+     "note": ""
+    }
+   ]
+  },
+  "aff.87": {
+   "title": {
+    "en": "No replay",
+    "ko": "되감지 않기"
+   },
+   "lines": {
+    "en": [
+     "I stop replaying what already happened."
+    ],
+    "ko": [
+     "이미 지나간 일을 되감지 않는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "replay",
+     "ko": "되감아 다시 보다",
+     "note": "머릿속에서 다시 떠올린다는 뜻이에요."
+    },
+    {
+     "word": "already",
+     "ko": "이미",
+     "note": ""
+    }
+   ]
+  },
+  "aff.88": {
+   "title": {
+    "en": "A quiet room",
+    "ko": "조용한 방"
+   },
+   "lines": {
+    "en": [
+     "My room is quiet and I am safe."
+    ],
+    "ko": [
+     "내 방은 조용하고 나는 안전하다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "quiet",
+     "ko": "조용한",
+     "note": ""
+    },
+    {
+     "word": "safe",
+     "ko": "안전한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.89": {
+   "title": {
+    "en": "Slower than my thoughts",
+    "ko": "생각보다 느리게"
+   },
+   "lines": {
+    "en": [
+     "I breathe slower than my thoughts."
+    ],
+    "ko": [
+     "생각보다 느리게 숨을 쉰다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "breathe",
+     "ko": "숨 쉬다",
+     "note": ""
+    },
+    {
+     "word": "thought",
+     "ko": "생각",
+     "note": ""
+    }
+   ]
+  },
+  "aff.90": {
+   "title": {
+    "en": "Tomorrow can wait",
+    "ko": "내일은 내일"
+   },
+   "lines": {
+    "en": [
+     "Tomorrow can wait until tomorrow."
+    ],
+    "ko": [
+     "내일 일은 내일까지 기다려도 된다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "wait",
+     "ko": "기다리다",
+     "note": ""
+    },
+    {
+     "word": "until",
+     "ko": "~까지",
+     "note": ""
+    }
+   ]
+  },
+  "aff.91": {
+   "title": {
+    "en": "Rest I asked for",
+    "ko": "부탁한 쉼"
+   },
+   "lines": {
+    "en": [
+     "I give my body the rest it asked for."
+    ],
+    "ko": [
+     "몸이 부탁한 쉼을 준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "give",
+     "ko": "주다",
+     "note": ""
+    },
+    {
+     "word": "ask for",
+     "ko": "부탁하다",
+     "note": "달라고 말한다는 뜻이에요."
+    }
+   ]
   }
  }
 }
