@@ -197,6 +197,50 @@
     "title": "Night Affirmations, 7 Days",
     "subtitle": "Lines for folding up the day"
    }
+  },
+  {
+   "productID": "kr.pack.steady10",
+   "unlock": "pack:steady10",
+   "price": 1100,
+   "title": "흔들릴 때 읽는 문장 10일",
+   "subtitle": "마음이 어지러운 날에",
+   "en": {
+    "title": "Lines for Shaky Days, 10 Days",
+    "subtitle": "For days when the mind is unsettled"
+   }
+  },
+  {
+   "productID": "kr.pack.body10",
+   "unlock": "pack:body10",
+   "price": 1100,
+   "title": "잠과 몸의 상식 10일",
+   "subtitle": "몸이 편해지는 작은 사실",
+   "en": {
+    "title": "Sleep and Body Basics, 10 Days",
+    "subtitle": "Small facts that ease the body"
+   }
+  },
+  {
+   "productID": "kr.pack.money10",
+   "unlock": "pack:money10",
+   "price": 1100,
+   "title": "돈과 시간의 상식 10일",
+   "subtitle": "가볍게 지키는 원칙",
+   "en": {
+    "title": "Money and Time Basics, 10 Days",
+    "subtitle": "Light rules that hold"
+   }
+  },
+  {
+   "productID": "kr.pack.classic14",
+   "unlock": "pack:classic14",
+   "price": 2200,
+   "title": "고전에서 온 문장 14일",
+   "subtitle": "논어, 도덕경, 명심보감, 명상록",
+   "en": {
+    "title": "Lines from the Classics, 14 Days",
+    "subtitle": "Analects, Tao Te Ching, Myeongsim Bogam, Meditations"
+   }
   }
  ]
 }

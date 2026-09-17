@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "ea155fcd2949",
- "generated_at": "2026-09-17T08:17:55Z",
+ "version": "e3fca1dd24b1",
+ "generated_at": "2026-09-17T08:46:10Z",
  "entries": [
   {
    "id": "books.json",
@@ -58,16 +58,22 @@
    "size": 67641
   },
   {
+   "id": "life.json",
+   "path": "content/collections/life.json",
+   "checksum_sha256": "d7d3d65a28ba2e76e389fd740e7f1bad67c1f6ae533d39858b10eaf38f539f28",
+   "size": 28215
+  },
+  {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "c549059181f8866f6930de2fe594977ba11f13f276372d26b61f8b1c61d78795",
-   "size": 133294
+   "checksum_sha256": "cbd8369cfbfc5d266ce5de680d4b57552ac787c5f4ef1e0427462cd3553468c3",
+   "size": 148216
   },
   {
    "id": "store.json",
    "path": "content/kr/store.json",
-   "checksum_sha256": "1c64f65aa3b8ba5115a16c87a9acca910d51034d8eadb8dcebe1240fa3b41cbb",
-   "size": 5100
+   "checksum_sha256": "405581af539d7467db759d4d7c60c902e76d539cab8c361cbf1d65f2906c0711",
+   "size": 6322
   },
   {
    "id": "music.json",
@@ -2042,6 +2048,330 @@
    "path": "content/voice/en_aff.p3_7.m4a",
    "checksum_sha256": "84715b410583aba0aee151e1422ec4c75bbd8631bb9a3b6d85a05afe73abe656",
    "size": 23069
+  },
+  {
+   "id": "en_life.body.10_0.m4a",
+   "path": "content/voice/en_life.body.10_0.m4a",
+   "checksum_sha256": "2d84a729db55d2d9c1db7c3af508afc28a38766f21037ee73bc998b23a72275c",
+   "size": 20238
+  },
+  {
+   "id": "en_life.body.1_0.m4a",
+   "path": "content/voice/en_life.body.1_0.m4a",
+   "checksum_sha256": "7eda53b08d03e0638cb101119c03204991ae77b6f500d220a14660fd53dc446b",
+   "size": 30867
+  },
+  {
+   "id": "en_life.body.2_0.m4a",
+   "path": "content/voice/en_life.body.2_0.m4a",
+   "checksum_sha256": "60a02cc5871cd118b05ecaaedc72b3c0e4d3f2dcc085d32efe0f2a87ae403038",
+   "size": 27399
+  },
+  {
+   "id": "en_life.body.3_0.m4a",
+   "path": "content/voice/en_life.body.3_0.m4a",
+   "checksum_sha256": "73f2df7161a719526bfb38718e515a2ae4b0eceee5f231704e2018ec785059c9",
+   "size": 26384
+  },
+  {
+   "id": "en_life.body.4_0.m4a",
+   "path": "content/voice/en_life.body.4_0.m4a",
+   "checksum_sha256": "e874b08c29d0c9ff0e31e4a43c07cf86d58d382525be618653557be8566f5cf5",
+   "size": 22992
+  },
+  {
+   "id": "en_life.body.5_0.m4a",
+   "path": "content/voice/en_life.body.5_0.m4a",
+   "checksum_sha256": "bcf9729b500a2e87d6fce33616039e34815ac39d5941b69ba311f85560951015",
+   "size": 28754
+  },
+  {
+   "id": "en_life.body.6_0.m4a",
+   "path": "content/voice/en_life.body.6_0.m4a",
+   "checksum_sha256": "18d3c2d1f7bdafe6572c02ee15e30dd6c105d3b1a30dec4217618552b09ed127",
+   "size": 28736
+  },
+  {
+   "id": "en_life.body.7_0.m4a",
+   "path": "content/voice/en_life.body.7_0.m4a",
+   "checksum_sha256": "754a23a96098074bf5a7b70ea3ff1d4caea02b7fb148c9875ba8811ff39828e5",
+   "size": 25176
+  },
+  {
+   "id": "en_life.body.8_0.m4a",
+   "path": "content/voice/en_life.body.8_0.m4a",
+   "checksum_sha256": "61ed0bbe0444796380ac2f03cdc2771864562b726cf34887b6883fce9ab70aef",
+   "size": 28624
+  },
+  {
+   "id": "en_life.body.9_0.m4a",
+   "path": "content/voice/en_life.body.9_0.m4a",
+   "checksum_sha256": "8d5d444030147e569284168c0fef875168f3399ada77f9667b00f95c23da3919",
+   "size": 25032
+  },
+  {
+   "id": "en_life.classic.10_0.m4a",
+   "path": "content/voice/en_life.classic.10_0.m4a",
+   "checksum_sha256": "88424538ea25be7a04c765e4b98dd3f6a1de0c734eee0677848baa333f271f07",
+   "size": 33899
+  },
+  {
+   "id": "en_life.classic.11_0.m4a",
+   "path": "content/voice/en_life.classic.11_0.m4a",
+   "checksum_sha256": "df36874bc6f1a3e6b3483c2aec440fa3a59fe537fdee433ef83021c4baf9ca22",
+   "size": 42695
+  },
+  {
+   "id": "en_life.classic.12_0.m4a",
+   "path": "content/voice/en_life.classic.12_0.m4a",
+   "checksum_sha256": "446a66d18bbd82fba64bf85d27c6789f03cd35aea49a6ce492b215a9899c9b84",
+   "size": 33588
+  },
+  {
+   "id": "en_life.classic.13_0.m4a",
+   "path": "content/voice/en_life.classic.13_0.m4a",
+   "checksum_sha256": "24479188b2a8e86f2fde48adcd5f59e92c3327936430d0060624af7de465d1c3",
+   "size": 35169
+  },
+  {
+   "id": "en_life.classic.14_0.m4a",
+   "path": "content/voice/en_life.classic.14_0.m4a",
+   "checksum_sha256": "143718a011fdb75d7739ed523d7024d749ff34b3ce5b592d2719f1f03064a157",
+   "size": 35654
+  },
+  {
+   "id": "en_life.classic.1_0.m4a",
+   "path": "content/voice/en_life.classic.1_0.m4a",
+   "checksum_sha256": "e3199f5d48345a50d93e42ed77c2e19bb9c50becec3057d2c3b8c62675c73b31",
+   "size": 36145
+  },
+  {
+   "id": "en_life.classic.2_0.m4a",
+   "path": "content/voice/en_life.classic.2_0.m4a",
+   "checksum_sha256": "3a3f58a90a11f1c6ed873bef3a773dfa144bc33b04f2933a244921b8aca0ab92",
+   "size": 37841
+  },
+  {
+   "id": "en_life.classic.3_0.m4a",
+   "path": "content/voice/en_life.classic.3_0.m4a",
+   "checksum_sha256": "5c4a39e3aefe1a4ded5fcc945f18bf1a8025094dde42a1add5fe59848983f163",
+   "size": 38117
+  },
+  {
+   "id": "en_life.classic.4_0.m4a",
+   "path": "content/voice/en_life.classic.4_0.m4a",
+   "checksum_sha256": "ce4f961f7803c7daf3a72e75ef2899579e71ddc0a93ba6e979515d776971fdee",
+   "size": 34600
+  },
+  {
+   "id": "en_life.classic.5_0.m4a",
+   "path": "content/voice/en_life.classic.5_0.m4a",
+   "checksum_sha256": "73b0ab6df964341bd6e0f72058b92239351e8b14f02e324842bd4cefada19562",
+   "size": 34162
+  },
+  {
+   "id": "en_life.classic.6_0.m4a",
+   "path": "content/voice/en_life.classic.6_0.m4a",
+   "checksum_sha256": "c3c59eff16df7f41164e1e7a795f9cb33cc41e19cadc122bb4cf605e86921329",
+   "size": 43746
+  },
+  {
+   "id": "en_life.classic.7_0.m4a",
+   "path": "content/voice/en_life.classic.7_0.m4a",
+   "checksum_sha256": "7a9f9472bb9cc8d22cb9716db5bad5b0ba11079ccbd8c2e9058e9d8b065d9d46",
+   "size": 28309
+  },
+  {
+   "id": "en_life.classic.8_0.m4a",
+   "path": "content/voice/en_life.classic.8_0.m4a",
+   "checksum_sha256": "8dad5118e16824cfab8b2f3b6563502d0fa05fba1f55e027c39bc362d3f264ce",
+   "size": 32428
+  },
+  {
+   "id": "en_life.classic.9_0.m4a",
+   "path": "content/voice/en_life.classic.9_0.m4a",
+   "checksum_sha256": "91543d101bfcf10b042001fc77ce1d95737a9ab635c104953c3bc5a53265f3a3",
+   "size": 50648
+  },
+  {
+   "id": "en_life.money.10_0.m4a",
+   "path": "content/voice/en_life.money.10_0.m4a",
+   "checksum_sha256": "d1e56384ed557071b94da58f7672fedf1f1e981fa5449ce1032267f1054f54b0",
+   "size": 32409
+  },
+  {
+   "id": "en_life.money.1_0.m4a",
+   "path": "content/voice/en_life.money.1_0.m4a",
+   "checksum_sha256": "31bbf48eee1f6299dd7ef29b63d0d5af2fce1a9bbd335f8cedf9e3c9c39a4ebf",
+   "size": 34669
+  },
+  {
+   "id": "en_life.money.2_0.m4a",
+   "path": "content/voice/en_life.money.2_0.m4a",
+   "checksum_sha256": "540b32fc9b3c754ff67d6d77966ced96ea93699529b5405e7c06db4eace473ea",
+   "size": 28933
+  },
+  {
+   "id": "en_life.money.3_0.m4a",
+   "path": "content/voice/en_life.money.3_0.m4a",
+   "checksum_sha256": "9cce5fd3cda1fbcb13cc634585183864339c8124504d094b6d592c3ada57d38d",
+   "size": 35538
+  },
+  {
+   "id": "en_life.money.4_0.m4a",
+   "path": "content/voice/en_life.money.4_0.m4a",
+   "checksum_sha256": "dca01d85569460bea2236c3cae49a3604bc937515cfddddb154d44737c711422",
+   "size": 35481
+  },
+  {
+   "id": "en_life.money.5_0.m4a",
+   "path": "content/voice/en_life.money.5_0.m4a",
+   "checksum_sha256": "bc4a68eeea37da75fa36b40383092082f1aff07564b01fe3b303a58e223dfab2",
+   "size": 31343
+  },
+  {
+   "id": "en_life.money.6_0.m4a",
+   "path": "content/voice/en_life.money.6_0.m4a",
+   "checksum_sha256": "7305f9734d141eff8d41b6b91d2ee159abbdacb5ee85721dcf442e03a5d15122",
+   "size": 29852
+  },
+  {
+   "id": "en_life.money.7_0.m4a",
+   "path": "content/voice/en_life.money.7_0.m4a",
+   "checksum_sha256": "3fbbcac7c647e1c247f8de00e8b74aa389a8b947669039f5bb4ffdd49c634385",
+   "size": 25766
+  },
+  {
+   "id": "en_life.money.8_0.m4a",
+   "path": "content/voice/en_life.money.8_0.m4a",
+   "checksum_sha256": "588c999973f6deb93e61685a9aaa5bf0d17d55c74c57238e64a1f758985b4d55",
+   "size": 32030
+  },
+  {
+   "id": "en_life.money.9_0.m4a",
+   "path": "content/voice/en_life.money.9_0.m4a",
+   "checksum_sha256": "f0128b731387b79e2b9544dd357a3fc4d3dafa8f53dd87cf17dc7cf5ef831ce1",
+   "size": 27484
+  },
+  {
+   "id": "en_life.morning.10_0.m4a",
+   "path": "content/voice/en_life.morning.10_0.m4a",
+   "checksum_sha256": "7faa35e4a9311f3830888eb28474186793303fdf44dcf1e935ada9a61644301b",
+   "size": 24706
+  },
+  {
+   "id": "en_life.morning.1_0.m4a",
+   "path": "content/voice/en_life.morning.1_0.m4a",
+   "checksum_sha256": "49b463bb41925d433f062c5b7097c439cf0607ce0c6d3a0f1e1424e86ce38a76",
+   "size": 29100
+  },
+  {
+   "id": "en_life.morning.2_0.m4a",
+   "path": "content/voice/en_life.morning.2_0.m4a",
+   "checksum_sha256": "86cb94318c306097ca6a931574141ee93e5258d00e44940481ce80900e65d803",
+   "size": 29203
+  },
+  {
+   "id": "en_life.morning.3_0.m4a",
+   "path": "content/voice/en_life.morning.3_0.m4a",
+   "checksum_sha256": "eb3ee4442206749b7ae700492b58438198134dfd3702739cf9c97f1656370c45",
+   "size": 23207
+  },
+  {
+   "id": "en_life.morning.4_0.m4a",
+   "path": "content/voice/en_life.morning.4_0.m4a",
+   "checksum_sha256": "77e791bd6e36c2ff42cce68f8f912b92f2dd11cecba4210f305553a621ddc955",
+   "size": 27393
+  },
+  {
+   "id": "en_life.morning.5_0.m4a",
+   "path": "content/voice/en_life.morning.5_0.m4a",
+   "checksum_sha256": "83016fa4f81622cb2497f3d17ee0c5288f197822f81a064289f889921694c05d",
+   "size": 37093
+  },
+  {
+   "id": "en_life.morning.6_0.m4a",
+   "path": "content/voice/en_life.morning.6_0.m4a",
+   "checksum_sha256": "88f508cf732376ca5dcb676f78d2b7d7cfbe50dc9305489f96abe0c6f9d307fc",
+   "size": 27955
+  },
+  {
+   "id": "en_life.morning.7_0.m4a",
+   "path": "content/voice/en_life.morning.7_0.m4a",
+   "checksum_sha256": "ef792152d4dac56c33662dd43e5524ad284179c295eaaa59cea6f1a2f834b06a",
+   "size": 32962
+  },
+  {
+   "id": "en_life.morning.8_0.m4a",
+   "path": "content/voice/en_life.morning.8_0.m4a",
+   "checksum_sha256": "653df790dd54ff2bedddfac96b807f322b291f35c324062cbf7f3d317424e0de",
+   "size": 19415
+  },
+  {
+   "id": "en_life.morning.9_0.m4a",
+   "path": "content/voice/en_life.morning.9_0.m4a",
+   "checksum_sha256": "2ce3f48132f3ea6f5b7f86d5bf8a38015d19329cc2928bc0eb50123e106b4bc6",
+   "size": 23079
+  },
+  {
+   "id": "en_life.steady.10_0.m4a",
+   "path": "content/voice/en_life.steady.10_0.m4a",
+   "checksum_sha256": "0da6f46cc504764a1f2c2e0d1aa34c013bc407bbcff4c42600722037b13f3ebb",
+   "size": 22880
+  },
+  {
+   "id": "en_life.steady.1_0.m4a",
+   "path": "content/voice/en_life.steady.1_0.m4a",
+   "checksum_sha256": "7b6da7c668ff327d678df037c0eae7b3b2b3a00c08e4766138227ea82473431b",
+   "size": 21239
+  },
+  {
+   "id": "en_life.steady.2_0.m4a",
+   "path": "content/voice/en_life.steady.2_0.m4a",
+   "checksum_sha256": "e2ad7dc13d2bdf4da5461917d60a9fd7bd61c35ccb4028da2557b05d57f92c9b",
+   "size": 22737
+  },
+  {
+   "id": "en_life.steady.3_0.m4a",
+   "path": "content/voice/en_life.steady.3_0.m4a",
+   "checksum_sha256": "cb7e4df41625b8e2b8c339d00da1ed787095c0eefd6019e61251f898d0764db7",
+   "size": 24761
+  },
+  {
+   "id": "en_life.steady.4_0.m4a",
+   "path": "content/voice/en_life.steady.4_0.m4a",
+   "checksum_sha256": "d12f8a0231d4efdd0eb87cbc0380ce68c47c46b2204e56f28ad127b5c420ac04",
+   "size": 30412
+  },
+  {
+   "id": "en_life.steady.5_0.m4a",
+   "path": "content/voice/en_life.steady.5_0.m4a",
+   "checksum_sha256": "aead755b238fb95dbb01557a09165ee16738fa719d78e0baf1dc032d19192199",
+   "size": 20938
+  },
+  {
+   "id": "en_life.steady.6_0.m4a",
+   "path": "content/voice/en_life.steady.6_0.m4a",
+   "checksum_sha256": "160a864217fc06eb8cbe3b657468cf0321836a14baebbed28d807ce007d02713",
+   "size": 19449
+  },
+  {
+   "id": "en_life.steady.7_0.m4a",
+   "path": "content/voice/en_life.steady.7_0.m4a",
+   "checksum_sha256": "9399992857accb1dff5af9cec3ab68fc9571f680ed8eb7ab32c8b2bc152f514b",
+   "size": 24533
+  },
+  {
+   "id": "en_life.steady.8_0.m4a",
+   "path": "content/voice/en_life.steady.8_0.m4a",
+   "checksum_sha256": "aea875c08edd77c2082bbad595eebad211734cda0c535647705dd9d03f762e34",
+   "size": 18645
+  },
+  {
+   "id": "en_life.steady.9_0.m4a",
+   "path": "content/voice/en_life.steady.9_0.m4a",
+   "checksum_sha256": "8e5c88db3408d5f8007b7506e1570e9eebb20dd6aa3f28b60101331db8ef6d61",
+   "size": 22806
   },
   {
    "id": "kjv_1CH.16.34_0.m4a",
@@ -5336,6 +5666,330 @@
    "path": "content/voice/ko_bud.zen.yaun_1.m4a",
    "checksum_sha256": "0a5788bce545c04bea6ab8f8a237e99ed731a0bc5a6163e02a4fc537ca536636",
    "size": 17707
+  },
+  {
+   "id": "ko_life.body.10_0.m4a",
+   "path": "content/voice/ko_life.body.10_0.m4a",
+   "checksum_sha256": "fde26174fcc7a411c0b1a08af44c7a0e8a33399652232184e6f44a2210344126",
+   "size": 29137
+  },
+  {
+   "id": "ko_life.body.1_0.m4a",
+   "path": "content/voice/ko_life.body.1_0.m4a",
+   "checksum_sha256": "60d7fede9530155ccc1c937afe44a3a321974fa77c1eb5b2b8c9b907adc04991",
+   "size": 33916
+  },
+  {
+   "id": "ko_life.body.2_0.m4a",
+   "path": "content/voice/ko_life.body.2_0.m4a",
+   "checksum_sha256": "9f738cb7bd3bd38ae62c0bd9cde6b20f6c2effa61168dc628b5b7a6e8a508468",
+   "size": 35300
+  },
+  {
+   "id": "ko_life.body.3_0.m4a",
+   "path": "content/voice/ko_life.body.3_0.m4a",
+   "checksum_sha256": "b128577e4b1940ab761289853c287c12cf1e064bf5f157ab41c707449d58d4dd",
+   "size": 36153
+  },
+  {
+   "id": "ko_life.body.4_0.m4a",
+   "path": "content/voice/ko_life.body.4_0.m4a",
+   "checksum_sha256": "9e00b70a0cbe7b837ca376c565228a812653beed99307c194f5b606a1f25c011",
+   "size": 25784
+  },
+  {
+   "id": "ko_life.body.5_0.m4a",
+   "path": "content/voice/ko_life.body.5_0.m4a",
+   "checksum_sha256": "8638eb60ba03b7a51eac6c0e69ace53050ec7ed13bfaf6b6805c4d347c3d7ac4",
+   "size": 31910
+  },
+  {
+   "id": "ko_life.body.6_0.m4a",
+   "path": "content/voice/ko_life.body.6_0.m4a",
+   "checksum_sha256": "63d7fe5fee100be1fb717ed885cd89dafca7aa7fb48ab4660f5f99c653b41927",
+   "size": 30508
+  },
+  {
+   "id": "ko_life.body.7_0.m4a",
+   "path": "content/voice/ko_life.body.7_0.m4a",
+   "checksum_sha256": "859157058c3e6b1d1367c2640d56887b13d8b1a380304e0b9358b30459628ec4",
+   "size": 32521
+  },
+  {
+   "id": "ko_life.body.8_0.m4a",
+   "path": "content/voice/ko_life.body.8_0.m4a",
+   "checksum_sha256": "c5a43747a5a56a0e98cabab4df430710699516961a77546c15165beece6a6197",
+   "size": 39422
+  },
+  {
+   "id": "ko_life.body.9_0.m4a",
+   "path": "content/voice/ko_life.body.9_0.m4a",
+   "checksum_sha256": "e450d17d14c08e73bfc4f4cceaa3c84b47bb422066c6ec1f5c472949036c959d",
+   "size": 29682
+  },
+  {
+   "id": "ko_life.classic.10_0.m4a",
+   "path": "content/voice/ko_life.classic.10_0.m4a",
+   "checksum_sha256": "fc3c23e3f4c662f1ec9e20266c69341337b05528e3420b167aef2b85e1d2fa4d",
+   "size": 34618
+  },
+  {
+   "id": "ko_life.classic.11_0.m4a",
+   "path": "content/voice/ko_life.classic.11_0.m4a",
+   "checksum_sha256": "eda5c467b3163bbea073e3a1b81918e91c5c83efc7e74d7f3e809def83135876",
+   "size": 48287
+  },
+  {
+   "id": "ko_life.classic.12_0.m4a",
+   "path": "content/voice/ko_life.classic.12_0.m4a",
+   "checksum_sha256": "9a0ef8b03b15749a10f478d97a802f80accdb61b9f8a4c681d6a2bf942efce29",
+   "size": 46229
+  },
+  {
+   "id": "ko_life.classic.13_0.m4a",
+   "path": "content/voice/ko_life.classic.13_0.m4a",
+   "checksum_sha256": "fb66cbf9c02a292f012522f9526f2960a3c04abd28584f4509195fb264f8b460",
+   "size": 37602
+  },
+  {
+   "id": "ko_life.classic.14_0.m4a",
+   "path": "content/voice/ko_life.classic.14_0.m4a",
+   "checksum_sha256": "acf0320ad56caeb2753ec77c1b5ebfb2f141ae62393da28d4ddc5eaeeb856b0c",
+   "size": 36444
+  },
+  {
+   "id": "ko_life.classic.1_0.m4a",
+   "path": "content/voice/ko_life.classic.1_0.m4a",
+   "checksum_sha256": "07e037dca7f16892016f3d6b5d598069380d5d88a78a1934d8efb0591143b468",
+   "size": 40253
+  },
+  {
+   "id": "ko_life.classic.2_0.m4a",
+   "path": "content/voice/ko_life.classic.2_0.m4a",
+   "checksum_sha256": "4d7086b3face432b77b13a5c5127b137cc8cb06dd5a99bd6c14a11a766f4726f",
+   "size": 53443
+  },
+  {
+   "id": "ko_life.classic.3_0.m4a",
+   "path": "content/voice/ko_life.classic.3_0.m4a",
+   "checksum_sha256": "84114cf3b695643a2141ccb5b5c21c015e5da08273129467f2e71abd4500f80b",
+   "size": 41622
+  },
+  {
+   "id": "ko_life.classic.4_0.m4a",
+   "path": "content/voice/ko_life.classic.4_0.m4a",
+   "checksum_sha256": "85722cb8cb8221d30c45fe9daeb997de81fb8d0c6583890c6fad0f454cb3f3e8",
+   "size": 41417
+  },
+  {
+   "id": "ko_life.classic.5_0.m4a",
+   "path": "content/voice/ko_life.classic.5_0.m4a",
+   "checksum_sha256": "09448b9e09699400dedaa9237be7fbcd41c6de594135c627afed77d4f2ec7ecf",
+   "size": 39034
+  },
+  {
+   "id": "ko_life.classic.6_0.m4a",
+   "path": "content/voice/ko_life.classic.6_0.m4a",
+   "checksum_sha256": "ff9a7ea0362b89f566f27d04205334408c37f976fa16aa232b372ae7e319f7e0",
+   "size": 48553
+  },
+  {
+   "id": "ko_life.classic.7_0.m4a",
+   "path": "content/voice/ko_life.classic.7_0.m4a",
+   "checksum_sha256": "35983a4e7a04001b8d772c6d3d9761716f2e629e0fded222f3d44cdff93f901c",
+   "size": 28487
+  },
+  {
+   "id": "ko_life.classic.8_0.m4a",
+   "path": "content/voice/ko_life.classic.8_0.m4a",
+   "checksum_sha256": "3ff3fc4ce65b204db6ecb48a0cade2f0098ee55307cf154782fbc6d48efa26e9",
+   "size": 40374
+  },
+  {
+   "id": "ko_life.classic.9_0.m4a",
+   "path": "content/voice/ko_life.classic.9_0.m4a",
+   "checksum_sha256": "67670042aeecf2dcaacfdee17491cb2576e0a1f5a621edff857cb76ccacbc183",
+   "size": 49591
+  },
+  {
+   "id": "ko_life.money.10_0.m4a",
+   "path": "content/voice/ko_life.money.10_0.m4a",
+   "checksum_sha256": "4193ff39c38a7a311a4320bbe2212c669e3b50a67bf2b89e91bae585233eff15",
+   "size": 35497
+  },
+  {
+   "id": "ko_life.money.1_0.m4a",
+   "path": "content/voice/ko_life.money.1_0.m4a",
+   "checksum_sha256": "e89b4e3ba79c18df9ffaf1010543b719e3a65792d3bf2cf77f1491c2d070ff60",
+   "size": 41085
+  },
+  {
+   "id": "ko_life.money.2_0.m4a",
+   "path": "content/voice/ko_life.money.2_0.m4a",
+   "checksum_sha256": "7bfd203b2d91a477f207ed2f4a9a9a9633878a9d8e3f75aedba083b42c38221c",
+   "size": 33079
+  },
+  {
+   "id": "ko_life.money.3_0.m4a",
+   "path": "content/voice/ko_life.money.3_0.m4a",
+   "checksum_sha256": "75dc0bca12ae52181885e8e24c55e99331500048920c63f70272abe4be5f8546",
+   "size": 42498
+  },
+  {
+   "id": "ko_life.money.4_0.m4a",
+   "path": "content/voice/ko_life.money.4_0.m4a",
+   "checksum_sha256": "31cd91c337d20c5132e9f834a3e8aa87e440892b078a1a610a33ef84692dfa76",
+   "size": 46061
+  },
+  {
+   "id": "ko_life.money.5_0.m4a",
+   "path": "content/voice/ko_life.money.5_0.m4a",
+   "checksum_sha256": "b4ad4c352ca30f236b76787d3b9ca5f5f128df5e09f0bb72a2cf51698c5a5b45",
+   "size": 32797
+  },
+  {
+   "id": "ko_life.money.6_0.m4a",
+   "path": "content/voice/ko_life.money.6_0.m4a",
+   "checksum_sha256": "4e313ac2a5f6a5b7be942b0c07a0c8e5c44daee65c1a1f6a69ba1db3d52b1790",
+   "size": 35396
+  },
+  {
+   "id": "ko_life.money.7_0.m4a",
+   "path": "content/voice/ko_life.money.7_0.m4a",
+   "checksum_sha256": "49e93906430719ea10c398ed76aae896637257bf9031c3be913849a7da179b20",
+   "size": 31426
+  },
+  {
+   "id": "ko_life.money.8_0.m4a",
+   "path": "content/voice/ko_life.money.8_0.m4a",
+   "checksum_sha256": "564ea835504d919f0d7f12c5d6f3c90155d1adcfa5237b0676b3ea29ec5d80ba",
+   "size": 34232
+  },
+  {
+   "id": "ko_life.money.9_0.m4a",
+   "path": "content/voice/ko_life.money.9_0.m4a",
+   "checksum_sha256": "39df3faa7e236385bdac24bff92126b094720852e48f62098e33a2b0c5aa5d3c",
+   "size": 35253
+  },
+  {
+   "id": "ko_life.morning.10_0.m4a",
+   "path": "content/voice/ko_life.morning.10_0.m4a",
+   "checksum_sha256": "ac582a1e299d0bf8caad605b39174ebcb205e12222f51ee1c15301cc0086c707",
+   "size": 29800
+  },
+  {
+   "id": "ko_life.morning.1_0.m4a",
+   "path": "content/voice/ko_life.morning.1_0.m4a",
+   "checksum_sha256": "560179e4185726d7f6bfbb301580a0d21881d77dc0789e5f3e650719a2f31dcb",
+   "size": 32247
+  },
+  {
+   "id": "ko_life.morning.2_0.m4a",
+   "path": "content/voice/ko_life.morning.2_0.m4a",
+   "checksum_sha256": "d19bc3e3b380db751d14c6551352cb9b1379cc22781d12087b64c46a0a076295",
+   "size": 34782
+  },
+  {
+   "id": "ko_life.morning.3_0.m4a",
+   "path": "content/voice/ko_life.morning.3_0.m4a",
+   "checksum_sha256": "9bd420cd21fad5f36c2418471638a5ba304bfd6d4cc66462e51bf370157dfc2a",
+   "size": 31617
+  },
+  {
+   "id": "ko_life.morning.4_0.m4a",
+   "path": "content/voice/ko_life.morning.4_0.m4a",
+   "checksum_sha256": "3a5962124d66f7bbefd49a9c4185beaafe4ee5cb15fe681115fe1e14d6029228",
+   "size": 28979
+  },
+  {
+   "id": "ko_life.morning.5_0.m4a",
+   "path": "content/voice/ko_life.morning.5_0.m4a",
+   "checksum_sha256": "dc0c5b2a9bfcb866cd979d49d96c824a3ed3843e2074e55b2511f194c97172f2",
+   "size": 41729
+  },
+  {
+   "id": "ko_life.morning.6_0.m4a",
+   "path": "content/voice/ko_life.morning.6_0.m4a",
+   "checksum_sha256": "287f42d56373402d9c87caf804bc5abaec13ad9d6f7280a3c2e6d9df63037445",
+   "size": 34071
+  },
+  {
+   "id": "ko_life.morning.7_0.m4a",
+   "path": "content/voice/ko_life.morning.7_0.m4a",
+   "checksum_sha256": "389d0edcb8a72ed588ba6478c359da8829af4381251a5868e29b02585fa239a3",
+   "size": 41881
+  },
+  {
+   "id": "ko_life.morning.8_0.m4a",
+   "path": "content/voice/ko_life.morning.8_0.m4a",
+   "checksum_sha256": "17ce27fc6639dd340a9f472e8369f280202d99cba4f2e8959b6e0f908e0f6d48",
+   "size": 27021
+  },
+  {
+   "id": "ko_life.morning.9_0.m4a",
+   "path": "content/voice/ko_life.morning.9_0.m4a",
+   "checksum_sha256": "1dec1fd3a6ee428eef6bb2323986680583232859ba35e86fe5534a8ef31fb7d1",
+   "size": 35960
+  },
+  {
+   "id": "ko_life.steady.10_0.m4a",
+   "path": "content/voice/ko_life.steady.10_0.m4a",
+   "checksum_sha256": "49c4b826fec6c00254f04696f8df4051fafbe3160b60ab7367ca37cb1c04ad1a",
+   "size": 35598
+  },
+  {
+   "id": "ko_life.steady.1_0.m4a",
+   "path": "content/voice/ko_life.steady.1_0.m4a",
+   "checksum_sha256": "c3427c7545a12f7f42862d99b6187952da35447a4c52f6d94f9d11a075bf5a82",
+   "size": 27788
+  },
+  {
+   "id": "ko_life.steady.2_0.m4a",
+   "path": "content/voice/ko_life.steady.2_0.m4a",
+   "checksum_sha256": "4e00e0982e0e90e7a2dd6ef25e7ac7138dd39026d51f42b8f954c8dda07a856e",
+   "size": 26774
+  },
+  {
+   "id": "ko_life.steady.3_0.m4a",
+   "path": "content/voice/ko_life.steady.3_0.m4a",
+   "checksum_sha256": "0cd0b5ec70d4803a510bac38cac5496f2efd2125782290687dabb4f0d0070d26",
+   "size": 32612
+  },
+  {
+   "id": "ko_life.steady.4_0.m4a",
+   "path": "content/voice/ko_life.steady.4_0.m4a",
+   "checksum_sha256": "8161fb38e01413a59f61e970c8083bf6129efbfd11d3f6b40ad4c9c919501435",
+   "size": 35524
+  },
+  {
+   "id": "ko_life.steady.5_0.m4a",
+   "path": "content/voice/ko_life.steady.5_0.m4a",
+   "checksum_sha256": "98145e60846cd39e8e891cadf403a406c7fa2c11ffa948cff3339a26a0fcf26d",
+   "size": 27688
+  },
+  {
+   "id": "ko_life.steady.6_0.m4a",
+   "path": "content/voice/ko_life.steady.6_0.m4a",
+   "checksum_sha256": "d5862776ad7e58841f031327971cc1b1d3a8519dd3a9a023983b743f27ce4e22",
+   "size": 28778
+  },
+  {
+   "id": "ko_life.steady.7_0.m4a",
+   "path": "content/voice/ko_life.steady.7_0.m4a",
+   "checksum_sha256": "7f5673263eecb6b1fe78978f5c0fc0bfc620146357adcf1c5ab48e9d52bfb7e1",
+   "size": 31387
+  },
+  {
+   "id": "ko_life.steady.8_0.m4a",
+   "path": "content/voice/ko_life.steady.8_0.m4a",
+   "checksum_sha256": "3e405f6a5117576a5690255d40d436bbac75e82b47afd636e5b1e0a27bbcf7fb",
+   "size": 23044
+  },
+  {
+   "id": "ko_life.steady.9_0.m4a",
+   "path": "content/voice/ko_life.steady.9_0.m4a",
+   "checksum_sha256": "a62f501e9dd68c018dbd07073a11a5760f00aee1c03d58b827268e9dedfb6a0e",
+   "size": 30797
   },
   {
    "id": "krv_1CH.16.34_0.m4a",
