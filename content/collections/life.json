@@ -1,0 +1,1426 @@
+{
+ "translations": [
+  {
+   "id": "ko",
+   "name": "한국어",
+   "shortName": "한글",
+   "language": "ko",
+   "speechLanguage": "ko-KR",
+   "attribution": "Pilsa가 직접 쓴 문장입니다. 고전은 저작권이 끝난 원문을 Pilsa가 직접 옮겼습니다."
+  },
+  {
+   "id": "en",
+   "name": "English",
+   "shortName": "영어",
+   "language": "en",
+   "speechLanguage": "en-US",
+   "attribution": "Sentences written by Pilsa. Classical lines are Pilsa's own renderings of public-domain texts."
+  }
+ ],
+ "items": {
+  "life.morning.1": {
+   "title": {
+    "ko": "오늘 할 하나",
+    "en": "One thing today"
+   },
+   "lines": {
+    "ko": [
+     "오늘 다 잘하려 하지 않는다. 하나만 제대로 한다."
+    ],
+    "en": [
+     "I will not try to do everything today. I will do one thing well."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "everything",
+     "ko": "모든 것",
+     "note": ""
+    },
+    {
+     "word": "well",
+     "ko": "제대로",
+     "note": "잘, 충분히 라는 뜻이에요."
+    }
+   ]
+  },
+  "life.morning.2": {
+   "title": {
+    "ko": "시작이 반",
+    "en": "Starting is half"
+   },
+   "lines": {
+    "ko": [
+     "시작이 어려울 뿐이다. 첫 줄을 쓰면 나머지는 따라온다."
+    ],
+    "en": [
+     "Only the start is hard. Write the first line and the rest follows."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hard",
+     "ko": "어려운",
+     "note": ""
+    },
+    {
+     "word": "follows",
+     "ko": "따라온다",
+     "note": "뒤이어 온다는 뜻이에요."
+    }
+   ]
+  },
+  "life.morning.3": {
+   "title": {
+    "ko": "작게 자주",
+    "en": "Small and often"
+   },
+   "lines": {
+    "ko": [
+     "크게 한 번보다 작게 여러 번이 멀리 간다."
+    ],
+    "en": [
+     "Small and often goes further than big and once."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "further",
+     "ko": "더 멀리",
+     "note": ""
+    },
+    {
+     "word": "once",
+     "ko": "한 번",
+     "note": ""
+    }
+   ]
+  },
+  "life.morning.4": {
+   "title": {
+    "ko": "비교하지 않기",
+    "en": "No comparing"
+   },
+   "lines": {
+    "ko": [
+     "어제의 나와만 견준다. 그것으로 충분하다."
+    ],
+    "en": [
+     "I compare myself only with yesterday. That is enough."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "compare",
+     "ko": "견주다",
+     "note": "둘을 나란히 놓고 본다는 뜻이에요."
+    },
+    {
+     "word": "enough",
+     "ko": "충분한",
+     "note": ""
+    }
+   ]
+  },
+  "life.morning.5": {
+   "title": {
+    "ko": "미루지 않는 5분",
+    "en": "Five minutes now"
+   },
+   "lines": {
+    "ko": [
+     "하기 싫은 일은 5분만 한다. 5분이면 대개 끝까지 간다."
+    ],
+    "en": [
+     "I give the task I dislike five minutes. Five minutes usually carries me to the end."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "dislike",
+     "ko": "싫어하다",
+     "note": ""
+    },
+    {
+     "word": "carries",
+     "ko": "데려간다",
+     "note": "끌고 간다는 뜻이에요."
+    }
+   ]
+  },
+  "life.morning.6": {
+   "title": {
+    "ko": "손이 먼저",
+    "en": "Hands first"
+   },
+   "lines": {
+    "ko": [
+     "마음이 움직이기를 기다리지 않는다. 손을 먼저 움직인다."
+    ],
+    "en": [
+     "I do not wait for my heart to move. I move my hands first."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "wait for",
+     "ko": "기다리다",
+     "note": ""
+    },
+    {
+     "word": "move",
+     "ko": "움직이다",
+     "note": ""
+    }
+   ]
+  },
+  "life.morning.7": {
+   "title": {
+    "ko": "끝을 정해 두기",
+    "en": "Set an end"
+   },
+   "lines": {
+    "ko": [
+     "언제 끝낼지 먼저 정한다. 끝이 있으면 시작이 가벼워진다."
+    ],
+    "en": [
+     "I decide when to stop before I begin. An end makes the start light."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "decide",
+     "ko": "정하다",
+     "note": ""
+    },
+    {
+     "word": "light",
+     "ko": "가벼운",
+     "note": ""
+    }
+   ]
+  },
+  "life.morning.8": {
+   "title": {
+    "ko": "오늘의 세 가지",
+    "en": "Three for today"
+   },
+   "lines": {
+    "ko": [
+     "오늘 적는 할 일은 세 가지까지만 둔다."
+    ],
+    "en": [
+     "I keep today's list to three things."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "keep to",
+     "ko": "~까지만 두다",
+     "note": "그 안에서만 한다는 뜻이에요."
+    },
+    {
+     "word": "list",
+     "ko": "목록",
+     "note": ""
+    }
+   ]
+  },
+  "life.morning.9": {
+   "title": {
+    "ko": "다시 앉기",
+    "en": "Sitting back down"
+   },
+   "lines": {
+    "ko": [
+     "잘 안 된 날에도 다음 날 다시 앉는 것이 실력이다."
+    ],
+    "en": [
+     "Sitting back down the next day is the real skill."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "the next day",
+     "ko": "다음 날",
+     "note": ""
+    },
+    {
+     "word": "skill",
+     "ko": "실력",
+     "note": ""
+    }
+   ]
+  },
+  "life.morning.10": {
+   "title": {
+    "ko": "고요한 십 분",
+    "en": "Ten quiet minutes"
+   },
+   "lines": {
+    "ko": [
+     "아침의 고요한 십 분이 하루의 속도를 정한다."
+    ],
+    "en": [
+     "Ten quiet minutes in the morning set the pace of the day."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "quiet",
+     "ko": "고요한",
+     "note": ""
+    },
+    {
+     "word": "pace",
+     "ko": "속도",
+     "note": "빠르기라는 뜻이에요."
+    }
+   ]
+  },
+  "life.steady.1": {
+   "title": {
+    "ko": "지나간다",
+    "en": "It passes"
+   },
+   "lines": {
+    "ko": [
+     "지금의 마음도 날씨처럼 지나간다."
+    ],
+    "en": [
+     "This feeling passes, the way weather passes."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "feeling",
+     "ko": "마음",
+     "note": "느낌이라는 뜻이에요."
+    },
+    {
+     "word": "weather",
+     "ko": "날씨",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.2": {
+   "title": {
+    "ko": "숨 한 번",
+    "en": "One breath"
+   },
+   "lines": {
+    "ko": [
+     "답을 찾기 전에 숨을 한 번 쉰다."
+    ],
+    "en": [
+     "Before I look for an answer, I take one breath."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "look for",
+     "ko": "찾다",
+     "note": ""
+    },
+    {
+     "word": "breath",
+     "ko": "숨",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.3": {
+   "title": {
+    "ko": "할 수 있는 만큼",
+    "en": "As much as I can"
+   },
+   "lines": {
+    "ko": [
+     "할 수 있는 만큼만 한다. 그것이 게으름은 아니다."
+    ],
+    "en": [
+     "I do as much as I can. That is not laziness."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "as much as",
+     "ko": "~만큼",
+     "note": ""
+    },
+    {
+     "word": "laziness",
+     "ko": "게으름",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.4": {
+   "title": {
+    "ko": "실수는 자료",
+    "en": "A mistake is data"
+   },
+   "lines": {
+    "ko": [
+     "실수는 나를 말해 주지 않는다. 다음에 쓸 자료일 뿐이다."
+    ],
+    "en": [
+     "A mistake does not describe me. It is only data for next time."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "mistake",
+     "ko": "실수",
+     "note": ""
+    },
+    {
+     "word": "describe",
+     "ko": "말해 주다",
+     "note": "어떤 사람인지 설명한다는 뜻이에요."
+    }
+   ]
+  },
+  "life.steady.5": {
+   "title": {
+    "ko": "혼자가 아니다",
+    "en": "Not alone"
+   },
+   "lines": {
+    "ko": [
+     "이 마음을 지나온 사람이 나보다 앞서 많이 있었다."
+    ],
+    "en": [
+     "Many people walked through this feeling before me."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "walked through",
+     "ko": "지나왔다",
+     "note": "겪고 지나갔다는 뜻이에요."
+    },
+    {
+     "word": "before me",
+     "ko": "나보다 앞서",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.6": {
+   "title": {
+    "ko": "오늘 몫만",
+    "en": "Only today's share"
+   },
+   "lines": {
+    "ko": [
+     "내일 걱정은 내일의 몫으로 남겨 둔다."
+    ],
+    "en": [
+     "I leave tomorrow's worry to tomorrow."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "leave",
+     "ko": "남겨 두다",
+     "note": ""
+    },
+    {
+     "word": "worry",
+     "ko": "걱정",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.7": {
+   "title": {
+    "ko": "작은 정리",
+    "en": "A small tidying"
+   },
+   "lines": {
+    "ko": [
+     "마음이 어지러우면 책상부터 정리한다."
+    ],
+    "en": [
+     "When my mind is messy, I tidy my desk first."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "messy",
+     "ko": "어지러운",
+     "note": ""
+    },
+    {
+     "word": "tidy",
+     "ko": "정리하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.8": {
+   "title": {
+    "ko": "말로 꺼내기",
+    "en": "Saying it out"
+   },
+   "lines": {
+    "ko": [
+     "말로 꺼내 놓으면 크기가 줄어든다."
+    ],
+    "en": [
+     "Said out loud, it becomes smaller."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "out loud",
+     "ko": "소리 내어",
+     "note": ""
+    },
+    {
+     "word": "smaller",
+     "ko": "더 작은",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.9": {
+   "title": {
+    "ko": "쉬는 것도 일",
+    "en": "Rest is work too"
+   },
+   "lines": {
+    "ko": [
+     "쉬는 것은 미루는 것이 아니라 준비하는 것이다."
+    ],
+    "en": [
+     "Resting is not delaying. It is getting ready."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "delaying",
+     "ko": "미루는 것",
+     "note": ""
+    },
+    {
+     "word": "getting ready",
+     "ko": "준비하는 것",
+     "note": ""
+    }
+   ]
+  },
+  "life.steady.10": {
+   "title": {
+    "ko": "여기서부터",
+    "en": "From here"
+   },
+   "lines": {
+    "ko": [
+     "지금까지가 어떻든, 다음 한 걸음은 여기서부터 시작한다."
+    ],
+    "en": [
+     "Whatever came before, the next step starts here."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "whatever",
+     "ko": "무엇이든",
+     "note": ""
+    },
+    {
+     "word": "the next step",
+     "ko": "다음 한 걸음",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.1": {
+   "title": {
+    "ko": "같은 시간에 일어나기",
+    "en": "Waking at the same time"
+   },
+   "lines": {
+    "ko": [
+     "잠드는 시간보다 일어나는 시간을 고정하는 편이 몸에 익는다."
+    ],
+    "en": [
+     "A fixed wake-up time settles into the body better than a fixed bedtime."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "fixed",
+     "ko": "고정된",
+     "note": ""
+    },
+    {
+     "word": "settles into",
+     "ko": "익는다",
+     "note": "몸에 배어 자리 잡는다는 뜻이에요."
+    }
+   ]
+  },
+  "life.body.2": {
+   "title": {
+    "ko": "아침 햇빛",
+    "en": "Morning light"
+   },
+   "lines": {
+    "ko": [
+     "아침 햇빛을 십 분 쬐면 몸이 하루의 시작을 알아차린다."
+    ],
+    "en": [
+     "Ten minutes of morning light tells the body that the day has begun."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "morning light",
+     "ko": "아침 햇빛",
+     "note": ""
+    },
+    {
+     "word": "has begun",
+     "ko": "시작되었다",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.3": {
+   "title": {
+    "ko": "자기 전 화면",
+    "en": "Screens before bed"
+   },
+   "lines": {
+    "ko": [
+     "잠들기 한 시간 전에는 밝은 화면을 멀리 두는 편이 낫다."
+    ],
+    "en": [
+     "It helps to keep bright screens away for the hour before sleep."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "bright",
+     "ko": "밝은",
+     "note": ""
+    },
+    {
+     "word": "away",
+     "ko": "멀리",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.4": {
+   "title": {
+    "ko": "낮잠은 짧게",
+    "en": "Short naps"
+   },
+   "lines": {
+    "ko": [
+     "낮잠은 이십 분을 넘기지 않을 때 개운하다."
+    ],
+    "en": [
+     "A nap feels best when it stays under twenty minutes."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "nap",
+     "ko": "낮잠",
+     "note": ""
+    },
+    {
+     "word": "stays under",
+     "ko": "넘기지 않다",
+     "note": "그보다 적게 있다는 뜻이에요."
+    }
+   ]
+  },
+  "life.body.5": {
+   "title": {
+    "ko": "카페인의 반감기",
+    "en": "How long caffeine stays"
+   },
+   "lines": {
+    "ko": [
+     "커피의 카페인은 몸에서 반이 줄기까지 대여섯 시간이 걸린다."
+    ],
+    "en": [
+     "It takes about five or six hours for half the caffeine to leave the body."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "takes",
+     "ko": "걸린다",
+     "note": ""
+    },
+    {
+     "word": "half",
+     "ko": "반",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.6": {
+   "title": {
+    "ko": "물 한 컵",
+    "en": "A glass of water"
+   },
+   "lines": {
+    "ko": [
+     "목이 마르다고 느낄 때는 이미 조금 부족한 상태다."
+    ],
+    "en": [
+     "By the time you feel thirsty, you are already a little short of water."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thirsty",
+     "ko": "목마른",
+     "note": ""
+    },
+    {
+     "word": "short of",
+     "ko": "부족한",
+     "note": "모자란다는 뜻이에요."
+    }
+   ]
+  },
+  "life.body.7": {
+   "title": {
+    "ko": "걷기의 힘",
+    "en": "The power of walking"
+   },
+   "lines": {
+    "ko": [
+     "하루 이십 분 걷기만으로도 마음과 잠이 함께 좋아진다."
+    ],
+    "en": [
+     "Twenty minutes of walking a day helps both mood and sleep."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "walking",
+     "ko": "걷기",
+     "note": ""
+    },
+    {
+     "word": "mood",
+     "ko": "기분",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.8": {
+   "title": {
+    "ko": "앉은 자리에서 일어나기",
+    "en": "Standing up often"
+   },
+   "lines": {
+    "ko": [
+     "한 시간에 한 번 일어서는 것이 한 번에 오래 운동하는 것만큼 중요하다."
+    ],
+    "en": [
+     "Standing up once an hour matters as much as one long workout."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "once an hour",
+     "ko": "한 시간에 한 번",
+     "note": ""
+    },
+    {
+     "word": "matters",
+     "ko": "중요하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.9": {
+   "title": {
+    "ko": "코로 숨 쉬기",
+    "en": "Breathing through the nose"
+   },
+   "lines": {
+    "ko": [
+     "숨을 천천히 내쉬면 몸이 먼저 편안해진다."
+    ],
+    "en": [
+     "When the out-breath is slow, the body calms down first."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "out-breath",
+     "ko": "내쉬는 숨",
+     "note": ""
+    },
+    {
+     "word": "calms down",
+     "ko": "편안해지다",
+     "note": ""
+    }
+   ]
+  },
+  "life.body.10": {
+   "title": {
+    "ko": "어두운 방",
+    "en": "A dark room"
+   },
+   "lines": {
+    "ko": [
+     "잠은 어둡고 서늘한 방에서 더 깊어진다."
+    ],
+    "en": [
+     "Sleep goes deeper in a dark, cool room."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "deeper",
+     "ko": "더 깊은",
+     "note": ""
+    },
+    {
+     "word": "cool",
+     "ko": "서늘한",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.1": {
+   "title": {
+    "ko": "먼저 떼어 두기",
+    "en": "Pay yourself first"
+   },
+   "lines": {
+    "ko": [
+     "월급이 들어오면 쓰고 남은 것을 모으지 말고, 모을 것을 먼저 떼어 둔다."
+    ],
+    "en": [
+     "When the pay comes in, do not save what is left. Set aside the savings first."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "set aside",
+     "ko": "떼어 두다",
+     "note": "따로 빼 둔다는 뜻이에요."
+    },
+    {
+     "word": "what is left",
+     "ko": "남은 것",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.2": {
+   "title": {
+    "ko": "복리의 시간",
+    "en": "Compounding takes time"
+   },
+   "lines": {
+    "ko": [
+     "이자가 이자를 낳는 데는 재주가 아니라 시간이 필요하다."
+    ],
+    "en": [
+     "For interest to earn interest, what you need is not talent but time."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "interest",
+     "ko": "이자",
+     "note": ""
+    },
+    {
+     "word": "talent",
+     "ko": "재주",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.3": {
+   "title": {
+    "ko": "작은 정기 지출",
+    "en": "Small regular costs"
+   },
+   "lines": {
+    "ko": [
+     "매달 나가는 작은 돈이 1년이면 큰돈이 된다. 구독부터 세어 본다."
+    ],
+    "en": [
+     "Small monthly costs become big yearly costs. Count the subscriptions first."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "monthly",
+     "ko": "매달",
+     "note": ""
+    },
+    {
+     "word": "count",
+     "ko": "세다",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.4": {
+   "title": {
+    "ko": "하루 자고 사기",
+    "en": "Sleep on it"
+   },
+   "lines": {
+    "ko": [
+     "갖고 싶은 것은 하루 자고 나서 산다. 다음 날에도 갖고 싶으면 그때 산다."
+    ],
+    "en": [
+     "Sleep one night before buying what you want. If you still want it tomorrow, buy it then."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "sleep on it",
+     "ko": "하루 자고 생각하다",
+     "note": "결정을 하루 미룬다는 뜻이에요."
+    },
+    {
+     "word": "still",
+     "ko": "여전히",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.5": {
+   "title": {
+    "ko": "비상금 석 달",
+    "en": "Three months of cushion"
+   },
+   "lines": {
+    "ko": [
+     "석 달 치 생활비가 있으면 급한 결정을 하지 않아도 된다."
+    ],
+    "en": [
+     "With three months of living costs saved, you never have to decide in a hurry."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "living costs",
+     "ko": "생활비",
+     "note": ""
+    },
+    {
+     "word": "in a hurry",
+     "ko": "급하게",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.6": {
+   "title": {
+    "ko": "시간에도 값이 있다",
+    "en": "Time has a price"
+   },
+   "lines": {
+    "ko": [
+     "천 원을 아끼려고 한 시간을 쓰면, 그 시간의 값을 잊은 것이다."
+    ],
+    "en": [
+     "Spending an hour to save a small coin forgets what the hour was worth."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "spending",
+     "ko": "쓰는 것",
+     "note": "시간이나 돈을 쓴다는 뜻이에요."
+    },
+    {
+     "word": "worth",
+     "ko": "값어치",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.7": {
+   "title": {
+    "ko": "아침의 두 시간",
+    "en": "The first two hours"
+   },
+   "lines": {
+    "ko": [
+     "하루 중 가장 맑은 두 시간은 가장 어려운 일에 쓴다."
+    ],
+    "en": [
+     "Give the two clearest hours of the day to the hardest task."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "clearest",
+     "ko": "가장 맑은",
+     "note": "머리가 가장 맑다는 뜻이에요."
+    },
+    {
+     "word": "task",
+     "ko": "일",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.8": {
+   "title": {
+    "ko": "한 번에 하나",
+    "en": "One at a time"
+   },
+   "lines": {
+    "ko": [
+     "일을 번갈아 하면 빨라지는 것이 아니라 두 번 느려진다."
+    ],
+    "en": [
+     "Switching between tasks does not make you faster. It makes you slow twice."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "switching",
+     "ko": "번갈아 하는 것",
+     "note": ""
+    },
+    {
+     "word": "twice",
+     "ko": "두 번",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.9": {
+   "title": {
+    "ko": "적어 두면 가벼워진다",
+    "en": "Writing it down"
+   },
+   "lines": {
+    "ko": [
+     "할 일을 머리에 두지 말고 종이에 둔다. 머리는 생각하는 데 쓴다."
+    ],
+    "en": [
+     "Keep tasks on paper, not in your head. The head is for thinking."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "on paper",
+     "ko": "종이에",
+     "note": ""
+    },
+    {
+     "word": "thinking",
+     "ko": "생각하는 것",
+     "note": ""
+    }
+   ]
+  },
+  "life.money.10": {
+   "title": {
+    "ko": "빈 시간 남기기",
+    "en": "Leaving room"
+   },
+   "lines": {
+    "ko": [
+     "하루를 꽉 채우지 않는다. 비워 둔 자리에 중요한 것이 들어온다."
+    ],
+    "en": [
+     "Do not fill the whole day. What matters arrives in the space you leave open."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "fill",
+     "ko": "채우다",
+     "note": ""
+    },
+    {
+     "word": "arrives",
+     "ko": "들어온다",
+     "note": "도착한다는 뜻이에요."
+    }
+   ]
+  },
+  "life.classic.1": {
+   "title": {
+    "ko": "배우고 익히면",
+    "en": "To learn and practice"
+   },
+   "lines": {
+    "ko": [
+     "배우고 때에 맞게 익히면, 또한 기쁘지 않겠는가. 논어 학이편"
+    ],
+    "en": [
+     "To learn, and to practice it at the right time, is that not a joy? Analects, Book 1"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "practice",
+     "ko": "익히다",
+     "note": ""
+    },
+    {
+     "word": "joy",
+     "ko": "기쁨",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.2": {
+   "title": {
+    "ko": "아는 것과 모르는 것",
+    "en": "Knowing and not knowing"
+   },
+   "lines": {
+    "ko": [
+     "아는 것을 안다 하고 모르는 것을 모른다 하는 것, 그것이 아는 것이다. 논어 위정편"
+    ],
+    "en": [
+     "To say you know when you know, and you do not when you do not, that is knowledge. Analects, Book 2"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "knowledge",
+     "ko": "앎",
+     "note": ""
+    },
+    {
+     "word": "say",
+     "ko": "말하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.3": {
+   "title": {
+    "ko": "천 리 길",
+    "en": "A thousand miles"
+   },
+   "lines": {
+    "ko": [
+     "천 리 길도 발밑 한 걸음에서 시작한다. 도덕경 64장"
+    ],
+    "en": [
+     "A journey of a thousand miles begins beneath your feet. Tao Te Ching, 64"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "journey",
+     "ko": "길",
+     "note": "여행이라는 뜻이에요."
+    },
+    {
+     "word": "beneath",
+     "ko": "아래에",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.4": {
+   "title": {
+    "ko": "부드러운 것이 이긴다",
+    "en": "The soft overcomes"
+   },
+   "lines": {
+    "ko": [
+     "부드럽고 약한 것이 굳세고 강한 것을 이긴다. 도덕경 36장"
+    ],
+    "en": [
+     "The soft and the weak overcome the hard and the strong. Tao Te Ching, 36"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "overcome",
+     "ko": "이기다",
+     "note": ""
+    },
+    {
+     "word": "weak",
+     "ko": "약한",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.5": {
+   "title": {
+    "ko": "선을 쌓는 집",
+    "en": "A house that stores good"
+   },
+   "lines": {
+    "ko": [
+     "선을 쌓는 집에는 반드시 남는 경사가 있다. 명심보감 계선편"
+    ],
+    "en": [
+     "A house that stores up good will surely have blessings to spare. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "store up",
+     "ko": "쌓다",
+     "note": ""
+    },
+    {
+     "word": "to spare",
+     "ko": "남을 만큼",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.6": {
+   "title": {
+    "ko": "말은 적게",
+    "en": "Few words"
+   },
+   "lines": {
+    "ko": [
+     "입은 화를 부르는 문이니, 말을 삼가면 몸이 편안하다. 명심보감 언어편"
+    ],
+    "en": [
+     "The mouth is a gate that invites trouble. Guard your words and the body rests easy. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "invites",
+     "ko": "부르다",
+     "note": ""
+    },
+    {
+     "word": "guard",
+     "ko": "삼가다",
+     "note": "지킨다는 뜻이에요."
+    }
+   ]
+  },
+  "life.classic.7": {
+   "title": {
+    "ko": "담박한 마음",
+    "en": "A plain heart"
+   },
+   "lines": {
+    "ko": [
+     "담박함이 오래가고, 진한 맛은 쉬 물린다. 채근담"
+    ],
+    "en": [
+     "What is plain lasts long. What is rich soon tires. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "plain",
+     "ko": "담박한",
+     "note": "꾸밈없고 담담하다는 뜻이에요."
+    },
+    {
+     "word": "tires",
+     "ko": "물리다",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.8": {
+   "title": {
+    "ko": "한 걸음 물러서기",
+    "en": "Stepping back"
+   },
+   "lines": {
+    "ko": [
+     "길이 좁은 곳에서는 한 걸음 물러서 남을 먼저 지나게 한다. 채근담"
+    ],
+    "en": [
+     "Where the road is narrow, step back and let the other pass first. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "narrow",
+     "ko": "좁은",
+     "note": ""
+    },
+    {
+     "word": "let pass",
+     "ko": "지나가게 하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.9": {
+   "title": {
+    "ko": "지금 여기",
+    "en": "Here and now"
+   },
+   "lines": {
+    "ko": [
+     "지나간 것과 올 것에 흔들리지 말고, 지금 하는 일에 마음을 두라. 아우렐리우스 명상록"
+    ],
+    "en": [
+     "Do not be shaken by what is past or what may come. Give your mind to what you are doing now. Marcus Aurelius, Meditations"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "shaken",
+     "ko": "흔들리는",
+     "note": ""
+    },
+    {
+     "word": "what may come",
+     "ko": "올지 모르는 것",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.10": {
+   "title": {
+    "ko": "장애물이 길",
+    "en": "The obstacle is the way"
+   },
+   "lines": {
+    "ko": [
+     "길을 막는 것이 길이 된다. 아우렐리우스 명상록"
+    ],
+    "en": [
+     "What stands in the way becomes the way. Marcus Aurelius, Meditations"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "stands in the way",
+     "ko": "길을 막다",
+     "note": ""
+    },
+    {
+     "word": "becomes",
+     "ko": "되다",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.11": {
+   "title": {
+    "ko": "짧은 인생이 아니라",
+    "en": "Life is not short"
+   },
+   "lines": {
+    "ko": [
+     "인생이 짧은 것이 아니라 우리가 많이 버리는 것이다. 세네카 인생의 짧음에 관하여"
+    ],
+    "en": [
+     "It is not that life is short. It is that we waste so much of it. Seneca, On the Shortness of Life"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "waste",
+     "ko": "버리다",
+     "note": "헛되이 쓴다는 뜻이에요."
+    },
+    {
+     "word": "so much",
+     "ko": "그토록 많이",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.12": {
+   "title": {
+    "ko": "매일 무엇을 고쳤나",
+    "en": "What did I mend today"
+   },
+   "lines": {
+    "ko": [
+     "저녁마다 스스로 묻는다. 오늘은 어떤 병을 고쳤는가. 세네카 분노에 관하여"
+    ],
+    "en": [
+     "Each evening I ask myself: which fault did I mend today? Seneca, On Anger"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "fault",
+     "ko": "병",
+     "note": "잘못이나 흠이라는 뜻이에요."
+    },
+    {
+     "word": "mend",
+     "ko": "고치다",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.13": {
+   "title": {
+    "ko": "생각이 삶이 된다",
+    "en": "Thoughts become life"
+   },
+   "lines": {
+    "ko": [
+     "사람의 삶은 그가 품는 생각으로 물든다. 아우렐리우스 명상록"
+    ],
+    "en": [
+     "A life takes the color of the thoughts it holds. Marcus Aurelius, Meditations"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "takes the color",
+     "ko": "물들다",
+     "note": ""
+    },
+    {
+     "word": "holds",
+     "ko": "품다",
+     "note": ""
+    }
+   ]
+  },
+  "life.classic.14": {
+   "title": {
+    "ko": "하루를 다 산 사람",
+    "en": "Living a whole day"
+   },
+   "lines": {
+    "ko": [
+     "하루를 온전히 산 사람은 이미 큰 것을 가진 사람이다. 세네카 편지"
+    ],
+    "en": [
+     "Whoever has lived one whole day already holds something great. Seneca, Letters"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "whole",
+     "ko": "온전한",
+     "note": ""
+    },
+    {
+     "word": "holds",
+     "ko": "가지다",
+     "note": ""
+    }
+   ]
+  }
+ }
+}
