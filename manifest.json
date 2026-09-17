@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "288ddd35dced",
- "generated_at": "2026-09-17T06:34:18Z",
+ "version": "1417396bd278",
+ "generated_at": "2026-09-17T07:50:47Z",
  "entries": [
   {
    "id": "books.json",
@@ -48,8 +48,8 @@
   {
    "id": "affirmations.json",
    "path": "content/collections/affirmations.json",
-   "checksum_sha256": "d6aa9435f79b626060072805c1bf6073096b37c9f72a605ba88d3609db1aca7e",
-   "size": 46629
+   "checksum_sha256": "9a17ba4f38c711125d9682be5856616aeddec6b7b8d26e5c6d89905b4fe77a1f",
+   "size": 46644
   },
   {
    "id": "buddhist.json",
@@ -68,6 +68,60 @@
    "path": "content/kr/store.json",
    "checksum_sha256": "1c64f65aa3b8ba5115a16c87a9acca910d51034d8eadb8dcebe1240fa3b41cbb",
    "size": 5100
+  },
+  {
+   "id": "music.json",
+   "path": "content/music/music.json",
+   "checksum_sha256": "d983b9a4300a89653bea1cdae370c7c5dbaeb67f5525ae313ea740e34faff5a0",
+   "size": 1957
+  },
+  {
+   "id": "music_cafe.m4a",
+   "path": "content/music/music_cafe.m4a",
+   "checksum_sha256": "9d0cfcdc73ca3e732eb535356dfcd16ad67abc4a9de30ec5c14884cb7c11c782",
+   "size": 709242
+  },
+  {
+   "id": "music_dawn.m4a",
+   "path": "content/music/music_dawn.m4a",
+   "checksum_sha256": "e5c145df5fc3f7df261ff9300264ff4826ae3c6f6ca3cc208815d9351d10acf6",
+   "size": 708320
+  },
+  {
+   "id": "music_forest.m4a",
+   "path": "content/music/music_forest.m4a",
+   "checksum_sha256": "fb263bf53967def4d8d81f7d023f7614d49be400212489d3c150caf15883c876",
+   "size": 708435
+  },
+  {
+   "id": "music_night.m4a",
+   "path": "content/music/music_night.m4a",
+   "checksum_sha256": "f694bc8342cb64fae5f1de9e59f80dc91e2fb377282db1248cd068a4d10db233",
+   "size": 708457
+  },
+  {
+   "id": "music_piano.m4a",
+   "path": "content/music/music_piano.m4a",
+   "checksum_sha256": "11694d1682a9cc9a936e66502193995508f77dabf6385531b5d55257b5876aa4",
+   "size": 709188
+  },
+  {
+   "id": "music_rain.m4a",
+   "path": "content/music/music_rain.m4a",
+   "checksum_sha256": "1655c54432d5a4b17ed9a74366d5ba80cd26e84e6ac7184401945b5b9417963d",
+   "size": 709255
+  },
+  {
+   "id": "music_stream.m4a",
+   "path": "content/music/music_stream.m4a",
+   "checksum_sha256": "542863666eda950f2153761b3951150f984c5a2a3bc13aa0191ee71480e032cd",
+   "size": 708845
+  },
+  {
+   "id": "music_strings.m4a",
+   "path": "content/music/music_strings.m4a",
+   "checksum_sha256": "ef836bb0640a57e813d2f8e416847659d5d3253bc4c66f23f1fbb71a64cba945",
+   "size": 708153
   },
   {
    "id": "stickers.json",
@@ -1084,6 +1138,138 @@
    "size": 25811
   },
   {
+   "id": "dra_PSA.102.1_0.m4a",
+   "path": "content/voice/dra_PSA.102.1_0.m4a",
+   "checksum_sha256": "cb9d5cc2321c6554a8299cbf5e51020672a0517a5768b598c053ba8cbcf69566",
+   "size": 41838
+  },
+  {
+   "id": "dra_PSA.102.2_0.m4a",
+   "path": "content/voice/dra_PSA.102.2_0.m4a",
+   "checksum_sha256": "930be9140cb8c809a47dc10269d201e14e9c83e9d46b8aab26a1c5dcd394b07d",
+   "size": 29351
+  },
+  {
+   "id": "dra_PSA.102.3_0.m4a",
+   "path": "content/voice/dra_PSA.102.3_0.m4a",
+   "checksum_sha256": "c9a606ddd7450ea76d97d8b3dda8b53442ed3c56108e550c039a85503047c062",
+   "size": 30612
+  },
+  {
+   "id": "dra_PSA.102.4_0.m4a",
+   "path": "content/voice/dra_PSA.102.4_0.m4a",
+   "checksum_sha256": "9695a28be0caaef91107e7b9473886656479042399f690d8a611aead44c3bd90",
+   "size": 36005
+  },
+  {
+   "id": "dra_PSA.102.5_0.m4a",
+   "path": "content/voice/dra_PSA.102.5_0.m4a",
+   "checksum_sha256": "4ac46309f011602029640824735c50940aa52a1a557cbc529a92b21bd16617fb",
+   "size": 37311
+  },
+  {
+   "id": "dra_PSA.120.1_0.m4a",
+   "path": "content/voice/dra_PSA.120.1_0.m4a",
+   "checksum_sha256": "f8ef5e53d16359f14898556fa6e27527c092ab9cdbdd9629a8045850dcb6496d",
+   "size": 31199
+  },
+  {
+   "id": "dra_PSA.120.2_0.m4a",
+   "path": "content/voice/dra_PSA.120.2_0.m4a",
+   "checksum_sha256": "8d57b8a85eefee0189f6fd1da6ef6685474b4644887fc40fedbcf7904226532c",
+   "size": 22453
+  },
+  {
+   "id": "dra_PSA.120.3_0.m4a",
+   "path": "content/voice/dra_PSA.120.3_0.m4a",
+   "checksum_sha256": "d806ed545effebddd4db901e1459143f97468297440f0fc86dd19393689d687b",
+   "size": 34342
+  },
+  {
+   "id": "dra_PSA.120.4_0.m4a",
+   "path": "content/voice/dra_PSA.120.4_0.m4a",
+   "checksum_sha256": "1b5c1c828ad0c62a4c2e65be3311f45be6043b38648f96f1e5d5222c4981f092",
+   "size": 27885
+  },
+  {
+   "id": "dra_PSA.138.1_0.m4a",
+   "path": "content/voice/dra_PSA.138.1_0.m4a",
+   "checksum_sha256": "3a5141473e8c9a2f14b998e7dbf8b38b44b15c3f3d958d5be750549d97758c27",
+   "size": 20065
+  },
+  {
+   "id": "dra_PSA.138.2_0.m4a",
+   "path": "content/voice/dra_PSA.138.2_0.m4a",
+   "checksum_sha256": "70a615c627e6a5a3b45dde46aba957a4da789958af85fd7b894a85ce7c5d8108",
+   "size": 24830
+  },
+  {
+   "id": "dra_PSA.138.3_0.m4a",
+   "path": "content/voice/dra_PSA.138.3_0.m4a",
+   "checksum_sha256": "cc95b3f19ad53500c001aee841133b2f0dd2e2bc86635060df5da0e216d9d518",
+   "size": 37892
+  },
+  {
+   "id": "dra_PSA.22.1_0.m4a",
+   "path": "content/voice/dra_PSA.22.1_0.m4a",
+   "checksum_sha256": "e36049e28477e9f84361e3cbd3f9b636ed8b13e00cb4f0cc764124302186d6ad",
+   "size": 28427
+  },
+  {
+   "id": "dra_PSA.22.2_0.m4a",
+   "path": "content/voice/dra_PSA.22.2_0.m4a",
+   "checksum_sha256": "969556e34390cd734aa33a2b862fca16f86d76e278d6afaeb114aa43f8342ebf",
+   "size": 35137
+  },
+  {
+   "id": "dra_PSA.22.3_0.m4a",
+   "path": "content/voice/dra_PSA.22.3_0.m4a",
+   "checksum_sha256": "643508a0f510534ddb36a488ce64ca6f498593c40b9600afbf6c3878f2fd03d8",
+   "size": 37340
+  },
+  {
+   "id": "dra_PSA.41.2_0.m4a",
+   "path": "content/voice/dra_PSA.41.2_0.m4a",
+   "checksum_sha256": "50d11043538bbdd5c3539009cf5795cea956cb0c2670fe6ce91ef1cbf5d743ce",
+   "size": 39231
+  },
+  {
+   "id": "dra_PSA.41.3_0.m4a",
+   "path": "content/voice/dra_PSA.41.3_0.m4a",
+   "checksum_sha256": "aefa5404db1481fb67f1d9fc11f60f98d0da64fed3b2ed407ad5b5eb21d733bf",
+   "size": 40191
+  },
+  {
+   "id": "dra_PSA.50.12_0.m4a",
+   "path": "content/voice/dra_PSA.50.12_0.m4a",
+   "checksum_sha256": "9247e4ee139f4ee7a8e08cec35cf1a456e816905f978425958d3e245921cc27d",
+   "size": 34114
+  },
+  {
+   "id": "dra_PSA.50.13_0.m4a",
+   "path": "content/voice/dra_PSA.50.13_0.m4a",
+   "checksum_sha256": "ed719ff6a7fdd4cd9d811adab38169ca0b20c7a38876a19b67633e3b4b70b9ab",
+   "size": 31353
+  },
+  {
+   "id": "dra_PSA.50.14_0.m4a",
+   "path": "content/voice/dra_PSA.50.14_0.m4a",
+   "checksum_sha256": "6f28a149ce43e312a2f136bc3fd5b3f9ef6f7477aa188c89e5d1eddf29a029a6",
+   "size": 35591
+  },
+  {
+   "id": "dra_PSA.90.1_0.m4a",
+   "path": "content/voice/dra_PSA.90.1_0.m4a",
+   "checksum_sha256": "9e75af920075aa94d363414382310b24042a1f4903801aaf3c50545a149f9929",
+   "size": 53267
+  },
+  {
+   "id": "dra_PSA.90.2_0.m4a",
+   "path": "content/voice/dra_PSA.90.2_0.m4a",
+   "checksum_sha256": "31a81f461985abdae7f396b34acb1e412b4449104adfa47dfa66f35f770e9a8d",
+   "size": 41593
+  },
+  {
    "id": "dra_ROM.12.12_0.m4a",
    "path": "content/voice/dra_ROM.12.12_0.m4a",
    "checksum_sha256": "eac2583d23da115e47a756132a4960f9ab910243718b3a29f39a300cb18b8dc0",
@@ -1588,6 +1774,132 @@
    "size": 21913
   },
   {
+   "id": "en_aff.71_0.m4a",
+   "path": "content/voice/en_aff.71_0.m4a",
+   "checksum_sha256": "38d090875a19c66df087a8ea3458320547137b4548c3884a6e10f2bdc87d0494",
+   "size": 19828
+  },
+  {
+   "id": "en_aff.72_0.m4a",
+   "path": "content/voice/en_aff.72_0.m4a",
+   "checksum_sha256": "dcf97110d5eac202d7d47b4d801396ca81f88aede5a79eba6ab486cf33ce71cb",
+   "size": 19910
+  },
+  {
+   "id": "en_aff.73_0.m4a",
+   "path": "content/voice/en_aff.73_0.m4a",
+   "checksum_sha256": "8d16171643aa5b1c7078a4468bb0ca954a83a241d06489088a846d07de9a6aa4",
+   "size": 16889
+  },
+  {
+   "id": "en_aff.74_0.m4a",
+   "path": "content/voice/en_aff.74_0.m4a",
+   "checksum_sha256": "810530f1a3fd210815b8020f5b3ab8d74770c2496de7dd45aca3df8d33fb9026",
+   "size": 20361
+  },
+  {
+   "id": "en_aff.75_0.m4a",
+   "path": "content/voice/en_aff.75_0.m4a",
+   "checksum_sha256": "686ad6bcca5982068f8486928ae92df0b1c2f6747a692e1c8a27f3f8fa3a6a37",
+   "size": 18823
+  },
+  {
+   "id": "en_aff.76_0.m4a",
+   "path": "content/voice/en_aff.76_0.m4a",
+   "checksum_sha256": "682efc44f8646f59f6ef7e9fcfe06d4f93cdfd14653572cd0083b46b48ec1d3f",
+   "size": 19635
+  },
+  {
+   "id": "en_aff.77_0.m4a",
+   "path": "content/voice/en_aff.77_0.m4a",
+   "checksum_sha256": "3e0c4c1515dc1a64ed2c99195588e947cea84c231cc900d8889bec5d4cc38c94",
+   "size": 21251
+  },
+  {
+   "id": "en_aff.78_0.m4a",
+   "path": "content/voice/en_aff.78_0.m4a",
+   "checksum_sha256": "50da538d66565ab0548e8c0c0f3b848dbf197f22cf9e9ed31ea5cd463a13c11d",
+   "size": 19796
+  },
+  {
+   "id": "en_aff.79_0.m4a",
+   "path": "content/voice/en_aff.79_0.m4a",
+   "checksum_sha256": "2334b7df73b0b5a8f936a0f5288c225ee032ff87cea7e5683707ec171e2ee8ee",
+   "size": 18498
+  },
+  {
+   "id": "en_aff.80_0.m4a",
+   "path": "content/voice/en_aff.80_0.m4a",
+   "checksum_sha256": "52ac191a860e13e17b3bf3d56eedac4ab2b0fd084d5058bc0183c012001673ba",
+   "size": 21203
+  },
+  {
+   "id": "en_aff.81_0.m4a",
+   "path": "content/voice/en_aff.81_0.m4a",
+   "checksum_sha256": "4885100863bcf6b3ed272104b84d87c51fb0fec11b8dfa7e7f26d6a88b4897fd",
+   "size": 21578
+  },
+  {
+   "id": "en_aff.82_0.m4a",
+   "path": "content/voice/en_aff.82_0.m4a",
+   "checksum_sha256": "b3a4b5a0bf3e52f81f67e31e049bc4a49dc8459e4490a7b0277ca46bcd8052fc",
+   "size": 17981
+  },
+  {
+   "id": "en_aff.83_0.m4a",
+   "path": "content/voice/en_aff.83_0.m4a",
+   "checksum_sha256": "7ccd2b5c491a91820258513274b23b232e50448b5cba39e2157bf0789ad38304",
+   "size": 17617
+  },
+  {
+   "id": "en_aff.84_0.m4a",
+   "path": "content/voice/en_aff.84_0.m4a",
+   "checksum_sha256": "bfca7e028df6b139f25ab2c179313bcb323d215d56600c62d7fd8b49aa6b970a",
+   "size": 18842
+  },
+  {
+   "id": "en_aff.85_0.m4a",
+   "path": "content/voice/en_aff.85_0.m4a",
+   "checksum_sha256": "73f33efc21ddf904e7fbf5a7ef369b0c7affe2d3d5e71273465fd03b75bb757c",
+   "size": 20451
+  },
+  {
+   "id": "en_aff.86_0.m4a",
+   "path": "content/voice/en_aff.86_0.m4a",
+   "checksum_sha256": "3c68cdbae1b4a1a1a932ed8da269331718bda0ffd937a7257c995cacb31c718a",
+   "size": 16549
+  },
+  {
+   "id": "en_aff.87_0.m4a",
+   "path": "content/voice/en_aff.87_0.m4a",
+   "checksum_sha256": "84ee4933ac2958f916d0179d6edd0cc54ee3228c55e65ec35d9d1790942e71a6",
+   "size": 19894
+  },
+  {
+   "id": "en_aff.88_0.m4a",
+   "path": "content/voice/en_aff.88_0.m4a",
+   "checksum_sha256": "afbe6b2c1682db11b1ead40dfaf0f4840da8e70acfecd4ea380ac0b48b85d6f4",
+   "size": 18805
+  },
+  {
+   "id": "en_aff.89_0.m4a",
+   "path": "content/voice/en_aff.89_0.m4a",
+   "checksum_sha256": "f13da815a516a27c2d3e0a7e5bc33146fc4f2bab1a17b97901abba5dcbe64967",
+   "size": 17962
+  },
+  {
+   "id": "en_aff.90_0.m4a",
+   "path": "content/voice/en_aff.90_0.m4a",
+   "checksum_sha256": "faa144fe47de60b5c1cd04f032dfd4417280a809aa5e6193aa7854e6350e56d3",
+   "size": 19039
+  },
+  {
+   "id": "en_aff.91_0.m4a",
+   "path": "content/voice/en_aff.91_0.m4a",
+   "checksum_sha256": "53f864a18560f4e3d52f4a30925bf903d8f231cfa1d82b3410be1c3839b25bad",
+   "size": 19245
+  },
+  {
    "id": "en_aff.p1_0.m4a",
    "path": "content/voice/en_aff.p1_0.m4a",
    "checksum_sha256": "5da78480256a8327fd9592cf5243b09c0e59f95c7a907abec1eee8041c91f1dc",
@@ -1834,6 +2146,24 @@
    "size": 39687
   },
   {
+   "id": "kjv_COL.3.15_0.m4a",
+   "path": "content/voice/kjv_COL.3.15_0.m4a",
+   "checksum_sha256": "7598f33fcbbb28124a7224b2b1fb759aa16b203bbd8588a139274a775ce7259f",
+   "size": 42700
+  },
+  {
+   "id": "kjv_COL.3.16_0.m4a",
+   "path": "content/voice/kjv_COL.3.16_0.m4a",
+   "checksum_sha256": "4984ee654e61ffac4ac4483014524e9e8ddafd8a02b1507ecff3aab20e2d1b2a",
+   "size": 67128
+  },
+  {
+   "id": "kjv_COL.3.17_0.m4a",
+   "path": "content/voice/kjv_COL.3.17_0.m4a",
+   "checksum_sha256": "ca7031208ceab61cf26499440c2b92b73b608f855882b6682b3e88593532aeb0",
+   "size": 48819
+  },
+  {
    "id": "kjv_COL.3.23_0.m4a",
    "path": "content/voice/kjv_COL.3.23_0.m4a",
    "checksum_sha256": "dd1f2da95553a2e416bc0fbb21a933ad1892ebd833ab6cafe1a97e565212277a",
@@ -1844,6 +2174,18 @@
    "path": "content/voice/kjv_EPH.4.32_0.m4a",
    "checksum_sha256": "4ec28ef442981fcb683b82b4a03801a4f26042d99f9d1ccf72fda19c7ea352b0",
    "size": 46262
+  },
+  {
+   "id": "kjv_EPH.5.19_0.m4a",
+   "path": "content/voice/kjv_EPH.5.19_0.m4a",
+   "checksum_sha256": "68d338719473f52ea86da9534d5ee8be18e0476a474303a1a5b3419970cc3e43",
+   "size": 46053
+  },
+  {
+   "id": "kjv_EPH.5.20_0.m4a",
+   "path": "content/voice/kjv_EPH.5.20_0.m4a",
+   "checksum_sha256": "280ba11332703a9cce62df1917b107da6741571f256fda2530119ac60ccaf81e",
+   "size": 37215
   },
   {
    "id": "kjv_GAL.5.22_0.m4a",
@@ -2092,16 +2434,76 @@
    "size": 36927
   },
   {
+   "id": "kjv_MAT.5.13_0.m4a",
+   "path": "content/voice/kjv_MAT.5.13_0.m4a",
+   "checksum_sha256": "4c6f09ce996fd6c704f90915618d0d13a3287b12c0ab740e25037d74d67ce686",
+   "size": 68211
+  },
+  {
    "id": "kjv_MAT.5.14_0.m4a",
    "path": "content/voice/kjv_MAT.5.14_0.m4a",
    "checksum_sha256": "4609a476dcaaffcd885b2dbc90c100d4df02d6e4b5c3f7955063b15b08b580ec",
    "size": 31999
   },
   {
+   "id": "kjv_MAT.5.15_0.m4a",
+   "path": "content/voice/kjv_MAT.5.15_0.m4a",
+   "checksum_sha256": "3779b014498038f3bf16464dbaa51d0539bf478f7a04a3b79c0eab281b92735a",
+   "size": 48119
+  },
+  {
+   "id": "kjv_MAT.5.16_0.m4a",
+   "path": "content/voice/kjv_MAT.5.16_0.m4a",
+   "checksum_sha256": "4c94d7d841108bfb0f7b2fea2e85514690d0aae95d99bc07d3fff9f6f78867d5",
+   "size": 44979
+  },
+  {
+   "id": "kjv_MAT.5.23_0.m4a",
+   "path": "content/voice/kjv_MAT.5.23_0.m4a",
+   "checksum_sha256": "4f8a9523501bd4be2af3a1f1f2e71facebccc210ef653af73d3e6df8182fa286",
+   "size": 40171
+  },
+  {
+   "id": "kjv_MAT.5.24_0.m4a",
+   "path": "content/voice/kjv_MAT.5.24_0.m4a",
+   "checksum_sha256": "32e58327adcfddba125b0f031870bb6760db3c52020622ada4b24581e946166a",
+   "size": 50220
+  },
+  {
+   "id": "kjv_MAT.5.38_0.m4a",
+   "path": "content/voice/kjv_MAT.5.38_0.m4a",
+   "checksum_sha256": "15a44566293151464bc460a61f63e862fd27ae6f34cfd7d1c35be2c5ce7c4d95",
+   "size": 31985
+  },
+  {
+   "id": "kjv_MAT.5.39_0.m4a",
+   "path": "content/voice/kjv_MAT.5.39_0.m4a",
+   "checksum_sha256": "beecc8fa6a6debc9db7c0c9130f3a2e68b2e3d57df59e36a5be7180e9b0f5416",
+   "size": 47991
+  },
+  {
    "id": "kjv_MAT.5.3_0.m4a",
    "path": "content/voice/kjv_MAT.5.3_0.m4a",
    "checksum_sha256": "9c29e3256d143fde7b69a8dfc38245b29a9fc73497eb6c08539a379623817cfd",
    "size": 28520
+  },
+  {
+   "id": "kjv_MAT.5.43_0.m4a",
+   "path": "content/voice/kjv_MAT.5.43_0.m4a",
+   "checksum_sha256": "1b818922edaddeabcb295498fc40f9341da6f3a871feb42a364c15ae4ade92d7",
+   "size": 34062
+  },
+  {
+   "id": "kjv_MAT.5.44_0.m4a",
+   "path": "content/voice/kjv_MAT.5.44_0.m4a",
+   "checksum_sha256": "e1170f89af1f5db35c06ee5e73bb36edd225571726bae9f47f30895dee830307",
+   "size": 57778
+  },
+  {
+   "id": "kjv_MAT.5.45_0.m4a",
+   "path": "content/voice/kjv_MAT.5.45_0.m4a",
+   "checksum_sha256": "3b3d3e61f6e5e768fb1fda19ce6e9ac3d25b6bf4916e3ba05e7a653dd7c6f8a0",
+   "size": 62030
   },
   {
    "id": "kjv_MAT.5.4_0.m4a",
@@ -2140,6 +2542,54 @@
    "size": 29703
   },
   {
+   "id": "kjv_MAT.6.10_0.m4a",
+   "path": "content/voice/kjv_MAT.6.10_0.m4a",
+   "checksum_sha256": "1382f3bd3b58b85fc2230b46ab8c28b442071359fb911dfde3db3ed6ef1f00a1",
+   "size": 28108
+  },
+  {
+   "id": "kjv_MAT.6.11_0.m4a",
+   "path": "content/voice/kjv_MAT.6.11_0.m4a",
+   "checksum_sha256": "98ec0c8c2954507424a383da70ea3a4dcfcbe9ad2444a83f16c6d71a8cf92ad4",
+   "size": 17977
+  },
+  {
+   "id": "kjv_MAT.6.12_0.m4a",
+   "path": "content/voice/kjv_MAT.6.12_0.m4a",
+   "checksum_sha256": "6219f620cbcf3f6dd8d4aa47d977cb79ca291e49f01df2ce85104f447376abbf",
+   "size": 22760
+  },
+  {
+   "id": "kjv_MAT.6.13_0.m4a",
+   "path": "content/voice/kjv_MAT.6.13_0.m4a",
+   "checksum_sha256": "0b6225d2fd4ad505482d514e0d8bd982097e30de299c881eb89c4bfff7d6f5b8",
+   "size": 52207
+  },
+  {
+   "id": "kjv_MAT.6.19_0.m4a",
+   "path": "content/voice/kjv_MAT.6.19_0.m4a",
+   "checksum_sha256": "41646688afa3c71ad629cbbd3586c59042f70ca8972cbfdfe48e8ee0fc294428",
+   "size": 45467
+  },
+  {
+   "id": "kjv_MAT.6.20_0.m4a",
+   "path": "content/voice/kjv_MAT.6.20_0.m4a",
+   "checksum_sha256": "13f72a354d06d8e60d9f74f247cf8192bdba66b578a750d14c4081a6b8d4663a",
+   "size": 50485
+  },
+  {
+   "id": "kjv_MAT.6.21_0.m4a",
+   "path": "content/voice/kjv_MAT.6.21_0.m4a",
+   "checksum_sha256": "48960f150dda9741515e1a73dc97f2ba70b422a0ea79e5621ed53fe9a310d031",
+   "size": 23216
+  },
+  {
+   "id": "kjv_MAT.6.24_0.m4a",
+   "path": "content/voice/kjv_MAT.6.24_0.m4a",
+   "checksum_sha256": "c185d7e7ae6e9615b538efb3bef47348cf48b5f0a9bdbe27ac5f685be9f02fcb",
+   "size": 65042
+  },
+  {
    "id": "kjv_MAT.6.33_0.m4a",
    "path": "content/voice/kjv_MAT.6.33_0.m4a",
    "checksum_sha256": "80dc85dd2e35f4ff5ced9abb20d4141d269fa1fa7ccb952cc2721d6662d4ce3e",
@@ -2150,6 +2600,60 @@
    "path": "content/voice/kjv_MAT.6.34_0.m4a",
    "checksum_sha256": "b1a1f2fe6ee58649656527f51f788f4ebca59766f8db80f07edf074c721a9407",
    "size": 53870
+  },
+  {
+   "id": "kjv_MAT.6.3_0.m4a",
+   "path": "content/voice/kjv_MAT.6.3_0.m4a",
+   "checksum_sha256": "e109395dcb644aa5a2095271fa9c64273712f8a8c165d6143b725aed03d5156b",
+   "size": 33190
+  },
+  {
+   "id": "kjv_MAT.6.4_0.m4a",
+   "path": "content/voice/kjv_MAT.6.4_0.m4a",
+   "checksum_sha256": "12b0eb3c7edb3b4fb5f4d9baf6f0b661ab9db0c99317fe4cb39896b7d4a2d0ad",
+   "size": 42962
+  },
+  {
+   "id": "kjv_MAT.6.6_0.m4a",
+   "path": "content/voice/kjv_MAT.6.6_0.m4a",
+   "checksum_sha256": "a2cb465ce1e2f7364074630858ca7d3302ec18f83f3e8113c0099ca7a062dab5",
+   "size": 72210
+  },
+  {
+   "id": "kjv_MAT.6.9_0.m4a",
+   "path": "content/voice/kjv_MAT.6.9_0.m4a",
+   "checksum_sha256": "340c448474d00b069ecf20c8b6bc306442acdf9984abe6ae589657e6b41f491b",
+   "size": 36479
+  },
+  {
+   "id": "kjv_MAT.7.12_0.m4a",
+   "path": "content/voice/kjv_MAT.7.12_0.m4a",
+   "checksum_sha256": "0b163f9f905bdaf29e38b52acafbb658090575e4e4de6f4c8907200396977201",
+   "size": 48006
+  },
+  {
+   "id": "kjv_MAT.7.1_0.m4a",
+   "path": "content/voice/kjv_MAT.7.1_0.m4a",
+   "checksum_sha256": "9fb1e4433736e8242da26c61b57dfdcb384e4c9d5aa9d4962a43249ba08b0cf3",
+   "size": 18434
+  },
+  {
+   "id": "kjv_MAT.7.24_0.m4a",
+   "path": "content/voice/kjv_MAT.7.24_0.m4a",
+   "checksum_sha256": "a5b2eb0064f32394155feb8415db5e99e6673e5afda5750e3bed0b55cb7ae9e2",
+   "size": 52444
+  },
+  {
+   "id": "kjv_MAT.7.25_0.m4a",
+   "path": "content/voice/kjv_MAT.7.25_0.m4a",
+   "checksum_sha256": "73a898d56ad83978a2c52b03096d9f908e47748d4c56b3f4692edb6968a2e0d3",
+   "size": 53241
+  },
+  {
+   "id": "kjv_MAT.7.2_0.m4a",
+   "path": "content/voice/kjv_MAT.7.2_0.m4a",
+   "checksum_sha256": "9cce4084b07785aeef5ad67e3a6157e51206cf7ea6ef8430c1391e5b1b3af466",
+   "size": 42038
   },
   {
    "id": "kjv_MAT.7.7_0.m4a",
@@ -2212,6 +2716,30 @@
    "size": 38198
   },
   {
+   "id": "kjv_PRO.11.25_0.m4a",
+   "path": "content/voice/kjv_PRO.11.25_0.m4a",
+   "checksum_sha256": "ba7f52ad7feba7a05f216a394027c5d7f21f4b3c7e8052fcc3682594084110b7",
+   "size": 36616
+  },
+  {
+   "id": "kjv_PRO.12.25_0.m4a",
+   "path": "content/voice/kjv_PRO.12.25_0.m4a",
+   "checksum_sha256": "ebe62f2eb7fc2962e5c98190fea39567e88c85ccdc0f1869521417d98e78f2a0",
+   "size": 34414
+  },
+  {
+   "id": "kjv_PRO.14.29_0.m4a",
+   "path": "content/voice/kjv_PRO.14.29_0.m4a",
+   "checksum_sha256": "4e40dc4d5cb8b78ddf939456daf4535027ffa196f424006048d46ee8e07e5df7",
+   "size": 42085
+  },
+  {
+   "id": "kjv_PRO.15.13_0.m4a",
+   "path": "content/voice/kjv_PRO.15.13_0.m4a",
+   "checksum_sha256": "88feef7f074e3927f1efe7d91d5f2ee45f77e0784ba0c05769b520e140e00700",
+   "size": 39382
+  },
+  {
    "id": "kjv_PRO.15.1_0.m4a",
    "path": "content/voice/kjv_PRO.15.1_0.m4a",
    "checksum_sha256": "338bf05836f39c0f79fd3ee5143f4c5dcfa0d2129971d2079074955e0370efb2",
@@ -2230,10 +2758,40 @@
    "size": 31305
   },
   {
+   "id": "kjv_PRO.17.17_0.m4a",
+   "path": "content/voice/kjv_PRO.17.17_0.m4a",
+   "checksum_sha256": "fdca4fea1c2a63fa05b7d1a0cdd139bc2118ee6af1c578c6a394ef6f320a3bc6",
+   "size": 30114
+  },
+  {
    "id": "kjv_PRO.17.22_0.m4a",
    "path": "content/voice/kjv_PRO.17.22_0.m4a",
    "checksum_sha256": "f9765410238ac0acfd2628c9294c9909f729bc43664d06e86cc45f03634e14e8",
    "size": 34983
+  },
+  {
+   "id": "kjv_PRO.18.10_0.m4a",
+   "path": "content/voice/kjv_PRO.18.10_0.m4a",
+   "checksum_sha256": "e672b429649fb728ed2c6e6672bf41bf761a34b7554f9363bc93290eaef67863",
+   "size": 34220
+  },
+  {
+   "id": "kjv_PRO.19.11_0.m4a",
+   "path": "content/voice/kjv_PRO.19.11_0.m4a",
+   "checksum_sha256": "f1b84b0ec0b046379c08ed38b3579d3ecb92b8eee7e07a9a2bc3e505e7df3108",
+   "size": 39452
+  },
+  {
+   "id": "kjv_PRO.2.6_0.m4a",
+   "path": "content/voice/kjv_PRO.2.6_0.m4a",
+   "checksum_sha256": "267ee560cd6aaaec069829e60f383cb919577f980c1976af741120c35e85bbf8",
+   "size": 33846
+  },
+  {
+   "id": "kjv_PRO.27.17_0.m4a",
+   "path": "content/voice/kjv_PRO.27.17_0.m4a",
+   "checksum_sha256": "0be6cd146edb05f99f5144fb1fd3aa3b9ec5312cedb59a3a2d670ff372055d13",
+   "size": 32409
   },
   {
    "id": "kjv_PRO.3.1_0.m4a",
@@ -2270,6 +2828,18 @@
    "path": "content/voice/kjv_PRO.3.6_0.m4a",
    "checksum_sha256": "a2d5447400039bdf120adec1f662175ca45fbb572e19bde5ed14f6ae59cc8e1e",
    "size": 28058
+  },
+  {
+   "id": "kjv_PRO.31.25_0.m4a",
+   "path": "content/voice/kjv_PRO.31.25_0.m4a",
+   "checksum_sha256": "a0f782934fd061d53b5e1e44b33569367135aa183301e6e2d606072097cd20cf",
+   "size": 31871
+  },
+  {
+   "id": "kjv_PRO.31.26_0.m4a",
+   "path": "content/voice/kjv_PRO.31.26_0.m4a",
+   "checksum_sha256": "fa55d764fb8fed23d74a71ad7611d4401e93a5f1fff5e16504e1d1b9e29af95c",
+   "size": 32801
   },
   {
    "id": "kjv_PRO.4.23_0.m4a",
@@ -2314,6 +2884,18 @@
    "size": 35241
   },
   {
+   "id": "kjv_PSA.100.4_0.m4a",
+   "path": "content/voice/kjv_PSA.100.4_0.m4a",
+   "checksum_sha256": "3d376772d123007de5061840ae92fc167b5212dd7d3f9618f9e903d66057cbe3",
+   "size": 43673
+  },
+  {
+   "id": "kjv_PSA.100.5_0.m4a",
+   "path": "content/voice/kjv_PSA.100.5_0.m4a",
+   "checksum_sha256": "a3beb52ac60789802a630f6135f321579eb2b3e18481554973b49b82d9e84043",
+   "size": 40593
+  },
+  {
    "id": "kjv_PSA.103.1_0.m4a",
    "path": "content/voice/kjv_PSA.103.1_0.m4a",
    "checksum_sha256": "ee4e9b386f15498403d572b3f3bd35e973df44edd9089c0ce958ff3e11e3fecc",
@@ -2324,6 +2906,48 @@
    "path": "content/voice/kjv_PSA.103.2_0.m4a",
    "checksum_sha256": "d019486373e0f9b309990d5f4efc12a21835a7d6ca22e9c7fc6c3a7fb259f709",
    "size": 27292
+  },
+  {
+   "id": "kjv_PSA.103.3_0.m4a",
+   "path": "content/voice/kjv_PSA.103.3_0.m4a",
+   "checksum_sha256": "987802a29e85e5571824633e7ab4c80b7aa32cc4e69cba69b4176271708afbb9",
+   "size": 30588
+  },
+  {
+   "id": "kjv_PSA.103.4_0.m4a",
+   "path": "content/voice/kjv_PSA.103.4_0.m4a",
+   "checksum_sha256": "d342110e3fa01c43eab5b4156657daee91019d3e08f1fa302748cbfde202d83a",
+   "size": 40284
+  },
+  {
+   "id": "kjv_PSA.103.5_0.m4a",
+   "path": "content/voice/kjv_PSA.103.5_0.m4a",
+   "checksum_sha256": "59ff07fa77d02db2a9c8c2aae0bf677549e6069969f8e790bfac823c6f5c2d2d",
+   "size": 37866
+  },
+  {
+   "id": "kjv_PSA.107.1_0.m4a",
+   "path": "content/voice/kjv_PSA.107.1_0.m4a",
+   "checksum_sha256": "844ab3dc0f96f9f3e2d0d81e6757efefface2786079001965b7edb3850a6072e",
+   "size": 32927
+  },
+  {
+   "id": "kjv_PSA.116.12_0.m4a",
+   "path": "content/voice/kjv_PSA.116.12_0.m4a",
+   "checksum_sha256": "612534fe0abdab5fc221f8895f0e8c24335e12cff480cf17c0f71457f848d552",
+   "size": 26759
+  },
+  {
+   "id": "kjv_PSA.116.13_0.m4a",
+   "path": "content/voice/kjv_PSA.116.13_0.m4a",
+   "checksum_sha256": "895d4630e5874bbaa9ec38d6f5e57fed9fb27dedab7a56280344bb3346ca57b5",
+   "size": 29879
+  },
+  {
+   "id": "kjv_PSA.116.14_0.m4a",
+   "path": "content/voice/kjv_PSA.116.14_0.m4a",
+   "checksum_sha256": "8dba0c929e67165d275a4ffb549b06caae65c3b76038d14a63be5617f5ed5bbc",
+   "size": 31045
   },
   {
    "id": "kjv_PSA.118.24_0.m4a",
@@ -2384,6 +3008,24 @@
    "path": "content/voice/kjv_PSA.121.8_0.m4a",
    "checksum_sha256": "2e8fdceada0f8f9d3e23af1155238545c6091fa02a19156c41af93185052b059",
    "size": 40588
+  },
+  {
+   "id": "kjv_PSA.136.1_0.m4a",
+   "path": "content/voice/kjv_PSA.136.1_0.m4a",
+   "checksum_sha256": "b52788a4935f4faa3eba9ede305e91099bc7d8c694dd27285013e1b3181d447b",
+   "size": 33282
+  },
+  {
+   "id": "kjv_PSA.136.2_0.m4a",
+   "path": "content/voice/kjv_PSA.136.2_0.m4a",
+   "checksum_sha256": "34b0766371f0b87505e289c7be3112daab3cfb0e2b1df8fe349d79a914ec7370",
+   "size": 31168
+  },
+  {
+   "id": "kjv_PSA.136.3_0.m4a",
+   "path": "content/voice/kjv_PSA.136.3_0.m4a",
+   "checksum_sha256": "3ca4f4d86e962b98446cf82777c286fb48f0efe178bd2b915c24b6af9a6d3161",
+   "size": 30440
   },
   {
    "id": "kjv_PSA.139.14_0.m4a",
@@ -2458,10 +3100,34 @@
    "size": 47610
   },
   {
+   "id": "kjv_PSA.28.7_0.m4a",
+   "path": "content/voice/kjv_PSA.28.7_0.m4a",
+   "checksum_sha256": "ff0bce3a03ad355cb62485cc598b84f9f933b2b3935a0ff2131b7517e163f98c",
+   "size": 61736
+  },
+  {
    "id": "kjv_PSA.30.5_0.m4a",
    "path": "content/voice/kjv_PSA.30.5_0.m4a",
    "checksum_sha256": "5d6d9c2eb3f376e42b7baf130b65d13834d7e1ca48d52b6241f6e94acb1a483f",
    "size": 49100
+  },
+  {
+   "id": "kjv_PSA.34.1_0.m4a",
+   "path": "content/voice/kjv_PSA.34.1_0.m4a",
+   "checksum_sha256": "1c1e926ddb77597a6652dffe4fd86a08d93fcb1bbfaaa51deeaaf7efcfbfa4b6",
+   "size": 33367
+  },
+  {
+   "id": "kjv_PSA.34.2_0.m4a",
+   "path": "content/voice/kjv_PSA.34.2_0.m4a",
+   "checksum_sha256": "652b45d8123eeb36babb696b236f2a71ad8a1204fa76e263ac51dc2a90f76ec0",
+   "size": 33498
+  },
+  {
+   "id": "kjv_PSA.34.3_0.m4a",
+   "path": "content/voice/kjv_PSA.34.3_0.m4a",
+   "checksum_sha256": "eb081fb718d0a960f79d1005050f5f84095f419727c7c1e4309671f2947c0c23",
+   "size": 30243
   },
   {
    "id": "kjv_PSA.34.8_0.m4a",
@@ -2576,6 +3242,18 @@
    "path": "content/voice/kjv_PSA.90.12_0.m4a",
    "checksum_sha256": "4345210303b4f84b86e0e9dcd53fc2dc0e96a6e0c2a4f2a4a65f3adc9d2024ee",
    "size": 31400
+  },
+  {
+   "id": "kjv_PSA.95.1_0.m4a",
+   "path": "content/voice/kjv_PSA.95.1_0.m4a",
+   "checksum_sha256": "9f322bf5fe4c43f69c532864f25c95f5b73b135d2a418a4b8dca9a6fa00178f6",
+   "size": 39561
+  },
+  {
+   "id": "kjv_PSA.95.2_0.m4a",
+   "path": "content/voice/kjv_PSA.95.2_0.m4a",
+   "checksum_sha256": "91b01a7ce0f16f21af9c6719af262fef386d5ea5ee74967722600076985970b2",
+   "size": 37572
   },
   {
    "id": "kjv_REV.21.4_0.m4a",
@@ -2762,6 +3440,12 @@
    "path": "content/voice/ko_aff.26_0.m4a",
    "checksum_sha256": "c35cf7537b970334434a3df4cd1cebd71a6a5aacb9add3e0d4aaf1a030ebcdb8",
    "size": 24074
+  },
+  {
+   "id": "ko_aff.27_0.m4a",
+   "path": "content/voice/ko_aff.27_0.m4a",
+   "checksum_sha256": "3e81f5033fa0179380703c7556732fa0cd9a8d1f3b4fbf8e95464d01be3f5293",
+   "size": 28295
   },
   {
    "id": "ko_aff.28_0.m4a",
@@ -3002,6 +3686,132 @@
    "path": "content/voice/ko_aff.67_0.m4a",
    "checksum_sha256": "ca3852d5925c3ee2ae6e5d50e671bfe0baa871e38306e7df34538063d2233fe7",
    "size": 31064
+  },
+  {
+   "id": "ko_aff.71_0.m4a",
+   "path": "content/voice/ko_aff.71_0.m4a",
+   "checksum_sha256": "7e8fa3d991b632996c6a295d24749a7f0b18c4e158e60c09685e2ac0d2a25372",
+   "size": 30735
+  },
+  {
+   "id": "ko_aff.72_0.m4a",
+   "path": "content/voice/ko_aff.72_0.m4a",
+   "checksum_sha256": "972905dd83b4be634a50e68c63efccab0f376dc6941ae9eaec11c8d440e3ee78",
+   "size": 27953
+  },
+  {
+   "id": "ko_aff.73_0.m4a",
+   "path": "content/voice/ko_aff.73_0.m4a",
+   "checksum_sha256": "3fc3a4b435380846b97d86940d7fa4c47115375e1c990f5087fb75bf0fd3bdce",
+   "size": 19897
+  },
+  {
+   "id": "ko_aff.74_0.m4a",
+   "path": "content/voice/ko_aff.74_0.m4a",
+   "checksum_sha256": "e62062435cbc23fc3e3c27dc4bdac81daf463b93e7c758af71eee389ab532d18",
+   "size": 20505
+  },
+  {
+   "id": "ko_aff.75_0.m4a",
+   "path": "content/voice/ko_aff.75_0.m4a",
+   "checksum_sha256": "e42ffe604d33a65d3eb2c7f394ec09f861abb11e5ad1b02c9bd1c6287ad7b931",
+   "size": 29197
+  },
+  {
+   "id": "ko_aff.76_0.m4a",
+   "path": "content/voice/ko_aff.76_0.m4a",
+   "checksum_sha256": "9638a14f99223ee99b9d0621ee91eec3e588eb5469b2e769cb8f668b3b21ec1a",
+   "size": 26140
+  },
+  {
+   "id": "ko_aff.77_0.m4a",
+   "path": "content/voice/ko_aff.77_0.m4a",
+   "checksum_sha256": "140f97bcebca7ba3026222e096f2173778cca572ad9350b3969cfb46510b9bd8",
+   "size": 23516
+  },
+  {
+   "id": "ko_aff.78_0.m4a",
+   "path": "content/voice/ko_aff.78_0.m4a",
+   "checksum_sha256": "dbab68990daf99aee583219e0686a103965e9e14417725aa2f90f5db8a86616d",
+   "size": 22800
+  },
+  {
+   "id": "ko_aff.79_0.m4a",
+   "path": "content/voice/ko_aff.79_0.m4a",
+   "checksum_sha256": "1ffe7c25c98fd6883dc4c3978291d6f80b5418a6bc7e51a5de0a04c31d97cf5a",
+   "size": 21106
+  },
+  {
+   "id": "ko_aff.80_0.m4a",
+   "path": "content/voice/ko_aff.80_0.m4a",
+   "checksum_sha256": "12d0861ab4db2f2040d9e6e5bad27fd6e1ec50de97c3c307fdc94714f31a9235",
+   "size": 25334
+  },
+  {
+   "id": "ko_aff.81_0.m4a",
+   "path": "content/voice/ko_aff.81_0.m4a",
+   "checksum_sha256": "580696532e2529e4bdf03753221c18a20a18daa089ea67bccb9482a173ef5df2",
+   "size": 28705
+  },
+  {
+   "id": "ko_aff.82_0.m4a",
+   "path": "content/voice/ko_aff.82_0.m4a",
+   "checksum_sha256": "381441036ab2a0cc57f5c52dbe5d1713b18bf7b3cc0f24b0f85aa2ac75a1e000",
+   "size": 26573
+  },
+  {
+   "id": "ko_aff.83_0.m4a",
+   "path": "content/voice/ko_aff.83_0.m4a",
+   "checksum_sha256": "7ec3e5683fd3a6b1cbf1f7f74be3bdd50332ed68dcc864d789258d79bd7ab285",
+   "size": 25194
+  },
+  {
+   "id": "ko_aff.84_0.m4a",
+   "path": "content/voice/ko_aff.84_0.m4a",
+   "checksum_sha256": "514b5c66eb6f5d5bddac1e06425230efc3229b547db2e379862cbd4b53aee4e8",
+   "size": 23063
+  },
+  {
+   "id": "ko_aff.85_0.m4a",
+   "path": "content/voice/ko_aff.85_0.m4a",
+   "checksum_sha256": "bbd4ec83dd1c0daa8841bda06ee87da09975db042051aba1fec46ee8d3ccb938",
+   "size": 23715
+  },
+  {
+   "id": "ko_aff.86_0.m4a",
+   "path": "content/voice/ko_aff.86_0.m4a",
+   "checksum_sha256": "8de08ef73327ac90b1d7a7e32ff93aadf6f5a49e2aff813efad233dba48bfcad",
+   "size": 20700
+  },
+  {
+   "id": "ko_aff.87_0.m4a",
+   "path": "content/voice/ko_aff.87_0.m4a",
+   "checksum_sha256": "2e80ea7ed4863fc4c2d7578db0cb1cd13a729052d62064a33da1cbac5c43fb0d",
+   "size": 22912
+  },
+  {
+   "id": "ko_aff.88_0.m4a",
+   "path": "content/voice/ko_aff.88_0.m4a",
+   "checksum_sha256": "c69b476b590520f1d7d4a700b6a28dc31e7810bdc9dd8a6b5b1eda504c161461",
+   "size": 27027
+  },
+  {
+   "id": "ko_aff.89_0.m4a",
+   "path": "content/voice/ko_aff.89_0.m4a",
+   "checksum_sha256": "10b6f2b7288eb15745a5c980c10859088afe2991bad84745958fb50210b6c823",
+   "size": 22321
+  },
+  {
+   "id": "ko_aff.90_0.m4a",
+   "path": "content/voice/ko_aff.90_0.m4a",
+   "checksum_sha256": "112580aa113f99a56ac79522a375ee5bceb9548bb408fb4be61e719fa4a86bfc",
+   "size": 24961
+  },
+  {
+   "id": "ko_aff.91_0.m4a",
+   "path": "content/voice/ko_aff.91_0.m4a",
+   "checksum_sha256": "22d8edfb51fc5168a64aab6db9b3f287d596176cd4bf5861c41eeb42f02e5e25",
+   "size": 20526
   },
   {
    "id": "ko_aff.p1_0.m4a",
@@ -4630,6 +5440,24 @@
    "size": 49102
   },
   {
+   "id": "krv_COL.3.15_0.m4a",
+   "path": "content/voice/krv_COL.3.15_0.m4a",
+   "checksum_sha256": "ee6c3c14188510e7b7547b4fbebf2edc2c72ffe2cc6bbdc61da5080372417c45",
+   "size": 65597
+  },
+  {
+   "id": "krv_COL.3.16_0.m4a",
+   "path": "content/voice/krv_COL.3.16_0.m4a",
+   "checksum_sha256": "031c38c268582200e13ccf26e82e30545c3e6aaaa6767a13e0cea18b931045f8",
+   "size": 84553
+  },
+  {
+   "id": "krv_COL.3.17_0.m4a",
+   "path": "content/voice/krv_COL.3.17_0.m4a",
+   "checksum_sha256": "9b7c2352ca0985a7d7ff9fe34ccaf356eead0c0bff7f8aa0a82aef5a44cb71e9",
+   "size": 56989
+  },
+  {
    "id": "krv_COL.3.23_0.m4a",
    "path": "content/voice/krv_COL.3.23_0.m4a",
    "checksum_sha256": "2f03fe4e22d57b282680d69e50b8e87be60b91f6ea4576576b0fbf47e16ec872",
@@ -4640,6 +5468,18 @@
    "path": "content/voice/krv_EPH.4.32_0.m4a",
    "checksum_sha256": "dcd52bbe675f6ede2f9dd6453a6629d732dc741639ad84cc09f296b7858ab1a8",
    "size": 53055
+  },
+  {
+   "id": "krv_EPH.5.19_0.m4a",
+   "path": "content/voice/krv_EPH.5.19_0.m4a",
+   "checksum_sha256": "190052a68a2e15728b9937881932b19513f12366344b65a9fa60cc3641885da5",
+   "size": 49398
+  },
+  {
+   "id": "krv_EPH.5.20_0.m4a",
+   "path": "content/voice/krv_EPH.5.20_0.m4a",
+   "checksum_sha256": "d7aa2dae28a47c751d81ed81b828be32da9be28180e6a627ab75a046fd4337d9",
+   "size": 38787
   },
   {
    "id": "krv_GAL.5.22_0.m4a",
@@ -4888,16 +5728,76 @@
    "size": 36887
   },
   {
+   "id": "krv_MAT.5.13_0.m4a",
+   "path": "content/voice/krv_MAT.5.13_0.m4a",
+   "checksum_sha256": "9e0d1b605cadebc463ad716c68264564ad6ebcd8a0776143eb5e895735d4d2cc",
+   "size": 78679
+  },
+  {
    "id": "krv_MAT.5.14_0.m4a",
    "path": "content/voice/krv_MAT.5.14_0.m4a",
    "checksum_sha256": "23951acbfb83d23f40d8acbbb5fd120ff24f7d0c15926ee1235c302a5b7407b0",
    "size": 38780
   },
   {
+   "id": "krv_MAT.5.15_0.m4a",
+   "path": "content/voice/krv_MAT.5.15_0.m4a",
+   "checksum_sha256": "5308827da23f5fe2d19e138627e214cfb12c0bd52f9b005729f0f8a5f91f5c8d",
+   "size": 65173
+  },
+  {
+   "id": "krv_MAT.5.16_0.m4a",
+   "path": "content/voice/krv_MAT.5.16_0.m4a",
+   "checksum_sha256": "8627802387a48d52a323c3b7ae01ea3ce762c64f658437631668d1ae51cbcef1",
+   "size": 63287
+  },
+  {
+   "id": "krv_MAT.5.23_0.m4a",
+   "path": "content/voice/krv_MAT.5.23_0.m4a",
+   "checksum_sha256": "9045f6e29154326350b783906647160464c20860c11d88531b04bb50327d21a1",
+   "size": 53065
+  },
+  {
+   "id": "krv_MAT.5.24_0.m4a",
+   "path": "content/voice/krv_MAT.5.24_0.m4a",
+   "checksum_sha256": "eba6a398a1d018a92ad2b52f8da7b8db9143372eea90329c90f72d6e66bc5537",
+   "size": 48523
+  },
+  {
+   "id": "krv_MAT.5.38_0.m4a",
+   "path": "content/voice/krv_MAT.5.38_0.m4a",
+   "checksum_sha256": "9c212cef51cf7d503557328978b8df32b0be69efe547f472c86fff7a35af0734",
+   "size": 37506
+  },
+  {
+   "id": "krv_MAT.5.39_0.m4a",
+   "path": "content/voice/krv_MAT.5.39_0.m4a",
+   "checksum_sha256": "63493c0ce0b73f8647bcde0d2e23ad1c3608c88ba5daa126725d987134af0398",
+   "size": 53473
+  },
+  {
    "id": "krv_MAT.5.3_0.m4a",
    "path": "content/voice/krv_MAT.5.3_0.m4a",
    "checksum_sha256": "788709ec1fa83efb75eb694a38a886aa4e6be9351ea559983ea6b5ac73f95a90",
    "size": 33664
+  },
+  {
+   "id": "krv_MAT.5.43_0.m4a",
+   "path": "content/voice/krv_MAT.5.43_0.m4a",
+   "checksum_sha256": "9f554751a61a820cb84479bcb8cfb0c8b091972753846ede00a3a4ad3d03ec7a",
+   "size": 41553
+  },
+  {
+   "id": "krv_MAT.5.44_0.m4a",
+   "path": "content/voice/krv_MAT.5.44_0.m4a",
+   "checksum_sha256": "7d5ed117a39e3896e2b7786e3213b2a2cc0773e643387f9df748f32d1f66ff10",
+   "size": 49812
+  },
+  {
+   "id": "krv_MAT.5.45_0.m4a",
+   "path": "content/voice/krv_MAT.5.45_0.m4a",
+   "checksum_sha256": "70dd89d1b9100c3ba4dee30871ce812ac70ad9f2a64d56d0546be93fcf971c8f",
+   "size": 84459
   },
   {
    "id": "krv_MAT.5.4_0.m4a",
@@ -4936,6 +5836,54 @@
    "size": 40534
   },
   {
+   "id": "krv_MAT.6.10_0.m4a",
+   "path": "content/voice/krv_MAT.6.10_0.m4a",
+   "checksum_sha256": "72d8870bb51fa5629ccb52243b98b23b2abf2eeeeffe669872522d9ddf0ace85",
+   "size": 39886
+  },
+  {
+   "id": "krv_MAT.6.11_0.m4a",
+   "path": "content/voice/krv_MAT.6.11_0.m4a",
+   "checksum_sha256": "3801c06fd98b1d545bae1ee4a923966ea157c94c88b2e121d8950bb8cc97ac2b",
+   "size": 24650
+  },
+  {
+   "id": "krv_MAT.6.12_0.m4a",
+   "path": "content/voice/krv_MAT.6.12_0.m4a",
+   "checksum_sha256": "19beb0aa35b67e5644a694509384ba7fab1d1892f327c6bdba3456506c068174",
+   "size": 41472
+  },
+  {
+   "id": "krv_MAT.6.13_0.m4a",
+   "path": "content/voice/krv_MAT.6.13_0.m4a",
+   "checksum_sha256": "9b9badf05c954a0edbe0fb575b098ccac78b197ff313407652d7df1eaf619d10",
+   "size": 64979
+  },
+  {
+   "id": "krv_MAT.6.19_0.m4a",
+   "path": "content/voice/krv_MAT.6.19_0.m4a",
+   "checksum_sha256": "f8129b7a98ef25eda17ed9e704bb5dbd6095e1fade099496d4fe7360fb67b84f",
+   "size": 58331
+  },
+  {
+   "id": "krv_MAT.6.20_0.m4a",
+   "path": "content/voice/krv_MAT.6.20_0.m4a",
+   "checksum_sha256": "1b22864a15a494fc4fe9de6e44e7232398f96e2121cb9d3e2188a233d7c34996",
+   "size": 69003
+  },
+  {
+   "id": "krv_MAT.6.21_0.m4a",
+   "path": "content/voice/krv_MAT.6.21_0.m4a",
+   "checksum_sha256": "f71d012a1b5b7bebdc18a83a3a6b5d812a4caaa90fdd2db9c8693289b4096042",
+   "size": 33622
+  },
+  {
+   "id": "krv_MAT.6.24_0.m4a",
+   "path": "content/voice/krv_MAT.6.24_0.m4a",
+   "checksum_sha256": "fc6d91cd5ce4b792d1ab89a2dcd2227201ac46e322a3d3c651c27923d7c7c258",
+   "size": 89027
+  },
+  {
    "id": "krv_MAT.6.33_0.m4a",
    "path": "content/voice/krv_MAT.6.33_0.m4a",
    "checksum_sha256": "79c5797c4080b88959ddca87195fdd84a3098edc6cc5f93460b30db8edecda5c",
@@ -4946,6 +5894,60 @@
    "path": "content/voice/krv_MAT.6.34_0.m4a",
    "checksum_sha256": "7c0740d554f0caba782cfaaf9568bd6ee29db4b3e7c9e1e9e874d3ae3386dfeb",
    "size": 59059
+  },
+  {
+   "id": "krv_MAT.6.3_0.m4a",
+   "path": "content/voice/krv_MAT.6.3_0.m4a",
+   "checksum_sha256": "4db08e95734a09a412bb981c2779a161ec7b97810e1e530218fb542028071c2b",
+   "size": 38053
+  },
+  {
+   "id": "krv_MAT.6.4_0.m4a",
+   "path": "content/voice/krv_MAT.6.4_0.m4a",
+   "checksum_sha256": "083be8803c6dab9b8a7f8647800abc101237f632554606e23a29b80c12568f87",
+   "size": 39717
+  },
+  {
+   "id": "krv_MAT.6.6_0.m4a",
+   "path": "content/voice/krv_MAT.6.6_0.m4a",
+   "checksum_sha256": "3dfadb4c90bd6821a0c064ef5f8179e410eae418d147d0ee61e2d2a9663332c2",
+   "size": 67222
+  },
+  {
+   "id": "krv_MAT.6.9_0.m4a",
+   "path": "content/voice/krv_MAT.6.9_0.m4a",
+   "checksum_sha256": "7129db75b99b5d98eb44616c941a5d14697a54f48fa3c479586ada1886ca6318",
+   "size": 50730
+  },
+  {
+   "id": "krv_MAT.7.12_0.m4a",
+   "path": "content/voice/krv_MAT.7.12_0.m4a",
+   "checksum_sha256": "93e7420d717da8b9fe5bd8c3d284078207c20a51a3a1a029c360dd8bc9cd0fca",
+   "size": 55962
+  },
+  {
+   "id": "krv_MAT.7.1_0.m4a",
+   "path": "content/voice/krv_MAT.7.1_0.m4a",
+   "checksum_sha256": "c62f3a3bf8311ce0ee416617a316e8f816c3d0219e83442c7d9cd3f2b5416e78",
+   "size": 28698
+  },
+  {
+   "id": "krv_MAT.7.24_0.m4a",
+   "path": "content/voice/krv_MAT.7.24_0.m4a",
+   "checksum_sha256": "2fb776593a8536d112d0ebcd859edf85103c220c29f01f3217580ba170efca6d",
+   "size": 52988
+  },
+  {
+   "id": "krv_MAT.7.25_0.m4a",
+   "path": "content/voice/krv_MAT.7.25_0.m4a",
+   "checksum_sha256": "7a34b1ac3463f0561abc60e2622e7d8463c84c42005b3d76c573d9827be1bc3f",
+   "size": 64366
+  },
+  {
+   "id": "krv_MAT.7.2_0.m4a",
+   "path": "content/voice/krv_MAT.7.2_0.m4a",
+   "checksum_sha256": "1307afd50f3b0aac14e35cd4d4d16e60ce7f427bbf6ab9493ade1bda4c7b8ea8",
+   "size": 62221
   },
   {
    "id": "krv_MAT.7.7_0.m4a",
@@ -5008,6 +6010,30 @@
    "size": 47681
   },
   {
+   "id": "krv_PRO.11.25_0.m4a",
+   "path": "content/voice/krv_PRO.11.25_0.m4a",
+   "checksum_sha256": "6bcbb309f20e9f1f6d8f84ab0823d3f0d01a066ad630e6a62e4c2bb4eef293e5",
+   "size": 43011
+  },
+  {
+   "id": "krv_PRO.12.25_0.m4a",
+   "path": "content/voice/krv_PRO.12.25_0.m4a",
+   "checksum_sha256": "dcff81677503b552e94944183a7c71fca04d5058119a4b92319c97d71ed7d3a8",
+   "size": 46571
+  },
+  {
+   "id": "krv_PRO.14.29_0.m4a",
+   "path": "content/voice/krv_PRO.14.29_0.m4a",
+   "checksum_sha256": "b7aeb94523699b3a6bceced4635c353731bf0ff69ac3db697439f24a872a01b1",
+   "size": 57334
+  },
+  {
+   "id": "krv_PRO.15.13_0.m4a",
+   "path": "content/voice/krv_PRO.15.13_0.m4a",
+   "checksum_sha256": "d3855d10ee05b389acc9ecc94de521c0a79df6b4860cf20f527a4a229ba4a7ff",
+   "size": 45153
+  },
+  {
    "id": "krv_PRO.15.1_0.m4a",
    "path": "content/voice/krv_PRO.15.1_0.m4a",
    "checksum_sha256": "afc939476dc15084dbf1bbcab6661d5a04fdcea5ac2e6871233cfe024a96108a",
@@ -5026,10 +6052,40 @@
    "size": 43013
   },
   {
+   "id": "krv_PRO.17.17_0.m4a",
+   "path": "content/voice/krv_PRO.17.17_0.m4a",
+   "checksum_sha256": "c496368b4679f1e77f9885e87d7f01f4dae5e98f3db6eefd7a7b3b5a28509c4c",
+   "size": 44070
+  },
+  {
    "id": "krv_PRO.17.22_0.m4a",
    "path": "content/voice/krv_PRO.17.22_0.m4a",
    "checksum_sha256": "0c56e87082ea880a6d229a5f242030bf709e828d019bfcac438cc809b8c691a3",
    "size": 36002
+  },
+  {
+   "id": "krv_PRO.18.10_0.m4a",
+   "path": "content/voice/krv_PRO.18.10_0.m4a",
+   "checksum_sha256": "83a3adc1720e6536535e99ebfac60319af74c4b8ea8c825ba277e6976f15de77",
+   "size": 41848
+  },
+  {
+   "id": "krv_PRO.19.11_0.m4a",
+   "path": "content/voice/krv_PRO.19.11_0.m4a",
+   "checksum_sha256": "4a0e5b19a8a30777ce4f08d5f0356dfd6eaf8ef4f8cf76fdab859149dff5b976",
+   "size": 46536
+  },
+  {
+   "id": "krv_PRO.2.6_0.m4a",
+   "path": "content/voice/krv_PRO.2.6_0.m4a",
+   "checksum_sha256": "d7742ece806e1ae2e85d5222e6f99cb7d93ead7d8dade429e32c5731be99d4a9",
+   "size": 44713
+  },
+  {
+   "id": "krv_PRO.27.17_0.m4a",
+   "path": "content/voice/krv_PRO.27.17_0.m4a",
+   "checksum_sha256": "c09b7f6002d706de980acd289d5ced3cc390c6d76bdcfbe07437decb0aeb79ff",
+   "size": 41873
   },
   {
    "id": "krv_PRO.3.1_0.m4a",
@@ -5066,6 +6122,18 @@
    "path": "content/voice/krv_PRO.3.6_0.m4a",
    "checksum_sha256": "602daef9bb4f3b78a158a55c111fe8ebbf32996f29f62a26670ddd0631a74dbf",
    "size": 37875
+  },
+  {
+   "id": "krv_PRO.31.25_0.m4a",
+   "path": "content/voice/krv_PRO.31.25_0.m4a",
+   "checksum_sha256": "c7c78dca9dfda4f732c2c67b7b7f389e33108ee3532892b956cbc819909e88d9",
+   "size": 31157
+  },
+  {
+   "id": "krv_PRO.31.26_0.m4a",
+   "path": "content/voice/krv_PRO.31.26_0.m4a",
+   "checksum_sha256": "666c21e281efe4ace9db924fc7a3b247d4ad5d204255111c735499f2ac98a1e9",
+   "size": 34020
   },
   {
    "id": "krv_PRO.4.23_0.m4a",
@@ -5110,6 +6178,18 @@
    "size": 37537
   },
   {
+   "id": "krv_PSA.100.4_0.m4a",
+   "path": "content/voice/krv_PSA.100.4_0.m4a",
+   "checksum_sha256": "fd99fdcc007099a1cba7e51a8c3bfc0fac96a70d4b74238ad47a45b560390f30",
+   "size": 60058
+  },
+  {
+   "id": "krv_PSA.100.5_0.m4a",
+   "path": "content/voice/krv_PSA.100.5_0.m4a",
+   "checksum_sha256": "522326b3bf39c76f613f12bb31ad1f203d31b894720507cfd57a555e1b3b6adc",
+   "size": 51752
+  },
+  {
    "id": "krv_PSA.103.1_0.m4a",
    "path": "content/voice/krv_PSA.103.1_0.m4a",
    "checksum_sha256": "49061b1c21f281df8e6ac2543281f91568706851ea7df86c7ced864d9751be6f",
@@ -5120,6 +6200,48 @@
    "path": "content/voice/krv_PSA.103.2_0.m4a",
    "checksum_sha256": "ff5ff2acf24ae4ed23d51a80be8882a105a4fefc549fc67f486e8626150eda33",
    "size": 43729
+  },
+  {
+   "id": "krv_PSA.103.3_0.m4a",
+   "path": "content/voice/krv_PSA.103.3_0.m4a",
+   "checksum_sha256": "ef53e03d25757ad29f624b27e81376a428c60080a4f3507f9ff86013961c50ba",
+   "size": 36981
+  },
+  {
+   "id": "krv_PSA.103.4_0.m4a",
+   "path": "content/voice/krv_PSA.103.4_0.m4a",
+   "checksum_sha256": "e5b122a2c12a60a41014d31bd7b134d04396c6b274a38cc4f09c1f6aec60808d",
+   "size": 39435
+  },
+  {
+   "id": "krv_PSA.103.5_0.m4a",
+   "path": "content/voice/krv_PSA.103.5_0.m4a",
+   "checksum_sha256": "d7b2028e53a987d8f56dee751cd5e28f6526f16976a924c9f6b3c84279e0a4f6",
+   "size": 51051
+  },
+  {
+   "id": "krv_PSA.107.1_0.m4a",
+   "path": "content/voice/krv_PSA.107.1_0.m4a",
+   "checksum_sha256": "fe53c4c6f56f936b61d0e89a86b4cc5697de559b3d1b7bb24152b3742494e190",
+   "size": 40378
+  },
+  {
+   "id": "krv_PSA.116.12_0.m4a",
+   "path": "content/voice/krv_PSA.116.12_0.m4a",
+   "checksum_sha256": "4944f58924dffb0dec5cdff1fbca08c478ae7e1985dfb9c9a2c8533c921758df",
+   "size": 34156
+  },
+  {
+   "id": "krv_PSA.116.13_0.m4a",
+   "path": "content/voice/krv_PSA.116.13_0.m4a",
+   "checksum_sha256": "a2479200c0d3fb9f8ce714bdd4a124327cccad46d34542cc0e48768fa286e57d",
+   "size": 30196
+  },
+  {
+   "id": "krv_PSA.116.14_0.m4a",
+   "path": "content/voice/krv_PSA.116.14_0.m4a",
+   "checksum_sha256": "b566f95944d7c213efc3640e238a86d3a7314bc38598c5d56c09c5532e33c5a2",
+   "size": 35463
   },
   {
    "id": "krv_PSA.118.24_0.m4a",
@@ -5180,6 +6302,24 @@
    "path": "content/voice/krv_PSA.121.8_0.m4a",
    "checksum_sha256": "f8e60857d7f382a60915f89e868c03e24b28d808f0652bd8f2bad3da69bf300c",
    "size": 33845
+  },
+  {
+   "id": "krv_PSA.136.1_0.m4a",
+   "path": "content/voice/krv_PSA.136.1_0.m4a",
+   "checksum_sha256": "0008723072585eca2087106f13c7c2fc4ada14b97c9cc21b64006bfd33e77213",
+   "size": 37924
+  },
+  {
+   "id": "krv_PSA.136.2_0.m4a",
+   "path": "content/voice/krv_PSA.136.2_0.m4a",
+   "checksum_sha256": "5b355e3b062eb95fa8f35e24c68837b5d0f6d3a308f254dd60998c40abcf7627",
+   "size": 40426
+  },
+  {
+   "id": "krv_PSA.136.3_0.m4a",
+   "path": "content/voice/krv_PSA.136.3_0.m4a",
+   "checksum_sha256": "2a9d2ffe236451dedac990ae77b963e1cc2b981a09272453a3ba474988424fb2",
+   "size": 40439
   },
   {
    "id": "krv_PSA.139.14_0.m4a",
@@ -5254,10 +6394,34 @@
    "size": 67047
   },
   {
+   "id": "krv_PSA.28.7_0.m4a",
+   "path": "content/voice/krv_PSA.28.7_0.m4a",
+   "checksum_sha256": "4451ed37f65566ee6c3d3459d3031ed0fef2e8d49555b3b3d80decabeb686da6",
+   "size": 69642
+  },
+  {
    "id": "krv_PSA.30.5_0.m4a",
    "path": "content/voice/krv_PSA.30.5_0.m4a",
    "checksum_sha256": "9908dca445c38981397c3b491e64a89c06f38fa930392ca2d38cef76be51dc8f",
    "size": 56699
+  },
+  {
+   "id": "krv_PSA.34.1_0.m4a",
+   "path": "content/voice/krv_PSA.34.1_0.m4a",
+   "checksum_sha256": "2cba32d10034bc281a9d1c5dbda9f64a0f23ed57aa0e023658b01153b21cfc12",
+   "size": 43324
+  },
+  {
+   "id": "krv_PSA.34.2_0.m4a",
+   "path": "content/voice/krv_PSA.34.2_0.m4a",
+   "checksum_sha256": "c62e987fdf30f1e5fcbdf72871ada4baf8d01d048b0d190c017d091b48716740",
+   "size": 42980
+  },
+  {
+   "id": "krv_PSA.34.3_0.m4a",
+   "path": "content/voice/krv_PSA.34.3_0.m4a",
+   "checksum_sha256": "e415c60725d8158a5233dd4549f684a9814fe69c93ad1c948e094ac8bbc25482",
+   "size": 34881
   },
   {
    "id": "krv_PSA.34.8_0.m4a",
@@ -5372,6 +6536,18 @@
    "path": "content/voice/krv_PSA.90.12_0.m4a",
    "checksum_sha256": "96371371be06dbeb809fe9f7357a69cec923bebc33d28a9304a8d4ba86506280",
    "size": 41816
+  },
+  {
+   "id": "krv_PSA.95.1_0.m4a",
+   "path": "content/voice/krv_PSA.95.1_0.m4a",
+   "checksum_sha256": "5107c8e4b162a93952aca935e3133cb790877eb8d53d18623d7e0de97a218ac0",
+   "size": 43348
+  },
+  {
+   "id": "krv_PSA.95.2_0.m4a",
+   "path": "content/voice/krv_PSA.95.2_0.m4a",
+   "checksum_sha256": "9b12e52cf997afe3a40b25d01e52a0645ca788b852e9190a30e9f36a38064af3",
+   "size": 36706
   },
   {
    "id": "krv_REV.21.4_0.m4a",

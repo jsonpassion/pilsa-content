@@ -6,7 +6,7 @@
 1. 모든 JSON이 읽힌다
 2. manifest.json이 최신이고 파일 체크섬이 맞다
 3. packs.json의 본문 키가 역본과 컬렉션에 있다
-4. 스티커 목록의 그림이 있다
+4. 스티커 목록의 그림과 배경음악 파일이 있다
 5. 파일 이름(basename)이 겹치지 않는다 (앱은 이름으로 찾는다)
 
     python3 tools/validate.py
@@ -59,6 +59,14 @@ def main():
                         problems.append(f"{pack['id']} {key} [{tid}] 없음: {missing}")
             elif key not in collections.get(collection, {}):
                 problems.append(f"{pack['id']}: {collection}에 없는 글 {key}")
+
+    music_ids = set()
+    for track in data.get("music/music.json", {}).get("tracks", []):
+        if track.get("id") in music_ids:
+            problems.append(f"배경음악 id가 겹침: {track.get('id')}")
+        music_ids.add(track.get("id"))
+        if not (CONTENT / "music" / f"{track.get('file')}.m4a").exists():
+            problems.append(f"배경음악 {track.get('id')}: 파일 없음 {track.get('file')}.m4a")
 
     for pack in data.get("stickers/stickers.json", {}).get("packs", []):
         if pack.get("access") not in ("free", "plus"):
