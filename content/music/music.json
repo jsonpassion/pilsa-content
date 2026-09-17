@@ -1,0 +1,68 @@
+{
+ "tracks": [
+  {
+   "id": "music.piano",
+   "file": "music_piano",
+   "symbol": "pianokeys",
+   "title": "펠트 피아노",
+   "subtitle": "느리게 하나씩 놓이는 건반",
+   "en": {"title": "Felt Piano", "subtitle": "Slow keys, far apart"}
+  },
+  {
+   "id": "music.rain",
+   "file": "music_rain",
+   "symbol": "cloud.rain",
+   "title": "비 오는 날",
+   "subtitle": "창밖 비와 포근한 화음",
+   "en": {"title": "Rainy Day", "subtitle": "Rain at the window, warm chords"}
+  },
+  {
+   "id": "music.dawn",
+   "file": "music_dawn",
+   "symbol": "sunrise",
+   "title": "새벽빛",
+   "subtitle": "동틀 무렵 피아노와 새소리",
+   "en": {"title": "First Light", "subtitle": "Dawn piano and distant birds"}
+  },
+  {
+   "id": "music.forest",
+   "file": "music_forest",
+   "symbol": "tree",
+   "title": "숲속 아침",
+   "subtitle": "잎새 바람과 먼 새소리",
+   "en": {"title": "Morning Forest", "subtitle": "Leaves in the wind, far-off birds"}
+  },
+  {
+   "id": "music.cafe",
+   "file": "music_cafe",
+   "symbol": "cup.and.saucer",
+   "title": "오후의 카페",
+   "subtitle": "멀리서 들리는 잔 소리",
+   "en": {"title": "Afternoon Cafe", "subtitle": "A cup clinking somewhere far"}
+  },
+  {
+   "id": "music.night",
+   "file": "music_night",
+   "symbol": "moon.stars",
+   "title": "깊은 밤",
+   "subtitle": "낮게 깔리는 화음과 풀벌레",
+   "en": {"title": "Deep Night", "subtitle": "Low pad and crickets"}
+  },
+  {
+   "id": "music.stream",
+   "file": "music_stream",
+   "symbol": "water.waves",
+   "title": "돌 위의 시내",
+   "subtitle": "맑은 물소리와 하프",
+   "en": {"title": "Stream on Stones", "subtitle": "Clear water and harp"}
+  },
+  {
+   "id": "music.strings",
+   "file": "music_strings",
+   "symbol": "music.quarternote.3",
+   "title": "머무는 현",
+   "subtitle": "길게 늘어지는 현악",
+   "en": {"title": "Held Strings", "subtitle": "Long, slow strings"}
+  }
+ ]
+}
