@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "24d26af3a3bf",
- "generated_at": "2026-09-19T17:13:01Z",
+ "version": "c8b281ce58e8",
+ "generated_at": "2026-09-19T17:18:52Z",
  "entries": [
   {
    "id": "books.json",
@@ -172,6 +172,12 @@
    "size": 2567
   },
   {
+   "id": "stickers_faith.json",
+   "path": "content/stickers/stickers_faith.json",
+   "checksum_sha256": "bc844033c3df624001827ba6cfffa2cd7130d4d375c5a4bc437920f25720a226",
+   "size": 1221
+  },
+  {
    "id": "stk_calm_bye.png",
    "path": "content/stickers/stk_calm_bye.png",
    "checksum_sha256": "513f5e77a7110f603cd8aa794d67745e996b99882c3c4958fb10b7714ce4fa93",
@@ -206,6 +212,102 @@
    "path": "content/stickers/stk_calm_stars.png",
    "checksum_sha256": "93baab6d82ed9bb0ee82354e1e5354bedfd550b79b7c78f1459f9c973e7f1b42",
    "size": 22799
+  },
+  {
+   "id": "stk_cathedral_arch.png",
+   "path": "content/stickers/stk_cathedral_arch.png",
+   "checksum_sha256": "181b522df9a903e27ddcb455aa330f4511f08e934bf2f29d2e6b236e857def57",
+   "size": 29746
+  },
+  {
+   "id": "stk_cathedral_belltower.png",
+   "path": "content/stickers/stk_cathedral_belltower.png",
+   "checksum_sha256": "5a59bac911ce72e61131332a2ce40563e23b6f3d1045196009f22d70b03bb9ec",
+   "size": 21262
+  },
+  {
+   "id": "stk_cathedral_mary.png",
+   "path": "content/stickers/stk_cathedral_mary.png",
+   "checksum_sha256": "84d5ff80da727da2c0d51e76d54952c22c639eceebb92b6c11a150165cb90f82",
+   "size": 26324
+  },
+  {
+   "id": "stk_cathedral_palm.png",
+   "path": "content/stickers/stk_cathedral_palm.png",
+   "checksum_sha256": "c412f338cff8ab3c8211a503bfd1536e4846d71037a441f45d29bf4f0da3fe41",
+   "size": 18381
+  },
+  {
+   "id": "stk_cathedral_prayerbook.png",
+   "path": "content/stickers/stk_cathedral_prayerbook.png",
+   "checksum_sha256": "063bd308d16737f441528401906f3d064fa58bff1cdf699a2e2cba62e343be75",
+   "size": 21354
+  },
+  {
+   "id": "stk_cathedral_rosary.png",
+   "path": "content/stickers/stk_cathedral_rosary.png",
+   "checksum_sha256": "36aa56663a98ffff675c5af49caa28170fb1208de94f3cf547c852a7feb46cac",
+   "size": 13129
+  },
+  {
+   "id": "stk_cathedral_votive.png",
+   "path": "content/stickers/stk_cathedral_votive.png",
+   "checksum_sha256": "140f856b3148d6e335c0237c72f24349ca84d4e0b1b3c8f788601ecb02600620",
+   "size": 18489
+  },
+  {
+   "id": "stk_cathedral_window.png",
+   "path": "content/stickers/stk_cathedral_window.png",
+   "checksum_sha256": "981ae7504c3f9f6da1078fd230f9e5631a009ffa33a522dce7600f5912f28ea4",
+   "size": 21341
+  },
+  {
+   "id": "stk_church_bible.png",
+   "path": "content/stickers/stk_church_bible.png",
+   "checksum_sha256": "bd5f5f1f397e7c9d369fe208d95d1719c03b1ee52c3d77f23e0bc5b88948a6da",
+   "size": 15745
+  },
+  {
+   "id": "stk_church_candle.png",
+   "path": "content/stickers/stk_church_candle.png",
+   "checksum_sha256": "3183e929de133b3ed7d9e269b1086b49da8f2f1f889579cc696487541f1cd0b6",
+   "size": 13949
+  },
+  {
+   "id": "stk_church_chapel.png",
+   "path": "content/stickers/stk_church_chapel.png",
+   "checksum_sha256": "84af24aaf836d70634b202a636d0933dc7212dcebbb2209a8bf7a29453d85905",
+   "size": 18313
+  },
+  {
+   "id": "stk_church_cross.png",
+   "path": "content/stickers/stk_church_cross.png",
+   "checksum_sha256": "8b645fe96a536bede45c8fd1a166867c766c618ac4fda27042a0753607f52387",
+   "size": 19765
+  },
+  {
+   "id": "stk_church_dove.png",
+   "path": "content/stickers/stk_church_dove.png",
+   "checksum_sha256": "ed9518c72a4f5622773136b4b28fe1a519480cb906eb3cba0fd37dcec785b853",
+   "size": 24614
+  },
+  {
+   "id": "stk_church_hymn.png",
+   "path": "content/stickers/stk_church_hymn.png",
+   "checksum_sha256": "eaead3dc4265681f132c2e7f72449ba90188c7a037aae152a3d3d5d634f4d8f2",
+   "size": 22123
+  },
+  {
+   "id": "stk_church_lamb.png",
+   "path": "content/stickers/stk_church_lamb.png",
+   "checksum_sha256": "7ea4bfa2b732cdf47ce454385f7191c556dfa7bf37484db8deff2b192b899661",
+   "size": 19680
+  },
+  {
+   "id": "stk_church_praying.png",
+   "path": "content/stickers/stk_church_praying.png",
+   "checksum_sha256": "88e22332fd23fa361b9f1b366e4d19fea3b43ccd07243f71e347486215c54c90",
+   "size": 24221
   },
   {
    "id": "stk_cozy_blanket.png",
@@ -686,6 +788,54 @@
    "path": "content/stickers/stk_sagak_yay.png",
    "checksum_sha256": "fa42b49d6c59baf37665df6f2c9ab03d66d0c62ba6f67f7794e8db22218c1bb7",
    "size": 20795
+  },
+  {
+   "id": "stk_temple_beads.png",
+   "path": "content/stickers/stk_temple_beads.png",
+   "checksum_sha256": "2acc60b995abc22d533134b50e61235ad1b14bc5f8cb3827d32c991bb51d099e",
+   "size": 19432
+  },
+  {
+   "id": "stk_temple_bell.png",
+   "path": "content/stickers/stk_temple_bell.png",
+   "checksum_sha256": "0ffa54dd2f4b36e79852ad78252f566aba2b11b54616cb80566fa3bbc3cfb87c",
+   "size": 29376
+  },
+  {
+   "id": "stk_temple_lantern.png",
+   "path": "content/stickers/stk_temple_lantern.png",
+   "checksum_sha256": "65a2f1dbfad74e9a2055331e9cb41ae232919f22c95e3d56925d0a8f8eebd7f2",
+   "size": 14271
+  },
+  {
+   "id": "stk_temple_lotus.png",
+   "path": "content/stickers/stk_temple_lotus.png",
+   "checksum_sha256": "bb423708d15506bf44cf27871c30d29b53a0638895175dd8da5c05759a26520c",
+   "size": 13682
+  },
+  {
+   "id": "stk_temple_moktak.png",
+   "path": "content/stickers/stk_temple_moktak.png",
+   "checksum_sha256": "867345a6bb3d4cb56012f53a5a4d92e755513f8fbe4346b5f4df338f8cd23ec9",
+   "size": 21462
+  },
+  {
+   "id": "stk_temple_pagoda.png",
+   "path": "content/stickers/stk_temple_pagoda.png",
+   "checksum_sha256": "da7eb49fd7b98358aee2feb5cb97826fe2ee83073a517d9cb7b7d4203410a57a",
+   "size": 29550
+  },
+  {
+   "id": "stk_temple_sitting.png",
+   "path": "content/stickers/stk_temple_sitting.png",
+   "checksum_sha256": "86a0ecf0820e1e09f566f70cb5ffe21396f51735dfbbb52320247ffee60247a3",
+   "size": 22907
+  },
+  {
+   "id": "stk_temple_windchime.png",
+   "path": "content/stickers/stk_temple_windchime.png",
+   "checksum_sha256": "a87e952a618ffccea0df111ca58336f71ff505de2e69e4df42335c647f10248f",
+   "size": 18415
   },
   {
    "id": "dra_1CO.13.13_0.m4a",

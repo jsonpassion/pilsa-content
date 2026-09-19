@@ -1,0 +1,61 @@
+{
+ "packs": [
+  {
+   "id": "temple",
+   "title": "절에 간 두 친구",
+   "subtitle": "목탁과 연꽃, 범종",
+   "access": "free",
+   "traditions": [
+    "buddhist"
+   ],
+   "stickers": [
+    "stk_temple_moktak",
+    "stk_temple_beads",
+    "stk_temple_sitting",
+    "stk_temple_lotus",
+    "stk_temple_bell",
+    "stk_temple_lantern",
+    "stk_temple_pagoda",
+    "stk_temple_windchime"
+   ]
+  },
+  {
+   "id": "church",
+   "title": "교회에 간 두 친구",
+   "subtitle": "성경과 찬송, 기도",
+   "access": "free",
+   "traditions": [
+    "protestant"
+   ],
+   "stickers": [
+    "stk_church_bible",
+    "stk_church_hymn",
+    "stk_church_praying",
+    "stk_church_cross",
+    "stk_church_chapel",
+    "stk_church_lamb",
+    "stk_church_candle",
+    "stk_church_dove"
+   ]
+  },
+  {
+   "id": "cathedral",
+   "title": "성당에 간 두 친구",
+   "subtitle": "묵주와 촛불, 종소리",
+   "access": "free",
+   "traditions": [
+    "catholic"
+   ],
+   "stickers": [
+    "stk_cathedral_rosary",
+    "stk_cathedral_votive",
+    "stk_cathedral_mary",
+    "stk_cathedral_window",
+    "stk_cathedral_belltower",
+    "stk_cathedral_prayerbook",
+    "stk_cathedral_palm",
+    "stk_cathedral_arch"
+   ]
+  }
+ ]
+}
