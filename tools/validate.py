@@ -81,7 +81,15 @@ def main():
                 problems.append(f"사경 {key}: 단어 풀이 표제어에 한자가 들어 있음 {entry['word']}")
 
     music_ids = set()
+    # 종교 곡은 music_faith.json 에 둔다. 종교 태그를 모르는 옛 앱(1.2.1까지)은 music.json 만 읽으므로,
+    # music.json 에 종교 곡을 넣으면 옛 앱에서 모든 사람에게 보인다
     for track in data.get("music/music.json", {}).get("tracks", []):
+        if track.get("traditions"):
+            problems.append(f"배경음악 {track.get('id')}: 종교 태그가 있는 곡은 music_faith.json 에 둔다")
+    for track in data.get("music/music_faith.json", {}).get("tracks", []):
+        if not track.get("traditions"):
+            problems.append(f"배경음악 {track.get('id')}: music_faith.json 의 곡에는 종교 태그가 있어야 함")
+    for track in data.get("music/music.json", {}).get("tracks", []) + data.get("music/music_faith.json", {}).get("tracks", []):
         if track.get("id") in music_ids:
             problems.append(f"배경음악 id가 겹침: {track.get('id')}")
         music_ids.add(track.get("id"))
