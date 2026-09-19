@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "0a5f6c7d853e",
- "generated_at": "2026-09-17T14:58:06Z",
+ "version": "b37807e43bf4",
+ "generated_at": "2026-09-19T11:24:20Z",
  "entries": [
   {
    "id": "books.json",
@@ -54,8 +54,8 @@
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "761d92567e1946888db787a9349bb25e27aa02ea357a406123c341a505565784",
-   "size": 67641
+   "checksum_sha256": "af6a7afca2b9144fd36b59a8cf27de9ee69693ef276798ead7259833fd2539a3",
+   "size": 120440
   },
   {
    "id": "life.json",
@@ -66,8 +66,8 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "4ce8833918b6cf5ea756fd0c9382799112ebfb132a411ef28ebb42943ee3224b",
-   "size": 159077
+   "checksum_sha256": "a6ddc5d1aa0c805ac823088ee4647ad89427a0e61e72039452ca48027fa341ec",
+   "size": 149227
   },
   {
    "id": "store.json",
@@ -78,14 +78,26 @@
   {
    "id": "music.json",
    "path": "content/music/music.json",
-   "checksum_sha256": "2ade03673698d13671dbb50ff93bd554bbd015c1361335663939b1346e5fb121",
-   "size": 2229
+   "checksum_sha256": "49f50eab74952a3161146453e07dabe2a1e7822c13e4feed27cdaab59bdab9f0",
+   "size": 3949
+  },
+  {
+   "id": "music_bowl.m4a",
+   "path": "content/music/music_bowl.m4a",
+   "checksum_sha256": "c26ae770d8f177e636a0452b9e00b1cf4b9868416584a668157c9b82d3b4211d",
+   "size": 635387
   },
   {
    "id": "music_cafe.m4a",
    "path": "content/music/music_cafe.m4a",
    "checksum_sha256": "9d0cfcdc73ca3e732eb535356dfcd16ad67abc4a9de30ec5c14884cb7c11c782",
    "size": 709242
+  },
+  {
+   "id": "music_cathedral.m4a",
+   "path": "content/music/music_cathedral.m4a",
+   "checksum_sha256": "c1dcbded6d2db104b74c5c6ce273bda0c657c7eb57b0dff8d56e6eefa5258ea0",
+   "size": 635224
   },
   {
    "id": "music_dawn.m4a",
@@ -100,10 +112,22 @@
    "size": 708435
   },
   {
+   "id": "music_hymnpiano.m4a",
+   "path": "content/music/music_hymnpiano.m4a",
+   "checksum_sha256": "b8c0fa75eddfec9833839cd48d90e33a14b14b2f3808f0c1e3dede7531490945",
+   "size": 635753
+  },
+  {
    "id": "music_night.m4a",
    "path": "content/music/music_night.m4a",
    "checksum_sha256": "f694bc8342cb64fae5f1de9e59f80dc91e2fb377282db1248cd068a4d10db233",
    "size": 708457
+  },
+  {
+   "id": "music_organ.m4a",
+   "path": "content/music/music_organ.m4a",
+   "checksum_sha256": "1d7142f8a035a0dc19b0933280f2c1895d8378ad70248cf6d2b1184ce32a0461",
+   "size": 635206
   },
   {
    "id": "music_piano.m4a",
@@ -128,6 +152,12 @@
    "path": "content/music/music_strings.m4a",
    "checksum_sha256": "ef836bb0640a57e813d2f8e416847659d5d3253bc4c66f23f1fbb71a64cba945",
    "size": 708153
+  },
+  {
+   "id": "music_temple.m4a",
+   "path": "content/music/music_temple.m4a",
+   "checksum_sha256": "bb007e1a58eaa666abdf6ec4a70264591ac9bef61f7bd9688fb0f318c19da69e",
+   "size": 636008
   },
   {
    "id": "stickers.json",
