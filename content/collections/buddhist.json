@@ -64,6 +64,32 @@
      "I take refuge in the Sangha, most honored among those who practice together."
     ]
    },
+   "glossary": [
+    {
+     "word": "歸依",
+     "modern": "귀의",
+     "ko": "돌아가 의지함",
+     "note": "몸과 마음을 온전히 맡기고 따르는 일"
+    },
+    {
+     "word": "兩足尊",
+     "modern": "양족존",
+     "ko": "지혜와 복을 두루 갖춘 분",
+     "note": "부처님을 높여 부르는 말"
+    },
+    {
+     "word": "離欲尊",
+     "modern": "이욕존",
+     "ko": "욕심을 떠나게 하는 존귀한 것",
+     "note": "부처님의 가르침(법)을 이르는 말"
+    },
+    {
+     "word": "衆中尊",
+     "modern": "중중존",
+     "ko": "무리 가운데 가장 존귀한 이",
+     "note": "함께 수행하는 승가를 이르는 말"
+    }
+   ],
    "source": "삼귀의 (한국 사찰 통용형)"
   },
   "bud.sahong": {
@@ -99,6 +125,38 @@
      "Though the path to awakening is unsurpassed, I vow to fulfill it."
     ]
    },
+   "glossary": [
+    {
+     "word": "衆生",
+     "modern": "중생",
+     "ko": "살아 있는 모든 존재",
+     "note": ""
+    },
+    {
+     "word": "誓願",
+     "modern": "서원",
+     "ko": "맹세하여 바람",
+     "note": "스스로 세운 다짐"
+    },
+    {
+     "word": "煩惱",
+     "modern": "번뇌",
+     "ko": "마음을 괴롭히고 어지럽히는 것",
+     "note": ""
+    },
+    {
+     "word": "法門",
+     "modern": "법문",
+     "ko": "부처님의 가르침",
+     "note": "깨달음으로 들어가는 문"
+    },
+    {
+     "word": "佛道",
+     "modern": "불도",
+     "ko": "깨달음에 이르는 길",
+     "note": ""
+    }
+   ],
    "source": "사홍서원 (한국 불교 의례 통용형)"
   },
   "bud.chilbul": {
@@ -134,6 +192,32 @@
      "This is the teaching of all Buddhas."
     ]
    },
+   "glossary": [
+    {
+     "word": "諸惡",
+     "modern": "제악",
+     "ko": "모든 나쁜 일",
+     "note": ""
+    },
+    {
+     "word": "莫作",
+     "modern": "막작",
+     "ko": "짓지 말라",
+     "note": ""
+    },
+    {
+     "word": "奉行",
+     "modern": "봉행",
+     "ko": "받들어 행함",
+     "note": ""
+    },
+    {
+     "word": "自淨其意",
+     "modern": "자정기의",
+     "ko": "스스로 그 마음을 맑힘",
+     "note": "일곱 부처님이 한결같이 가르친 핵심"
+    }
+   ],
    "source": "칠불통계게 (한국 통용형. 법구경 술불품과 증일아함경 서품은 諸善奉行)"
   },
   "bud.sambeop": {
@@ -165,6 +249,38 @@
      "Nirvana, where the fire of affliction has gone out, is still and calm."
     ]
    },
+   "glossary": [
+    {
+     "word": "諸行",
+     "modern": "제행",
+     "ko": "지어진 모든 것",
+     "note": "인연으로 생긴 모든 현상"
+    },
+    {
+     "word": "無常",
+     "modern": "무상",
+     "ko": "늘 변하여 머물지 않음",
+     "note": ""
+    },
+    {
+     "word": "無我",
+     "modern": "무아",
+     "ko": "변하지 않는 고정된 나는 없음",
+     "note": ""
+    },
+    {
+     "word": "涅槃",
+     "modern": "열반",
+     "ko": "번뇌의 불이 꺼진 자리",
+     "note": "범어 니르바나의 음역"
+    },
+    {
+     "word": "寂靜",
+     "modern": "적정",
+     "ko": "고요하고 평안함",
+     "note": ""
+    }
+   ],
    "source": "삼법인 (교리 정형구)"
   },
   "bud.yeongi": {
@@ -200,6 +316,38 @@
      "Because this ceases, that ceases."
     ]
    },
+   "glossary": [
+    {
+     "word": "此",
+     "modern": "차",
+     "ko": "이것",
+     "note": ""
+    },
+    {
+     "word": "彼",
+     "modern": "피",
+     "ko": "저것",
+     "note": ""
+    },
+    {
+     "word": "故",
+     "modern": "고",
+     "ko": "그러므로, 까닭에",
+     "note": ""
+    },
+    {
+     "word": "起",
+     "modern": "기",
+     "ko": "일어남",
+     "note": ""
+    },
+    {
+     "word": "滅",
+     "modern": "멸",
+     "ko": "사라짐",
+     "note": ""
+    }
+   ],
    "source": "잡아함경 권13 (T99)"
   },
   "bud.heart.1": {
@@ -231,6 +379,44 @@
      "he saw that the five aggregates making up body and mind are all empty, and was freed from all suffering."
     ]
    },
+   "glossary": [
+    {
+     "word": "摩訶",
+     "modern": "마하",
+     "ko": "크다, 위대하다",
+     "note": "범어 마하의 음역"
+    },
+    {
+     "word": "般若",
+     "modern": "반야",
+     "ko": "지혜",
+     "note": "사물의 참모습을 꿰뚫어 보는 지혜"
+    },
+    {
+     "word": "波羅蜜多",
+     "modern": "바라밀다",
+     "ko": "저 언덕에 이름",
+     "note": "괴로움의 이쪽에서 깨달음의 저쪽으로 건너감"
+    },
+    {
+     "word": "觀自在菩薩",
+     "modern": "관자재보살",
+     "ko": "자유롭게 살피는 보살",
+     "note": "관세음보살의 다른 이름"
+    },
+    {
+     "word": "五蘊",
+     "modern": "오온",
+     "ko": "몸과 마음을 이루는 다섯 무더기",
+     "note": "색, 수, 상, 행, 식"
+    },
+    {
+     "word": "苦厄",
+     "modern": "고액",
+     "ko": "괴로움과 재앙",
+     "note": ""
+    }
+   ],
    "source": "반야바라밀다심경 (현장 역, 한국 사찰 독송본)"
   },
   "bud.heart.2": {
@@ -262,6 +448,38 @@
      "Feeling, perception, volition, and consciousness are also like this."
     ]
    },
+   "glossary": [
+    {
+     "word": "舍利子",
+     "modern": "사리자",
+     "ko": "사리불",
+     "note": "지혜가 으뜸이던 부처님의 제자"
+    },
+    {
+     "word": "色",
+     "modern": "색",
+     "ko": "물질, 형체 있는 것",
+     "note": ""
+    },
+    {
+     "word": "空",
+     "modern": "공",
+     "ko": "고정된 실체가 없음",
+     "note": "비어 있음이 아니라 정해진 것이 없다는 뜻"
+    },
+    {
+     "word": "受想行識",
+     "modern": "수상행식",
+     "ko": "느낌, 생각, 의지, 앎",
+     "note": "오온 가운데 마음의 네 가지"
+    },
+    {
+     "word": "亦復如是",
+     "modern": "역부여시",
+     "ko": "또한 이와 같다",
+     "note": ""
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.3": {
@@ -289,6 +507,38 @@
      "They are not born and do not cease, are not defiled and not pure, do not increase and do not decrease."
     ]
    },
+   "glossary": [
+    {
+     "word": "諸法",
+     "modern": "제법",
+     "ko": "모든 것, 모든 현상",
+     "note": ""
+    },
+    {
+     "word": "空相",
+     "modern": "공상",
+     "ko": "공한 모습",
+     "note": ""
+    },
+    {
+     "word": "不生不滅",
+     "modern": "불생불멸",
+     "ko": "생기지도 사라지지도 않음",
+     "note": ""
+    },
+    {
+     "word": "不垢不淨",
+     "modern": "불구부정",
+     "ko": "더럽지도 깨끗하지도 않음",
+     "note": ""
+    },
+    {
+     "word": "不增不減",
+     "modern": "부증불감",
+     "ko": "늘지도 줄지도 않음",
+     "note": ""
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.4": {
@@ -320,6 +570,38 @@
      "and no realm of the eye, up to no realm of consciousness."
     ]
    },
+   "glossary": [
+    {
+     "word": "是故",
+     "modern": "시고",
+     "ko": "그러므로",
+     "note": ""
+    },
+    {
+     "word": "眼耳鼻舌身意",
+     "modern": "안이비설신의",
+     "ko": "눈, 귀, 코, 혀, 몸, 뜻",
+     "note": "여섯 감각 기관, 육근"
+    },
+    {
+     "word": "色聲香味觸法",
+     "modern": "색성향미촉법",
+     "ko": "빛깔, 소리, 냄새, 맛, 닿음, 법",
+     "note": "여섯 감각 대상, 육경"
+    },
+    {
+     "word": "乃至",
+     "modern": "내지",
+     "ko": "~에서 ~까지",
+     "note": "사이를 줄여 말할 때 씀"
+    },
+    {
+     "word": "意識界",
+     "modern": "의식계",
+     "ko": "뜻으로 아는 영역",
+     "note": "열여덟 경계(십팔계)의 마지막"
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.5": {
@@ -351,6 +633,44 @@
      "no suffering, its cause, its cessation, or its path, and no wisdom and no attainment."
     ]
    },
+   "glossary": [
+    {
+     "word": "無明",
+     "modern": "무명",
+     "ko": "참모습을 모르는 어리석음",
+     "note": "열두 연기의 첫 고리"
+    },
+    {
+     "word": "盡",
+     "modern": "진",
+     "ko": "다함, 없어짐",
+     "note": ""
+    },
+    {
+     "word": "老死",
+     "modern": "노사",
+     "ko": "늙음과 죽음",
+     "note": "열두 연기의 마지막 고리"
+    },
+    {
+     "word": "苦集滅道",
+     "modern": "고집멸도",
+     "ko": "괴로움, 그 원인, 소멸, 그 길",
+     "note": "네 가지 거룩한 진리, 사성제"
+    },
+    {
+     "word": "智",
+     "modern": "지",
+     "ko": "지혜",
+     "note": ""
+    },
+    {
+     "word": "得",
+     "modern": "득",
+     "ko": "얻음",
+     "note": ""
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.6": {
@@ -386,6 +706,44 @@
      "leaving behind inverted, empty thoughts and finally reaching nirvana."
     ]
    },
+   "glossary": [
+    {
+     "word": "無所得",
+     "modern": "무소득",
+     "ko": "얻을 것이 없음",
+     "note": ""
+    },
+    {
+     "word": "菩提薩埵",
+     "modern": "보리살타",
+     "ko": "보살",
+     "note": "깨달음을 구하는 이, 범어 보디사트바의 음역"
+    },
+    {
+     "word": "罣礙",
+     "modern": "가애",
+     "ko": "걸림, 막힘",
+     "note": ""
+    },
+    {
+     "word": "恐怖",
+     "modern": "공포",
+     "ko": "두려움",
+     "note": ""
+    },
+    {
+     "word": "顚倒夢想",
+     "modern": "전도몽상",
+     "ko": "뒤바뀐 헛된 생각",
+     "note": ""
+    },
+    {
+     "word": "究竟",
+     "modern": "구경",
+     "ko": "마침내, 궁극",
+     "note": ""
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.7": {
@@ -413,6 +771,32 @@
      "and attain unsurpassed, complete, perfect enlightenment."
     ]
    },
+   "glossary": [
+    {
+     "word": "三世",
+     "modern": "삼세",
+     "ko": "과거, 현재, 미래",
+     "note": ""
+    },
+    {
+     "word": "諸佛",
+     "modern": "제불",
+     "ko": "모든 부처님",
+     "note": ""
+    },
+    {
+     "word": "依",
+     "modern": "의",
+     "ko": "의지함",
+     "note": ""
+    },
+    {
+     "word": "阿耨多羅三藐三菩提",
+     "modern": "아뇩다라삼먁삼보리",
+     "ko": "더없이 높고 바른 깨달음",
+     "note": "범어 아눗타라 삼약 삼보디의 음역"
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.8": {
@@ -444,6 +828,44 @@
      "removing all suffering, true and not false."
     ]
    },
+   "glossary": [
+    {
+     "word": "故知",
+     "modern": "고지",
+     "ko": "그러므로 알라",
+     "note": ""
+    },
+    {
+     "word": "大神呪",
+     "modern": "대신주",
+     "ko": "크게 신묘한 주문",
+     "note": ""
+    },
+    {
+     "word": "大明呪",
+     "modern": "대명주",
+     "ko": "크게 밝은 주문",
+     "note": ""
+    },
+    {
+     "word": "無上呪",
+     "modern": "무상주",
+     "ko": "더없이 높은 주문",
+     "note": ""
+    },
+    {
+     "word": "無等等呪",
+     "modern": "무등등주",
+     "ko": "견줄 데 없는 주문",
+     "note": ""
+    },
+    {
+     "word": "眞實不虛",
+     "modern": "진실불허",
+     "ko": "참되어 헛되지 않음",
+     "note": ""
+    }
+   ],
    "source": "반야심경"
   },
   "bud.heart.9": {
@@ -475,6 +897,44 @@
      "All together, go to the far shore and realize enlightenment."
     ]
    },
+   "glossary": [
+    {
+     "word": "卽說呪曰",
+     "modern": "즉설주왈",
+     "ko": "곧 주문을 말하니",
+     "note": ""
+    },
+    {
+     "word": "揭諦",
+     "modern": "아제",
+     "ko": "가자",
+     "note": "범어 가테의 음역"
+    },
+    {
+     "word": "波羅",
+     "modern": "바라",
+     "ko": "저 언덕으로",
+     "note": "범어 파라의 음역"
+    },
+    {
+     "word": "僧揭諦",
+     "modern": "승아제",
+     "ko": "모두 함께 가자",
+     "note": "범어 상가테의 음역"
+    },
+    {
+     "word": "菩提",
+     "modern": "보리",
+     "ko": "깨달음",
+     "note": "범어 보디의 음역"
+    },
+    {
+     "word": "娑婆訶",
+     "modern": "사바하",
+     "ko": "이루어지이다",
+     "note": "주문을 맺는 말, 범어 스바하의 음역"
+    }
+   ],
    "source": "반야심경"
   },
   "bud.zen.sinsu": {
@@ -510,6 +970,32 @@
      "and do not let dust settle on it."
     ]
    },
+   "glossary": [
+    {
+     "word": "菩提樹",
+     "modern": "보리수",
+     "ko": "깨달음의 나무",
+     "note": ""
+    },
+    {
+     "word": "明鏡臺",
+     "modern": "명경대",
+     "ko": "맑은 거울 받침",
+     "note": ""
+    },
+    {
+     "word": "拂拭",
+     "modern": "불식",
+     "ko": "털고 닦음",
+     "note": ""
+    },
+    {
+     "word": "塵埃",
+     "modern": "진애",
+     "ko": "먼지, 티끌",
+     "note": ""
+    }
+   ],
    "source": "육조단경 (종보본) 신수 게송"
   },
   "bud.zen.huineng": {
@@ -545,6 +1031,32 @@
      "so where could dust settle?"
     ]
    },
+   "glossary": [
+    {
+     "word": "菩提",
+     "modern": "보리",
+     "ko": "깨달음",
+     "note": ""
+    },
+    {
+     "word": "本無",
+     "modern": "본무",
+     "ko": "본래 없음",
+     "note": ""
+    },
+    {
+     "word": "本來無一物",
+     "modern": "본래무일물",
+     "ko": "본래 한 물건도 없음",
+     "note": "선의 정신을 담은 유명한 구절"
+    },
+    {
+     "word": "何處",
+     "modern": "하처",
+     "ko": "어디에",
+     "note": ""
+    }
+   ],
    "source": "육조단경 (종보본) 혜능 게송"
   },
   "bud.zen.dalma": {
@@ -580,6 +1092,32 @@
      "Seeing one’s nature and becoming Buddha."
     ]
    },
+   "glossary": [
+    {
+     "word": "不立文字",
+     "modern": "불립문자",
+     "ko": "글자를 세우지 않음",
+     "note": "글에 기대지 않음"
+    },
+    {
+     "word": "敎外別傳",
+     "modern": "교외별전",
+     "ko": "경전 밖에 따로 전함",
+     "note": ""
+    },
+    {
+     "word": "直指人心",
+     "modern": "직지인심",
+     "ko": "사람의 마음을 곧바로 가리킴",
+     "note": ""
+    },
+    {
+     "word": "見性成佛",
+     "modern": "견성성불",
+     "ko": "본성을 보아 부처를 이룸",
+     "note": ""
+    }
+   ],
    "source": "선종 표어 (송대에 정형화, 전통적으로 달마에게 돌림)"
   },
   "bud.zen.sinsim": {
@@ -615,6 +1153,32 @@
      "It will be open, bright, and clear."
     ]
    },
+   "glossary": [
+    {
+     "word": "至道",
+     "modern": "지도",
+     "ko": "지극한 도",
+     "note": ""
+    },
+    {
+     "word": "揀擇",
+     "modern": "간택",
+     "ko": "고르고 가림",
+     "note": ""
+    },
+    {
+     "word": "憎愛",
+     "modern": "증애",
+     "ko": "미움과 사랑",
+     "note": ""
+    },
+    {
+     "word": "洞然",
+     "modern": "통연",
+     "ko": "툭 트인 모습",
+     "note": ""
+    }
+   ],
    "source": "승찬 신심명"
   },
   "bud.zen.jeungdo": {
@@ -646,6 +1210,38 @@
      "Does not try to remove deluded thoughts or seek the true."
     ]
    },
+   "glossary": [
+    {
+     "word": "君不見",
+     "modern": "군불견",
+     "ko": "그대는 보지 못하는가",
+     "note": ""
+    },
+    {
+     "word": "絶學",
+     "modern": "절학",
+     "ko": "배움이 끝남",
+     "note": ""
+    },
+    {
+     "word": "無爲",
+     "modern": "무위",
+     "ko": "억지로 함이 없음",
+     "note": ""
+    },
+    {
+     "word": "閑道人",
+     "modern": "한도인",
+     "ko": "한가한 도인",
+     "note": ""
+    },
+    {
+     "word": "求眞",
+     "modern": "구진",
+     "ko": "참됨을 구함",
+     "note": ""
+    }
+   ],
    "source": "영가현각 증도가"
   },
   "bud.zen.imje": {
@@ -673,6 +1269,32 @@
      "Every place you stand is true."
     ]
    },
+   "glossary": [
+    {
+     "word": "隨處",
+     "modern": "수처",
+     "ko": "어디서든",
+     "note": ""
+    },
+    {
+     "word": "作主",
+     "modern": "작주",
+     "ko": "주인이 됨",
+     "note": ""
+    },
+    {
+     "word": "立處",
+     "modern": "입처",
+     "ko": "서 있는 곳",
+     "note": ""
+    },
+    {
+     "word": "皆眞",
+     "modern": "개진",
+     "ko": "모두 참됨",
+     "note": ""
+    }
+   ],
    "source": "임제록 시중"
   },
   "bud.zen.unmun": {
@@ -704,6 +1326,38 @@
      "Every day is a good day."
     ]
    },
+   "glossary": [
+    {
+     "word": "十五日",
+     "modern": "십오일",
+     "ko": "보름",
+     "note": ""
+    },
+    {
+     "word": "已前",
+     "modern": "이전",
+     "ko": "그 전",
+     "note": ""
+    },
+    {
+     "word": "已後",
+     "modern": "이후",
+     "ko": "그 뒤",
+     "note": ""
+    },
+    {
+     "word": "道",
+     "modern": "도",
+     "ko": "말하다",
+     "note": "여기서는 길이 아니라 '이르다'라는 뜻"
+    },
+    {
+     "word": "日日是好日",
+     "modern": "일일시호일",
+     "ko": "날마다 좋은 날",
+     "note": ""
+    }
+   ],
    "source": "벽암록 제6칙 운문"
   },
   "bud.zen.mumun": {
@@ -739,6 +1393,44 @@
      "You walk alone through heaven and earth."
     ]
    },
+   "glossary": [
+    {
+     "word": "大道",
+     "modern": "대도",
+     "ko": "큰 도",
+     "note": ""
+    },
+    {
+     "word": "無門",
+     "modern": "무문",
+     "ko": "문이 없음",
+     "note": ""
+    },
+    {
+     "word": "千差",
+     "modern": "천차",
+     "ko": "천 갈래로 다름",
+     "note": ""
+    },
+    {
+     "word": "透得",
+     "modern": "투득",
+     "ko": "뚫고 지남",
+     "note": ""
+    },
+    {
+     "word": "乾坤",
+     "modern": "건곤",
+     "ko": "하늘과 땅",
+     "note": ""
+    },
+    {
+     "word": "獨步",
+     "modern": "독보",
+     "ko": "홀로 걸음",
+     "note": ""
+    }
+   ],
    "source": "무문혜개 무문관 서문"
   },
   "bud.zen.pyeongsang": {
@@ -778,6 +1470,38 @@
      "That is the good season of human life."
     ]
    },
+   "glossary": [
+    {
+     "word": "平常心",
+     "modern": "평상심",
+     "ko": "평소의 마음",
+     "note": ""
+    },
+    {
+     "word": "涼風",
+     "modern": "양풍",
+     "ko": "시원한 바람",
+     "note": ""
+    },
+    {
+     "word": "閑事",
+     "modern": "한사",
+     "ko": "쓸데없는 일",
+     "note": ""
+    },
+    {
+     "word": "掛心頭",
+     "modern": "괘심두",
+     "ko": "마음에 걸어 둠",
+     "note": ""
+    },
+    {
+     "word": "時節",
+     "modern": "시절",
+     "ko": "때, 철",
+     "note": ""
+    }
+   ],
    "source": "무문관 제19칙 평상시도, 무문 송"
   },
   "bud.zen.yaksan": {
@@ -813,6 +1537,38 @@
      "Clouds are in the blue sky; water is in the bottle."
     ]
    },
+   "glossary": [
+    {
+     "word": "練得",
+     "modern": "연득",
+     "ko": "단련하여 얻음",
+     "note": ""
+    },
+    {
+     "word": "鶴形",
+     "modern": "학형",
+     "ko": "학의 모습",
+     "note": "여윈 수행자의 모습"
+    },
+    {
+     "word": "兩函經",
+     "modern": "양함경",
+     "ko": "경전 두 상자",
+     "note": ""
+    },
+    {
+     "word": "無餘說",
+     "modern": "무여설",
+     "ko": "다른 말이 없음",
+     "note": ""
+    },
+    {
+     "word": "雲在靑天水在甁",
+     "modern": "운재청천수재병",
+     "ko": "구름은 푸른 하늘에, 물은 병 속에",
+     "note": "있는 그대로가 도라는 뜻"
+    }
+   ],
    "source": "이고가 약산유엄에게 드린 시 (경덕전등록 권14)"
   },
   "bud.zen.wonhyo": {
@@ -840,6 +1596,38 @@
      "and if you can do difficult practice, you are honored like the Buddha."
     ]
    },
+   "glossary": [
+    {
+     "word": "自樂",
+     "modern": "자락",
+     "ko": "자기 즐거움",
+     "note": ""
+    },
+    {
+     "word": "能捨",
+     "modern": "능사",
+     "ko": "능히 버림",
+     "note": ""
+    },
+    {
+     "word": "信敬",
+     "modern": "신경",
+     "ko": "믿고 공경함",
+     "note": ""
+    },
+    {
+     "word": "難行",
+     "modern": "난행",
+     "ko": "하기 어려운 수행",
+     "note": ""
+    },
+    {
+     "word": "尊重",
+     "modern": "존중",
+     "ko": "높이 여김",
+     "note": ""
+    }
+   ],
    "source": "원효 발심수행장"
   },
   "bud.zen.jinul": {
@@ -867,6 +1655,38 @@
      "for if they try to rise apart from the ground, it cannot be done."
     ]
    },
+   "glossary": [
+    {
+     "word": "因地",
+     "modern": "인지",
+     "ko": "땅으로 말미암아",
+     "note": ""
+    },
+    {
+     "word": "倒",
+     "modern": "도",
+     "ko": "넘어짐",
+     "note": ""
+    },
+    {
+     "word": "起",
+     "modern": "기",
+     "ko": "일어남",
+     "note": ""
+    },
+    {
+     "word": "離地",
+     "modern": "이지",
+     "ko": "땅을 떠남",
+     "note": ""
+    },
+    {
+     "word": "無有是處",
+     "modern": "무유시처",
+     "ko": "그럴 수가 없음",
+     "note": ""
+    }
+   ],
    "source": "지눌 권수정혜결사문 첫머리 (한국불교전서 4책)"
   },
   "bud.zen.yaun": {
@@ -894,6 +1714,38 @@
      "while wealth coveted for a hundred years becomes dust in a single morning."
     ]
    },
+   "glossary": [
+    {
+     "word": "修心",
+     "modern": "수심",
+     "ko": "마음을 닦음",
+     "note": ""
+    },
+    {
+     "word": "千載",
+     "modern": "천재",
+     "ko": "천 년",
+     "note": ""
+    },
+    {
+     "word": "貪物",
+     "modern": "탐물",
+     "ko": "재물을 탐냄",
+     "note": ""
+    },
+    {
+     "word": "一朝",
+     "modern": "일조",
+     "ko": "하루아침",
+     "note": ""
+    },
+    {
+     "word": "塵",
+     "modern": "진",
+     "ko": "티끌",
+     "note": ""
+    }
+   ],
    "source": "야운 자경문"
   },
   "bud.zen.seosan": {
@@ -929,6 +1781,44 @@
      "unable to be named or drawn in form."
     ]
    },
+   "glossary": [
+    {
+     "word": "一物",
+     "modern": "일물",
+     "ko": "한 물건",
+     "note": "이름 붙일 수 없는 본래 마음"
+    },
+    {
+     "word": "從本以來",
+     "modern": "종본이래",
+     "ko": "본래부터",
+     "note": ""
+    },
+    {
+     "word": "昭昭靈靈",
+     "modern": "소소영영",
+     "ko": "밝고 신령스러움",
+     "note": ""
+    },
+    {
+     "word": "不曾",
+     "modern": "부증",
+     "ko": "일찍이 그런 적이 없음",
+     "note": ""
+    },
+    {
+     "word": "名不得",
+     "modern": "명부득",
+     "ko": "이름 붙일 수 없음",
+     "note": ""
+    },
+    {
+     "word": "狀不得",
+     "modern": "상부득",
+     "ko": "모양 그릴 수 없음",
+     "note": ""
+    }
+   ],
    "source": "서산 휴정 선가귀감 첫 구절"
   },
   "bud.d.geumgang1": {
@@ -956,6 +1846,32 @@
      "and when you see that all forms are not truly forms, you see the Tathagata."
     ]
    },
+   "glossary": [
+    {
+     "word": "凡所有相",
+     "modern": "범소유상",
+     "ko": "무릇 모양 있는 것",
+     "note": ""
+    },
+    {
+     "word": "虛妄",
+     "modern": "허망",
+     "ko": "헛되고 거짓됨",
+     "note": ""
+    },
+    {
+     "word": "諸相非相",
+     "modern": "제상비상",
+     "ko": "모든 모양이 모양 아님",
+     "note": ""
+    },
+    {
+     "word": "如來",
+     "modern": "여래",
+     "ko": "부처님",
+     "note": "진리에서 온 이라는 뜻"
+    }
+   ],
    "source": "금강경 여리실견분"
   },
   "bud.d.geumgang2": {
@@ -983,6 +1899,38 @@
      "like dew and lightning; see them in this way."
     ]
    },
+   "glossary": [
+    {
+     "word": "有爲法",
+     "modern": "유위법",
+     "ko": "지어진 것",
+     "note": "인연으로 만들어진 모든 것"
+    },
+    {
+     "word": "夢幻泡影",
+     "modern": "몽환포영",
+     "ko": "꿈, 환영, 물거품, 그림자",
+     "note": ""
+    },
+    {
+     "word": "露",
+     "modern": "로",
+     "ko": "이슬",
+     "note": ""
+    },
+    {
+     "word": "電",
+     "modern": "전",
+     "ko": "번개",
+     "note": ""
+    },
+    {
+     "word": "如是觀",
+     "modern": "여시관",
+     "ko": "이렇게 봄",
+     "note": ""
+    }
+   ],
    "source": "금강경 응화비진분"
   },
   "bud.d.geumgang3": {
@@ -1006,6 +1954,26 @@
      "Let that mind arise without dwelling anywhere."
     ]
    },
+   "glossary": [
+    {
+     "word": "應",
+     "modern": "응",
+     "ko": "마땅히",
+     "note": ""
+    },
+    {
+     "word": "無所住",
+     "modern": "무소주",
+     "ko": "머무는 곳이 없음",
+     "note": "어디에도 집착하지 않음"
+    },
+    {
+     "word": "生其心",
+     "modern": "생기심",
+     "ko": "그 마음을 냄",
+     "note": ""
+    }
+   ],
    "source": "금강경 장엄정토분"
   },
   "bud.d.geumgang4": {
@@ -1033,6 +2001,32 @@
      "you are walking a mistaken path and cannot see the Tathagata."
     ]
    },
+   "glossary": [
+    {
+     "word": "色",
+     "modern": "색",
+     "ko": "모습, 형상",
+     "note": ""
+    },
+    {
+     "word": "音聲",
+     "modern": "음성",
+     "ko": "목소리",
+     "note": ""
+    },
+    {
+     "word": "邪道",
+     "modern": "사도",
+     "ko": "그릇된 길",
+     "note": ""
+    },
+    {
+     "word": "如來",
+     "modern": "여래",
+     "ko": "부처님",
+     "note": ""
+    }
+   ],
    "source": "금강경 법신비상분"
   },
   "bud.d.geumgang5": {
@@ -1064,6 +2058,32 @@
      "and the mind that has not yet come cannot be grasped."
     ]
    },
+   "glossary": [
+    {
+     "word": "過去心",
+     "modern": "과거심",
+     "ko": "지나간 마음",
+     "note": ""
+    },
+    {
+     "word": "現在心",
+     "modern": "현재심",
+     "ko": "지금의 마음",
+     "note": ""
+    },
+    {
+     "word": "未來心",
+     "modern": "미래심",
+     "ko": "오지 않은 마음",
+     "note": ""
+    },
+    {
+     "word": "不可得",
+     "modern": "불가득",
+     "ko": "붙잡을 수 없음",
+     "note": ""
+    }
+   ],
    "source": "금강경 일체동관분"
   },
   "bud.d.geumgang6": {
@@ -1091,6 +2111,38 @@
      "even the teaching should be let go, much more what is not the teaching."
     ]
    },
+   "glossary": [
+    {
+     "word": "說法",
+     "modern": "설법",
+     "ko": "가르침을 말함",
+     "note": ""
+    },
+    {
+     "word": "筏喩",
+     "modern": "벌유",
+     "ko": "뗏목의 비유",
+     "note": "강을 건넌 뒤에는 뗏목을 두고 가듯"
+    },
+    {
+     "word": "尙",
+     "modern": "상",
+     "ko": "오히려",
+     "note": ""
+    },
+    {
+     "word": "何況",
+     "modern": "하황",
+     "ko": "하물며",
+     "note": ""
+    },
+    {
+     "word": "非法",
+     "modern": "비법",
+     "ko": "가르침이 아닌 것",
+     "note": ""
+    }
+   ],
    "source": "금강경 정신희유분"
   },
   "bud.d.geumgang7": {
@@ -1114,6 +2166,32 @@
      "Knowing that all things have no self, one attains a patient mind."
     ]
    },
+   "glossary": [
+    {
+     "word": "一切法",
+     "modern": "일체법",
+     "ko": "모든 것",
+     "note": ""
+    },
+    {
+     "word": "無我",
+     "modern": "무아",
+     "ko": "고정된 나가 없음",
+     "note": ""
+    },
+    {
+     "word": "得成",
+     "modern": "득성",
+     "ko": "이룸",
+     "note": ""
+    },
+    {
+     "word": "忍",
+     "modern": "인",
+     "ko": "참음",
+     "note": "진리를 받아들여 흔들리지 않는 마음"
+    }
+   ],
    "source": "금강경 불수불탐분"
   },
   "bud.d.hwaeom1": {
@@ -1141,6 +2219,38 @@
      "look at the nature of the dharma realm. Everything is made by mind."
     ]
    },
+   "glossary": [
+    {
+     "word": "欲了知",
+     "modern": "욕요지",
+     "ko": "알고자 함",
+     "note": ""
+    },
+    {
+     "word": "三世一切佛",
+     "modern": "삼세일체불",
+     "ko": "과거, 현재, 미래의 모든 부처님",
+     "note": ""
+    },
+    {
+     "word": "應觀",
+     "modern": "응관",
+     "ko": "마땅히 보라",
+     "note": ""
+    },
+    {
+     "word": "法界性",
+     "modern": "법계성",
+     "ko": "법계의 성품",
+     "note": "온 세계의 참된 성품"
+    },
+    {
+     "word": "唯心造",
+     "modern": "유심조",
+     "ko": "오직 마음이 지음",
+     "note": ""
+    }
+   ],
    "source": "80화엄 야마궁중게찬품"
   },
   "bud.d.hwaeom2": {
@@ -1168,6 +2278,38 @@
      "and the five aggregates of body and mind all arise from it, with nothing it cannot make."
     ]
    },
+   "glossary": [
+    {
+     "word": "工畫師",
+     "modern": "공화사",
+     "ko": "솜씨 좋은 화가",
+     "note": ""
+    },
+    {
+     "word": "世間",
+     "modern": "세간",
+     "ko": "세상",
+     "note": ""
+    },
+    {
+     "word": "五蘊",
+     "modern": "오온",
+     "ko": "몸과 마음을 이루는 다섯 무더기",
+     "note": ""
+    },
+    {
+     "word": "悉從生",
+     "modern": "실종생",
+     "ko": "모두 그로부터 생김",
+     "note": ""
+    },
+    {
+     "word": "不造",
+     "modern": "부조",
+     "ko": "짓지 않음",
+     "note": ""
+    }
+   ],
    "source": "80화엄 야마궁중게찬품"
   },
   "bud.d.yuma": {
@@ -1191,6 +2333,26 @@
      "When the mind is pure, the Buddha land is pure."
     ]
    },
+   "glossary": [
+    {
+     "word": "隨",
+     "modern": "수",
+     "ko": "따라",
+     "note": ""
+    },
+    {
+     "word": "心淨",
+     "modern": "심정",
+     "ko": "마음이 맑음",
+     "note": ""
+    },
+    {
+     "word": "佛土",
+     "modern": "불토",
+     "ko": "부처님의 땅",
+     "note": "정토"
+    }
+   ],
    "source": "유마힐소설경 불국품"
   },
   "bud.d.gisin": {
@@ -1218,6 +2380,26 @@
      "and when the mind ceases, all kinds of things cease."
     ]
    },
+   "glossary": [
+    {
+     "word": "心生",
+     "modern": "심생",
+     "ko": "마음이 일어남",
+     "note": ""
+    },
+    {
+     "word": "種種法",
+     "modern": "종종법",
+     "ko": "갖가지 것",
+     "note": ""
+    },
+    {
+     "word": "心滅",
+     "modern": "심멸",
+     "ko": "마음이 사라짐",
+     "note": ""
+    }
+   ],
    "source": "대승기신론"
   },
   "bud.d.tansaeng": {
@@ -1245,6 +2427,38 @@
      "and as all the world is suffering, I will bring it peace."
     ]
    },
+   "glossary": [
+    {
+     "word": "天上天下",
+     "modern": "천상천하",
+     "ko": "하늘 위와 하늘 아래",
+     "note": "온 세상"
+    },
+    {
+     "word": "唯我爲尊",
+     "modern": "유아위존",
+     "ko": "오직 내가 존귀함",
+     "note": "모든 존재가 저마다 존귀하다는 뜻으로 새김"
+    },
+    {
+     "word": "三界",
+     "modern": "삼계",
+     "ko": "욕계, 색계, 무색계",
+     "note": "중생이 사는 온 세계"
+    },
+    {
+     "word": "皆苦",
+     "modern": "개고",
+     "ko": "모두 괴로움",
+     "note": ""
+    },
+    {
+     "word": "安之",
+     "modern": "안지",
+     "ko": "편안케 함",
+     "note": ""
+    }
+   ],
    "source": "수행본기경 등"
   },
   "bud.d.nibbana": {
@@ -1272,6 +2486,38 @@
      "When arising and passing away have fully ceased, stillness is joy."
     ]
    },
+   "glossary": [
+    {
+     "word": "諸行無常",
+     "modern": "제행무상",
+     "ko": "지어진 모든 것은 늘 변함",
+     "note": ""
+    },
+    {
+     "word": "生滅法",
+     "modern": "생멸법",
+     "ko": "생기고 사라지는 것",
+     "note": ""
+    },
+    {
+     "word": "滅已",
+     "modern": "멸이",
+     "ko": "사라지고 나면",
+     "note": ""
+    },
+    {
+     "word": "寂滅",
+     "modern": "적멸",
+     "ko": "고요히 사라짐",
+     "note": "열반"
+    },
+    {
+     "word": "爲樂",
+     "modern": "위락",
+     "ko": "즐거움이 됨",
+     "note": ""
+    }
+   ],
    "source": "대반열반경 성행품 (설산동자)"
   },
   "bud.d.beopgu1": {
@@ -1303,6 +2549,38 @@
      "Blessing and joy follow naturally, like a shadow following the body."
     ]
    },
+   "glossary": [
+    {
+     "word": "法本",
+     "modern": "법본",
+     "ko": "모든 것의 근본",
+     "note": ""
+    },
+    {
+     "word": "心尊心使",
+     "modern": "심존심사",
+     "ko": "마음이 으뜸이고 마음이 부림",
+     "note": ""
+    },
+    {
+     "word": "念善",
+     "modern": "염선",
+     "ko": "착함을 생각함",
+     "note": ""
+    },
+    {
+     "word": "福樂",
+     "modern": "복락",
+     "ko": "복과 즐거움",
+     "note": ""
+    },
+    {
+     "word": "如影隨形",
+     "modern": "여영수형",
+     "ko": "그림자가 몸을 따르듯",
+     "note": ""
+    }
+   ],
    "source": "법구경 쌍요품 (T210)"
   },
   "bud.d.beopgu2": {
@@ -1330,6 +2608,38 @@
      "Through patience, resentment is brought to rest; this is the dharma of the Tathagata."
     ]
    },
+   "glossary": [
+    {
+     "word": "怨",
+     "modern": "원",
+     "ko": "원한",
+     "note": ""
+    },
+    {
+     "word": "休息",
+     "modern": "휴식",
+     "ko": "쉼, 그침",
+     "note": ""
+    },
+    {
+     "word": "行忍",
+     "modern": "행인",
+     "ko": "참음을 행함",
+     "note": ""
+    },
+    {
+     "word": "息怨",
+     "modern": "식원",
+     "ko": "원한을 쉬게 함",
+     "note": ""
+    },
+    {
+     "word": "如來法",
+     "modern": "여래법",
+     "ko": "부처님의 법",
+     "note": ""
+    }
+   ],
    "source": "출요경 권16 분노품 (T212)"
   },
   "bud.d.beopgu3": {
@@ -1357,6 +2667,38 @@
      "It is not as good as overcoming oneself; that is the highest victory in battle."
     ]
    },
+   "glossary": [
+    {
+     "word": "千千",
+     "modern": "천천",
+     "ko": "천의 천 배",
+     "note": "헤아릴 수 없이 많은 수"
+    },
+    {
+     "word": "爲敵",
+     "modern": "위적",
+     "ko": "적으로 삼음",
+     "note": ""
+    },
+    {
+     "word": "一夫",
+     "modern": "일부",
+     "ko": "한 사람",
+     "note": ""
+    },
+    {
+     "word": "自勝",
+     "modern": "자승",
+     "ko": "자기를 이김",
+     "note": ""
+    },
+    {
+     "word": "戰中上",
+     "modern": "전중상",
+     "ko": "싸움 가운데 으뜸",
+     "note": ""
+    }
+   ],
    "source": "법구경 술천품"
   },
   "bud.d.beopgu4": {
@@ -1384,6 +2726,38 @@
      "They are not as good as one essential word that, when heard, can settle the mind."
     ]
    },
+   "glossary": [
+    {
+     "word": "誦",
+     "modern": "송",
+     "ko": "외움",
+     "note": ""
+    },
+    {
+     "word": "千言",
+     "modern": "천언",
+     "ko": "천 마디",
+     "note": ""
+    },
+    {
+     "word": "句義",
+     "modern": "구의",
+     "ko": "글귀의 뜻",
+     "note": ""
+    },
+    {
+     "word": "一要",
+     "modern": "일요",
+     "ko": "요긴한 한마디",
+     "note": ""
+    },
+    {
+     "word": "滅意",
+     "modern": "멸의",
+     "ko": "번뇌의 뜻을 없앰",
+     "note": ""
+    }
+   ],
    "source": "법구경 술천품"
   },
   "bud.d.beopgu5": {
@@ -1411,6 +2785,44 @@
      "Trustworthiness is the best friend, and nirvana is the greatest joy."
     ]
    },
+   "glossary": [
+    {
+     "word": "無病",
+     "modern": "무병",
+     "ko": "병이 없음",
+     "note": ""
+    },
+    {
+     "word": "最利",
+     "modern": "최리",
+     "ko": "가장 큰 이익",
+     "note": ""
+    },
+    {
+     "word": "知足",
+     "modern": "지족",
+     "ko": "만족을 앎",
+     "note": ""
+    },
+    {
+     "word": "厚",
+     "modern": "후",
+     "ko": "두터움",
+     "note": "믿음직한 벗의 두터운 정"
+    },
+    {
+     "word": "泥洹",
+     "modern": "니원",
+     "ko": "열반",
+     "note": "열반의 옛 음역"
+    },
+    {
+     "word": "最快",
+     "modern": "최쾌",
+     "ko": "가장 즐거움",
+     "note": ""
+    }
+   ],
    "source": "법구경 니원품"
   },
   "bud.d.gyegyeong": {
@@ -1434,6 +2846,32 @@
      "Patience is the foremost path; the Buddha said the unconditioned is supreme."
     ]
    },
+   "glossary": [
+    {
+     "word": "忍辱",
+     "modern": "인욕",
+     "ko": "욕됨을 참음",
+     "note": ""
+    },
+    {
+     "word": "第一道",
+     "modern": "제일도",
+     "ko": "으뜸가는 길",
+     "note": ""
+    },
+    {
+     "word": "無爲",
+     "modern": "무위",
+     "ko": "지음이 없음",
+     "note": "열반을 이르는 말"
+    },
+    {
+     "word": "最",
+     "modern": "최",
+     "ko": "으뜸",
+     "note": ""
+    }
+   ],
    "source": "사분율 계본 (비바시불 약계)"
   },
   "bud.d.yugyo": {
@@ -1461,6 +2899,38 @@
      "A person who does not know contentment is still unsatisfied even in heaven."
     ]
    },
+   "glossary": [
+    {
+     "word": "知足之人",
+     "modern": "지족지인",
+     "ko": "만족을 아는 사람",
+     "note": ""
+    },
+    {
+     "word": "臥地上",
+     "modern": "와지상",
+     "ko": "땅 위에 누움",
+     "note": ""
+    },
+    {
+     "word": "安樂",
+     "modern": "안락",
+     "ko": "편안하고 즐거움",
+     "note": ""
+    },
+    {
+     "word": "天堂",
+     "modern": "천당",
+     "ko": "하늘 궁전",
+     "note": ""
+    },
+    {
+     "word": "稱意",
+     "modern": "칭의",
+     "ko": "뜻에 맞음",
+     "note": ""
+    }
+   ],
    "source": "불유교경"
   },
   "bud.d.wongak": {
@@ -1488,6 +2958,38 @@
      "When you leave illusion, there is awakening, with no gradual steps."
     ]
    },
+   "glossary": [
+    {
+     "word": "知幻",
+     "modern": "지환",
+     "ko": "환영임을 앎",
+     "note": ""
+    },
+    {
+     "word": "卽離",
+     "modern": "즉리",
+     "ko": "곧 떠남",
+     "note": ""
+    },
+    {
+     "word": "方便",
+     "modern": "방편",
+     "ko": "수단, 절차",
+     "note": ""
+    },
+    {
+     "word": "離幻卽覺",
+     "modern": "이환즉각",
+     "ko": "환영을 떠나면 곧 깨달음",
+     "note": ""
+    },
+    {
+     "word": "漸次",
+     "modern": "점차",
+     "ko": "차례, 단계",
+     "note": ""
+    }
+   ],
    "source": "원각경 보현보살장"
   },
   "bud.d.beophwa": {
@@ -1515,6 +3017,44 @@
      "When a child of the Buddha has walked this path fully, they will become a Buddha in a future life."
     ]
    },
+   "glossary": [
+    {
+     "word": "從本來",
+     "modern": "종본래",
+     "ko": "본래부터",
+     "note": ""
+    },
+    {
+     "word": "寂滅相",
+     "modern": "적멸상",
+     "ko": "고요히 사라진 모습",
+     "note": ""
+    },
+    {
+     "word": "佛子",
+     "modern": "불자",
+     "ko": "부처님의 제자",
+     "note": ""
+    },
+    {
+     "word": "行道",
+     "modern": "행도",
+     "ko": "도를 행함",
+     "note": ""
+    },
+    {
+     "word": "來世",
+     "modern": "내세",
+     "ko": "다음 세상",
+     "note": ""
+    },
+    {
+     "word": "作佛",
+     "modern": "작불",
+     "ko": "부처가 됨",
+     "note": ""
+    }
+   ],
    "source": "묘법연화경 방편품"
   },
   "bud.d.bulseong": {
@@ -1538,6 +3078,26 @@
      "All sentient beings have buddha-nature."
     ]
    },
+   "glossary": [
+    {
+     "word": "一切衆生",
+     "modern": "일체중생",
+     "ko": "살아 있는 모든 존재",
+     "note": ""
+    },
+    {
+     "word": "悉有",
+     "modern": "실유",
+     "ko": "모두 지님",
+     "note": ""
+    },
+    {
+     "word": "佛性",
+     "modern": "불성",
+     "ko": "부처가 될 성품",
+     "note": ""
+    }
+   ],
    "source": "대반열반경"
   },
   "bud.d.dangyeong": {
@@ -1561,6 +3121,26 @@
      "It is like a person who drinks water and knows for themselves whether it is cold or warm."
     ]
    },
+   "glossary": [
+    {
+     "word": "飮水",
+     "modern": "음수",
+     "ko": "물을 마심",
+     "note": ""
+    },
+    {
+     "word": "冷暖",
+     "modern": "냉난",
+     "ko": "차고 따뜻함",
+     "note": ""
+    },
+    {
+     "word": "自知",
+     "modern": "자지",
+     "ko": "스스로 앎",
+     "note": "깨달음은 남이 대신 알려 줄 수 없다는 뜻"
+    }
+   ],
    "source": "육조단경 행유품 (혜명의 말)"
   },
   "bud.d.sanggu": {
@@ -1584,6 +3164,32 @@
      "Above, one seeks awakening; below, one helps sentient beings."
     ]
    },
+   "glossary": [
+    {
+     "word": "上求",
+     "modern": "상구",
+     "ko": "위로 구함",
+     "note": ""
+    },
+    {
+     "word": "菩提",
+     "modern": "보리",
+     "ko": "깨달음",
+     "note": ""
+    },
+    {
+     "word": "下化",
+     "modern": "하화",
+     "ko": "아래로 교화함",
+     "note": ""
+    },
+    {
+     "word": "衆生",
+     "modern": "중생",
+     "ko": "살아 있는 모든 존재",
+     "note": ""
+    }
+   ],
    "source": "대승 보살행을 요약한 전통 성구 (특정 경전 인용 아님)"
   },
   "bud.d.sajeong": {
@@ -1611,6 +3217,38 @@
      "The truth that suffering ceases, and the truth of the path that removes suffering."
     ]
    },
+   "glossary": [
+    {
+     "word": "苦",
+     "modern": "고",
+     "ko": "괴로움",
+     "note": ""
+    },
+    {
+     "word": "聖諦",
+     "modern": "성제",
+     "ko": "거룩한 진리",
+     "note": ""
+    },
+    {
+     "word": "集",
+     "modern": "집",
+     "ko": "괴로움의 원인",
+     "note": "번뇌가 모여 괴로움을 일으킴"
+    },
+    {
+     "word": "滅",
+     "modern": "멸",
+     "ko": "괴로움의 소멸",
+     "note": ""
+    },
+    {
+     "word": "道",
+     "modern": "도",
+     "ko": "소멸에 이르는 길",
+     "note": "팔정도"
+    }
+   ],
    "source": "사성제 (교리 정형구)"
   },
   "bud.d.paljeong": {
@@ -1638,6 +3276,56 @@
      "Right livelihood, right effort, right mindfulness, right concentration."
     ]
    },
+   "glossary": [
+    {
+     "word": "正見",
+     "modern": "정견",
+     "ko": "바르게 봄",
+     "note": ""
+    },
+    {
+     "word": "正思惟",
+     "modern": "정사유",
+     "ko": "바르게 생각함",
+     "note": ""
+    },
+    {
+     "word": "正語",
+     "modern": "정어",
+     "ko": "바른 말",
+     "note": ""
+    },
+    {
+     "word": "正業",
+     "modern": "정업",
+     "ko": "바른 행위",
+     "note": ""
+    },
+    {
+     "word": "正命",
+     "modern": "정명",
+     "ko": "바른 생계",
+     "note": ""
+    },
+    {
+     "word": "正精進",
+     "modern": "정정진",
+     "ko": "바른 노력",
+     "note": ""
+    },
+    {
+     "word": "正念",
+     "modern": "정념",
+     "ko": "바른 마음챙김",
+     "note": ""
+    },
+    {
+     "word": "正定",
+     "modern": "정정",
+     "ko": "바른 집중",
+     "note": ""
+    }
+   ],
    "source": "팔정도 (교리 정형구)"
   },
   "bud.d.yukbara": {
@@ -1665,6 +3353,44 @@
      "Making steady effort, calming the mind, illuminating wisdom."
     ]
    },
+   "glossary": [
+    {
+     "word": "布施",
+     "modern": "보시",
+     "ko": "베풂",
+     "note": ""
+    },
+    {
+     "word": "持戒",
+     "modern": "지계",
+     "ko": "계를 지님",
+     "note": ""
+    },
+    {
+     "word": "忍辱",
+     "modern": "인욕",
+     "ko": "욕됨을 참음",
+     "note": ""
+    },
+    {
+     "word": "精進",
+     "modern": "정진",
+     "ko": "힘써 나아감",
+     "note": ""
+    },
+    {
+     "word": "禪定",
+     "modern": "선정",
+     "ko": "마음을 고요히 모음",
+     "note": ""
+    },
+    {
+     "word": "智慧",
+     "modern": "지혜",
+     "ko": "참모습을 아는 밝음",
+     "note": ""
+    }
+   ],
    "source": "육바라밀 (교리 정형구)"
   },
   "bud.d.samuryang": {
@@ -1692,6 +3418,38 @@
      "A boundless heart that rejoices with others, a boundless heart that lets go in peace"
     ]
    },
+   "glossary": [
+    {
+     "word": "慈",
+     "modern": "자",
+     "ko": "즐거움을 주는 마음",
+     "note": ""
+    },
+    {
+     "word": "悲",
+     "modern": "비",
+     "ko": "괴로움을 덜어 주는 마음",
+     "note": ""
+    },
+    {
+     "word": "喜",
+     "modern": "희",
+     "ko": "남의 기쁨을 함께 기뻐하는 마음",
+     "note": ""
+    },
+    {
+     "word": "捨",
+     "modern": "사",
+     "ko": "치우침 없이 평온한 마음",
+     "note": ""
+    },
+    {
+     "word": "無量心",
+     "modern": "무량심",
+     "ko": "한량없는 마음",
+     "note": ""
+    }
+   ],
    "source": "사무량심 (교리 정형구)"
   },
   "bud.d.ogye": {
@@ -1719,6 +3477,38 @@
      "Do not lie, do not become drunk with alcohol"
     ]
    },
+   "glossary": [
+    {
+     "word": "不殺生",
+     "modern": "불살생",
+     "ko": "산 것을 죽이지 않음",
+     "note": ""
+    },
+    {
+     "word": "不偸盜",
+     "modern": "불투도",
+     "ko": "훔치지 않음",
+     "note": ""
+    },
+    {
+     "word": "不邪淫",
+     "modern": "불사음",
+     "ko": "삿된 음행을 하지 않음",
+     "note": ""
+    },
+    {
+     "word": "不妄語",
+     "modern": "불망어",
+     "ko": "거짓말하지 않음",
+     "note": ""
+    },
+    {
+     "word": "不飮酒",
+     "modern": "불음주",
+     "ko": "술을 마시지 않음",
+     "note": ""
+    }
+   ],
    "source": "오계 (교리 정형구)"
   },
   "bud.heart.all": {
@@ -1842,6 +3632,302 @@
      "Let us all go to the farther shore and attain enlightenment."
     ]
    },
+   "glossary": [
+    {
+     "word": "摩訶",
+     "modern": "마하",
+     "ko": "크다, 위대하다",
+     "note": "범어 마하의 음역"
+    },
+    {
+     "word": "般若",
+     "modern": "반야",
+     "ko": "지혜",
+     "note": "사물의 참모습을 꿰뚫어 보는 지혜"
+    },
+    {
+     "word": "波羅蜜多",
+     "modern": "바라밀다",
+     "ko": "저 언덕에 이름",
+     "note": "괴로움의 이쪽에서 깨달음의 저쪽으로 건너감"
+    },
+    {
+     "word": "觀自在菩薩",
+     "modern": "관자재보살",
+     "ko": "자유롭게 살피는 보살",
+     "note": "관세음보살의 다른 이름"
+    },
+    {
+     "word": "五蘊",
+     "modern": "오온",
+     "ko": "몸과 마음을 이루는 다섯 무더기",
+     "note": "색, 수, 상, 행, 식"
+    },
+    {
+     "word": "苦厄",
+     "modern": "고액",
+     "ko": "괴로움과 재앙",
+     "note": ""
+    },
+    {
+     "word": "舍利子",
+     "modern": "사리자",
+     "ko": "사리불",
+     "note": "지혜가 으뜸이던 부처님의 제자"
+    },
+    {
+     "word": "色",
+     "modern": "색",
+     "ko": "물질, 형체 있는 것",
+     "note": ""
+    },
+    {
+     "word": "空",
+     "modern": "공",
+     "ko": "고정된 실체가 없음",
+     "note": "비어 있음이 아니라 정해진 것이 없다는 뜻"
+    },
+    {
+     "word": "受想行識",
+     "modern": "수상행식",
+     "ko": "느낌, 생각, 의지, 앎",
+     "note": "오온 가운데 마음의 네 가지"
+    },
+    {
+     "word": "亦復如是",
+     "modern": "역부여시",
+     "ko": "또한 이와 같다",
+     "note": ""
+    },
+    {
+     "word": "諸法",
+     "modern": "제법",
+     "ko": "모든 것, 모든 현상",
+     "note": ""
+    },
+    {
+     "word": "空相",
+     "modern": "공상",
+     "ko": "공한 모습",
+     "note": ""
+    },
+    {
+     "word": "不生不滅",
+     "modern": "불생불멸",
+     "ko": "생기지도 사라지지도 않음",
+     "note": ""
+    },
+    {
+     "word": "不垢不淨",
+     "modern": "불구부정",
+     "ko": "더럽지도 깨끗하지도 않음",
+     "note": ""
+    },
+    {
+     "word": "不增不減",
+     "modern": "부증불감",
+     "ko": "늘지도 줄지도 않음",
+     "note": ""
+    },
+    {
+     "word": "是故",
+     "modern": "시고",
+     "ko": "그러므로",
+     "note": ""
+    },
+    {
+     "word": "眼耳鼻舌身意",
+     "modern": "안이비설신의",
+     "ko": "눈, 귀, 코, 혀, 몸, 뜻",
+     "note": "여섯 감각 기관, 육근"
+    },
+    {
+     "word": "色聲香味觸法",
+     "modern": "색성향미촉법",
+     "ko": "빛깔, 소리, 냄새, 맛, 닿음, 법",
+     "note": "여섯 감각 대상, 육경"
+    },
+    {
+     "word": "乃至",
+     "modern": "내지",
+     "ko": "~에서 ~까지",
+     "note": "사이를 줄여 말할 때 씀"
+    },
+    {
+     "word": "意識界",
+     "modern": "의식계",
+     "ko": "뜻으로 아는 영역",
+     "note": "열여덟 경계(십팔계)의 마지막"
+    },
+    {
+     "word": "無明",
+     "modern": "무명",
+     "ko": "참모습을 모르는 어리석음",
+     "note": "열두 연기의 첫 고리"
+    },
+    {
+     "word": "盡",
+     "modern": "진",
+     "ko": "다함, 없어짐",
+     "note": ""
+    },
+    {
+     "word": "老死",
+     "modern": "노사",
+     "ko": "늙음과 죽음",
+     "note": "열두 연기의 마지막 고리"
+    },
+    {
+     "word": "苦集滅道",
+     "modern": "고집멸도",
+     "ko": "괴로움, 그 원인, 소멸, 그 길",
+     "note": "네 가지 거룩한 진리, 사성제"
+    },
+    {
+     "word": "智",
+     "modern": "지",
+     "ko": "지혜",
+     "note": ""
+    },
+    {
+     "word": "得",
+     "modern": "득",
+     "ko": "얻음",
+     "note": ""
+    },
+    {
+     "word": "無所得",
+     "modern": "무소득",
+     "ko": "얻을 것이 없음",
+     "note": ""
+    },
+    {
+     "word": "菩提薩埵",
+     "modern": "보리살타",
+     "ko": "보살",
+     "note": "깨달음을 구하는 이, 범어 보디사트바의 음역"
+    },
+    {
+     "word": "罣礙",
+     "modern": "가애",
+     "ko": "걸림, 막힘",
+     "note": ""
+    },
+    {
+     "word": "恐怖",
+     "modern": "공포",
+     "ko": "두려움",
+     "note": ""
+    },
+    {
+     "word": "顚倒夢想",
+     "modern": "전도몽상",
+     "ko": "뒤바뀐 헛된 생각",
+     "note": ""
+    },
+    {
+     "word": "究竟",
+     "modern": "구경",
+     "ko": "마침내, 궁극",
+     "note": ""
+    },
+    {
+     "word": "三世",
+     "modern": "삼세",
+     "ko": "과거, 현재, 미래",
+     "note": ""
+    },
+    {
+     "word": "諸佛",
+     "modern": "제불",
+     "ko": "모든 부처님",
+     "note": ""
+    },
+    {
+     "word": "依",
+     "modern": "의",
+     "ko": "의지함",
+     "note": ""
+    },
+    {
+     "word": "阿耨多羅三藐三菩提",
+     "modern": "아뇩다라삼먁삼보리",
+     "ko": "더없이 높고 바른 깨달음",
+     "note": "범어 아눗타라 삼약 삼보디의 음역"
+    },
+    {
+     "word": "故知",
+     "modern": "고지",
+     "ko": "그러므로 알라",
+     "note": ""
+    },
+    {
+     "word": "大神呪",
+     "modern": "대신주",
+     "ko": "크게 신묘한 주문",
+     "note": ""
+    },
+    {
+     "word": "大明呪",
+     "modern": "대명주",
+     "ko": "크게 밝은 주문",
+     "note": ""
+    },
+    {
+     "word": "無上呪",
+     "modern": "무상주",
+     "ko": "더없이 높은 주문",
+     "note": ""
+    },
+    {
+     "word": "無等等呪",
+     "modern": "무등등주",
+     "ko": "견줄 데 없는 주문",
+     "note": ""
+    },
+    {
+     "word": "眞實不虛",
+     "modern": "진실불허",
+     "ko": "참되어 헛되지 않음",
+     "note": ""
+    },
+    {
+     "word": "卽說呪曰",
+     "modern": "즉설주왈",
+     "ko": "곧 주문을 말하니",
+     "note": ""
+    },
+    {
+     "word": "揭諦",
+     "modern": "아제",
+     "ko": "가자",
+     "note": "범어 가테의 음역"
+    },
+    {
+     "word": "波羅",
+     "modern": "바라",
+     "ko": "저 언덕으로",
+     "note": "범어 파라의 음역"
+    },
+    {
+     "word": "僧揭諦",
+     "modern": "승아제",
+     "ko": "모두 함께 가자",
+     "note": "범어 상가테의 음역"
+    },
+    {
+     "word": "菩提",
+     "modern": "보리",
+     "ko": "깨달음",
+     "note": "범어 보디의 음역"
+    },
+    {
+     "word": "娑婆訶",
+     "modern": "사바하",
+     "ko": "이루어지이다",
+     "note": "주문을 맺는 말, 범어 스바하의 음역"
+    }
+   ],
    "source": "반야심경"
   },
   "bud.beopseong.1": {
@@ -1881,6 +3967,56 @@
      "True nature is deep and deep, utterly subtle."
     ]
    },
+   "glossary": [
+    {
+     "word": "法性",
+     "modern": "법성",
+     "ko": "모든 존재의 참된 본성",
+     "note": ""
+    },
+    {
+     "word": "圓融",
+     "modern": "원융",
+     "ko": "두루 어우러져 막힘이 없음",
+     "note": ""
+    },
+    {
+     "word": "二相",
+     "modern": "이상",
+     "ko": "두 모습, 나뉜 모습",
+     "note": ""
+    },
+    {
+     "word": "本來寂",
+     "modern": "본래적",
+     "ko": "본래 고요함",
+     "note": ""
+    },
+    {
+     "word": "名相",
+     "modern": "명상",
+     "ko": "이름과 모습",
+     "note": ""
+    },
+    {
+     "word": "證智",
+     "modern": "증지",
+     "ko": "깨달아 얻은 지혜",
+     "note": ""
+    },
+    {
+     "word": "眞性",
+     "modern": "진성",
+     "ko": "참된 성품",
+     "note": ""
+    },
+    {
+     "word": "微妙",
+     "modern": "미묘",
+     "ko": "말로 다할 수 없이 오묘함",
+     "note": ""
+    }
+   ],
    "source": "의상 법계도기 법성게"
   },
   "bud.beopseong.2": {
@@ -1920,6 +4056,44 @@
      "So it is within every speck of dust."
     ]
    },
+   "glossary": [
+    {
+     "word": "自性",
+     "modern": "자성",
+     "ko": "제 성품",
+     "note": "따로 정해진 고정된 본성"
+    },
+    {
+     "word": "隨緣",
+     "modern": "수연",
+     "ko": "인연을 따름",
+     "note": ""
+    },
+    {
+     "word": "一中一切",
+     "modern": "일중일체",
+     "ko": "하나 안에 모두",
+     "note": ""
+    },
+    {
+     "word": "微塵",
+     "modern": "미진",
+     "ko": "아주 작은 티끌",
+     "note": ""
+    },
+    {
+     "word": "十方",
+     "modern": "시방",
+     "ko": "온 세상",
+     "note": "동서남북과 네 모퉁이, 위아래 열 방향"
+    },
+    {
+     "word": "亦如是",
+     "modern": "역여시",
+     "ko": "또한 그러함",
+     "note": ""
+    }
+   ],
    "source": "의상 법계도기 법성게"
   },
   "bud.beopseong.3": {
@@ -1959,6 +4133,50 @@
      "The moment one first gives rise to the mind is right awakening."
     ]
    },
+   "glossary": [
+    {
+     "word": "劫",
+     "modern": "겁",
+     "ko": "헤아릴 수 없이 긴 세월",
+     "note": ""
+    },
+    {
+     "word": "一念",
+     "modern": "일념",
+     "ko": "한 생각",
+     "note": "아주 짧은 한순간"
+    },
+    {
+     "word": "九世十世",
+     "modern": "구세십세",
+     "ko": "아홉 세상과 열 세상",
+     "note": "삼세를 다시 셋으로 나눈 아홉과 그것을 아우른 하나"
+    },
+    {
+     "word": "互相卽",
+     "modern": "호상즉",
+     "ko": "서로 맞닿아 하나임",
+     "note": ""
+    },
+    {
+     "word": "雜亂",
+     "modern": "잡란",
+     "ko": "뒤섞여 어지러움",
+     "note": ""
+    },
+    {
+     "word": "初發心",
+     "modern": "초발심",
+     "ko": "처음 깨달음을 향해 낸 마음",
+     "note": ""
+    },
+    {
+     "word": "正覺",
+     "modern": "정각",
+     "ko": "바른 깨달음",
+     "note": ""
+    }
+   ],
    "source": "의상 법계도기 법성게"
   },
   "bud.beopseong.4": {
@@ -1998,6 +4216,56 @@
      "Unthinkable things unfold endlessly as one wishes."
     ]
    },
+   "glossary": [
+    {
+     "word": "生死",
+     "modern": "생사",
+     "ko": "삶과 죽음",
+     "note": "나고 죽음을 되풀이하는 윤회"
+    },
+    {
+     "word": "理事",
+     "modern": "이사",
+     "ko": "이치와 현상",
+     "note": ""
+    },
+    {
+     "word": "冥然",
+     "modern": "명연",
+     "ko": "그윽이 하나 됨",
+     "note": ""
+    },
+    {
+     "word": "十佛",
+     "modern": "십불",
+     "ko": "열 부처님",
+     "note": "화엄에서 말하는 열 가지 부처님의 모습"
+    },
+    {
+     "word": "普賢",
+     "modern": "보현",
+     "ko": "보현보살",
+     "note": "실천과 서원을 상징하는 보살"
+    },
+    {
+     "word": "能仁",
+     "modern": "능인",
+     "ko": "석가모니 부처님",
+     "note": "어질고 능하신 분이라는 뜻의 이름"
+    },
+    {
+     "word": "海印三昧",
+     "modern": "해인삼매",
+     "ko": "바다에 만물이 비치듯 모든 것을 비추는 선정",
+     "note": ""
+    },
+    {
+     "word": "不思議",
+     "modern": "부사의",
+     "ko": "생각으로 헤아릴 수 없음",
+     "note": ""
+    }
+   ],
    "source": "의상 법계도기 법성게"
   },
   "bud.beopseong.5": {
@@ -2037,6 +4305,56 @@
      "Through unconditional skillful means, one grasps the wish-fulfilling jewel."
     ]
    },
+   "glossary": [
+    {
+     "word": "雨寶",
+     "modern": "우보",
+     "ko": "보배 비를 내림",
+     "note": ""
+    },
+    {
+     "word": "益生",
+     "modern": "익생",
+     "ko": "중생을 이롭게 함",
+     "note": ""
+    },
+    {
+     "word": "隨器",
+     "modern": "수기",
+     "ko": "그릇을 따름",
+     "note": "저마다의 근기만큼"
+    },
+    {
+     "word": "行者",
+     "modern": "행자",
+     "ko": "수행하는 사람",
+     "note": ""
+    },
+    {
+     "word": "本際",
+     "modern": "본제",
+     "ko": "본래 자리",
+     "note": ""
+    },
+    {
+     "word": "妄想",
+     "modern": "망상",
+     "ko": "헛된 생각",
+     "note": ""
+    },
+    {
+     "word": "善巧",
+     "modern": "선교",
+     "ko": "좋은 방편",
+     "note": ""
+    },
+    {
+     "word": "如意",
+     "modern": "여의",
+     "ko": "여의주",
+     "note": "뜻대로 이루어 주는 구슬"
+    }
+   ],
    "source": "의상 법계도기 법성게"
   },
   "bud.beopseong.6": {
@@ -2076,6 +4394,62 @@
      "That which has been unmoving from the beginning is called Buddha."
     ]
    },
+   "glossary": [
+    {
+     "word": "歸家",
+     "modern": "귀가",
+     "ko": "본래 집으로 돌아감",
+     "note": ""
+    },
+    {
+     "word": "隨分",
+     "modern": "수분",
+     "ko": "제 분수만큼",
+     "note": ""
+    },
+    {
+     "word": "資糧",
+     "modern": "자량",
+     "ko": "양식",
+     "note": "수행의 밑천"
+    },
+    {
+     "word": "陀羅尼",
+     "modern": "다라니",
+     "ko": "모든 가르침을 지니는 힘",
+     "note": "총지라고도 하며, 범어 다라니의 음역"
+    },
+    {
+     "word": "莊嚴",
+     "modern": "장엄",
+     "ko": "아름답게 꾸밈",
+     "note": ""
+    },
+    {
+     "word": "法界",
+     "modern": "법계",
+     "ko": "진리의 세계",
+     "note": "온 우주"
+    },
+    {
+     "word": "實際",
+     "modern": "실제",
+     "ko": "참된 자리",
+     "note": ""
+    },
+    {
+     "word": "中道",
+     "modern": "중도",
+     "ko": "양극단을 떠난 길",
+     "note": ""
+    },
+    {
+     "word": "舊來",
+     "modern": "구래",
+     "ko": "예로부터",
+     "note": ""
+    }
+   ],
    "source": "의상 법계도기 법성게"
   },
   "bud.beopseong.all": {
@@ -2215,6 +4589,284 @@
      "That which has been unmoving from the beginning is called Buddha."
     ]
    },
+   "glossary": [
+    {
+     "word": "法性",
+     "modern": "법성",
+     "ko": "모든 존재의 참된 본성",
+     "note": ""
+    },
+    {
+     "word": "圓融",
+     "modern": "원융",
+     "ko": "두루 어우러져 막힘이 없음",
+     "note": ""
+    },
+    {
+     "word": "二相",
+     "modern": "이상",
+     "ko": "두 모습, 나뉜 모습",
+     "note": ""
+    },
+    {
+     "word": "本來寂",
+     "modern": "본래적",
+     "ko": "본래 고요함",
+     "note": ""
+    },
+    {
+     "word": "名相",
+     "modern": "명상",
+     "ko": "이름과 모습",
+     "note": ""
+    },
+    {
+     "word": "證智",
+     "modern": "증지",
+     "ko": "깨달아 얻은 지혜",
+     "note": ""
+    },
+    {
+     "word": "眞性",
+     "modern": "진성",
+     "ko": "참된 성품",
+     "note": ""
+    },
+    {
+     "word": "微妙",
+     "modern": "미묘",
+     "ko": "말로 다할 수 없이 오묘함",
+     "note": ""
+    },
+    {
+     "word": "自性",
+     "modern": "자성",
+     "ko": "제 성품",
+     "note": "따로 정해진 고정된 본성"
+    },
+    {
+     "word": "隨緣",
+     "modern": "수연",
+     "ko": "인연을 따름",
+     "note": ""
+    },
+    {
+     "word": "一中一切",
+     "modern": "일중일체",
+     "ko": "하나 안에 모두",
+     "note": ""
+    },
+    {
+     "word": "微塵",
+     "modern": "미진",
+     "ko": "아주 작은 티끌",
+     "note": ""
+    },
+    {
+     "word": "十方",
+     "modern": "시방",
+     "ko": "온 세상",
+     "note": "동서남북과 네 모퉁이, 위아래 열 방향"
+    },
+    {
+     "word": "亦如是",
+     "modern": "역여시",
+     "ko": "또한 그러함",
+     "note": ""
+    },
+    {
+     "word": "劫",
+     "modern": "겁",
+     "ko": "헤아릴 수 없이 긴 세월",
+     "note": ""
+    },
+    {
+     "word": "一念",
+     "modern": "일념",
+     "ko": "한 생각",
+     "note": "아주 짧은 한순간"
+    },
+    {
+     "word": "九世十世",
+     "modern": "구세십세",
+     "ko": "아홉 세상과 열 세상",
+     "note": "삼세를 다시 셋으로 나눈 아홉과 그것을 아우른 하나"
+    },
+    {
+     "word": "互相卽",
+     "modern": "호상즉",
+     "ko": "서로 맞닿아 하나임",
+     "note": ""
+    },
+    {
+     "word": "雜亂",
+     "modern": "잡란",
+     "ko": "뒤섞여 어지러움",
+     "note": ""
+    },
+    {
+     "word": "初發心",
+     "modern": "초발심",
+     "ko": "처음 깨달음을 향해 낸 마음",
+     "note": ""
+    },
+    {
+     "word": "正覺",
+     "modern": "정각",
+     "ko": "바른 깨달음",
+     "note": ""
+    },
+    {
+     "word": "生死",
+     "modern": "생사",
+     "ko": "삶과 죽음",
+     "note": "나고 죽음을 되풀이하는 윤회"
+    },
+    {
+     "word": "理事",
+     "modern": "이사",
+     "ko": "이치와 현상",
+     "note": ""
+    },
+    {
+     "word": "冥然",
+     "modern": "명연",
+     "ko": "그윽이 하나 됨",
+     "note": ""
+    },
+    {
+     "word": "十佛",
+     "modern": "십불",
+     "ko": "열 부처님",
+     "note": "화엄에서 말하는 열 가지 부처님의 모습"
+    },
+    {
+     "word": "普賢",
+     "modern": "보현",
+     "ko": "보현보살",
+     "note": "실천과 서원을 상징하는 보살"
+    },
+    {
+     "word": "能仁",
+     "modern": "능인",
+     "ko": "석가모니 부처님",
+     "note": "어질고 능하신 분이라는 뜻의 이름"
+    },
+    {
+     "word": "海印三昧",
+     "modern": "해인삼매",
+     "ko": "바다에 만물이 비치듯 모든 것을 비추는 선정",
+     "note": ""
+    },
+    {
+     "word": "不思議",
+     "modern": "부사의",
+     "ko": "생각으로 헤아릴 수 없음",
+     "note": ""
+    },
+    {
+     "word": "雨寶",
+     "modern": "우보",
+     "ko": "보배 비를 내림",
+     "note": ""
+    },
+    {
+     "word": "益生",
+     "modern": "익생",
+     "ko": "중생을 이롭게 함",
+     "note": ""
+    },
+    {
+     "word": "隨器",
+     "modern": "수기",
+     "ko": "그릇을 따름",
+     "note": "저마다의 근기만큼"
+    },
+    {
+     "word": "行者",
+     "modern": "행자",
+     "ko": "수행하는 사람",
+     "note": ""
+    },
+    {
+     "word": "本際",
+     "modern": "본제",
+     "ko": "본래 자리",
+     "note": ""
+    },
+    {
+     "word": "妄想",
+     "modern": "망상",
+     "ko": "헛된 생각",
+     "note": ""
+    },
+    {
+     "word": "善巧",
+     "modern": "선교",
+     "ko": "좋은 방편",
+     "note": ""
+    },
+    {
+     "word": "如意",
+     "modern": "여의",
+     "ko": "여의주",
+     "note": "뜻대로 이루어 주는 구슬"
+    },
+    {
+     "word": "歸家",
+     "modern": "귀가",
+     "ko": "본래 집으로 돌아감",
+     "note": ""
+    },
+    {
+     "word": "隨分",
+     "modern": "수분",
+     "ko": "제 분수만큼",
+     "note": ""
+    },
+    {
+     "word": "資糧",
+     "modern": "자량",
+     "ko": "양식",
+     "note": "수행의 밑천"
+    },
+    {
+     "word": "陀羅尼",
+     "modern": "다라니",
+     "ko": "모든 가르침을 지니는 힘",
+     "note": "총지라고도 하며, 범어 다라니의 음역"
+    },
+    {
+     "word": "莊嚴",
+     "modern": "장엄",
+     "ko": "아름답게 꾸밈",
+     "note": ""
+    },
+    {
+     "word": "法界",
+     "modern": "법계",
+     "ko": "진리의 세계",
+     "note": "온 우주"
+    },
+    {
+     "word": "實際",
+     "modern": "실제",
+     "ko": "참된 자리",
+     "note": ""
+    },
+    {
+     "word": "中道",
+     "modern": "중도",
+     "ko": "양극단을 떠난 길",
+     "note": ""
+    },
+    {
+     "word": "舊來",
+     "modern": "구래",
+     "ko": "예로부터",
+     "note": ""
+    }
+   ],
    "source": "의상 법계도기 법성게"
   }
  }

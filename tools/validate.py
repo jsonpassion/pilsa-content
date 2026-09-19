@@ -60,6 +60,23 @@ def main():
             elif key not in collections.get(collection, {}):
                 problems.append(f"{pack['id']}: {collection}에 없는 글 {key}")
 
+    # 사경 글은 영어만 있어서는 안 된다: 독음(ko), 한자(hanja), 우리말 풀이(plain)가 줄 수까지 같고, 한자 단어 풀이(glossary)가 있어야 한다
+    for key, item in collections["buddhist"].items():
+        lines = item.get("lines", {})
+        counts = {tid: len(lines.get(tid, [])) for tid in ("ko", "hanja", "plain")}
+        if 0 in counts.values():
+            problems.append(f"사경 {key}: 독음, 한자, 풀이 줄이 모두 있어야 함 {counts}")
+        elif len(set(counts.values())) != 1:
+            problems.append(f"사경 {key}: 독음, 한자, 풀이 줄 수가 다름 {counts}")
+        if "en" in lines and len(lines["en"]) != counts["ko"]:
+            problems.append(f"사경 {key}: 영어 줄 수가 독음과 다름")
+        glossary = item.get("glossary") or []
+        if not glossary:
+            problems.append(f"사경 {key}: 한자 단어 풀이(glossary)가 없음")
+        for entry in glossary:
+            if not (entry.get("word") and entry.get("modern") and entry.get("ko")):
+                problems.append(f"사경 {key}: 단어 풀이에 word, modern(독음), ko(뜻)가 있어야 함 {entry}")
+
     music_ids = set()
     for track in data.get("music/music.json", {}).get("tracks", []):
         if track.get("id") in music_ids:
@@ -67,6 +84,10 @@ def main():
         music_ids.add(track.get("id"))
         if track.get("access") not in ("free", "plus"):
             problems.append(f"배경음악 {track.get('id')}: access는 free나 plus")
+        # 종교 소리는 그 종교를 고른 사람에게만 보인다. 태그가 없으면 누구에게나 보이므로, 종교색이 있는 곡에는 꼭 태그를 단다
+        unknown = set(track.get("traditions") or []) - {"protestant", "catholic", "buddhist"}
+        if unknown:
+            problems.append(f"배경음악 {track.get('id')}: 모르는 종교 태그 {sorted(unknown)}")
         if not (CONTENT / "music" / f"{track.get('file')}.m4a").exists():
             problems.append(f"배경음악 {track.get('id')}: 파일 없음 {track.get('file')}.m4a")
 
