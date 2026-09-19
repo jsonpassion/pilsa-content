@@ -74,8 +74,11 @@ def main():
         if not glossary:
             problems.append(f"사경 {key}: 한자 단어 풀이(glossary)가 없음")
         for entry in glossary:
-            if not (entry.get("word") and entry.get("modern") and entry.get("ko")):
-                problems.append(f"사경 {key}: 단어 풀이에 word, modern(독음), ko(뜻)가 있어야 함 {entry}")
+            # 표제어(word)는 한글 독음이다. 한자는 앱에 내놓지 않는다
+            if not (entry.get("word") and entry.get("ko")):
+                problems.append(f"사경 {key}: 단어 풀이에 word(독음), ko(뜻)가 있어야 함 {entry}")
+            elif any("\u4e00" <= ch <= "\u9fff" for ch in entry["word"]):
+                problems.append(f"사경 {key}: 단어 풀이 표제어에 한자가 들어 있음 {entry['word']}")
 
     music_ids = set()
     for track in data.get("music/music.json", {}).get("tracks", []):
