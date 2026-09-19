@@ -1,0 +1,81 @@
+{
+ "tracks": [
+  {
+   "id": "music.organ",
+   "file": "music_organ",
+   "symbol": "building.columns",
+   "access": "free",
+   "traditions": [
+    "protestant",
+    "catholic"
+   ],
+   "title": "예배당 오르간",
+   "subtitle": "작은 예배당에 번지는 느린 화음",
+   "en": {
+    "title": "Chapel Organ",
+    "subtitle": "Slow chords in a small chapel"
+   }
+  },
+  {
+   "id": "music.hymnpiano",
+   "file": "music_hymnpiano",
+   "symbol": "pianokeys",
+   "access": "plus",
+   "traditions": [
+    "protestant",
+    "catholic"
+   ],
+   "title": "기도하는 피아노",
+   "subtitle": "찬송가를 닮은 조용한 피아노",
+   "en": {
+    "title": "Prayer Piano",
+    "subtitle": "Quiet piano in the spirit of a hymn"
+   }
+  },
+  {
+   "id": "music.cathedral",
+   "file": "music_cathedral",
+   "symbol": "bell",
+   "access": "plus",
+   "traditions": [
+    "catholic"
+   ],
+   "title": "성당의 울림",
+   "subtitle": "가사 없는 합창과 먼 종소리",
+   "en": {
+    "title": "Cathedral Echo",
+    "subtitle": "Wordless choir and a distant bell"
+   }
+  },
+  {
+   "id": "music.temple",
+   "file": "music_temple",
+   "symbol": "wind",
+   "access": "free",
+   "traditions": [
+    "buddhist"
+   ],
+   "title": "산사의 아침",
+   "subtitle": "처마 끝 풍경 소리와 먼 범종",
+   "en": {
+    "title": "Temple Morning",
+    "subtitle": "Wind chimes under the eaves and a far bell"
+   }
+  },
+  {
+   "id": "music.bowl",
+   "file": "music_bowl",
+   "symbol": "circle.dotted",
+   "access": "plus",
+   "traditions": [
+    "buddhist"
+   ],
+   "title": "싱잉볼",
+   "subtitle": "길게 번지는 울림과 고요",
+   "en": {
+    "title": "Singing Bowls",
+    "subtitle": "Long overtones and silence"
+   }
+  }
+ ]
+}
