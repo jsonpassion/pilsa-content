@@ -102,7 +102,15 @@ def main():
         if not (CONTENT / "music" / f"{track.get('file')}.m4a").exists():
             problems.append(f"배경음악 {track.get('id')}: 파일 없음 {track.get('file')}.m4a")
 
+    # 종교 스티커 팩은 stickers_faith.json 에 둔다 (music_faith.json 과 같은 까닭: 옛 앱은 종교 태그를 모른다)
     for pack in data.get("stickers/stickers.json", {}).get("packs", []):
+        if pack.get("traditions"):
+            problems.append(f"스티커 팩 {pack.get('id')}: 종교 태그가 있는 팩은 stickers_faith.json 에 둔다")
+    for pack in data.get("stickers/stickers_faith.json", {}).get("packs", []):
+        tags = set(pack.get("traditions") or [])
+        if not tags or tags - {"protestant", "catholic", "buddhist"}:
+            problems.append(f"스티커 팩 {pack.get('id')}: stickers_faith.json 의 팩에는 아는 종교 태그가 있어야 함")
+    for pack in data.get("stickers/stickers.json", {}).get("packs", []) + data.get("stickers/stickers_faith.json", {}).get("packs", []):
         if pack.get("access") not in ("free", "plus"):
             problems.append(f"스티커 팩 {pack.get('id')}: access는 free나 plus")
         for name in pack.get("stickers", []):
