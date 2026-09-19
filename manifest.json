@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "b37807e43bf4",
- "generated_at": "2026-09-19T11:24:20Z",
+ "version": "0c8476eb0358",
+ "generated_at": "2026-09-19T16:49:13Z",
  "entries": [
   {
    "id": "books.json",
@@ -54,8 +54,8 @@
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "af6a7afca2b9144fd36b59a8cf27de9ee69693ef276798ead7259833fd2539a3",
-   "size": 120440
+   "checksum_sha256": "a9ccee7b760ae8c998972ce15eaae4b69b730194b034d98e23e151f03faeae5c",
+   "size": 120094
   },
   {
    "id": "life.json",
@@ -66,8 +66,8 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "a6ddc5d1aa0c805ac823088ee4647ad89427a0e61e72039452ca48027fa341ec",
-   "size": 149227
+   "checksum_sha256": "8fda00eb4fc2400d02c6bc0afc8cb9389be1600cceecd6f7545c2d3972512b54",
+   "size": 158741
   },
   {
    "id": "store.json",

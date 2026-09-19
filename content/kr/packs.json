@@ -3030,6 +3030,302 @@
   }
  },
  {
+  "id": "buddhistDaily",
+  "kind": "daily",
+  "title": "오늘의 한 구절",
+  "subtitle": "하루 한 구절",
+  "summary": "금강경, 화엄경, 법구경 같은 경전에서 고른 구절이 매일 바뀌어요. 유료 팩과 겹치지 않아 언제든 무료예요.",
+  "symbol": "sun.max",
+  "tint": "peach",
+  "highlights": [],
+  "previewDays": 0,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "금강경 사구게",
+    "passage": "bud.d.geumgang1",
+    "prompt": "요즘 겉모습에 마음이 쏠린 일이 있나요?"
+   },
+   {
+    "title": "법구경",
+    "passage": "bud.d.beopgu1",
+    "prompt": "오늘 품은 선한 생각 하나를 적어 보세요."
+   },
+   {
+    "title": "화엄경 사구게",
+    "passage": "bud.d.hwaeom1",
+    "prompt": "오늘 내 마음이 지어낸 풍경은 어떤가요?"
+   },
+   {
+    "title": "팔정도",
+    "passage": "bud.d.paljeong",
+    "prompt": "여덟 가지 가운데 오늘 하나만 고른다면 무엇인가요?"
+   },
+   {
+    "title": "금강경 사구게",
+    "passage": "bud.d.geumgang2",
+    "prompt": "지나고 나니 꿈 같았던 일을 떠올려 보세요."
+   },
+   {
+    "title": "유마경",
+    "passage": "bud.d.yuma",
+    "prompt": "마음이 맑아지면 달라 보이는 것이 있나요?"
+   },
+   {
+    "title": "법구경",
+    "passage": "bud.d.beopgu5",
+    "prompt": "오늘 이미 넉넉한 것 하나를 적어 보세요."
+   },
+   {
+    "title": "육바라밀",
+    "passage": "bud.d.yukbara",
+    "prompt": "오늘 베풀 수 있는 작은 것 하나를 적어 보세요."
+   },
+   {
+    "title": "금강경",
+    "passage": "bud.d.geumgang3",
+    "prompt": "머무르지 않는 마음으로 할 수 있는 일 하나를 적어 보세요."
+   },
+   {
+    "title": "대승기신론",
+    "passage": "bud.d.gisin",
+    "prompt": "일어났다 사라진 생각 하나를 적어 보세요."
+   },
+   {
+    "title": "법구경",
+    "passage": "bud.d.beopgu3",
+    "prompt": "오늘 나를 이긴 작은 순간이 있었나요?"
+   },
+   {
+    "title": "사무량심",
+    "passage": "bud.d.samuryang",
+    "prompt": "오늘 함께 기뻐해 줄 사람이 있나요?"
+   },
+   {
+    "title": "금강경 사구게",
+    "passage": "bud.d.geumgang4",
+    "prompt": "보이는 것 너머에서 소중한 것을 찾아본 적이 있나요?"
+   },
+   {
+    "title": "설산 게송",
+    "passage": "bud.d.nibbana",
+    "prompt": "고요함이 즐거움이었던 순간을 떠올려 보세요."
+   },
+   {
+    "title": "유교경",
+    "passage": "bud.d.yugyo",
+    "prompt": "지금 가진 것 가운데 고마운 것 셋을 적어 보세요."
+   },
+   {
+    "title": "오계",
+    "passage": "bud.d.ogye",
+    "prompt": "지키고 싶은 약속 하나를 적어 보세요."
+   },
+   {
+    "title": "금강경",
+    "passage": "bud.d.geumgang5",
+    "prompt": "지금 이 순간 손에 쥔 것은 무엇인가요?"
+   },
+   {
+    "title": "화엄경",
+    "passage": "bud.d.hwaeom2",
+    "prompt": "오늘 마음이라는 붓으로 무엇을 그리고 싶나요?"
+   },
+   {
+    "title": "출요경",
+    "passage": "bud.d.beopgu2",
+    "prompt": "쉬게 해 주고 싶은 미움이 있나요?"
+   },
+   {
+    "title": "사성제",
+    "passage": "bud.d.sajeong",
+    "prompt": "요즘 괴로움의 원인을 하나 짚어 보세요."
+   },
+   {
+    "title": "금강경",
+    "passage": "bud.d.geumgang6",
+    "prompt": "강을 건넜는데도 지고 다니는 뗏목이 있나요?"
+   },
+   {
+    "title": "원각경",
+    "passage": "bud.d.wongak",
+    "prompt": "환영인 줄 알고 내려놓을 생각이 있나요?"
+   },
+   {
+    "title": "법구경",
+    "passage": "bud.d.beopgu4",
+    "prompt": "나에게 요긴한 한마디는 무엇인가요?"
+   },
+   {
+    "title": "보살의 길",
+    "passage": "bud.d.sanggu",
+    "prompt": "오늘 배우고 싶은 것 하나, 돕고 싶은 사람 하나를 적어 보세요."
+   },
+   {
+    "title": "금강경",
+    "passage": "bud.d.geumgang7",
+    "prompt": "오늘 참아 낸 일 하나를 적어 보세요."
+   },
+   {
+    "title": "법화경",
+    "passage": "bud.d.beophwa",
+    "prompt": "천천히 걷고 있는 나의 길은 어디쯤인가요?"
+   },
+   {
+    "title": "계경 게송",
+    "passage": "bud.d.gyegyeong",
+    "prompt": "참기 어려웠던 일을 조용히 떠올려 보세요."
+   },
+   {
+    "title": "육조단경",
+    "passage": "bud.d.dangyeong",
+    "prompt": "직접 겪어 보고서야 알게 된 것이 있나요?"
+   },
+   {
+    "title": "열반경",
+    "passage": "bud.d.bulseong",
+    "prompt": "오늘 만난 사람에게서 본 좋은 성품을 적어 보세요."
+   },
+   {
+    "title": "탄생게",
+    "passage": "bud.d.tansaeng",
+    "prompt": "여기서 나는 누구나 지닌 존귀한 생명으로 풀기도 해요. 나를 귀하게 여긴 순간은 언제인가요?"
+   }
+  ],
+  "en": {
+   "title": "Today's Line",
+   "subtitle": "One line a day",
+   "summary": "Lines chosen from texts like the Diamond Sutra, Avatamsaka Sutra, and Dhammapada change each day. They do not overlap with paid packs, so they are always free.",
+   "highlights": [],
+   "days": [
+    {
+     "title": "Diamond Sutra Verse",
+     "prompt": "Has your mind been drawn to outward appearances lately?"
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "Write down one kind thought you held today."
+    },
+    {
+     "title": "Avatamsaka Sutra Verse",
+     "prompt": "What kind of scene has your mind made today?"
+    },
+    {
+     "title": "The Eightfold Path",
+     "prompt": "If you chose just one of the eight today, which would it be?"
+    },
+    {
+     "title": "Diamond Sutra Verse",
+     "prompt": "Think of something that now feels like a dream."
+    },
+    {
+     "title": "Vimalakirti Sutra",
+     "prompt": "What looks different when your mind becomes clear?"
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "Write down one thing that is already enough today."
+    },
+    {
+     "title": "Six Paramitas",
+     "prompt": "Write down one small thing you can offer today."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "What is one thing you can do with an unattached mind?"
+    },
+    {
+     "title": "Awakening of Faith",
+     "prompt": "Write down one thought that arose and passed away."
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "Was there a small moment today when you overcame yourself?"
+    },
+    {
+     "title": "Four Immeasurables",
+     "prompt": "Is there someone you can rejoice with today?"
+    },
+    {
+     "title": "Diamond Sutra Verse",
+     "prompt": "Have you ever looked beyond what is visible to find what matters?"
+    },
+    {
+     "title": "Snow Mountain Verse",
+     "prompt": "Think of a moment when stillness felt like joy."
+    },
+    {
+     "title": "Bequeathed Teaching",
+     "prompt": "Write down three things you are grateful for among what you have now."
+    },
+    {
+     "title": "The Five Precepts",
+     "prompt": "Write down one promise you want to keep."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "What are you holding in your hand right now?"
+    },
+    {
+     "title": "Avatamsaka Sutra",
+     "prompt": "What would you like to paint today with the brush of your mind?"
+    },
+    {
+     "title": "Udana-varga Teaching",
+     "prompt": "Is there any resentment you would like to let rest?"
+    },
+    {
+     "title": "Four Noble Truths",
+     "prompt": "Notice one cause of suffering in your life lately."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "Is there a raft you still carry after crossing the river?"
+    },
+    {
+     "title": "Perfect Enlightenment Sutra",
+     "prompt": "Is there a thought you can let go of by seeing it as an illusion?"
+    },
+    {
+     "title": "From the Dhammapada",
+     "prompt": "What is one word you truly need?"
+    },
+    {
+     "title": "Bodhisattva Path",
+     "prompt": "Write down one thing you want to learn and one person you want to help."
+    },
+    {
+     "title": "Diamond Sutra Teaching",
+     "prompt": "Write down one thing you endured today."
+    },
+    {
+     "title": "Lotus Sutra",
+     "prompt": "Where are you on the path you are walking slowly?"
+    },
+    {
+     "title": "Precept Verse",
+     "prompt": "Quietly recall something that was hard to endure."
+    },
+    {
+     "title": "Platform Sutra",
+     "prompt": "Is there something you understood only after experiencing it yourself?"
+    },
+    {
+     "title": "Nirvana Sutra",
+     "prompt": "Write down a good quality you saw in someone you met today."
+    },
+    {
+     "title": "The Birth Verse",
+     "prompt": "You may read this as the precious life in every person. When have you treated yourself as precious?"
+    }
+   ]
+  }
+ },
+ {
   "id": "lifeDaily",
   "kind": "daily",
   "collection": "life",
@@ -3481,6 +3777,454 @@
     },
     {
      "title": "Living a whole day"
+    }
+   ]
+  }
+ },
+ {
+  "id": "sagyeongStart5",
+  "kind": "plan",
+  "title": "사경 첫걸음 5일",
+  "subtitle": "짧은 게송부터 천천히",
+  "summary": "삼귀의와 사홍서원, 칠불통게처럼 짧고 익숙한 글로 사경을 시작합니다.",
+  "symbol": "leaf",
+  "tint": "sage",
+  "highlights": [
+   "끝까지 무료예요"
+  ],
+  "previewDays": 0,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "삼귀의",
+    "passage": "bud.samgwi",
+    "prompt": "오늘 내가 기대고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "사홍서원",
+    "passage": "bud.sahong",
+    "prompt": "오늘 하나만 바란다면 무엇을 바라고 싶나요?"
+   },
+   {
+    "title": "칠불통게",
+    "passage": "bud.chilbul",
+    "prompt": "오늘 하지 않을 일 하나, 할 일 하나를 적어 보세요."
+   },
+   {
+    "title": "삼법인",
+    "passage": "bud.sambeop",
+    "prompt": "요즘 변해 가는 것 가운데 받아들이고 싶은 것이 있나요?"
+   },
+   {
+    "title": "연기의 가르침",
+    "passage": "bud.yeongi",
+    "prompt": "지금의 나를 있게 한 인연 하나를 떠올려 보세요."
+   }
+  ],
+  "en": {
+   "title": "First Sutra Copying, 5 Days",
+   "subtitle": "Start slowly with short verses",
+   "summary": "Begin sutra copying with short, familiar texts like the Three Refuges, the Four Great Vows, and the Seven Buddhas' Verse.",
+   "highlights": [
+    "Free all the way"
+   ],
+   "days": [
+    {
+     "title": "Three Refuges",
+     "prompt": "What would you like to lean on today?"
+    },
+    {
+     "title": "Four Great Vows",
+     "prompt": "If you could wish for one thing today, what would it be?"
+    },
+    {
+     "title": "Seven Buddhas' Verse",
+     "prompt": "Write one thing you will not do today, and one thing you will do."
+    },
+    {
+     "title": "Three Dharma Seals",
+     "prompt": "Is there something changing lately that you would like to accept?"
+    },
+    {
+     "title": "Dependent Arising",
+     "prompt": "Think of one connection that has helped make you who you are now."
+    }
+   ]
+  }
+ },
+ {
+  "id": "heartSutra10",
+  "kind": "plan",
+  "title": "반야심경 사경 10일",
+  "subtitle": "아홉 날 나눠 쓰고 열째 날 전체",
+  "summary": "마하반야바라밀다심경을 아홉 대목으로 나눠 쓰고, 마지막 날에는 처음부터 끝까지 한 번에 씁니다.",
+  "symbol": "moon",
+  "tint": "lavender",
+  "highlights": [
+   "앞의 2일은 무료예요"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "반야심경 1",
+    "passage": "bud.heart.1",
+    "prompt": "쓰기 전에 숨을 세 번 고르고 시작해 보세요."
+   },
+   {
+    "title": "반야심경 2",
+    "passage": "bud.heart.2",
+    "prompt": "오늘 붙잡고 있던 생각 하나를 내려놓아 보세요."
+   },
+   {
+    "title": "반야심경 3",
+    "passage": "bud.heart.3",
+    "prompt": "늘지도 줄지도 않는다는 말이 위로가 되는 일이 있나요?"
+   },
+   {
+    "title": "반야심경 4",
+    "passage": "bud.heart.4",
+    "prompt": "눈, 귀, 코, 혀, 몸, 뜻 가운데 오늘 가장 바쁘게 쓴 것은 무엇인가요?"
+   },
+   {
+    "title": "반야심경 5",
+    "passage": "bud.heart.5",
+    "prompt": "얻으려 애쓰던 것 하나를 떠올려 보세요."
+   },
+   {
+    "title": "반야심경 6",
+    "passage": "bud.heart.6",
+    "prompt": "마음에 걸림이 없다면 오늘 무엇을 하고 싶나요?"
+   },
+   {
+    "title": "반야심경 7",
+    "passage": "bud.heart.7",
+    "prompt": "한 글자씩, 쓰는 손에 마음을 모아 보세요."
+   },
+   {
+    "title": "반야심경 8",
+    "passage": "bud.heart.8",
+    "prompt": "나를 편하게 해 주는 말 한마디를 적어 보세요."
+   },
+   {
+    "title": "반야심경 9",
+    "passage": "bud.heart.9",
+    "prompt": "주문은 뜻보다 소리 그대로 외우는 전통이 있어요. 소리 내어 한 번 읽어 보세요."
+   },
+   {
+    "title": "반야심경 전체",
+    "passage": "bud.heart.all",
+    "prompt": "처음부터 끝까지 쓰고 나서 마음이 어떤지 적어 보세요."
+   }
+  ],
+  "en": {
+   "title": "The Heart Sutra, 10 Days",
+   "subtitle": "Nine days in sections, then the full text",
+   "summary": "Write the Heart Sutra in nine sections, then write it from beginning to end on the last day.",
+   "highlights": [
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "Heart Sutra 1",
+     "prompt": "Before you begin, take three quiet breaths."
+    },
+    {
+     "title": "Heart Sutra 2",
+     "prompt": "Try letting go of one thought you were holding today."
+    },
+    {
+     "title": "Heart Sutra 3",
+     "prompt": "Is there anything comforting about the words neither increasing nor decreasing?"
+    },
+    {
+     "title": "Heart Sutra 4",
+     "prompt": "Which was busiest today: your eyes, ears, nose, tongue, body, or mind?"
+    },
+    {
+     "title": "Heart Sutra 5",
+     "prompt": "Bring to mind one thing you have been trying hard to gain."
+    },
+    {
+     "title": "Heart Sutra 6",
+     "prompt": "If your heart had no hindrance, what would you like to do today?"
+    },
+    {
+     "title": "Heart Sutra 7",
+     "prompt": "One character at a time, bring your attention to the hand that writes."
+    },
+    {
+     "title": "Heart Sutra 8",
+     "prompt": "Write down one phrase that helps you feel at ease."
+    },
+    {
+     "title": "Heart Sutra 9",
+     "prompt": "Mantras are traditionally recited for their sound as much as their meaning. Try reading it aloud once."
+    },
+    {
+     "title": "Full Heart Sutra",
+     "prompt": "After writing it from beginning to end, note how your heart feels."
+    }
+   ]
+  }
+ },
+ {
+  "id": "beopseong7",
+  "kind": "plan",
+  "title": "법성게 7일",
+  "subtitle": "의상대사의 210자",
+  "summary": "화엄의 뜻을 담은 서른 구절을 다섯 구절씩 여섯 날에 나눠 쓰고, 일곱째 날에 전체를 씁니다.",
+  "symbol": "circle.hexagongrid",
+  "tint": "mustard",
+  "highlights": [
+   "원고지 테마와 잘 맞아요",
+   "첫날은 무료예요"
+  ],
+  "previewDays": 1,
+  "recommendedMode": "copy",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "법성게 1–5구",
+    "passage": "bud.beopseong.1",
+    "prompt": "고요함이 본래 자리라는 말을 떠올리며 천천히 써 보세요."
+   },
+   {
+    "title": "법성게 6–10구",
+    "passage": "bud.beopseong.2",
+    "prompt": "나와 이어진 사람 하나를 떠올려 보세요."
+   },
+   {
+    "title": "법성게 11–15구",
+    "passage": "bud.beopseong.3",
+    "prompt": "처음 마음을 냈던 순간을 떠올려 보세요."
+   },
+   {
+    "title": "법성게 16–20구",
+    "passage": "bud.beopseong.4",
+    "prompt": "삶과 열반이 함께 어우러진다는 말을 오늘 하루에 비추어 보세요."
+   },
+   {
+    "title": "법성게 21–25구",
+    "passage": "bud.beopseong.5",
+    "prompt": "쉬고 싶은 생각 하나를 적어 보세요."
+   },
+   {
+    "title": "법성게 26–30구",
+    "passage": "bud.beopseong.6",
+    "prompt": "오늘 돌아가고 싶은 집은 어떤 모습인가요?"
+   },
+   {
+    "title": "법성게 전체",
+    "passage": "bud.beopseong.all",
+    "prompt": "다 쓰고 나서 가장 오래 남는 구절을 적어 보세요."
+   }
+  ],
+  "en": {
+   "title": "Song of Dharma Nature, 7 Days",
+   "subtitle": "Uisang's 210-character verse",
+   "summary": "Write thirty lines of Huayan teaching, five lines a day for six days, then the full text on day seven.",
+   "highlights": [
+    "Pairs well with the Manuscript Grid theme",
+    "The first day is free"
+   ],
+   "days": [
+    {
+     "title": "Lines 1–5",
+     "prompt": "Write slowly, holding the thought that stillness is our original place."
+    },
+    {
+     "title": "Lines 6–10",
+     "prompt": "Bring to mind one person you are connected to."
+    },
+    {
+     "title": "Lines 11–15",
+     "prompt": "Remember the moment you first set your intention."
+    },
+    {
+     "title": "Lines 16–20",
+     "prompt": "Reflect on today through the thought that life and nirvana belong together."
+    },
+    {
+     "title": "Lines 21–25",
+     "prompt": "Write down one thought you would like to let rest."
+    },
+    {
+     "title": "Lines 26–30",
+     "prompt": "What does the home you want to return to today look like?"
+    },
+    {
+     "title": "Full Beopseongge",
+     "prompt": "After you finish, write down the line that stays with you the longest."
+    }
+   ]
+  }
+ },
+ {
+  "id": "seon14",
+  "kind": "plan",
+  "title": "옛 스님의 한마디 14일",
+  "subtitle": "선사들이 남긴 짧은 글",
+  "summary": "혜능과 임제, 원효와 지눌, 서산대사까지 옛 스님들이 남긴 짧은 글을 하루에 하나씩 씁니다.",
+  "symbol": "mountain.2",
+  "tint": "sky",
+  "highlights": [
+   "암송쓰기와 잘 맞아요",
+   "앞의 2일은 무료예요"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "recall",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "신수의 게송",
+    "passage": "bud.zen.sinsu",
+    "prompt": "오늘 털어 내고 싶은 먼지는 무엇인가요?"
+   },
+   {
+    "title": "혜능의 게송",
+    "passage": "bud.zen.huineng",
+    "prompt": "어제의 게송과 나란히 놓고 무엇이 다른지 적어 보세요."
+   },
+   {
+    "title": "선의 네 구절",
+    "passage": "bud.zen.dalma",
+    "prompt": "글보다 마음으로 전하고 싶은 것이 있나요?"
+   },
+   {
+    "title": "신심명 첫 구절",
+    "passage": "bud.zen.sinsim",
+    "prompt": "요즘 고르고 가리느라 지친 일이 있나요?"
+   },
+   {
+    "title": "증도가 첫 구절",
+    "passage": "bud.zen.jeungdo",
+    "prompt": "애써 구하지 않아도 되는 것 하나를 적어 보세요."
+   },
+   {
+    "title": "임제의 말",
+    "passage": "bud.zen.imje",
+    "prompt": "오늘 내가 주인이 되고 싶은 자리는 어디인가요?"
+   },
+   {
+    "title": "날마다 좋은 날",
+    "passage": "bud.zen.unmun",
+    "prompt": "오늘을 좋은 날로 부를 이유 하나를 적어 보세요."
+   },
+   {
+    "title": "무문관 서문 게송",
+    "passage": "bud.zen.mumun",
+    "prompt": "요즘 넘고 싶은 문턱이 있나요?"
+   },
+   {
+    "title": "평상심이 도",
+    "passage": "bud.zen.pyeongsang",
+    "prompt": "마음에 걸어 둔 일 하나를 내려놓아 보세요."
+   },
+   {
+    "title": "구름은 하늘에 물은 병에",
+    "passage": "bud.zen.yaksan",
+    "prompt": "지금 내 자리에 있는 것을 있는 그대로 적어 보세요."
+   },
+   {
+    "title": "발심수행장",
+    "passage": "bud.zen.wonhyo",
+    "prompt": "오늘 조금 내려놓을 수 있는 즐거움이 있나요?"
+   },
+   {
+    "title": "땅에서 일어서기",
+    "passage": "bud.zen.jinul",
+    "prompt": "넘어졌던 자리에서 다시 일어선 기억을 떠올려 보세요."
+   },
+   {
+    "title": "사흘 닦은 마음",
+    "passage": "bud.zen.yaun",
+    "prompt": "오늘 마음을 닦는 데 쓴 시간은 얼마인가요?"
+   },
+   {
+    "title": "한 물건",
+    "passage": "bud.zen.seosan",
+    "prompt": "이름 붙이지 않고 지금 마음을 가만히 바라보세요."
+   }
+  ],
+  "en": {
+   "title": "Words of Old Masters, 14 Days",
+   "subtitle": "Short writings from Zen masters",
+   "summary": "Write one short passage each day from old monks, from Huineng and Linji to Wonhyo, Jinul, and Master Seosan.",
+   "highlights": [
+    "Works well with Recall",
+    "The first 2 days are free"
+   ],
+   "days": [
+    {
+     "title": "Shenxiu's verse",
+     "prompt": "What dust would you like to brush away today?"
+    },
+    {
+     "title": "Huineng's verse",
+     "prompt": "Place it beside yesterday's verse and notice what feels different."
+    },
+    {
+     "title": "Four Zen lines",
+     "prompt": "Is there something you would rather share through the heart than through words?"
+    },
+    {
+     "title": "Opening of Xinxin Ming",
+     "prompt": "Is there anything you feel tired from choosing and judging lately?"
+    },
+    {
+     "title": "Opening of Zhengdao Ge",
+     "prompt": "Write down one thing you do not need to strive to find."
+    },
+    {
+     "title": "Linji's words",
+     "prompt": "Where would you like to stand as your own master today?"
+    },
+    {
+     "title": "Every day is good",
+     "prompt": "Write one reason to call today a good day."
+    },
+    {
+     "title": "Gateless Gate verse",
+     "prompt": "Is there a threshold you would like to cross lately?"
+    },
+    {
+     "title": "Ordinary mind is the way",
+     "prompt": "Gently let go of one thing your mind has been holding."
+    },
+    {
+     "title": "Clouds and water",
+     "prompt": "Write what is here in your place, just as it is."
+    },
+    {
+     "title": "Awakening the mind",
+     "prompt": "Is there a small pleasure you can set down today?"
+    },
+    {
+     "title": "Rising from the ground",
+     "prompt": "Recall a time you rose again from the place where you had fallen."
+    },
+    {
+     "title": "Three days of practice",
+     "prompt": "How much time did you spend tending your mind today?"
+    },
+    {
+     "title": "One thing",
+     "prompt": "Look quietly at your mind now, without giving it a name."
     }
    ]
   }
@@ -4826,437 +5570,5 @@
     }
    ]
   }
- },
- {
-  "id": "buddhistDaily",
-  "kind": "daily",
-  "title": "오늘의 한 구절",
-  "subtitle": "하루 한 구절",
-  "summary": "금강경, 화엄경, 법구경 같은 경전에서 고른 구절이 매일 바뀌어요. 유료 팩과 겹치지 않아 언제든 무료예요.",
-  "symbol": "sun.max",
-  "tint": "peach",
-  "highlights": [],
-  "previewDays": 0,
-  "recommendedMode": "trace",
-  "translationID": null,
-  "collection": "buddhist",
-  "includedModes": null,
-  "includedThemes": null,
-  "days": [
-   {
-    "title": "금강경 사구게",
-    "passage": "bud.d.geumgang1",
-    "prompt": "요즘 겉모습에 마음이 쏠린 일이 있나요?"
-   },
-   {
-    "title": "법구경",
-    "passage": "bud.d.beopgu1",
-    "prompt": "오늘 품은 선한 생각 하나를 적어 보세요."
-   },
-   {
-    "title": "화엄경 사구게",
-    "passage": "bud.d.hwaeom1",
-    "prompt": "오늘 내 마음이 지어낸 풍경은 어떤가요?"
-   },
-   {
-    "title": "팔정도",
-    "passage": "bud.d.paljeong",
-    "prompt": "여덟 가지 가운데 오늘 하나만 고른다면 무엇인가요?"
-   },
-   {
-    "title": "금강경 사구게",
-    "passage": "bud.d.geumgang2",
-    "prompt": "지나고 나니 꿈 같았던 일을 떠올려 보세요."
-   },
-   {
-    "title": "유마경",
-    "passage": "bud.d.yuma",
-    "prompt": "마음이 맑아지면 달라 보이는 것이 있나요?"
-   },
-   {
-    "title": "법구경",
-    "passage": "bud.d.beopgu5",
-    "prompt": "오늘 이미 넉넉한 것 하나를 적어 보세요."
-   },
-   {
-    "title": "육바라밀",
-    "passage": "bud.d.yukbara",
-    "prompt": "오늘 베풀 수 있는 작은 것 하나를 적어 보세요."
-   },
-   {
-    "title": "금강경",
-    "passage": "bud.d.geumgang3",
-    "prompt": "머무르지 않는 마음으로 할 수 있는 일 하나를 적어 보세요."
-   },
-   {
-    "title": "대승기신론",
-    "passage": "bud.d.gisin",
-    "prompt": "일어났다 사라진 생각 하나를 적어 보세요."
-   },
-   {
-    "title": "법구경",
-    "passage": "bud.d.beopgu3",
-    "prompt": "오늘 나를 이긴 작은 순간이 있었나요?"
-   },
-   {
-    "title": "사무량심",
-    "passage": "bud.d.samuryang",
-    "prompt": "오늘 함께 기뻐해 줄 사람이 있나요?"
-   },
-   {
-    "title": "금강경 사구게",
-    "passage": "bud.d.geumgang4",
-    "prompt": "보이는 것 너머에서 소중한 것을 찾아본 적이 있나요?"
-   },
-   {
-    "title": "설산 게송",
-    "passage": "bud.d.nibbana",
-    "prompt": "고요함이 즐거움이었던 순간을 떠올려 보세요."
-   },
-   {
-    "title": "유교경",
-    "passage": "bud.d.yugyo",
-    "prompt": "지금 가진 것 가운데 고마운 것 셋을 적어 보세요."
-   },
-   {
-    "title": "오계",
-    "passage": "bud.d.ogye",
-    "prompt": "지키고 싶은 약속 하나를 적어 보세요."
-   },
-   {
-    "title": "금강경",
-    "passage": "bud.d.geumgang5",
-    "prompt": "지금 이 순간 손에 쥔 것은 무엇인가요?"
-   },
-   {
-    "title": "화엄경",
-    "passage": "bud.d.hwaeom2",
-    "prompt": "오늘 마음이라는 붓으로 무엇을 그리고 싶나요?"
-   },
-   {
-    "title": "출요경",
-    "passage": "bud.d.beopgu2",
-    "prompt": "쉬게 해 주고 싶은 미움이 있나요?"
-   },
-   {
-    "title": "사성제",
-    "passage": "bud.d.sajeong",
-    "prompt": "요즘 괴로움의 원인을 하나 짚어 보세요."
-   },
-   {
-    "title": "금강경",
-    "passage": "bud.d.geumgang6",
-    "prompt": "강을 건넜는데도 지고 다니는 뗏목이 있나요?"
-   },
-   {
-    "title": "원각경",
-    "passage": "bud.d.wongak",
-    "prompt": "환영인 줄 알고 내려놓을 생각이 있나요?"
-   },
-   {
-    "title": "법구경",
-    "passage": "bud.d.beopgu4",
-    "prompt": "나에게 요긴한 한마디는 무엇인가요?"
-   },
-   {
-    "title": "보살의 길",
-    "passage": "bud.d.sanggu",
-    "prompt": "오늘 배우고 싶은 것 하나, 돕고 싶은 사람 하나를 적어 보세요."
-   },
-   {
-    "title": "금강경",
-    "passage": "bud.d.geumgang7",
-    "prompt": "오늘 참아 낸 일 하나를 적어 보세요."
-   },
-   {
-    "title": "법화경",
-    "passage": "bud.d.beophwa",
-    "prompt": "천천히 걷고 있는 나의 길은 어디쯤인가요?"
-   },
-   {
-    "title": "계경 게송",
-    "passage": "bud.d.gyegyeong",
-    "prompt": "참기 어려웠던 일을 조용히 떠올려 보세요."
-   },
-   {
-    "title": "육조단경",
-    "passage": "bud.d.dangyeong",
-    "prompt": "직접 겪어 보고서야 알게 된 것이 있나요?"
-   },
-   {
-    "title": "열반경",
-    "passage": "bud.d.bulseong",
-    "prompt": "오늘 만난 사람에게서 본 좋은 성품을 적어 보세요."
-   },
-   {
-    "title": "탄생게",
-    "passage": "bud.d.tansaeng",
-    "prompt": "여기서 나는 누구나 지닌 존귀한 생명으로 풀기도 해요. 나를 귀하게 여긴 순간은 언제인가요?"
-   }
-  ]
- },
- {
-  "id": "sagyeongStart5",
-  "kind": "plan",
-  "title": "사경 첫걸음 5일",
-  "subtitle": "짧은 게송부터 천천히",
-  "summary": "삼귀의와 사홍서원, 칠불통게처럼 짧고 익숙한 글로 사경을 시작합니다. 한글 독음, 한자 원문, 우리말 풀이 중에서 골라 쓸 수 있어요.",
-  "symbol": "leaf",
-  "tint": "sage",
-  "highlights": [
-   "끝까지 무료예요",
-   "한자 원문으로도 쓸 수 있어요"
-  ],
-  "previewDays": 0,
-  "recommendedMode": "trace",
-  "translationID": null,
-  "collection": "buddhist",
-  "includedModes": null,
-  "includedThemes": null,
-  "days": [
-   {
-    "title": "삼귀의",
-    "passage": "bud.samgwi",
-    "prompt": "오늘 내가 기대고 싶은 것은 무엇인가요?"
-   },
-   {
-    "title": "사홍서원",
-    "passage": "bud.sahong",
-    "prompt": "오늘 하나만 바란다면 무엇을 바라고 싶나요?"
-   },
-   {
-    "title": "칠불통게",
-    "passage": "bud.chilbul",
-    "prompt": "오늘 하지 않을 일 하나, 할 일 하나를 적어 보세요."
-   },
-   {
-    "title": "삼법인",
-    "passage": "bud.sambeop",
-    "prompt": "요즘 변해 가는 것 가운데 받아들이고 싶은 것이 있나요?"
-   },
-   {
-    "title": "연기의 가르침",
-    "passage": "bud.yeongi",
-    "prompt": "지금의 나를 있게 한 인연 하나를 떠올려 보세요."
-   }
-  ]
- },
- {
-  "id": "heartSutra10",
-  "kind": "plan",
-  "title": "반야심경 사경 10일",
-  "subtitle": "아홉 날 나눠 쓰고 열째 날 전체",
-  "summary": "마하반야바라밀다심경을 아홉 대목으로 나눠 쓰고, 마지막 날에는 처음부터 끝까지 한 번에 씁니다.",
-  "symbol": "moon",
-  "tint": "lavender",
-  "highlights": [
-   "한자 사경도 할 수 있어요",
-   "앞의 2일은 무료예요"
-  ],
-  "previewDays": 2,
-  "recommendedMode": "trace",
-  "translationID": null,
-  "collection": "buddhist",
-  "includedModes": null,
-  "includedThemes": null,
-  "days": [
-   {
-    "title": "반야심경 1",
-    "passage": "bud.heart.1",
-    "prompt": "쓰기 전에 숨을 세 번 고르고 시작해 보세요."
-   },
-   {
-    "title": "반야심경 2",
-    "passage": "bud.heart.2",
-    "prompt": "오늘 붙잡고 있던 생각 하나를 내려놓아 보세요."
-   },
-   {
-    "title": "반야심경 3",
-    "passage": "bud.heart.3",
-    "prompt": "늘지도 줄지도 않는다는 말이 위로가 되는 일이 있나요?"
-   },
-   {
-    "title": "반야심경 4",
-    "passage": "bud.heart.4",
-    "prompt": "눈, 귀, 코, 혀, 몸, 뜻 가운데 오늘 가장 바쁘게 쓴 것은 무엇인가요?"
-   },
-   {
-    "title": "반야심경 5",
-    "passage": "bud.heart.5",
-    "prompt": "얻으려 애쓰던 것 하나를 떠올려 보세요."
-   },
-   {
-    "title": "반야심경 6",
-    "passage": "bud.heart.6",
-    "prompt": "마음에 걸림이 없다면 오늘 무엇을 하고 싶나요?"
-   },
-   {
-    "title": "반야심경 7",
-    "passage": "bud.heart.7",
-    "prompt": "한 글자씩, 쓰는 손에 마음을 모아 보세요."
-   },
-   {
-    "title": "반야심경 8",
-    "passage": "bud.heart.8",
-    "prompt": "나를 편하게 해 주는 말 한마디를 적어 보세요."
-   },
-   {
-    "title": "반야심경 9",
-    "passage": "bud.heart.9",
-    "prompt": "주문은 뜻보다 소리 그대로 외우는 전통이 있어요. 소리 내어 한 번 읽어 보세요."
-   },
-   {
-    "title": "반야심경 전체",
-    "passage": "bud.heart.all",
-    "prompt": "처음부터 끝까지 쓰고 나서 마음이 어떤지 적어 보세요."
-   }
-  ]
- },
- {
-  "id": "beopseong7",
-  "kind": "plan",
-  "title": "법성게 7일",
-  "subtitle": "의상대사의 210자",
-  "summary": "화엄의 뜻을 담은 서른 구절을 다섯 구절씩 여섯 날에 나눠 쓰고, 일곱째 날에 전체를 씁니다.",
-  "symbol": "circle.hexagongrid",
-  "tint": "mustard",
-  "highlights": [
-   "원고지 테마와 잘 맞아요",
-   "첫날은 무료예요"
-  ],
-  "previewDays": 1,
-  "recommendedMode": "copy",
-  "translationID": null,
-  "collection": "buddhist",
-  "includedModes": null,
-  "includedThemes": null,
-  "days": [
-   {
-    "title": "법성게 1–5구",
-    "passage": "bud.beopseong.1",
-    "prompt": "고요함이 본래 자리라는 말을 떠올리며 천천히 써 보세요."
-   },
-   {
-    "title": "법성게 6–10구",
-    "passage": "bud.beopseong.2",
-    "prompt": "나와 이어진 사람 하나를 떠올려 보세요."
-   },
-   {
-    "title": "법성게 11–15구",
-    "passage": "bud.beopseong.3",
-    "prompt": "처음 마음을 냈던 순간을 떠올려 보세요."
-   },
-   {
-    "title": "법성게 16–20구",
-    "passage": "bud.beopseong.4",
-    "prompt": "삶과 열반이 함께 어우러진다는 말을 오늘 하루에 비추어 보세요."
-   },
-   {
-    "title": "법성게 21–25구",
-    "passage": "bud.beopseong.5",
-    "prompt": "쉬고 싶은 생각 하나를 적어 보세요."
-   },
-   {
-    "title": "법성게 26–30구",
-    "passage": "bud.beopseong.6",
-    "prompt": "오늘 돌아가고 싶은 집은 어떤 모습인가요?"
-   },
-   {
-    "title": "법성게 전체",
-    "passage": "bud.beopseong.all",
-    "prompt": "다 쓰고 나서 가장 오래 남는 구절을 적어 보세요."
-   }
-  ]
- },
- {
-  "id": "seon14",
-  "kind": "plan",
-  "title": "옛 스님의 한마디 14일",
-  "subtitle": "선사들이 남긴 짧은 글",
-  "summary": "혜능과 임제, 원효와 지눌, 서산대사까지 옛 스님들이 남긴 짧은 글을 하루에 하나씩 씁니다.",
-  "symbol": "mountain.2",
-  "tint": "sky",
-  "highlights": [
-   "암송쓰기와 잘 맞아요",
-   "앞의 2일은 무료예요"
-  ],
-  "previewDays": 2,
-  "recommendedMode": "recall",
-  "translationID": null,
-  "collection": "buddhist",
-  "includedModes": null,
-  "includedThemes": null,
-  "days": [
-   {
-    "title": "신수의 게송",
-    "passage": "bud.zen.sinsu",
-    "prompt": "오늘 털어 내고 싶은 먼지는 무엇인가요?"
-   },
-   {
-    "title": "혜능의 게송",
-    "passage": "bud.zen.huineng",
-    "prompt": "어제의 게송과 나란히 놓고 무엇이 다른지 적어 보세요."
-   },
-   {
-    "title": "선의 네 구절",
-    "passage": "bud.zen.dalma",
-    "prompt": "글보다 마음으로 전하고 싶은 것이 있나요?"
-   },
-   {
-    "title": "신심명 첫 구절",
-    "passage": "bud.zen.sinsim",
-    "prompt": "요즘 고르고 가리느라 지친 일이 있나요?"
-   },
-   {
-    "title": "증도가 첫 구절",
-    "passage": "bud.zen.jeungdo",
-    "prompt": "애써 구하지 않아도 되는 것 하나를 적어 보세요."
-   },
-   {
-    "title": "임제의 말",
-    "passage": "bud.zen.imje",
-    "prompt": "오늘 내가 주인이 되고 싶은 자리는 어디인가요?"
-   },
-   {
-    "title": "날마다 좋은 날",
-    "passage": "bud.zen.unmun",
-    "prompt": "오늘을 좋은 날로 부를 이유 하나를 적어 보세요."
-   },
-   {
-    "title": "무문관 서문 게송",
-    "passage": "bud.zen.mumun",
-    "prompt": "요즘 넘고 싶은 문턱이 있나요?"
-   },
-   {
-    "title": "평상심이 도",
-    "passage": "bud.zen.pyeongsang",
-    "prompt": "마음에 걸어 둔 일 하나를 내려놓아 보세요."
-   },
-   {
-    "title": "구름은 하늘에 물은 병에",
-    "passage": "bud.zen.yaksan",
-    "prompt": "지금 내 자리에 있는 것을 있는 그대로 적어 보세요."
-   },
-   {
-    "title": "발심수행장",
-    "passage": "bud.zen.wonhyo",
-    "prompt": "오늘 조금 내려놓을 수 있는 즐거움이 있나요?"
-   },
-   {
-    "title": "땅에서 일어서기",
-    "passage": "bud.zen.jinul",
-    "prompt": "넘어졌던 자리에서 다시 일어선 기억을 떠올려 보세요."
-   },
-   {
-    "title": "사흘 닦은 마음",
-    "passage": "bud.zen.yaun",
-    "prompt": "오늘 마음을 닦는 데 쓴 시간은 얼마인가요?"
-   },
-   {
-    "title": "한 물건",
-    "passage": "bud.zen.seosan",
-    "prompt": "이름 붙이지 않고 지금 마음을 가만히 바라보세요."
-   }
-  ]
  }
 ]
