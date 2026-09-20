@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "c8b281ce58e8",
- "generated_at": "2026-09-19T17:18:52Z",
+ "version": "853a0fd8d989",
+ "generated_at": "2026-09-20T14:49:58Z",
  "entries": [
   {
    "id": "books.json",
@@ -54,8 +54,8 @@
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "a9ccee7b760ae8c998972ce15eaae4b69b730194b034d98e23e151f03faeae5c",
-   "size": 120094
+   "checksum_sha256": "829550109d02baf002e5ff9568af889a124fa5347cdce8392603e8bda1506df8",
+   "size": 120100
   },
   {
    "id": "life.json",
