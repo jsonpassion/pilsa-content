@@ -37,9 +37,9 @@ def main():
     names = Counter(p.name for p in CONTENT.rglob("*") if p.is_file())
     problems += [f"같은 파일 이름이 여러 곳에 있음: {name}" for name, count in names.items() if count > 1]
 
-    verses = {tid: data.get(f"bible/{tid}.json", {}).get("verses", {}) for tid in ("krv", "kjv", "dra")}
+    verses = {tid: data.get(f"bible/{tid}.json", {}).get("verses", {}) for tid in ("krv", "bsb", "kjv", "dra")}
     collections = {"affirm": data.get("collections/affirmations.json", {}).get("items", {}), "buddhist": data.get("collections/buddhist.json", {}).get("items", {}), "life": data.get("collections/life.json", {}).get("items", {})}
-    bible_translations = {"bible": ["krv", "kjv"], "catholic": ["dra"]}
+    bible_translations = {"bible": ["krv", "bsb", "kjv"], "catholic": ["dra"]}
     for pack in data.get("kr/packs.json", []):
         collection = pack.get("collection", "bible")
         for day in pack.get("days", []):

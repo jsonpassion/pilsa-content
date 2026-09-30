@@ -17,6 +17,7 @@ content/
 │   ├── books.json          # 성경 책 이름 (한글, 영어)
 │   ├── krv.json            # 개역한글 (1961) 전체 본문
 │   ├── kjv.json            # King James Version 전체 본문
+│   ├── bsb.json            # Berean Standard Bible 전체 본문 (요즘 영어)
 │   ├── dra.json            # Douay-Rheims 전체 본문 (천주교)
 │   ├── books_catholic.json # 천주교 책 이름과 약어 73권
 │   ├── glossary_dra.json   # Douay-Rheims 옛 영어 단어장
@@ -40,10 +41,11 @@ tools/
 |---|---|---|
 | KJV | eBible.org `eng-kjv2006_vpl.zip` (1769 표준본, 외경 없음) | 인쇄본의 기울임 표시 [ ]와 문단 표시 ¶를 빼고 단어는 그대로 둠 |
 | 개역한글 | SourceForge Zefania `SF_2022-09-19_KOR_KORRV` (위키문헌 기반 1952/1961) | 그대로 둠. 본문 속 [ ]는 개역한글 인쇄본에 있는 표시라 남김 |
+| BSB | eBible.org `engbsb_vpl.zip` (2026-08-08판, 2026-09-27 받음). 시편 표제는 `engbsb_usfm.zip`의 `\d` 줄 | 그대로 둠. 사본 비평 본문이라 KJV에 있는 16절이 비어 있다: MAT.17.21, MAT.18.11, MAT.23.14, MRK.7.16, MRK.9.44, MRK.9.46, MRK.11.26, MRK.15.28, LUK.17.36, LUK.23.17, JHN.5.4, ACT.8.37, ACT.15.34, ACT.24.7, ACT.28.29, ROM.16.24. 팩에 쓰지 않는다 |
 | Douay-Rheims | eBible.org `engDRA_vpl.zip` (1899 미국판, Challoner 본문, 73권) | 그대로 둠. 시편은 불가타 번호. 천주교 사용자에게만 보인다 |
 
-- 두 역본 모두 시편 표제(다윗의 시, A Psalm of David.)를 1절에서 떼어 `titles`에 둔다 (116편).
-- 변환: 앱 저장소의 `tools/import_bible.py` (zefania, vpl 형식).
+- 개역한글, KJV, BSB 모두 시편 표제(다윗의 시, A Psalm of David.)를 1절에서 떼어 `titles`에 둔다 (116편).
+- 변환: 앱 저장소의 `tools/import_bible.py` (zefania, vpl 형식. BSB는 `--titles-usfm`로 표제를 뗀다).
 - 개역한글 원본에 빠진 절 19개: 2CO.13.14, ACT.15.26, ACT.15.34, ACT.28.29, ACT.8.37, EZK.24.5, ISA.30.2, ISA.48.2, JER.21.2, LUK.17.36, LUK.23.17, MAT.18.11, MRK.11.26, MRK.15.28, MRK.9.44, MRK.9.46, PSA.72.20, ROM.16.24, ROM.9.2. 앞뒤 절에 합쳐졌을 수 있어 팩에 쓰지 않는다.
 - 원본 오탈자 수정: PSA.121.7 원본의 "여호와께 너를 지켜"를 개역한글 인쇄본대로 "여호와께서 너를 지켜"로 고쳤다 (2026-09-15, 소유자 확인). 이 절 말고는 원본 그대로다.
 
@@ -61,7 +63,7 @@ tools/
 
 ## 낭독 파일
 
-- 영어(`en_`, `kjv_`, `dra_`): Kokoro-82M bf_emma. 한국어(`ko_`, `krv_`, `plain_`): OpenAI gpt-4o-mini-tts cedar, 받아쓰기로 원문 대조.
+- 영어(`en_`, `kjv_`, `bsb_`, `dra_`): Kokoro-82M bf_emma. 한국어(`ko_`, `krv_`, `plain_`): OpenAI gpt-4o-mini-tts cedar, 받아쓰기로 원문 대조.
 
 ## 올리는 순서
 
@@ -78,5 +80,6 @@ tools/
 ## 저작권
 
 - 개역한글(1961)과 King James Version 본문은 퍼블릭 도메인이다. KJV는 영국에서는 왕실 특허 대상이다.
+- Berean Standard Bible은 2023-04-30부터 퍼블릭 도메인이다 (https://berean.bible/licensing.htm, 상업적 이용 가능, 출처 표기는 권장). 본문을 고치지 않으면 Berean 이름을 붙여도 된다 (https://berean.bible/terms.htm).
 - 확언 문장, 한글 뜻, 단어 풀이, 팩 구성, 낭독 파일은 ForgeLab이 만들었다. 저장소는 앱 동기화를 위해 공개하며, 무단 복제와 재배포를 허용하지 않는다.
 - 낭독 파일은 Kokoro-82M(Apache-2.0) 음성 모델로 만든 합성 음성이다.
