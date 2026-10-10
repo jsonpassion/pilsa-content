@@ -577,6 +577,13 @@
    "하루 5분이면 충분해요",
    "끝까지 무료예요"
   ],
+  "tags": [
+   "시편",
+   "목자",
+   "위로",
+   "평안",
+   "짧은 글"
+  ],
   "previewDays": 0,
   "recommendedMode": "trace",
   "translationID": null,
@@ -628,6 +635,13 @@
     "Five minutes a day is enough",
     "Free to the end"
    ],
+   "tags": [
+    "Psalms",
+    "shepherd",
+    "comfort",
+    "peace",
+    "short"
+   ],
    "days": [
     {
      "title": "My Shepherd",
@@ -671,6 +685,14 @@
   "highlights": [
    "잠들기 전에 쓰기 좋아요",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "위로",
+   "쉼",
+   "지친 날",
+   "잠들기 전",
+   "평안",
+   "불안할 때"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -758,6 +780,14 @@
     "Good to write before bed",
     "The first 3 days are free"
    ],
+   "tags": [
+    "comfort",
+    "rest",
+    "weary days",
+    "bedtime",
+    "peace",
+    "anxiety"
+   ],
    "days": [
     {
      "title": "Come to me",
@@ -830,6 +860,13 @@
    "암송쓰기와 잘 맞아요",
    "앞의 2일은 무료예요"
   ],
+  "tags": [
+   "팔복",
+   "산상수훈",
+   "마태복음",
+   "복",
+   "암송"
+  ],
   "previewDays": 2,
   "recommendedMode": "recall",
   "translationID": null,
@@ -886,6 +923,13 @@
     "Pairs well with Recall",
     "The first 2 days are free"
    ],
+   "tags": [
+    "Beatitudes",
+    "Sermon on the Mount",
+    "Matthew",
+    "blessing",
+    "memorize"
+   ],
    "days": [
     {
      "title": "Poor in spirit",
@@ -933,6 +977,13 @@
   "highlights": [
    "원고지 테마와 잘 맞아요",
    "첫날은 무료예요"
+  ],
+  "tags": [
+   "시편",
+   "찬양",
+   "기도",
+   "다윗",
+   "원고지"
   ],
   "previewDays": 1,
   "recommendedMode": "copy",
@@ -990,6 +1041,13 @@
     "Pairs well with the Manuscript Grid theme",
     "The first day is free"
    ],
+   "tags": [
+    "Psalms",
+    "praise",
+    "prayer",
+    "David",
+    "manuscript paper"
+   ],
    "days": [
     {
      "title": "Blessed is the man",
@@ -1037,6 +1095,13 @@
   "highlights": [
    "아침 5분에 알맞아요",
    "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "지혜",
+   "잠언",
+   "미가서",
+   "아침",
+   "삶의 원칙"
   ],
   "previewDays": 2,
   "recommendedMode": "copy",
@@ -1094,6 +1159,13 @@
     "Good for 5 minutes in the morning",
     "The first 2 days are free"
    ],
+   "tags": [
+    "wisdom",
+    "Proverbs",
+    "Micah",
+    "morning",
+    "life principles"
+   ],
    "days": [
     {
      "title": "The beginning of knowledge",
@@ -1141,6 +1213,13 @@
   "highlights": [
    "카드로 선물하기 좋아요",
    "첫날은 무료예요"
+  ],
+  "tags": [
+   "사랑",
+   "고린도전서",
+   "결혼",
+   "선물",
+   "가족"
   ],
   "previewDays": 1,
   "recommendedMode": "trace",
@@ -1193,6 +1272,13 @@
     "Good to give as a card",
     "The first day is free"
    ],
+   "tags": [
+    "love",
+    "1 Corinthians",
+    "wedding",
+    "gift",
+    "family"
+   ],
    "days": [
     {
      "title": "Without charity",
@@ -1236,6 +1322,13 @@
   "highlights": [
    "영어 학습 모드가 들어 있어요",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "영어",
+   "KJV",
+   "영어 성경",
+   "영어 공부",
+   "유명한 구절"
   ],
   "previewDays": 3,
   "recommendedMode": "bilingual",
@@ -1359,6 +1452,13 @@
    "highlights": [
     "Includes read-aloud",
     "The first 3 days are free"
+   ],
+   "tags": [
+    "English",
+    "KJV",
+    "English Bible",
+    "language study",
+    "famous verses"
    ],
    "days": [
     {
@@ -1757,6 +1857,13 @@
    "끝까지 무료예요",
    "영어 학습 모드를 써 볼 수 있어요"
   ],
+  "tags": [
+   "영어 확언",
+   "쉬운 영어",
+   "시작",
+   "자신감",
+   "짧은 글"
+  ],
   "previewDays": 0,
   "recommendedMode": "bilingual",
   "translationID": "en",
@@ -1809,6 +1916,13 @@
     "Free to the end",
     "Write with read-aloud"
    ],
+   "tags": [
+    "affirmations",
+    "easy English",
+    "beginning",
+    "confidence",
+    "short"
+   ],
    "days": [
     {
      "title": "First line",
@@ -1853,6 +1967,12 @@
    "끝까지 무료예요",
    "기승전결이 있는 한 페이지 글"
   ],
+  "tags": [
+   "영어 확언",
+   "이야기",
+   "한 페이지",
+   "영어 공부"
+  ],
   "previewDays": 0,
   "recommendedMode": "bilingual",
   "translationID": "en",
@@ -1886,6 +2006,12 @@
     "Free from start to finish",
     "One-page writings with a beginning, middle, and end"
    ],
+   "tags": [
+    "affirmations",
+    "story",
+    "one page",
+    "language study"
+   ],
    "days": [
     {
      "title": "Morning after rain",
@@ -1915,6 +2041,14 @@
    "영어 학습 모드가 들어 있어요",
    "크라프트 노트 테마를 함께 드려요",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "영어 확언",
+   "자신감",
+   "마음",
+   "습관",
+   "영어 공부",
+   "한 달"
   ],
   "previewDays": 3,
   "recommendedMode": "bilingual",
@@ -2085,6 +2219,14 @@
     "Includes read-aloud",
     "Comes with the Kraft Notebook theme",
     "The first 3 days are free"
+   ],
+   "tags": [
+    "affirmations",
+    "confidence",
+    "mind",
+    "habit",
+    "language study",
+    "one month"
    ],
    "days": [
     {
@@ -2635,6 +2777,13 @@
    "끝까지 무료예요",
    "영어 학습 모드를 써 볼 수 있어요"
   ],
+  "tags": [
+   "주님의 기도",
+   "기도",
+   "영어",
+   "Douay-Rheims",
+   "짧은 글"
+  ],
   "previewDays": 0,
   "recommendedMode": "trace",
   "translationID": "dra",
@@ -2678,6 +2827,13 @@
     "Free to the end",
     "Write with read-aloud"
    ],
+   "tags": [
+    "Lord's Prayer",
+    "prayer",
+    "English",
+    "Douay-Rheims",
+    "short"
+   ],
    "days": [
     {
      "title": "Our Father",
@@ -2713,6 +2869,13 @@
   "highlights": [
    "영어 학습 모드가 들어 있어요",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "복음",
+   "영어",
+   "Douay-Rheims",
+   "예수님 말씀",
+   "영어 공부"
   ],
   "previewDays": 3,
   "recommendedMode": "bilingual",
@@ -2837,6 +3000,13 @@
     "Includes read-aloud",
     "The first 3 days are free"
    ],
+   "tags": [
+    "Gospels",
+    "English",
+    "Douay-Rheims",
+    "words of Jesus",
+    "language study"
+   ],
    "days": [
     {
      "title": "In the beginning",
@@ -2937,6 +3107,13 @@
    "제2경전에서만 만나는 구절",
    "앞의 2일은 무료예요"
   ],
+  "tags": [
+   "지혜서",
+   "집회서",
+   "토빗기",
+   "제2경전",
+   "지혜"
+  ],
   "previewDays": 2,
   "recommendedMode": "trace",
   "translationID": "dra",
@@ -2992,6 +3169,13 @@
    "highlights": [
     "Verses from the deuterocanonical books",
     "The first 2 days are free"
+   ],
+   "tags": [
+    "Wisdom",
+    "Sirach",
+    "Tobit",
+    "deuterocanonical",
+    "wisdom"
    ],
    "days": [
     {
@@ -3792,6 +3976,14 @@
   "highlights": [
    "끝까지 무료예요"
   ],
+  "tags": [
+   "사경",
+   "삼귀의",
+   "사홍서원",
+   "칠불통게",
+   "삼법인",
+   "입문"
+  ],
   "previewDays": 0,
   "recommendedMode": "trace",
   "translationID": null,
@@ -3832,6 +4024,14 @@
    "highlights": [
     "Free all the way"
    ],
+   "tags": [
+    "sutra copying",
+    "Three Refuges",
+    "Four Great Vows",
+    "Seven Buddhas' Verse",
+    "Three Marks",
+    "beginner"
+   ],
    "days": [
     {
      "title": "Three Refuges",
@@ -3866,6 +4066,14 @@
   "tint": "lavender",
   "highlights": [
    "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "반야심경",
+   "심경",
+   "공",
+   "지혜",
+   "독송",
+   "마음공부"
   ],
   "previewDays": 2,
   "recommendedMode": "trace",
@@ -3932,6 +4140,14 @@
    "highlights": [
     "The first 2 days are free"
    ],
+   "tags": [
+    "Heart Sutra",
+    "emptiness",
+    "wisdom",
+    "chanting",
+    "mind training",
+    "prajna"
+   ],
    "days": [
     {
      "title": "Heart Sutra 1",
@@ -3988,6 +4204,14 @@
    "원고지 테마와 잘 맞아요",
    "첫날은 무료예요"
   ],
+  "tags": [
+   "법성게",
+   "의상대사",
+   "화엄",
+   "화엄경",
+   "법계도",
+   "독송"
+  ],
   "previewDays": 1,
   "recommendedMode": "copy",
   "translationID": null,
@@ -4039,6 +4263,14 @@
     "Pairs well with the Manuscript Grid theme",
     "The first day is free"
    ],
+   "tags": [
+    "Beopseongge",
+    "Uisang",
+    "Huayan",
+    "Avatamsaka",
+    "Dharma Realm",
+    "chanting"
+   ],
    "days": [
     {
      "title": "Lines 1–5",
@@ -4082,6 +4314,14 @@
   "highlights": [
    "암송쓰기와 잘 맞아요",
    "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "선",
+   "선사",
+   "깨달음",
+   "짧은 글",
+   "혜능",
+   "화두"
   ],
   "previewDays": 2,
   "recommendedMode": "recall",
@@ -4169,6 +4409,14 @@
     "Works well with Recall",
     "The first 2 days are free"
    ],
+   "tags": [
+    "Zen",
+    "Seon masters",
+    "awakening",
+    "short passages",
+    "Huineng",
+    "koan"
+   ],
    "days": [
     {
      "title": "Shenxiu's verse",
@@ -4241,6 +4489,13 @@
    "하루 한 구절, 열흘",
    "앞의 2일은 무료예요"
   ],
+  "tags": [
+   "감사",
+   "고마움",
+   "기쁨",
+   "추수감사",
+   "찬양"
+  ],
   "previewDays": 2,
   "recommendedMode": "trace",
   "translationID": null,
@@ -4307,6 +4562,13 @@
     "One verse a day for ten days",
     "The first 2 days are free"
    ],
+   "tags": [
+    "gratitude",
+    "thanks",
+    "joy",
+    "Thanksgiving",
+    "praise"
+   ],
    "days": [
     {
      "title": "Do not forget",
@@ -4362,6 +4624,13 @@
   "highlights": [
    "마태복음 5-7장",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "산상수훈",
+   "마태복음",
+   "예수님 말씀",
+   "가르침",
+   "주기도문"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -4449,6 +4718,13 @@
     "Matthew 5-7",
     "The first 3 days are free"
    ],
+   "tags": [
+    "Sermon on the Mount",
+    "Matthew",
+    "words of Jesus",
+    "teaching",
+    "Lord's Prayer"
+   ],
    "days": [
     {
      "title": "Salt of the earth",
@@ -4521,6 +4797,13 @@
    "짧고 단단한 열 문장",
    "앞의 2일은 무료예요"
   ],
+  "tags": [
+   "잠언",
+   "지혜",
+   "짧은 글",
+   "말",
+   "삶의 원칙"
+  ],
   "previewDays": 2,
   "recommendedMode": "trace",
   "translationID": null,
@@ -4587,6 +4870,13 @@
     "Ten short, sturdy lines",
     "The first 2 days are free"
    ],
+   "tags": [
+    "Proverbs",
+    "wisdom",
+    "short",
+    "speech",
+    "life principles"
+   ],
    "days": [
     {
      "title": "He gives wisdom",
@@ -4632,6 +4922,705 @@
   }
  },
  {
+  "id": "iAm7",
+  "kind": "plan",
+  "title": "예수님의 일곱 이름 7일",
+  "subtitle": "요한복음의 '나는' 말씀",
+  "summary": "요한복음에서 예수님이 '나는'으로 시작하신 말씀을 이레 동안 씁니다. 생명의 떡으로 시작해 참 포도나무로 마칩니다.",
+  "symbol": "sparkles",
+  "tint": "mustard",
+  "highlights": [
+   "요한복음 6장에서 15장까지",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "요한복음",
+   "예수님",
+   "나는",
+   "묵상",
+   "믿음",
+   "생명"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "생명의 떡",
+    "passage": "JHN.6.35",
+    "prompt": "요즘 내 마음이 배고파하는 것은 무엇인가요?"
+   },
+   {
+    "title": "아브라함 전부터",
+    "passage": "JHN.8.58",
+    "prompt": "늘 변함없이 계신다는 말이 오늘 어떻게 들리나요?"
+   },
+   {
+    "title": "세상의 빛",
+    "passage": "JHN.9.5",
+    "prompt": "오늘 나를 비춰 준 작은 빛은 무엇이었나요?"
+   },
+   {
+    "title": "양의 문",
+    "passage": "JHN.10.9",
+    "prompt": "마음 놓고 드나들며 쉴 수 있는 곳이 있나요?"
+   },
+   {
+    "title": "선한 목자",
+    "passage": "JHN.10.14-15",
+    "prompt": "누군가 나를 잘 안다고 느낀 순간이 있나요?"
+   },
+   {
+    "title": "부활이요 생명",
+    "passage": "JHN.11.25-26",
+    "prompt": "'이것을 네가 믿느냐'는 물음에 오늘 어떻게 답하고 싶나요?"
+   },
+   {
+    "title": "참 포도나무",
+    "passage": "JHN.15.1-2",
+    "prompt": "요즘 내 안에서 다듬어지고 있는 것은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The I Am Sayings, 7 Days",
+   "subtitle": "Jesus in the Gospel of John",
+   "summary": "Seven days with the sayings in John where Jesus begins with “I am,” from the bread of life to the true vine.",
+   "highlights": [
+    "John 6 to 15",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "John",
+    "Jesus",
+    "I am",
+    "Meditation",
+    "Faith",
+    "Life"
+   ],
+   "days": [
+    {
+     "title": "The bread of life",
+     "prompt": "What has your heart been hungry for lately?"
+    },
+    {
+     "title": "Before Abraham was",
+     "prompt": "How does it sound today that he has always been?"
+    },
+    {
+     "title": "The light of the world",
+     "prompt": "What small light shone on you today?"
+    },
+    {
+     "title": "The door",
+     "prompt": "Where can you come and go and find rest?"
+    },
+    {
+     "title": "The good shepherd",
+     "prompt": "When have you felt truly known by someone?"
+    },
+    {
+     "title": "The resurrection and the life",
+     "prompt": "How would you answer “Do you believe this?” today?"
+    },
+    {
+     "title": "The true vine",
+     "prompt": "What is being pruned and shaped in you these days?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "romans8",
+  "kind": "plan",
+  "title": "로마서 8장 10일",
+  "subtitle": "아무것도 끊을 수 없는 사랑",
+  "summary": "정죄함이 없다는 말씀으로 시작해 하나님의 사랑에서 끊을 수 없다는 고백으로 마치는 로마서 8장을 열흘 동안 씁니다.",
+  "symbol": "heart",
+  "tint": "lavender",
+  "highlights": [
+   "한 장을 열흘에 나눠",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "로마서",
+   "위로",
+   "성령",
+   "소망",
+   "힘들 때",
+   "하나님의 사랑"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "정죄함이 없나니",
+    "passage": "ROM.8.1-2",
+    "prompt": "스스로를 탓하던 마음을 오늘 조금 내려놓을 수 있을까요?"
+   },
+   {
+    "title": "생명과 평안",
+    "passage": "ROM.8.5-6",
+    "prompt": "요즘 내 생각이 가장 자주 머무는 곳은 어디인가요?"
+   },
+   {
+    "title": "아바 아버지",
+    "passage": "ROM.8.14-15",
+    "prompt": "하나님을 아버지라고 부를 때 어떤 마음이 드나요?"
+   },
+   {
+    "title": "하나님의 자녀",
+    "passage": "ROM.8.16-17",
+    "prompt": "내가 누구의 자녀인지 떠올리면 무엇이 달라지나요?"
+   },
+   {
+    "title": "장차 나타날 영광",
+    "passage": "ROM.8.18",
+    "prompt": "지금의 어려움을 조금 멀리서 보면 어떻게 보이나요?"
+   },
+   {
+    "title": "보이지 않는 소망",
+    "passage": "ROM.8.24-25",
+    "prompt": "아직 보이지 않지만 기다리고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "말할 수 없는 탄식",
+    "passage": "ROM.8.26-27",
+    "prompt": "말로 다 하지 못한 기도가 있나요?"
+   },
+   {
+    "title": "우리를 위하시면",
+    "passage": "ROM.8.31-32",
+    "prompt": "누군가 내 편이 되어 준다고 느낀 때는 언제였나요?"
+   },
+   {
+    "title": "누가 끊으리요",
+    "passage": "ROM.8.35",
+    "prompt": "사랑에서 멀어진 것처럼 느껴지는 일이 요즘 있나요?"
+   },
+   {
+    "title": "넉넉히 이기느니라",
+    "passage": "ROM.8.37-39",
+    "prompt": "열흘 동안 가장 오래 마음에 남은 구절은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "Romans 8, 10 Days",
+   "subtitle": "A love nothing can separate",
+   "summary": "Ten days through Romans 8, from “no condemnation” to the love of God nothing can separate us from.",
+   "highlights": [
+    "One chapter over ten days",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Romans",
+    "Comfort",
+    "Holy Spirit",
+    "Hope",
+    "Hard times",
+    "God's love"
+   ],
+   "days": [
+    {
+     "title": "No condemnation",
+     "prompt": "Could you set down a little of your self-blame today?"
+    },
+    {
+     "title": "Life and peace",
+     "prompt": "Where do your thoughts rest most often these days?"
+    },
+    {
+     "title": "Abba, Father",
+     "prompt": "What do you feel when you call God Father?"
+    },
+    {
+     "title": "Children of God",
+     "prompt": "What changes when you remember whose child you are?"
+    },
+    {
+     "title": "The glory to come",
+     "prompt": "How does today's hardship look from a little farther away?"
+    },
+    {
+     "title": "Hope unseen",
+     "prompt": "What are you waiting for that you cannot yet see?"
+    },
+    {
+     "title": "Groans too deep for words",
+     "prompt": "Is there a prayer you could not put into words?"
+    },
+    {
+     "title": "If God is for us",
+     "prompt": "When did you last feel someone was on your side?"
+    },
+    {
+     "title": "Who shall separate us",
+     "prompt": "Is anything making you feel far from love lately?"
+    },
+    {
+     "title": "More than conquerors",
+     "prompt": "Which line from these ten days stayed with you the longest?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "isaiah14",
+  "kind": "plan",
+  "title": "이사야의 위로 14일",
+  "subtitle": "내 백성을 위로하라",
+  "summary": "이사야 40장의 '위로하라'에서 시작해 재 대신 화관을 주시는 61장까지, 위로의 말씀을 열나흘 동안 씁니다.",
+  "symbol": "cloud.sun",
+  "tint": "peach",
+  "highlights": [
+   "마음이 지친 날에",
+   "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "이사야",
+   "위로",
+   "회복",
+   "지칠 때",
+   "새로운 시작",
+   "소망"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "위로하라",
+    "passage": "ISA.40.1-2",
+    "prompt": "오늘 위로가 가장 필요한 사람은 누구인가요?"
+   },
+   {
+    "title": "품에 안으시며",
+    "passage": "ISA.40.11",
+    "prompt": "누군가의 품처럼 편안했던 기억이 있나요?"
+   },
+   {
+    "title": "오른손을 붙들고",
+    "passage": "ISA.41.13",
+    "prompt": "오늘 누군가 손을 잡아 주었으면 하는 일이 있나요?"
+   },
+   {
+    "title": "상한 갈대",
+    "passage": "ISA.42.3",
+    "prompt": "꺾일 것 같았는데 지켜진 순간이 있었나요?"
+   },
+   {
+    "title": "보배롭고 존귀하게",
+    "passage": "ISA.43.4",
+    "prompt": "나를 소중히 여겨 준 사람은 누구인가요?"
+   },
+   {
+    "title": "새 일을 행하리니",
+    "passage": "ISA.43.18-19",
+    "prompt": "지난 일 가운데 이제 놓아주고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "백발이 되기까지",
+    "passage": "ISA.46.4",
+    "prompt": "오랫동안 변함없이 나를 지켜 준 것은 무엇인가요?"
+   },
+   {
+    "title": "손바닥에 새겼고",
+    "passage": "ISA.49.15-16",
+    "prompt": "잊히지 않았다고 느낀 때가 있나요?"
+   },
+   {
+    "title": "우리의 질고를",
+    "passage": "ISA.53.4-5",
+    "prompt": "우리의 슬픔을 대신 지셨다는 말이 오늘 어떻게 다가오나요?"
+   },
+   {
+    "title": "산들은 떠나며",
+    "passage": "ISA.54.10",
+    "prompt": "흔들리는 것들 사이에서도 떠나지 않는 것은 무엇인가요?"
+   },
+   {
+    "title": "목마른 자들아",
+    "passage": "ISA.55.1",
+    "prompt": "값없이 받은 좋은 것에는 무엇이 있나요?"
+   },
+   {
+    "title": "내 생각은 너희 생각과",
+    "passage": "ISA.55.8-9",
+    "prompt": "내 뜻과 달랐지만 돌아보니 좋았던 일이 있나요?"
+   },
+   {
+    "title": "물 댄 동산",
+    "passage": "ISA.58.11",
+    "prompt": "메마른 곳에서도 나를 채워 준 것은 무엇이었나요?"
+   },
+   {
+    "title": "재 대신 화관을",
+    "passage": "ISA.61.3",
+    "prompt": "슬픔 대신 받고 싶은 것은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "Comfort from Isaiah, 14 Days",
+   "subtitle": "Comfort my people",
+   "summary": "Fourteen days of comfort from Isaiah, from “Comfort, comfort my people” in chapter 40 to beauty for ashes in chapter 61.",
+   "highlights": [
+    "For weary days",
+    "The first 3 days are free"
+   ],
+   "tags": [
+    "Isaiah",
+    "Comfort",
+    "Healing",
+    "When weary",
+    "New beginnings",
+    "Hope"
+   ],
+   "days": [
+    {
+     "title": "Comfort my people",
+     "prompt": "Who needs comfort most today?"
+    },
+    {
+     "title": "Carried close",
+     "prompt": "Do you remember a time that felt like being held?"
+    },
+    {
+     "title": "He holds your hand",
+     "prompt": "Is there something today where you wish someone would hold your hand?"
+    },
+    {
+     "title": "A bruised reed",
+     "prompt": "Was there a time you nearly broke but were kept?"
+    },
+    {
+     "title": "Precious in my sight",
+     "prompt": "Who has treated you as precious?"
+    },
+    {
+     "title": "A new thing",
+     "prompt": "What from the past would you like to let go of now?"
+    },
+    {
+     "title": "Even to old age",
+     "prompt": "What has carried you faithfully for a long time?"
+    },
+    {
+     "title": "On my palms",
+     "prompt": "When have you felt you were not forgotten?"
+    },
+    {
+     "title": "He bore our sorrows",
+     "prompt": "How does it feel today that he carried our sorrows?"
+    },
+    {
+     "title": "Though mountains move",
+     "prompt": "Among the things that shake, what has not left you?"
+    },
+    {
+     "title": "Come to the waters",
+     "prompt": "What good things have you received without price?"
+    },
+    {
+     "title": "Higher ways",
+     "prompt": "Was something unlike your plan good in the end?"
+    },
+    {
+     "title": "A watered garden",
+     "prompt": "What filled you even in a dry place?"
+    },
+    {
+     "title": "Beauty for ashes",
+     "prompt": "What would you like to receive in place of sorrow?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "joy10",
+  "kind": "plan",
+  "title": "기쁨의 편지 10일",
+  "subtitle": "빌립보서를 따라",
+  "summary": "감옥에서 쓴 편지인데도 기쁨이라는 말이 자주 나옵니다. 빌립보서에서 고른 열 구절을 열흘 동안 씁니다.",
+  "symbol": "sun.max",
+  "tint": "tangerine",
+  "highlights": [
+   "빌립보서 1장에서 4장까지",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "빌립보서",
+   "기쁨",
+   "감사",
+   "자족",
+   "평안",
+   "바울"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "생각할 때마다",
+    "passage": "PHP.1.3-5",
+    "prompt": "떠올릴 때마다 감사한 사람은 누구인가요?"
+   },
+   {
+    "title": "착한 일을 시작하신 이",
+    "passage": "PHP.1.6",
+    "prompt": "내 안에서 천천히 자라고 있는 좋은 것은 무엇인가요?"
+   },
+   {
+    "title": "사는 것이 그리스도",
+    "passage": "PHP.1.21",
+    "prompt": "요즘 내가 사는 이유를 한 문장으로 적는다면 무엇일까요?"
+   },
+   {
+    "title": "남을 낫게 여기고",
+    "passage": "PHP.2.3-4",
+    "prompt": "오늘 먼저 돌아보고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "함께 기뻐하라",
+    "passage": "PHP.2.17-18",
+    "prompt": "누군가와 함께 기뻐하고 싶은 소식이 있나요?"
+   },
+   {
+    "title": "주 안에서 기뻐하라",
+    "passage": "PHP.3.1",
+    "prompt": "오늘 작게라도 기뻤던 순간은 언제였나요?"
+   },
+   {
+    "title": "푯대를 향하여",
+    "passage": "PHP.3.13-14",
+    "prompt": "뒤에 두고 싶은 것과 앞에 두고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "이것들을 생각하라",
+    "passage": "PHP.4.8",
+    "prompt": "오늘 마음에 두고 싶은 참되고 사랑스러운 것은 무엇인가요?"
+   },
+   {
+    "title": "자족하기를 배웠노니",
+    "passage": "PHP.4.11-12",
+    "prompt": "지금 이대로 넉넉하다고 느끼는 것은 무엇인가요?"
+   },
+   {
+    "title": "모든 쓸 것을",
+    "passage": "PHP.4.19",
+    "prompt": "요즘 채워지기를 바라는 것은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The Letter of Joy, 10 Days",
+   "subtitle": "Through Philippians",
+   "summary": "Paul wrote it from prison, yet joy runs all through it. Ten passages from Philippians over ten days.",
+   "highlights": [
+    "Philippians 1 to 4",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Philippians",
+    "Joy",
+    "Gratitude",
+    "Contentment",
+    "Peace",
+    "Paul"
+   ],
+   "days": [
+    {
+     "title": "Every remembrance",
+     "prompt": "Who are you thankful for every time you think of them?"
+    },
+    {
+     "title": "A good work begun",
+     "prompt": "What good thing is slowly growing in you?"
+    },
+    {
+     "title": "To live is Christ",
+     "prompt": "If you wrote your reason for living in one sentence, what would it be?"
+    },
+    {
+     "title": "Others above yourself",
+     "prompt": "Whose needs would you like to look to first today?"
+    },
+    {
+     "title": "Rejoice with me",
+     "prompt": "Is there news you would like to rejoice over with someone?"
+    },
+    {
+     "title": "Rejoice in the Lord",
+     "prompt": "When did you feel even a small joy today?"
+    },
+    {
+     "title": "Toward the goal",
+     "prompt": "What would you leave behind, and what would you reach toward?"
+    },
+    {
+     "title": "Think on these things",
+     "prompt": "What true and lovely thing would you keep in mind today?"
+    },
+    {
+     "title": "Learning contentment",
+     "prompt": "What feels like enough just as it is?"
+    },
+    {
+     "title": "Every need supplied",
+     "prompt": "What are you hoping to have filled these days?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "courage10",
+  "kind": "plan",
+  "title": "두려워하지 말라 10일",
+  "subtitle": "용기가 필요한 날에",
+  "summary": "구약과 신약에서 '두려워하지 말라'는 말씀을 열 구절 골라 열흘 동안 씁니다. 떨리는 일을 앞둔 날에 쓰기 좋아요.",
+  "symbol": "mountain.2",
+  "tint": "sage",
+  "highlights": [
+   "시험, 면접, 새 출발 앞에",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "용기",
+   "두려움",
+   "불안할 때",
+   "새 출발",
+   "시험",
+   "담대함"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "가만히 서서",
+    "passage": "EXO.14.13-14",
+    "prompt": "내가 애쓰지 않아도 되는 싸움이 있나요?"
+   },
+   {
+    "title": "앞서 행하시며",
+    "passage": "DEU.31.8",
+    "prompt": "내일 걸어갈 길에서 마음에 걸리는 것은 무엇인가요?"
+   },
+   {
+    "title": "내 마음이 두렵지 아니하며",
+    "passage": "PSA.27.3",
+    "prompt": "두려움 속에서도 안심이 되는 것은 무엇인가요?"
+   },
+   {
+    "title": "흉한 소식을",
+    "passage": "PSA.112.7",
+    "prompt": "나쁜 소식이 올까 봐 마음 졸이는 일이 있나요?"
+   },
+   {
+    "title": "굳세게 하라",
+    "passage": "ISA.35.4",
+    "prompt": "겁내는 친구에게 해 주고 싶은 말은 무엇인가요?"
+   },
+   {
+    "title": "손을 늘어뜨리지 말라",
+    "passage": "ZEP.3.16-17",
+    "prompt": "나로 인해 기뻐하신다는 말이 어떻게 들리나요?"
+   },
+   {
+    "title": "안심하라 내니",
+    "passage": "MAT.14.27",
+    "prompt": "요즘 물결이 높아 보이는 일이 있나요?"
+   },
+   {
+    "title": "믿기만 하라",
+    "passage": "MRK.5.36",
+    "prompt": "두려움 대신 붙잡고 싶은 한 가지는 무엇인가요?"
+   },
+   {
+    "title": "적은 무리여",
+    "passage": "LUK.12.32",
+    "prompt": "작고 약하다고 느낄 때 나에게 필요한 말은 무엇인가요?"
+   },
+   {
+    "title": "나를 돕는 자",
+    "passage": "HEB.13.6",
+    "prompt": "오늘 담대하게 해 보고 싶은 일은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "Do Not Fear, 10 Days",
+   "subtitle": "For days that need courage",
+   "summary": "Ten “do not fear” passages from the Old and New Testaments, one a day. Good before something that makes you nervous.",
+   "highlights": [
+    "Before an exam, an interview, a new start",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Courage",
+    "Fear",
+    "Anxiety",
+    "New start",
+    "Exams",
+    "Boldness"
+   ],
+   "days": [
+    {
+     "title": "Stand still",
+     "prompt": "Is there a battle you do not have to fight yourself?"
+    },
+    {
+     "title": "He goes before you",
+     "prompt": "What worries you about the road ahead tomorrow?"
+    },
+    {
+     "title": "My heart shall not fear",
+     "prompt": "What steadies you even in fear?"
+    },
+    {
+     "title": "Not afraid of bad news",
+     "prompt": "Are you bracing for bad news about something?"
+    },
+    {
+     "title": "Be strong",
+     "prompt": "What would you say to a friend who is afraid?"
+    },
+    {
+     "title": "Do not let your hands fall",
+     "prompt": "How does it sound that he rejoices over you?"
+    },
+    {
+     "title": "Take courage, it is I",
+     "prompt": "What feels like high waves to you lately?"
+    },
+    {
+     "title": "Only believe",
+     "prompt": "What one thing would you hold onto instead of fear?"
+    },
+    {
+     "title": "Little flock",
+     "prompt": "What do you need to hear when you feel small?"
+    },
+    {
+     "title": "The Lord is my helper",
+     "prompt": "What would you like to do boldly today?"
+    }
+   ]
+  }
+ },
+ {
   "id": "catholicPsalms7",
   "kind": "plan",
   "title": "시편으로 드리는 기도 7일",
@@ -4642,6 +5631,13 @@
   "highlights": [
    "Douay-Rheims 시편",
    "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "시편",
+   "기도",
+   "성무일도",
+   "위로",
+   "찬미"
   ],
   "previewDays": 2,
   "recommendedMode": "trace",
@@ -4694,6 +5690,13 @@
     "Douay-Rheims psalms",
     "The first 2 days are free"
    ],
+   "tags": [
+    "Psalms",
+    "prayer",
+    "Liturgy of the Hours",
+    "comfort",
+    "praise"
+   ],
    "days": [
     {
      "title": "The Lord ruleth me",
@@ -4727,6 +5730,630 @@
   }
  },
  {
+  "id": "rosary20",
+  "kind": "plan",
+  "title": "묵주기도 20일",
+  "subtitle": "스무 신비를 말씀으로",
+  "summary": "환희, 빛, 고통, 영광의 신비를 하루에 하나씩, 그 신비가 담긴 성경 구절로 씁니다. 묵주기도를 바치기 전에 쓰기 좋아요.",
+  "symbol": "hands.sparkles",
+  "tint": "lavender",
+  "highlights": [
+   "환희, 빛, 고통, 영광의 신비",
+   "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "묵주기도",
+   "성모님",
+   "신비",
+   "기도",
+   "성모 성월",
+   "묵상"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": "dra",
+  "collection": "catholic",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "예수님을 잉태하심",
+    "passage": "LUK.1.35",
+    "prompt": "overshadow는 '그늘로 덮다'예요. 오늘 나를 감싸 주었으면 하는 것은 무엇인가요?"
+   },
+   {
+    "title": "엘리사벳을 찾아보심",
+    "passage": "LUK.1.39-40",
+    "prompt": "with haste는 '서둘러'예요. 서둘러 찾아가고 싶은 사람이 있나요?"
+   },
+   {
+    "title": "예수님을 낳으심",
+    "passage": "LUK.2.6-7",
+    "prompt": "no room은 '있을 곳이 없다'예요. 내 마음에 그분을 모실 자리가 있나요?"
+   },
+   {
+    "title": "성전에 바치심",
+    "passage": "LUK.2.22",
+    "prompt": "오늘 하느님께 봉헌하고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "성전에서 찾으심",
+    "passage": "LUK.2.48-49",
+    "prompt": "애타게 찾다가 다시 만난 것이 있나요?"
+   },
+   {
+    "title": "세례를 받으심",
+    "passage": "MAT.3.16",
+    "prompt": "하늘이 열리는 듯했던 순간이 있나요?"
+   },
+   {
+    "title": "카나의 첫 기적",
+    "passage": "JHN.2.3-5",
+    "prompt": "Whatsoever he shall say to you, do ye는 '무엇이든 그가 시키는 대로 하여라'예요. 요즘 따르기 어려운 일이 있나요?"
+   },
+   {
+    "title": "하느님 나라를 선포하심",
+    "passage": "MRK.1.14-15",
+    "prompt": "repent는 '회개하다'예요. 오늘 마음을 돌리고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "거룩하게 변모하심",
+    "passage": "MAT.17.1-2",
+    "prompt": "따로 높은 산에 오르듯 조용히 머문 시간이 있었나요?"
+   },
+   {
+    "title": "성체성사를 세우심",
+    "passage": "LUK.22.19-20",
+    "prompt": "commemoration은 '기억'이에요. 영성체할 때 나는 무엇을 기억하나요?"
+   },
+   {
+    "title": "피땀 흘리심",
+    "passage": "LUK.22.41-42",
+    "prompt": "내 뜻보다 그분의 뜻을 청하기 어려운 일이 있나요?"
+   },
+   {
+    "title": "매 맞으심",
+    "passage": "JHN.19.1",
+    "prompt": "scourged는 '채찍질을 당하다'예요. 오늘 기도해 주고 싶은 아픈 사람은 누구인가요?"
+   },
+   {
+    "title": "가시관을 쓰심",
+    "passage": "MAT.27.28-29",
+    "prompt": "업신여김을 받은 마음을 그분께 맡길 수 있을까요?"
+   },
+   {
+    "title": "십자가를 지심",
+    "passage": "JHN.19.17",
+    "prompt": "요즘 내가 지고 가는 십자가는 무엇인가요?"
+   },
+   {
+    "title": "십자가에 못 박혀 돌아가심",
+    "passage": "LUK.23.33",
+    "prompt": "십자가 아래에 서 있다면 무엇을 말씀드리고 싶나요?"
+   },
+   {
+    "title": "부활하심",
+    "passage": "MAT.28.5-6",
+    "prompt": "He is risen은 '그분은 부활하셨다'예요. 내 안에서 다시 살아나기를 바라는 것은 무엇인가요?"
+   },
+   {
+    "title": "승천하심",
+    "passage": "LUK.24.50-51",
+    "prompt": "축복하시며 오르셨어요. 오늘 내가 축복하고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "성령을 보내심",
+    "passage": "ACT.2.2-4",
+    "prompt": "오늘 성령께 청하고 싶은 은총은 무엇인가요?"
+   },
+   {
+    "title": "하늘에 불러올리심",
+    "passage": "SNG.2.10-11",
+    "prompt": "Arise, make haste, my love는 '일어나 서둘러 오너라, 나의 사랑'이에요. 겨울이 지났다고 느끼는 일이 있나요?"
+   },
+   {
+    "title": "천상 모후의 관",
+    "passage": "REV.12.1",
+    "prompt": "스무 날 동안 가장 오래 마음에 머문 신비는 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The Rosary, 20 Days",
+   "subtitle": "Twenty mysteries in Scripture",
+   "summary": "One mystery a day, Joyful, Luminous, Sorrowful, and Glorious, each written from the Scripture behind it. Good before praying the Rosary.",
+   "highlights": [
+    "Joyful, Luminous, Sorrowful, Glorious",
+    "The first 3 days are free"
+   ],
+   "tags": [
+    "Rosary",
+    "Mary",
+    "Mysteries",
+    "Prayer",
+    "Month of Mary",
+    "Meditation"
+   ],
+   "days": [
+    {
+     "title": "The Annunciation",
+     "prompt": "What would you like to be overshadowed by today?"
+    },
+    {
+     "title": "The Visitation",
+     "prompt": "Is there someone you would hurry to visit?"
+    },
+    {
+     "title": "The Nativity",
+     "prompt": "Is there room in your heart for him today?"
+    },
+    {
+     "title": "The Presentation",
+     "prompt": "What would you like to offer to God today?"
+    },
+    {
+     "title": "Finding in the Temple",
+     "prompt": "Have you ever found again something you searched for anxiously?"
+    },
+    {
+     "title": "The Baptism of the Lord",
+     "prompt": "Have you had a moment when the heavens seemed to open?"
+    },
+    {
+     "title": "The Wedding at Cana",
+     "prompt": "What is hard for you to do as he asks these days?"
+    },
+    {
+     "title": "The Kingdom Proclaimed",
+     "prompt": "What would you like to turn your heart from today?"
+    },
+    {
+     "title": "The Transfiguration",
+     "prompt": "Did you have a quiet time apart, like going up the mountain?"
+    },
+    {
+     "title": "The Institution of the Eucharist",
+     "prompt": "What do you remember when you receive Communion?"
+    },
+    {
+     "title": "The Agony in the Garden",
+     "prompt": "Where is it hard to pray “not my will, but thine”?"
+    },
+    {
+     "title": "The Scourging at the Pillar",
+     "prompt": "Who in pain would you like to pray for today?"
+    },
+    {
+     "title": "The Crowning with Thorns",
+     "prompt": "Can you hand him the hurt of being looked down on?"
+    },
+    {
+     "title": "The Carrying of the Cross",
+     "prompt": "What cross are you carrying these days?"
+    },
+    {
+     "title": "The Crucifixion",
+     "prompt": "If you stood beneath the cross, what would you say to him?"
+    },
+    {
+     "title": "The Resurrection",
+     "prompt": "What do you hope will rise to life again in you?"
+    },
+    {
+     "title": "The Ascension",
+     "prompt": "Whom would you like to bless today?"
+    },
+    {
+     "title": "The Descent of the Holy Spirit",
+     "prompt": "What grace would you ask of the Holy Spirit today?"
+    },
+    {
+     "title": "The Assumption",
+     "prompt": "Is there something in your life where winter feels past?"
+    },
+    {
+     "title": "The Coronation of Mary",
+     "prompt": "Which mystery stayed with you the longest over these twenty days?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "sevenWords7",
+  "kind": "plan",
+  "title": "십자가 위 일곱 말씀 7일",
+  "subtitle": "가상칠언",
+  "summary": "예수님께서 십자가 위에서 하신 일곱 말씀을 이레 동안 씁니다. 사순 시기와 성주간에 쓰기 좋아요.",
+  "symbol": "heart",
+  "tint": "peach",
+  "highlights": [
+   "사순 시기에 쓰기 좋아요",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "가상칠언",
+   "십자가",
+   "사순 시기",
+   "성주간",
+   "수난",
+   "용서"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": "dra",
+  "collection": "catholic",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "저들을 용서하여 주십시오",
+    "passage": "LUK.23.34",
+    "prompt": "용서하고 싶지만 아직 어려운 사람이 있나요?"
+   },
+   {
+    "title": "오늘 낙원에",
+    "passage": "LUK.23.42-43",
+    "prompt": "remember me는 '저를 기억해 주십시오'예요. 주님께 기억해 달라고 청하고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "이분이 네 어머니시다",
+    "passage": "JHN.19.26-27",
+    "prompt": "Behold thy mother는 '이분이 네 어머니시다'예요. 성모님께 맡기고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "어찌하여 저를 버리셨습니까",
+    "passage": "MAT.27.46",
+    "prompt": "홀로 남겨진 것 같았던 때에 무엇이 나를 붙들어 주었나요?"
+   },
+   {
+    "title": "목마르다",
+    "passage": "JHN.19.28",
+    "prompt": "I thirst는 '목마르다'예요. 주님은 오늘 나에게서 무엇을 목말라하실까요?"
+   },
+   {
+    "title": "다 이루어졌다",
+    "passage": "JHN.19.30",
+    "prompt": "It is consummated는 '다 이루어졌다'예요. 끝까지 마치고 싶은 일이 있나요?"
+   },
+   {
+    "title": "아버지 손에 맡깁니다",
+    "passage": "LUK.23.46",
+    "prompt": "commend는 '맡기다'예요. 오늘 아버지 손에 맡기고 싶은 것은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "Seven Last Words, 7 Days",
+   "subtitle": "From the cross",
+   "summary": "Write the seven words Jesus spoke from the cross over seven days. Good for Lent and Holy Week.",
+   "highlights": [
+    "Good for Lent",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Seven Last Words",
+    "Cross",
+    "Lent",
+    "Holy Week",
+    "Passion",
+    "Forgiveness"
+   ],
+   "days": [
+    {
+     "title": "Father, forgive them",
+     "prompt": "Is there someone you want to forgive but still find it hard?"
+    },
+    {
+     "title": "This day in paradise",
+     "prompt": "What would you ask the Lord to remember?"
+    },
+    {
+     "title": "Behold thy mother",
+     "prompt": "Whom would you entrust to Mary?"
+    },
+    {
+     "title": "Why hast thou forsaken me",
+     "prompt": "When you felt left alone, what held you up?"
+    },
+    {
+     "title": "I thirst",
+     "prompt": "What might the Lord be thirsting for from you today?"
+    },
+    {
+     "title": "It is consummated",
+     "prompt": "Is there something you want to see through to the end?"
+    },
+    {
+     "title": "Into thy hands",
+     "prompt": "What would you place in the Father's hands today?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "canticles7",
+  "kind": "plan",
+  "title": "복음서의 찬가 7일",
+  "subtitle": "성모의 노래에서 시메온의 노래까지",
+  "summary": "루카 복음서 첫머리의 찬가를 이레 동안 씁니다. 엘리사벳의 인사, 성모의 노래, 즈카르야의 노래, 천사들의 노래, 시메온의 노래예요.",
+  "symbol": "music.quarternote.3",
+  "tint": "mustard",
+  "highlights": [
+   "성무일도에서 바치는 찬가",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "찬가",
+   "성모님",
+   "마니피캇",
+   "성무일도",
+   "찬미",
+   "루카 복음서"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": "dra",
+  "collection": "catholic",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "엘리사벳의 인사",
+    "passage": "LUK.1.42",
+    "prompt": "성모송의 한 줄이 여기에서 왔어요. 오늘 누구를 축복하고 싶나요?"
+   },
+   {
+    "title": "내 영혼이 주님을",
+    "passage": "LUK.1.46-48",
+    "prompt": "humility of his handmaid는 '여종의 비천함'이에요. 작은 나를 돌보아 주셨다고 느낀 때가 있나요?"
+   },
+   {
+    "title": "거룩하신 그 이름",
+    "passage": "LUK.1.49-50",
+    "prompt": "나에게 큰일을 해 주셨다고 느끼는 일은 무엇인가요?"
+   },
+   {
+    "title": "즈카르야의 노래",
+    "passage": "LUK.1.68-69",
+    "prompt": "Blessed be the Lord는 '주님은 찬미받으소서'예요. 오늘 찬미드리고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "평화의 길로",
+    "passage": "LUK.1.78-79",
+    "prompt": "the Orient from on high는 '높은 곳에서 떠오르는 해'예요. 어둠 속에 있는 누구에게 빛이 닿기를 바라나요?"
+   },
+   {
+    "title": "하늘 높은 곳에는 영광",
+    "passage": "LUK.2.13-14",
+    "prompt": "미사의 대영광송이 이 노래로 시작해요. 오늘 평화를 빌어 주고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "시메온의 노래",
+    "passage": "LUK.2.29-32",
+    "prompt": "끝기도에서 바치는 노래예요. 오늘 하루를 평화롭게 마치려면 무엇을 내려놓아야 할까요?"
+   }
+  ],
+  "en": {
+   "title": "Gospel Canticles, 7 Days",
+   "subtitle": "From the Magnificat to the Nunc Dimittis",
+   "summary": "Seven days with the songs at the start of Luke: Elizabeth's greeting, the Magnificat, the Benedictus, the angels' Gloria, and the Nunc Dimittis.",
+   "highlights": [
+    "Canticles from the Liturgy of the Hours",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Canticles",
+    "Mary",
+    "Magnificat",
+    "Liturgy of the Hours",
+    "Praise",
+    "Luke"
+   ],
+   "days": [
+    {
+     "title": "Elizabeth's greeting",
+     "prompt": "A line of the Hail Mary comes from here. Whom would you like to bless today?"
+    },
+    {
+     "title": "My soul doth magnify",
+     "prompt": "When have you felt God look kindly on your smallness?"
+    },
+    {
+     "title": "Holy is his name",
+     "prompt": "What great thing do you feel God has done for you?"
+    },
+    {
+     "title": "The Benedictus",
+     "prompt": "What would you like to bless the Lord for today?"
+    },
+    {
+     "title": "The way of peace",
+     "prompt": "Who sitting in darkness do you hope the light will reach?"
+    },
+    {
+     "title": "Glory to God in the highest",
+     "prompt": "The Gloria at Mass begins with this song. Whom would you wish peace today?"
+    },
+    {
+     "title": "The Nunc Dimittis",
+     "prompt": "This is prayed at Night Prayer. What would you lay down to end today in peace?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "parables14",
+  "kind": "plan",
+  "title": "예수님의 비유 14일",
+  "subtitle": "씨앗과 보물과 잃은 양",
+  "summary": "겨자씨와 누룩, 잃은 양과 되찾은 아들처럼 잘 알려진 비유의 핵심 구절을 열나흘 동안 씁니다.",
+  "symbol": "leaf",
+  "tint": "sage",
+  "highlights": [
+   "짧은 이야기 속 하느님 나라",
+   "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "비유",
+   "하느님 나라",
+   "복음",
+   "자비",
+   "묵상",
+   "예수님"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": "dra",
+  "collection": "catholic",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "좋은 땅",
+    "passage": "LUK.8.15",
+    "prompt": "in patience는 '인내로'예요. 요즘 참고 기다리며 키우는 것은 무엇인가요?"
+   },
+   {
+    "title": "저절로 자라는 씨",
+    "passage": "MRK.4.26-28",
+    "prompt": "내가 모르는 사이에 자라 있던 것이 있나요?"
+   },
+   {
+    "title": "겨자씨",
+    "passage": "MAT.13.31-32",
+    "prompt": "작게 시작했지만 자라고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "누룩",
+    "passage": "MAT.13.33",
+    "prompt": "조용히 스며들어 나를 바꾼 것은 무엇인가요?"
+   },
+   {
+    "title": "밭에 숨은 보물",
+    "passage": "MAT.13.44",
+    "prompt": "기쁜 마음으로 다 내어놓을 만큼 귀한 것은 무엇인가요?"
+   },
+   {
+    "title": "값진 진주",
+    "passage": "MAT.13.45-46",
+    "prompt": "내가 찾고 있는 좋은 진주는 무엇인가요?"
+   },
+   {
+    "title": "길 잃은 양",
+    "passage": "MAT.18.12-13",
+    "prompt": "누군가 나를 찾아 나서 준 적이 있나요?"
+   },
+   {
+    "title": "되찾은 은전",
+    "passage": "LUK.15.8-9",
+    "prompt": "groat는 옛 은전이에요. 잃었다 되찾아 기뻤던 것이 있나요?"
+   },
+   {
+    "title": "되찾은 아들",
+    "passage": "LUK.15.18-19",
+    "prompt": "I will arise는 '일어나 가겠다'예요. 돌아가고 싶은 자리가 있나요?"
+   },
+   {
+    "title": "착한 사마리아인",
+    "passage": "LUK.10.33-34",
+    "prompt": "moved with compassion은 '가엾은 마음이 들다'예요. 요즘 내 곁에 다친 이웃은 누구인가요?"
+   },
+   {
+    "title": "바리사이와 세리",
+    "passage": "LUK.18.13",
+    "prompt": "꾸밈없이 드리고 싶은 짧은 기도는 무엇인가요?"
+   },
+   {
+    "title": "열매 없는 무화과나무",
+    "passage": "LUK.13.8-9",
+    "prompt": "한 해만 더 기다려 주고 싶은 사람이나 일이 있나요?"
+   },
+   {
+    "title": "탈렌트",
+    "passage": "MAT.25.21",
+    "prompt": "요즘 작은 일에 성실하게 하고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "가장 작은 이",
+    "passage": "MAT.25.40",
+    "prompt": "오늘 만난 가장 작은 이는 누구였나요?"
+   }
+  ],
+  "en": {
+   "title": "The Parables, 14 Days",
+   "subtitle": "Seeds, treasure, and a lost sheep",
+   "summary": "Fourteen days with the heart of well-known parables, from the mustard seed and the leaven to the lost sheep and the son who came home.",
+   "highlights": [
+    "The kingdom of God in short stories",
+    "The first 3 days are free"
+   ],
+   "tags": [
+    "Parables",
+    "Kingdom of God",
+    "Gospel",
+    "Mercy",
+    "Meditation",
+    "Jesus"
+   ],
+   "days": [
+    {
+     "title": "The good ground",
+     "prompt": "What are you patiently growing these days?"
+    },
+    {
+     "title": "The seed growing secretly",
+     "prompt": "Has something grown in you without your noticing?"
+    },
+    {
+     "title": "The mustard seed",
+     "prompt": "What started small but is growing now?"
+    },
+    {
+     "title": "The leaven",
+     "prompt": "What has quietly worked its way into you and changed you?"
+    },
+    {
+     "title": "The hidden treasure",
+     "prompt": "What is worth giving up everything for, with joy?"
+    },
+    {
+     "title": "The pearl of great price",
+     "prompt": "What good pearl are you seeking?"
+    },
+    {
+     "title": "The lost sheep",
+     "prompt": "Has anyone ever come looking for you?"
+    },
+    {
+     "title": "The lost coin",
+     "prompt": "What have you lost and found again with joy?"
+    },
+    {
+     "title": "The son who came home",
+     "prompt": "Is there a place you long to return to?"
+    },
+    {
+     "title": "The good Samaritan",
+     "prompt": "Who near you is hurting these days?"
+    },
+    {
+     "title": "The Pharisee and the publican",
+     "prompt": "What short, plain prayer would you like to pray?"
+    },
+    {
+     "title": "The barren fig tree",
+     "prompt": "Is there someone or something you would give one more year?"
+    },
+    {
+     "title": "The talents",
+     "prompt": "What small thing are you being faithful in lately?"
+    },
+    {
+     "title": "The least of these",
+     "prompt": "Who was the least of these you met today?"
+    }
+   ]
+  }
+ },
+ {
   "id": "affirmGratitude14",
   "kind": "plan",
   "title": "감사 확언 14일",
@@ -4737,6 +6364,13 @@
   "highlights": [
    "쉬운 영어 한 문장",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "감사",
+   "고마움",
+   "영어 확언",
+   "행복",
+   "쉬운 영어"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -4824,6 +6458,13 @@
     "One easy English line",
     "The first 3 days are free"
    ],
+   "tags": [
+    "gratitude",
+    "thanks",
+    "affirmations",
+    "happiness",
+    "easy English"
+   ],
    "days": [
     {
      "title": "Small good things",
@@ -4896,6 +6537,13 @@
    "잠들기 전 7일",
    "앞의 2일은 무료예요"
   ],
+  "tags": [
+   "잠들기 전",
+   "밤",
+   "내려놓기",
+   "쉼",
+   "영어 확언"
+  ],
   "previewDays": 2,
   "recommendedMode": "trace",
   "translationID": null,
@@ -4947,6 +6595,13 @@
     "Seven nights",
     "The first 2 days are free"
    ],
+   "tags": [
+    "bedtime",
+    "night",
+    "letting go",
+    "rest",
+    "affirmations"
+   ],
    "days": [
     {
      "title": "Put it down",
@@ -4980,6 +6635,460 @@
   }
  },
  {
+  "id": "selfKind10",
+  "kind": "plan",
+  "title": "나에게 다정한 확언 10일",
+  "subtitle": "나를 대하는 말투부터",
+  "summary": "남에게 하듯 나에게도 다정하게 말하는 연습입니다. 쉬운 영어 한 문장을 천천히 옮겨 씁니다.",
+  "symbol": "heart",
+  "tint": "peach",
+  "highlights": [
+   "쉬운 영어 한 문장",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "자존감",
+   "다정함",
+   "위로",
+   "지친 날",
+   "영어 확언",
+   "마음"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "좋은 친구처럼",
+    "passage": "aff.92",
+    "prompt": "친구에게라면 오늘 어떤 말을 해 줄까요?"
+   },
+   {
+    "title": "생각보다 잘하고 있다",
+    "passage": "aff.93",
+    "prompt": "요즘 잘 해내고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "그때 몰랐던 것",
+    "passage": "aff.94",
+    "prompt": "그때는 몰랐지만 지금은 아는 것이 있나요?"
+   },
+   {
+    "title": "지쳐도 괜찮다",
+    "passage": "aff.95",
+    "prompt": "지친 나에게 해 주고 싶은 말은 무엇인가요?"
+   },
+   {
+    "title": "내 마음도 소중하다",
+    "passage": "aff.96",
+    "prompt": "요즘 내가 바라는 것은 무엇인가요?"
+   },
+   {
+    "title": "같은 인내",
+    "passage": "aff.97",
+    "prompt": "나에게 조금 더 기다려 주고 싶은 일이 있나요?"
+   },
+   {
+    "title": "힘든 하루",
+    "passage": "aff.98",
+    "prompt": "힘든 하루에도 지킨 것이 있나요?"
+   },
+   {
+    "title": "부드러운 속말",
+    "passage": "aff.99",
+    "prompt": "속으로 자주 하는 말은 어떤 말인가요?"
+   },
+   {
+    "title": "사람이라서",
+    "passage": "aff.100",
+    "prompt": "최근의 실수를 너그럽게 본다면요?"
+   },
+   {
+    "title": "나는 내 편",
+    "passage": "aff.101",
+    "prompt": "오늘 내 편이 되어 줄 일은 무엇인가요?"
+   }
+  ],
+  "collection": "affirm",
+  "includedModes": null,
+  "includedThemes": null,
+  "en": {
+   "title": "Be Kind to Yourself, 10 Days",
+   "subtitle": "Starting with how you speak to yourself",
+   "summary": "Practice speaking to yourself as kindly as you speak to others, one easy English line at a time.",
+   "highlights": [
+    "One easy English line",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "self-esteem",
+    "kindness",
+    "comfort",
+    "tired days",
+    "affirmations",
+    "heart"
+   ],
+   "days": [
+    {
+     "title": "Like a good friend",
+     "prompt": "What would you say to a friend today?"
+    },
+    {
+     "title": "Doing better than I think",
+     "prompt": "What have you been handling well lately?"
+    },
+    {
+     "title": "What I did not know",
+     "prompt": "What do you know now that you did not know then?"
+    },
+    {
+     "title": "Tired and still okay",
+     "prompt": "What would you tell yourself when you are tired?"
+    },
+    {
+     "title": "My needs matter",
+     "prompt": "What do you need these days?"
+    },
+    {
+     "title": "The same patience",
+     "prompt": "Where could you be more patient with yourself?"
+    },
+    {
+     "title": "A hard day",
+     "prompt": "What did you keep, even on a hard day?"
+    },
+    {
+     "title": "A soft inner voice",
+     "prompt": "What do you often say to yourself inside?"
+    },
+    {
+     "title": "Room to be human",
+     "prompt": "How would you see a recent mistake, gently?"
+    },
+    {
+     "title": "On my own side",
+     "prompt": "How will you be on your own side today?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "focus10",
+  "kind": "plan",
+  "title": "일에 집중하는 확언 10일",
+  "subtitle": "차분하게 한 가지에",
+  "summary": "일하거나 공부하기 전에 한 문장을 씁니다. 손이 느려지면 마음도 한 곳에 모입니다.",
+  "symbol": "target",
+  "tint": "sky",
+  "highlights": [
+   "일과 공부 앞의 한 문장",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "집중",
+   "공부",
+   "일",
+   "시험",
+   "아침",
+   "영어 확언"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "앉아서 시작",
+    "passage": "aff.102",
+    "prompt": "준비가 덜 됐어도 시작할 수 있는 일은 무엇인가요?"
+   },
+   {
+    "title": "온 마음으로",
+    "passage": "aff.103",
+    "prompt": "오늘 온 마음을 줄 일은 무엇인가요?"
+   },
+   {
+    "title": "휴대폰은 기다린다",
+    "passage": "aff.104",
+    "prompt": "일하는 동안 휴대폰을 어디에 둘까요?"
+   },
+   {
+    "title": "분명한 목표 하나",
+    "passage": "aff.105",
+    "prompt": "오늘의 목표를 한 줄로 적는다면요?"
+   },
+   {
+    "title": "다시 돌아오기",
+    "passage": "aff.106",
+    "prompt": "생각이 흩어질 때 무엇으로 돌아오나요?"
+   },
+   {
+    "title": "일하고 쉬고",
+    "passage": "aff.107",
+    "prompt": "쉬는 시간에 무엇을 하면 좋을까요?"
+   },
+   {
+    "title": "어려운 것 먼저",
+    "passage": "aff.108",
+    "prompt": "가장 미루고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "끝낸 것으로 충분",
+    "passage": "aff.109",
+    "prompt": "오늘 끝내기만 해도 좋은 일은 무엇인가요?"
+   },
+   {
+    "title": "할 때마다 조금씩",
+    "passage": "aff.110",
+    "prompt": "요즘 조금씩 나아지는 것은 무엇인가요?"
+   },
+   {
+    "title": "멈춘 자리",
+    "passage": "aff.111",
+    "prompt": "내일의 나에게 남길 한 줄은 무엇인가요?"
+   }
+  ],
+  "collection": "affirm",
+  "includedModes": null,
+  "includedThemes": null,
+  "en": {
+   "title": "Affirmations for Focus, 10 Days",
+   "subtitle": "Calmly, on one thing",
+   "summary": "Write one line before you work or study. When your hand slows down, your mind gathers in one place.",
+   "highlights": [
+    "One line before work or study",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "focus",
+    "study",
+    "work",
+    "exams",
+    "morning",
+    "affirmations"
+   ],
+   "days": [
+    {
+     "title": "Sit down and begin",
+     "prompt": "What can you start before you feel ready?"
+    },
+    {
+     "title": "Full attention",
+     "prompt": "What will get your full attention today?"
+    },
+    {
+     "title": "The phone can wait",
+     "prompt": "Where will your phone stay while you work?"
+    },
+    {
+     "title": "One clear goal",
+     "prompt": "What is today's goal in one line?"
+    },
+    {
+     "title": "Coming back",
+     "prompt": "What brings you back when your mind wanders?"
+    },
+    {
+     "title": "Work, then rest",
+     "prompt": "What makes a good short break for you?"
+    },
+    {
+     "title": "Hardest part first",
+     "prompt": "What do you most want to put off?"
+    },
+    {
+     "title": "Done is enough",
+     "prompt": "What only needs to be finished today?"
+    },
+    {
+     "title": "A little more each time",
+     "prompt": "What is getting a little better lately?"
+    },
+    {
+     "title": "Where I stopped",
+     "prompt": "What line will you leave for tomorrow?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "brave14",
+  "kind": "plan",
+  "title": "용기를 내는 확언 14일",
+  "subtitle": "작은 한 걸음의 용기",
+  "summary": "새로 시작하는 일 앞에서 쓰는 영어 문장 열네 개입니다. 크지 않아도 되는 용기를 하루에 하나씩 옮겨 씁니다.",
+  "symbol": "figure.walk",
+  "tint": "tangerine",
+  "highlights": [
+   "새 시작 앞에서 쓰기 좋아요",
+   "쉬운 영어 한 문장",
+   "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "용기",
+   "새 출발",
+   "도전",
+   "두려움",
+   "새 학기",
+   "이직",
+   "영어 확언"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "두려워도 한 걸음",
+    "passage": "aff.112",
+    "prompt": "두렵지만 내딛고 싶은 걸음은 무엇인가요?"
+   },
+   {
+    "title": "모든 시작",
+    "passage": "aff.113",
+    "prompt": "요즘 낯설게 느껴지는 것은 무엇인가요?"
+   },
+   {
+    "title": "새로운 하나",
+    "passage": "aff.114",
+    "prompt": "이번 주에 해 보고 싶은 새로운 일은 무엇인가요?"
+   },
+   {
+    "title": "삼켜 둔 질문",
+    "passage": "aff.115",
+    "prompt": "묻고 싶었던 질문이 있나요?"
+   },
+   {
+    "title": "다 보이지 않아도",
+    "passage": "aff.116",
+    "prompt": "지금 보이는 다음 걸음은 무엇인가요?"
+   },
+   {
+    "title": "처음 하는 사람",
+    "passage": "aff.117",
+    "prompt": "처음 배우고 있는 것이 있나요?"
+   },
+   {
+    "title": "목소리가 떨려도",
+    "passage": "aff.118",
+    "prompt": "꺼내 보고 싶은 생각은 무엇인가요?"
+   },
+   {
+    "title": "다시 일어서기",
+    "passage": "aff.119",
+    "prompt": "넘어졌다가 다시 일어선 때가 있나요?"
+   },
+   {
+    "title": "해 보는 용기",
+    "passage": "aff.120",
+    "prompt": "결과와 상관없이 해 본 일이 있나요?"
+   },
+   {
+    "title": "잘될 자리",
+    "passage": "aff.121",
+    "prompt": "잘된다면 어떤 모습일까요?"
+   },
+   {
+    "title": "미뤄 둔 연락",
+    "passage": "aff.122",
+    "prompt": "오늘 연락하고 싶은 사람이 있나요?"
+   },
+   {
+    "title": "힘들고 좋은",
+    "passage": "aff.123",
+    "prompt": "힘들지만 좋았던 변화가 있나요?"
+   },
+   {
+    "title": "작은 부분씩",
+    "passage": "aff.124",
+    "prompt": "어려운 일을 작게 나눈다면 첫 부분은 무엇인가요?"
+   },
+   {
+    "title": "해 본 나",
+    "passage": "aff.125",
+    "prompt": "이번에 해 본 나에게 무슨 말을 해 줄까요?"
+   }
+  ],
+  "collection": "affirm",
+  "includedModes": null,
+  "includedThemes": null,
+  "en": {
+   "title": "Affirmations for Courage, 14 Days",
+   "subtitle": "The courage of one small step",
+   "summary": "Fourteen English lines for new beginnings. One small, quiet kind of courage each day.",
+   "highlights": [
+    "Good before a new start",
+    "One easy English line",
+    "The first 3 days are free"
+   ],
+   "tags": [
+    "courage",
+    "new start",
+    "challenge",
+    "fear",
+    "new semester",
+    "new job",
+    "affirmations"
+   ],
+   "days": [
+    {
+     "title": "Afraid and still stepping",
+     "prompt": "What step do you want to take, even afraid?"
+    },
+    {
+     "title": "Every beginning",
+     "prompt": "What feels new and strange right now?"
+    },
+    {
+     "title": "One new yes",
+     "prompt": "What new thing will you say yes to?"
+    },
+    {
+     "title": "The question I held back",
+     "prompt": "Is there a question you have held back?"
+    },
+    {
+     "title": "No need to see it all",
+     "prompt": "What is the next step you can see?"
+    },
+    {
+     "title": "A beginner",
+     "prompt": "What are you learning for the first time?"
+    },
+    {
+     "title": "Even if my voice shakes",
+     "prompt": "What idea would you like to share?"
+    },
+    {
+     "title": "Getting up",
+     "prompt": "When did you get up again after a fall?"
+    },
+    {
+     "title": "Trying is brave",
+     "prompt": "What did you try, whatever the result?"
+    },
+    {
+     "title": "Room for good",
+     "prompt": "What would it look like if it went well?"
+    },
+    {
+     "title": "The call I put off",
+     "prompt": "Who would you like to reach out to today?"
+    },
+    {
+     "title": "Hard and good",
+     "prompt": "What change was hard and good at once?"
+    },
+    {
+     "title": "One small part",
+     "prompt": "If you split a hard task, what is the first part?"
+    },
+    {
+     "title": "Proud that I tried",
+     "prompt": "What would you tell yourself for trying?"
+    }
+   ]
+  }
+ },
+ {
   "id": "morning10",
   "kind": "plan",
   "collection": "life",
@@ -4992,6 +7101,13 @@
    "종교와 상관없이 누구나",
    "짧은 한 문장",
    "무료"
+  ],
+  "tags": [
+   "아침",
+   "다짐",
+   "하루 시작",
+   "습관",
+   "짧은 글"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -5057,6 +7173,13 @@
     "One short sentence",
     "Free"
    ],
+   "tags": [
+    "morning",
+    "resolution",
+    "start the day",
+    "habit",
+    "short"
+   ],
    "days": [
     {
      "title": "One thing today"
@@ -5104,6 +7227,13 @@
    "힘든 날을 위한 열 문장",
    "천천히 쓰면서 숨 고르기",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "불안할 때",
+   "마음",
+   "위로",
+   "흔들릴 때",
+   "숨 고르기"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -5169,6 +7299,13 @@
     "Breathe while you write slowly",
     "First 3 days are free"
    ],
+   "tags": [
+    "anxiety",
+    "mind",
+    "comfort",
+    "unsteady days",
+    "breathing"
+   ],
    "days": [
     {
      "title": "It passes"
@@ -5216,6 +7353,13 @@
    "누구나 아는 것 같지만 잊는 것들",
    "의학 조언이 아닌 생활 상식",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "잠",
+   "몸",
+   "건강 상식",
+   "쉼",
+   "생활 습관"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -5281,6 +7425,13 @@
     "Everyday knowledge, not medical advice",
     "First 3 days are free"
    ],
+   "tags": [
+    "sleep",
+    "body",
+    "health basics",
+    "rest",
+    "daily habits"
+   ],
    "days": [
     {
      "title": "Waking at the same time"
@@ -5328,6 +7479,13 @@
    "돈과 시간, 둘 다 다루기",
    "투자 조언이 아닌 생활 원칙",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "돈",
+   "시간",
+   "절약",
+   "생활 원칙",
+   "습관"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -5393,6 +7551,13 @@
     "Everyday rules, not investment advice",
     "First 3 days are free"
    ],
+   "tags": [
+    "money",
+    "time",
+    "saving",
+    "life principles",
+    "habits"
+   ],
    "days": [
     {
      "title": "Pay yourself first"
@@ -5440,6 +7605,14 @@
    "동양과 서양의 고전 함께",
    "저작권이 끝난 원문을 직접 옮김",
    "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "고전",
+   "논어",
+   "도덕경",
+   "명심보감",
+   "명상록",
+   "인문학"
   ],
   "previewDays": 3,
   "recommendedMode": "trace",
@@ -5525,6 +7698,14 @@
     "Pilsa's own renderings of public-domain texts",
     "First 3 days are free"
    ],
+   "tags": [
+    "classics",
+    "Analects",
+    "Tao Te Ching",
+    "Myeongsim Bogam",
+    "Meditations",
+    "humanities"
+   ],
    "days": [
     {
      "title": "To learn and practice"
@@ -5567,6 +7748,1121 @@
     },
     {
      "title": "Living a whole day"
+    }
+   ]
+  }
+ },
+ {
+  "id": "analects14",
+  "kind": "plan",
+  "collection": "life",
+  "title": "논어 14일",
+  "subtitle": "공자와 제자들의 말",
+  "summary": "이천오백 년 동안 읽힌 논어에서 열네 구절을 골라 Pilsa가 쉬운 우리말로 옮겼습니다. 배움과 사람에 관한 짧은 말입니다.",
+  "symbol": "scroll",
+  "tint": "mustard",
+  "highlights": [
+   "학이편부터 위령공편까지",
+   "저작권이 끝난 원문을 직접 옮김",
+   "앞의 3일은 무료예요"
+  ],
+  "tags": [
+   "논어",
+   "공자",
+   "고전",
+   "배움",
+   "공부",
+   "인문학"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "날마다 세 가지",
+    "passage": "life.analects.1",
+    "prompt": "오늘 나를 돌아본다면 무엇을 묻고 싶나요?"
+   },
+   {
+    "title": "알아주지 않을 때",
+    "passage": "life.analects.2",
+    "prompt": "더 알고 싶은 사람이 있나요?"
+   },
+   {
+    "title": "옛것을 익혀",
+    "passage": "life.analects.3",
+    "prompt": "다시 익히고 싶은 옛 배움이 있나요?"
+   },
+   {
+    "title": "배움과 생각",
+    "passage": "life.analects.4",
+    "prompt": "요즘 배운 것을 어떻게 생각해 보았나요?"
+   },
+   {
+    "title": "어진 이를 보면",
+    "passage": "life.analects.5",
+    "prompt": "닮고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "외롭지 않다",
+    "passage": "life.analects.6",
+    "prompt": "곁에 있어 준 이웃이 떠오르나요?"
+   },
+   {
+    "title": "두 번이면 된다",
+    "passage": "life.analects.7",
+    "prompt": "너무 오래 고민하는 일이 있나요?"
+   },
+   {
+    "title": "즐기는 사람",
+    "passage": "life.analects.8",
+    "prompt": "즐기면서 하는 일은 무엇인가요?"
+   },
+   {
+    "title": "세 사람이 걸으면",
+    "passage": "life.analects.9",
+    "prompt": "최근 누구에게서 배웠나요?"
+   },
+   {
+    "title": "넓은 마음",
+    "passage": "life.analects.10",
+    "prompt": "마음이 편안했던 때는 언제인가요?"
+   },
+   {
+    "title": "한 삼태기",
+    "passage": "life.analects.11",
+    "prompt": "조금만 더 하면 되는 일이 있나요?"
+   },
+   {
+    "title": "추운 뒤에야",
+    "passage": "life.analects.12",
+    "prompt": "어려울 때 곁에 남은 사람이 있나요?"
+   },
+   {
+    "title": "서두르면",
+    "passage": "life.analects.13",
+    "prompt": "서두르다 놓친 것이 있나요?"
+   },
+   {
+    "title": "평생의 한마디",
+    "passage": "life.analects.14",
+    "prompt": "평생 지키고 싶은 한마디는 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The Analects, 14 Days",
+   "subtitle": "Sayings of Confucius and his students",
+   "summary": "Fourteen passages from the Analects, read for 2,500 years, rendered by Pilsa in plain words. Short lines about learning and people.",
+   "highlights": [
+    "From Book 1 to Book 15",
+    "Pilsa's own renderings of public-domain texts",
+    "First 3 days are free"
+   ],
+   "tags": [
+    "Analects",
+    "Confucius",
+    "classics",
+    "learning",
+    "study",
+    "humanities"
+   ],
+   "days": [
+    {
+     "title": "Three questions a day",
+     "prompt": "What would you ask yourself tonight?"
+    },
+    {
+     "title": "When no one knows you",
+     "prompt": "Who would you like to know better?"
+    },
+    {
+     "title": "Warming up the old",
+     "prompt": "What old lesson would you like to revisit?"
+    },
+    {
+     "title": "Learning and thinking",
+     "prompt": "What have you thought about what you learned?"
+    },
+    {
+     "title": "Seeing the worthy",
+     "prompt": "Who would you like to be more like?"
+    },
+    {
+     "title": "Never alone",
+     "prompt": "Who has been a neighbor to you?"
+    },
+    {
+     "title": "Twice is enough",
+     "prompt": "What have you been thinking over too long?"
+    },
+    {
+     "title": "The one who enjoys it",
+     "prompt": "What do you do with real delight?"
+    },
+    {
+     "title": "Three walking together",
+     "prompt": "Who taught you something lately?"
+    },
+    {
+     "title": "A wide, easy heart",
+     "prompt": "When did your heart last feel at ease?"
+    },
+    {
+     "title": "One basket short",
+     "prompt": "What needs only a little more?"
+    },
+    {
+     "title": "After the cold comes",
+     "prompt": "Who stayed when things were hard?"
+    },
+    {
+     "title": "In a hurry",
+     "prompt": "What did you miss by hurrying?"
+    },
+    {
+     "title": "One word for a lifetime",
+     "prompt": "What one word would you keep for life?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "myeongsim10",
+  "kind": "plan",
+  "collection": "life",
+  "title": "명심보감 10일",
+  "subtitle": "마음에 새겨 둘 옛 거울",
+  "summary": "오래도록 아이들이 처음 배우던 명심보감에서 열 구절을 골라 Pilsa가 쉬운 우리말로 옮겼습니다. 말과 마음가짐에 관한 문장입니다.",
+  "symbol": "book.closed",
+  "tint": "sage",
+  "highlights": [
+   "계선편부터 언어편까지",
+   "저작권이 끝난 원문을 직접 옮김",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "명심보감",
+   "고전",
+   "마음가짐",
+   "말",
+   "인성",
+   "옛말"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "작은 선, 작은 악",
+    "passage": "life.myeongsim.1",
+    "prompt": "작아서 미뤄 둔 좋은 일이 있나요?"
+   },
+   {
+    "title": "남을 보며 나를",
+    "passage": "life.myeongsim.2",
+    "prompt": "남에게서 본 것을 나에게서 찾는다면요?"
+   },
+   {
+    "title": "쓴소리 하는 스승",
+    "passage": "life.myeongsim.3",
+    "prompt": "나에게 바른말을 해 준 사람이 있나요?"
+   },
+   {
+    "title": "넉넉함을 알면",
+    "passage": "life.myeongsim.4",
+    "prompt": "지금 넉넉한 것은 무엇인가요?"
+   },
+   {
+    "title": "꾸짖는 마음, 너그러운 마음",
+    "passage": "life.myeongsim.5",
+    "prompt": "남에게 조금 더 너그러울 일이 있나요?"
+   },
+   {
+    "title": "내일이 있다 말하지 말라",
+    "passage": "life.myeongsim.6",
+    "prompt": "오늘 배우고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "한 가지 일, 한 가지 지혜",
+    "passage": "life.myeongsim.7",
+    "prompt": "겪고 나서 알게 된 것이 있나요?"
+   },
+   {
+    "title": "한때의 화",
+    "passage": "life.myeongsim.8",
+    "prompt": "참아서 다행이었던 때가 있나요?"
+   },
+   {
+    "title": "먼 길과 긴 날",
+    "passage": "life.myeongsim.9",
+    "prompt": "오래 함께하며 알게 된 사람이 있나요?"
+   },
+   {
+    "title": "솜 같은 말",
+    "passage": "life.myeongsim.10",
+    "prompt": "오늘 누구에게 따뜻한 말을 건넬까요?"
+   }
+  ],
+  "en": {
+   "title": "Myeongsim Bogam, 10 Days",
+   "subtitle": "An old mirror for the heart",
+   "summary": "Ten passages from the Myeongsim Bogam, long a first book for children in Korea, rendered by Pilsa in plain words. Lines about speech and the heart.",
+   "highlights": [
+    "From Gyeseon to Eoneo chapters",
+    "Pilsa's own renderings of public-domain texts",
+    "First 2 days are free"
+   ],
+   "tags": [
+    "Myeongsim Bogam",
+    "classics",
+    "mindset",
+    "speech",
+    "character",
+    "old sayings"
+   ],
+   "days": [
+    {
+     "title": "Small good, small harm",
+     "prompt": "What small good have you been putting off?"
+    },
+    {
+     "title": "Seeing myself in others",
+     "prompt": "What you saw in others, can you find in yourself?"
+    },
+    {
+     "title": "The one who tells me my faults",
+     "prompt": "Who has told you an honest truth?"
+    },
+    {
+     "title": "Knowing enough",
+     "prompt": "What do you already have enough of?"
+    },
+    {
+     "title": "The blaming heart, the forgiving heart",
+     "prompt": "Where could you be gentler with someone?"
+    },
+    {
+     "title": "Do not say there is tomorrow",
+     "prompt": "What would you like to learn today?"
+    },
+    {
+     "title": "One thing lived, one thing learned",
+     "prompt": "What did you learn by living through it?"
+    },
+    {
+     "title": "A moment of anger",
+     "prompt": "When were you glad you held back?"
+    },
+    {
+     "title": "A long road, many days",
+     "prompt": "Whom did you come to know over time?"
+    },
+    {
+     "title": "Words like cotton",
+     "prompt": "Who will you give a warm word today?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "chaegeun10",
+  "kind": "plan",
+  "collection": "life",
+  "title": "채근담 10일",
+  "subtitle": "나물 뿌리처럼 담백한 말",
+  "summary": "명나라 홍자성이 남긴 채근담에서 열 구절을 골라 Pilsa가 쉬운 우리말로 옮겼습니다. 서두르지 않고 넉넉하게 사는 법을 말합니다.",
+  "symbol": "leaf",
+  "tint": "lavender",
+  "highlights": [
+   "담백하고 너그러운 말",
+   "저작권이 끝난 원문을 직접 옮김",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "채근담",
+   "고전",
+   "여유",
+   "너그러움",
+   "마음공부",
+   "홍자성"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "한때의 쓸쓸함",
+    "passage": "life.chaegeun.1",
+    "prompt": "쓸쓸해도 지키고 싶은 것이 있나요?"
+   },
+   {
+    "title": "귀에 거슬리는 말",
+    "passage": "life.chaegeun.2",
+    "prompt": "듣기 싫었지만 도움이 된 말이 있나요?"
+   },
+   {
+    "title": "조금 더 너그럽게",
+    "passage": "life.chaegeun.3",
+    "prompt": "조금 더 너그러울 수 있는 사람은 누구인가요?"
+   },
+   {
+    "title": "좋은 이름은 나누고",
+    "passage": "life.chaegeun.4",
+    "prompt": "함께 해낸 일에서 나눌 공은 무엇인가요?"
+   },
+   {
+    "title": "견딜 만큼, 따를 만큼",
+    "passage": "life.chaegeun.5",
+    "prompt": "누군가에게 말을 건넬 때 무엇을 생각하나요?"
+   },
+   {
+    "title": "바람이 지나간 대숲",
+    "passage": "life.chaegeun.6",
+    "prompt": "지나간 일 가운데 놓아 줄 것은 무엇인가요?"
+   },
+   {
+    "title": "다시 오지 않는 오늘",
+    "passage": "life.chaegeun.7",
+    "prompt": "오늘 하루에 꼭 담고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "풀 속의 동아",
+    "passage": "life.chaegeun.8",
+    "prompt": "보람이 늦게 와도 계속하는 일이 있나요?"
+   },
+   {
+    "title": "남에게는 너그럽게",
+    "passage": "life.chaegeun.9",
+    "prompt": "그냥 두지 않고 돕고 싶은 사람이 있나요?"
+   },
+   {
+    "title": "오래 엎드린 새",
+    "passage": "life.chaegeun.10",
+    "prompt": "천천히 준비하고 있는 일이 있나요?"
+   }
+  ],
+  "en": {
+   "title": "Caigentan, 10 Days",
+   "subtitle": "Plain words, like vegetable roots",
+   "summary": "Ten passages from Hong Zicheng's Caigentan of the Ming dynasty, rendered by Pilsa in plain words. On living without hurry and with room to spare.",
+   "highlights": [
+    "Plain, generous words",
+    "Pilsa's own renderings of public-domain texts",
+    "First 2 days are free"
+   ],
+   "tags": [
+    "Caigentan",
+    "classics",
+    "ease",
+    "generosity",
+    "inner life",
+    "Hong Zicheng"
+   ],
+   "days": [
+    {
+     "title": "Lonely for a while",
+     "prompt": "What would you keep, even if it is lonely?"
+    },
+    {
+     "title": "Words hard to hear",
+     "prompt": "What hard words turned out to help you?"
+    },
+    {
+     "title": "A little more generous",
+     "prompt": "With whom could you be a little more generous?"
+    },
+    {
+     "title": "Share the good name",
+     "prompt": "What credit could you share with others?"
+    },
+    {
+     "title": "As much as they can bear",
+     "prompt": "What do you think of before correcting someone?"
+    },
+    {
+     "title": "Bamboo after the wind",
+     "prompt": "What past matter can you let go?"
+    },
+    {
+     "title": "This day passes easily",
+     "prompt": "What do you want this day to hold?"
+    },
+    {
+     "title": "A melon in the grass",
+     "prompt": "What do you keep doing, even without reward?"
+    },
+    {
+     "title": "Gentle with others",
+     "prompt": "Whose hardship would you like to help with?"
+    },
+    {
+     "title": "The bird that waited long",
+     "prompt": "What are you slowly preparing for?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "people10",
+  "kind": "plan",
+  "collection": "life",
+  "title": "사람 사이의 상식 10일",
+  "subtitle": "듣고, 사과하고, 선을 긋는 법",
+  "summary": "듣기, 사과, 거절, 고마움처럼 사람 사이의 오래된 상식을 한 줄씩 옮겨 씁니다. 알면서도 자주 놓치는 것들입니다.",
+  "symbol": "person.2",
+  "tint": "sky",
+  "highlights": [
+   "관계를 편하게 하는 열 문장",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "관계",
+   "대화",
+   "사과",
+   "거절",
+   "친구",
+   "가족",
+   "직장"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "days": [
+   {
+    "title": "끝까지 듣기",
+    "passage": "life.people.1",
+    "prompt": "최근 끝까지 들어 준 대화가 있나요?"
+   },
+   {
+    "title": "하지만 없는 사과",
+    "passage": "life.people.2",
+    "prompt": "하고 싶은 사과가 있나요?"
+   },
+   {
+    "title": "거절은 선 긋기",
+    "passage": "life.people.3",
+    "prompt": "편하게 거절하고 싶은 일이 있나요?"
+   },
+   {
+    "title": "고마운 말은 바로",
+    "passage": "life.people.4",
+    "prompt": "오늘 고맙다고 말할 사람은 누구인가요?"
+   },
+   {
+    "title": "부탁받은 조언",
+    "passage": "life.people.5",
+    "prompt": "조언 대신 들어 주고 싶은 사람이 있나요?"
+   },
+   {
+    "title": "하룻밤 재우기",
+    "passage": "life.people.6",
+    "prompt": "하룻밤 재워 다행이었던 말이 있나요?"
+   },
+   {
+    "title": "달라도 따뜻하게",
+    "passage": "life.people.7",
+    "prompt": "생각은 달라도 아끼는 사람이 있나요?"
+   },
+   {
+    "title": "작은 약속",
+    "passage": "life.people.8",
+    "prompt": "이번 주에 지킬 작은 약속은 무엇인가요?"
+   },
+   {
+    "title": "없는 사람 이야기",
+    "passage": "life.people.9",
+    "prompt": "그 사람이 들어도 괜찮을 말이었나요?"
+   },
+   {
+    "title": "먼저 묻는 안부",
+    "passage": "life.people.10",
+    "prompt": "안부를 묻고 싶은 사람이 떠오르나요?"
+   }
+  ],
+  "en": {
+   "title": "Getting Along, 10 Days",
+   "subtitle": "Listening, apologizing, drawing lines",
+   "summary": "Old common sense about listening, apologizing, saying no, and saying thanks, one line at a time. Things we know but often miss.",
+   "highlights": [
+    "Ten lines for easier relationships",
+    "First 2 days are free"
+   ],
+   "tags": [
+    "relationships",
+    "conversation",
+    "apology",
+    "saying no",
+    "friends",
+    "family",
+    "work"
+   ],
+   "days": [
+    {
+     "title": "Listening to the end",
+     "prompt": "When did you last listen all the way through?"
+    },
+    {
+     "title": "An apology without but",
+     "prompt": "Is there an apology you want to make?"
+    },
+    {
+     "title": "No is a line",
+     "prompt": "What would you like to say no to?"
+    },
+    {
+     "title": "Thanks without delay",
+     "prompt": "Who will you thank today?"
+    },
+    {
+     "title": "Advice when asked",
+     "prompt": "Who could use listening more than advice?"
+    },
+    {
+     "title": "Sleeping on it",
+     "prompt": "What words were better after a night?"
+    },
+    {
+     "title": "Different and still warm",
+     "prompt": "Who do you care for despite your differences?"
+    },
+    {
+     "title": "Small promises",
+     "prompt": "What small promise will you keep this week?"
+    },
+    {
+     "title": "Talking about someone absent",
+     "prompt": "Could they have heard what you said?"
+    },
+    {
+     "title": "Reaching out first",
+     "prompt": "Who would you like to check in on?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "bowang10",
+  "kind": "plan",
+  "title": "보왕삼매론 10일",
+  "subtitle": "막힘을 디딤돌로 삼는 열 줄",
+  "summary": "병 없기를 바라지 말라는 첫 줄부터 억울함을 밝히려 하지 말라는 끝 줄까지, 보왕삼매론 열 줄을 하루에 한 줄씩 씁니다.",
+  "symbol": "heart",
+  "tint": "peach",
+  "highlights": [
+   "하루 한 줄, 열흘",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "보왕삼매론",
+   "마음공부",
+   "역경",
+   "인내",
+   "위로",
+   "묘협"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "몸의 병",
+    "passage": "bud.bowang.1",
+    "prompt": "몸이 아팠던 때 오히려 알게 된 것이 있나요?"
+   },
+   {
+    "title": "세상살이의 어려움",
+    "passage": "bud.bowang.2",
+    "prompt": "어려움 덕분에 겸손해졌던 순간을 떠올려 보세요."
+   },
+   {
+    "title": "공부의 막힘",
+    "passage": "bud.bowang.3",
+    "prompt": "요즘 막혀서 천천히 가고 있는 일이 있나요?"
+   },
+   {
+    "title": "수행의 마장",
+    "passage": "bud.bowang.4",
+    "prompt": "흔들릴 때 나를 다시 붙잡아 준 다짐이 있나요?"
+   },
+   {
+    "title": "더디 이루는 일",
+    "passage": "bud.bowang.5",
+    "prompt": "더디게 이루어져 더 소중해진 일이 있나요?"
+   },
+   {
+    "title": "사귐",
+    "passage": "bud.bowang.6",
+    "prompt": "이익을 따지지 않고 만나는 사람을 떠올려 보세요."
+   },
+   {
+    "title": "내 뜻대로 되지 않는 사람",
+    "passage": "bud.bowang.7",
+    "prompt": "내 뜻과 달랐던 사람에게서 배운 것이 있나요?"
+   },
+   {
+    "title": "보답 없는 베풂",
+    "passage": "bud.bowang.8",
+    "prompt": "보답을 바라지 않고 건넬 수 있는 작은 친절은 무엇인가요?"
+   },
+   {
+    "title": "분에 넘치는 이익",
+    "passage": "bud.bowang.9",
+    "prompt": "오늘 이미 넉넉한 내 몫은 무엇인가요?"
+   },
+   {
+    "title": "억울함",
+    "passage": "bud.bowang.10",
+    "prompt": "마음속 억울함 하나를 조용히 내려놓아 보세요."
+   }
+  ],
+  "en": {
+   "title": "Treasure King Samadhi, 10 Days",
+   "subtitle": "Ten lines that turn obstacles into steps",
+   "summary": "From \"do not wish for a body free of illness\" to \"do not rush to clear your name,\" write one of the ten lines of the Treasure King Samadhi each day.",
+   "highlights": [
+    "One line a day for ten days",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Treasure King Samadhi",
+    "mind training",
+    "hardship",
+    "patience",
+    "comfort",
+    "Miaoxie"
+   ],
+   "days": [
+    {
+     "title": "Illness of the body",
+     "prompt": "Did being ill ever help you understand something?"
+    },
+    {
+     "title": "Hardship in life",
+     "prompt": "Recall a moment when hardship made you more humble."
+    },
+    {
+     "title": "Obstacles in study",
+     "prompt": "Is there something you are moving through slowly because you feel stuck?"
+    },
+    {
+     "title": "Trials in practice",
+     "prompt": "Is there a promise that held you steady when you were shaken?"
+    },
+    {
+     "title": "Things that come slowly",
+     "prompt": "Is there something that became more precious because it came slowly?"
+    },
+    {
+     "title": "Friendship",
+     "prompt": "Think of someone you meet without counting what you gain."
+    },
+    {
+     "title": "When others do not follow",
+     "prompt": "Have you learned something from someone who did not go your way?"
+    },
+    {
+     "title": "Giving without return",
+     "prompt": "What small kindness could you offer without hoping for anything back?"
+    },
+    {
+     "title": "More than my share",
+     "prompt": "What do you already have enough of today?"
+    },
+    {
+     "title": "Being wronged",
+     "prompt": "Quietly set down one hurt you have been carrying."
+    }
+   ]
+  }
+ },
+ {
+  "id": "yebul7",
+  "kind": "plan",
+  "title": "예불 게송 7일",
+  "subtitle": "절에서 날마다 외는 일곱 게송",
+  "summary": "아침 종송으로 시작해 오분향례, 개경게, 참회게, 자등명 법등명을 지나 저녁 종송과 회향게로 맺습니다.",
+  "symbol": "hands.sparkles",
+  "tint": "mustard",
+  "highlights": [
+   "암송쓰기와 잘 맞아요",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "예불",
+   "종소리",
+   "종송",
+   "게송",
+   "참회",
+   "회향",
+   "자등명"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "recall",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "아침 종송",
+    "passage": "bud.yebul.morningbell",
+    "prompt": "오늘 아침 마음에 울리게 하고 싶은 소리는 무엇인가요?"
+   },
+   {
+    "title": "오분향례",
+    "passage": "bud.yebul.hyang",
+    "prompt": "오늘 하루에 올리고 싶은 마음의 향은 무엇인가요?"
+   },
+   {
+    "title": "개경게",
+    "passage": "bud.yebul.gaegyeong",
+    "prompt": "오래 기다려 만난 좋은 말이 있나요?"
+   },
+   {
+    "title": "참회게",
+    "passage": "bud.yebul.chamhoe",
+    "prompt": "마음속으로 조용히 뉘우치고 싶은 일이 있나요?"
+   },
+   {
+    "title": "자등명 법등명",
+    "passage": "bud.yebul.jadeung",
+    "prompt": "오늘 나를 비추는 등불은 무엇인가요?"
+   },
+   {
+    "title": "저녁 종송",
+    "passage": "bud.yebul.eveningbell",
+    "prompt": "하루를 닫으며 내려놓고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "회향게",
+    "passage": "bud.yebul.hoehyang",
+    "prompt": "오늘 쓴 마음을 누구와 나누고 싶나요?"
+   }
+  ],
+  "en": {
+   "title": "Temple Chants, 7 Days",
+   "subtitle": "Seven verses chanted daily at temples",
+   "summary": "Begin with the morning bell chant, move through the incense offering, the sutra opening verse, repentance, and \"be a lamp to yourself,\" and close with the evening bell and the dedication.",
+   "highlights": [
+    "Works well with Recall",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "temple service",
+    "bell",
+    "bell chant",
+    "verse",
+    "repentance",
+    "dedication",
+    "lamp"
+   ],
+   "days": [
+    {
+     "title": "Morning bell chant",
+     "prompt": "What sound would you like to ring in your heart this morning?"
+    },
+    {
+     "title": "Fivefold incense offering",
+     "prompt": "What kind of heart would you like to offer to this day?"
+    },
+    {
+     "title": "Verse for opening the sutra",
+     "prompt": "Is there a good word you waited a long time to meet?"
+    },
+    {
+     "title": "Verse of repentance",
+     "prompt": "Is there something you would like to quietly regret and let go?"
+    },
+    {
+     "title": "Be a lamp to yourself",
+     "prompt": "What is the lamp that lights your way today?"
+    },
+    {
+     "title": "Evening bell chant",
+     "prompt": "As the day closes, what would you like to set down?"
+    },
+    {
+     "title": "Verse of dedication",
+     "prompt": "Who would you like to share today's writing with?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "sinsim10",
+  "kind": "plan",
+  "title": "신심명 10일",
+  "subtitle": "승찬 스님의 네 글자 노래",
+  "summary": "지극한 도는 어렵지 않다는 첫 구절부터 네 구절씩 아홉 날 쓰고, 열째 날에 신심명을 맺는 네 구절을 씁니다.",
+  "symbol": "cloud.sun",
+  "tint": "sage",
+  "highlights": [
+   "네 글자씩 또박또박",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "신심명",
+   "선",
+   "승찬",
+   "중도",
+   "마음공부",
+   "간택"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "신심명 1–4구",
+    "passage": "bud.sinsim.1",
+    "prompt": "좋고 싫음을 잠시 내려놓고 천천히 써 보세요."
+   },
+   {
+    "title": "신심명 5–8구",
+    "passage": "bud.sinsim.2",
+    "prompt": "작은 어긋남이 크게 벌어졌던 일을 떠올려 보세요."
+   },
+   {
+    "title": "신심명 9–12구",
+    "passage": "bud.sinsim.3",
+    "prompt": "애써 고요해지려다 더 시끄러워진 적이 있나요?"
+   },
+   {
+    "title": "신심명 13–16구",
+    "passage": "bud.sinsim.4",
+    "prompt": "지금 이대로 모자람이 없는 것 하나를 적어 보세요."
+   },
+   {
+    "title": "신심명 17–20구",
+    "passage": "bud.sinsim.5",
+    "prompt": "오늘 평평한 마음으로 바라보고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "신심명 21–24구",
+    "passage": "bud.sinsim.6",
+    "prompt": "멈추려 할수록 더 움직였던 생각이 있나요?"
+   },
+   {
+    "title": "신심명 25–28구",
+    "passage": "bud.sinsim.7",
+    "prompt": "버리려 하다 더 붙잡게 된 것이 있나요?"
+   },
+   {
+    "title": "신심명 29–32구",
+    "passage": "bud.sinsim.8",
+    "prompt": "오늘 말 한마디, 생각 하나를 덜어 본다면 무엇일까요?"
+   },
+   {
+    "title": "신심명 33–36구",
+    "passage": "bud.sinsim.9",
+    "prompt": "잠깐 멈추고 지금 마음을 돌이켜 보세요."
+   },
+   {
+    "title": "신심명 맺음",
+    "passage": "bud.sinsim.10",
+    "prompt": "다 쓰고 나서 마음에 남은 한 구절을 적어 보세요."
+   }
+  ],
+  "en": {
+   "title": "Faith in Mind, 10 Days",
+   "subtitle": "Sengcan's verse in four characters",
+   "summary": "Write four lines a day from the opening, \"The supreme Way is not difficult,\" for nine days, then the four closing lines of the poem on day ten.",
+   "highlights": [
+    "Four characters at a time",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Faith in Mind",
+    "Xinxin Ming",
+    "Zen",
+    "Sengcan",
+    "middle way",
+    "mind training"
+   ],
+   "days": [
+    {
+     "title": "Lines 1–4",
+     "prompt": "Set aside likes and dislikes for a moment and write slowly."
+    },
+    {
+     "title": "Lines 5–8",
+     "prompt": "Recall a time when a small difference grew into a wide gap."
+    },
+    {
+     "title": "Lines 9–12",
+     "prompt": "Have you ever grown noisier inside by trying hard to be calm?"
+    },
+    {
+     "title": "Lines 13–16",
+     "prompt": "Write down one thing that lacks nothing just as it is."
+    },
+    {
+     "title": "Lines 17–20",
+     "prompt": "What would you like to look at today with an even mind?"
+    },
+    {
+     "title": "Lines 21–24",
+     "prompt": "Is there a thought that moved more the harder you tried to stop it?"
+    },
+    {
+     "title": "Lines 25–28",
+     "prompt": "Is there something you held tighter while trying to let it go?"
+    },
+    {
+     "title": "Lines 29–32",
+     "prompt": "If you set down one word and one thought today, what would they be?"
+    },
+    {
+     "title": "Lines 33–36",
+     "prompt": "Pause for a moment and turn to look at your mind now."
+    },
+    {
+     "title": "Closing lines",
+     "prompt": "When you finish, write the line that stays with you."
+    }
+   ]
+  }
+ },
+ {
+  "id": "balsim10",
+  "kind": "plan",
+  "title": "발심수행장 10일",
+  "subtitle": "원효 스님의 마음 내는 글",
+  "summary": "부처님들이 적멸궁을 장엄하신 까닭에서 시작해 수레의 두 바퀴와 새의 두 날개를 지나, 어찌 서두르지 않으랴는 끝맺음까지 이름난 대목을 차례로 씁니다.",
+  "symbol": "book.closed",
+  "tint": "lavender",
+  "highlights": [
+   "초발심자경문의 한 편",
+   "앞의 2일은 무료예요"
+  ],
+  "tags": [
+   "원효",
+   "발심수행장",
+   "초발심자경문",
+   "발심",
+   "수행",
+   "신라"
+  ],
+  "previewDays": 2,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "적멸궁과 불타는 집",
+    "passage": "bud.balsim.1",
+    "prompt": "오늘 내려놓고 싶은 작은 욕심 하나는 무엇인가요?"
+   },
+   {
+    "title": "천당과 악도",
+    "passage": "bud.balsim.2",
+    "prompt": "보배처럼 쥐고 있지만 내려놓아도 될 것이 있나요?"
+   },
+   {
+    "title": "제 힘 닿는 대로",
+    "passage": "bud.balsim.3",
+    "prompt": "지금 내 힘이 닿는 좋은 일 하나를 적어 보세요."
+   },
+   {
+    "title": "버리고 행하기",
+    "passage": "bud.balsim.4",
+    "prompt": "오늘 기꺼이 나눌 수 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "산속의 수행자",
+    "passage": "bud.balsim.5",
+    "prompt": "조용히 쉬고 싶은 나만의 자리는 어디인가요?"
+   },
+   {
+    "title": "백 년은 금방",
+    "passage": "bud.balsim.6",
+    "prompt": "미루어 둔 배움 하나를 떠올려 보세요."
+   },
+   {
+    "title": "계행과 지혜",
+    "passage": "bud.balsim.7",
+    "prompt": "가고 싶은 쪽과 실제로 걷는 쪽이 같은지 살펴보세요."
+   },
+   {
+    "title": "쌀로 짓는 밥",
+    "passage": "bud.balsim.8",
+    "prompt": "요즘 내 마음을 고쳐 준 배움 하나를 적어 보세요."
+   },
+   {
+    "title": "수레의 두 바퀴",
+    "passage": "bud.balsim.9",
+    "prompt": "나를 돌보는 일과 남을 돕는 일 가운데 오늘 더 기울어진 쪽은 어디인가요?"
+   },
+   {
+    "title": "어찌 서두르지 않으랴",
+    "passage": "bud.balsim.10",
+    "prompt": "오늘 미루지 않고 하고 싶은 한 가지는 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "Arousing the Mind, 10 Days",
+   "subtitle": "Wonhyo's words on beginning practice",
+   "summary": "Write the best-known passages in order, from why the Buddhas adorn the palace of stillness, through the two wheels of a cart and the two wings of a bird, to the closing call not to delay.",
+   "highlights": [
+    "From the beginner's primer of Korean temples",
+    "The first 2 days are free"
+   ],
+   "tags": [
+    "Wonhyo",
+    "Arousing the Mind",
+    "Balsim Suhaengjang",
+    "beginner's mind",
+    "practice",
+    "Silla"
+   ],
+   "days": [
+    {
+     "title": "The palace of stillness and the burning house",
+     "prompt": "What small desire would you like to set down today?"
+    },
+    {
+     "title": "Heaven and the lower paths",
+     "prompt": "Is there something you hold like a treasure that you could let go?"
+    },
+    {
+     "title": "As far as your strength allows",
+     "prompt": "Write one good thing that is within your strength right now."
+    },
+    {
+     "title": "Letting go and doing the hard thing",
+     "prompt": "What can you gladly share today?"
+    },
+    {
+     "title": "The practitioner in the mountains",
+     "prompt": "Where is your own quiet place to rest?"
+    },
+    {
+     "title": "A hundred years pass quickly",
+     "prompt": "Bring to mind something you have been putting off learning."
+    },
+    {
+     "title": "Precepts and wisdom",
+     "prompt": "Notice whether the way you want to go and the way you walk are the same."
+    },
+    {
+     "title": "Rice, not sand",
+     "prompt": "Write down one lesson that has changed your mind lately."
+    },
+    {
+     "title": "Two wheels of a cart",
+     "prompt": "Caring for yourself and helping others: which did you lean toward today?"
+    },
+    {
+     "title": "Why not hurry?",
+     "prompt": "What is one thing you would like to do today without putting it off?"
     }
    ]
   }

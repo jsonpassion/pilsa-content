@@ -1,0 +1,196 @@
+{
+ "items": [
+  {
+   "productID": "kr.book.comfortbook",
+   "unlock": "pack:comfortBook",
+   "price": 4400,
+   "title": "위로의 책 28일",
+   "subtitle": "쉼의 말씀과 이사야의 위로",
+   "en": {
+    "title": "The Book of Comfort, 28 Days",
+    "subtitle": "Words of rest and Isaiah's comfort"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.jesusbook",
+   "unlock": "pack:jesusBook",
+   "price": 4400,
+   "title": "예수님의 말씀 29일",
+   "subtitle": "팔복에서 요한복음까지",
+   "en": {
+    "title": "The Words of Jesus, 29 Days",
+    "subtitle": "From the Beatitudes to John"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.joybook",
+   "unlock": "pack:joyBook",
+   "price": 4400,
+   "title": "기쁨과 감사의 책 28일",
+   "subtitle": "빌립보서, 감사의 말씀, 시편",
+   "en": {
+    "title": "The Book of Joy and Thanks, 28 Days",
+    "subtitle": "Philippians, thanksgiving, Psalms"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.faithbook",
+   "unlock": "pack:faithBook",
+   "price": 4400,
+   "title": "믿음과 지혜의 책 28일",
+   "subtitle": "로마서 8장, 두려워하지 말라, 잠언",
+   "en": {
+    "title": "Faith and Wisdom, 28 Days",
+    "subtitle": "Romans 8, do not fear, Proverbs"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.psalmsbook",
+   "unlock": "pack:psalmsBook",
+   "price": 4400,
+   "title": "다윗의 시편 28일",
+   "subtitle": "아침부터 저녁까지 다윗과 함께",
+   "en": {
+    "title": "Psalms of David, 28 Days",
+    "subtitle": "From morning to evening with David"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.marybook",
+   "unlock": "pack:maryBook",
+   "price": 4400,
+   "title": "성모님과 걷는 27일",
+   "subtitle": "묵주기도 스무 신비와 복음서의 찬가",
+   "en": {
+    "title": "Walking with Mary, 27 Days",
+    "subtitle": "The twenty mysteries and the Gospel canticles"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.gospelbook",
+   "unlock": "pack:gospelBook",
+   "price": 4400,
+   "title": "복음과 기도의 책 28일",
+   "subtitle": "예수님의 비유, 가상칠언, 시편",
+   "en": {
+    "title": "Gospel and Prayer, 28 Days",
+    "subtitle": "Parables, Seven Last Words, Psalms"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.holysoulsbook",
+   "unlock": "pack:holySoulsBook",
+   "price": 4400,
+   "title": "위령 성월 28일",
+   "subtitle": "세상을 떠난 이들을 기억하며",
+   "en": {
+    "title": "Month of the Holy Souls, 28 Days",
+    "subtitle": "Remembering those who have gone before us"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.carebook",
+   "unlock": "pack:careBook",
+   "price": 4400,
+   "title": "나를 돌보는 확언 31일",
+   "subtitle": "다정함, 감사, 잠들기 전",
+   "en": {
+    "title": "Taking Care of Me, 31 Days",
+    "subtitle": "Kindness, gratitude, bedtime"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.classicsbook",
+   "unlock": "pack:classicsBook",
+   "price": 4400,
+   "title": "고전 한 권 28일",
+   "subtitle": "동서양 고전과 논어",
+   "en": {
+    "title": "A Book of Classics, 28 Days",
+    "subtitle": "East and West, then the Analects"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.mindbook",
+   "unlock": "pack:mindBook",
+   "price": 4400,
+   "title": "마음을 다스리는 30일",
+   "subtitle": "흔들릴 때, 명심보감, 채근담",
+   "en": {
+    "title": "Steadying the Mind, 30 Days",
+    "subtitle": "Unsteady days, Myeongsim Bogam, Caigentan"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.everydaybook",
+   "unlock": "pack:everydayBook",
+   "price": 4400,
+   "title": "생활의 상식 30일",
+   "subtitle": "몸, 돈과 시간, 사람 사이",
+   "en": {
+    "title": "Everyday Sense, 30 Days",
+    "subtitle": "Body, money and time, people"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.yearendbook",
+   "unlock": "pack:yearEndBook",
+   "price": 4400,
+   "title": "한 해를 돌아보는 28일",
+   "subtitle": "늦가을에서 연말까지",
+   "en": {
+    "title": "Looking Back on the Year, 28 Days",
+    "subtitle": "From late autumn to the year's end"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.bohyeonbook",
+   "unlock": "pack:bohyeonBook",
+   "price": 4400,
+   "title": "보현행원 28일",
+   "subtitle": "보현보살의 열 가지 큰 바람",
+   "en": {
+    "title": "Samantabhadra's Vows, 28 Days",
+    "subtitle": "The ten great vows of Samantabhadra"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.sutrabook",
+   "unlock": "pack:sutraBook",
+   "price": 4400,
+   "title": "경전 사경 27일",
+   "subtitle": "반야심경, 법성게, 신심명",
+   "en": {
+    "title": "Sutra Copying, 27 Days",
+    "subtitle": "Heart Sutra, Beopseongge, Faith in Mind"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.mindsutrabook",
+   "unlock": "pack:mindSutraBook",
+   "price": 4400,
+   "title": "마음공부 사경 27일",
+   "subtitle": "보왕삼매론, 발심수행장, 예불 게송",
+   "en": {
+    "title": "Practice of the Mind, 27 Days",
+    "subtitle": "Precious King Samadhi, Arouse Your Mind, liturgy verses"
+   },
+   "new": true
+  }
+ ]
+}

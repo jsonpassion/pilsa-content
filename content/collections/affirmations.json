@@ -2480,6 +2480,910 @@
      "note": "달라고 말한다는 뜻이에요."
     }
    ]
+  },
+  "aff.92": {
+   "title": {
+    "en": "Like a good friend",
+    "ko": "좋은 친구처럼"
+   },
+   "lines": {
+    "en": [
+     "I talk to myself the way I talk to a good friend."
+    ],
+    "ko": [
+     "나는 좋은 친구에게 말하듯 나에게 말한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "talk to",
+     "ko": "~에게 말하다",
+     "note": ""
+    },
+    {
+     "word": "the way",
+     "ko": "~하듯이",
+     "note": "the way I ...는 '내가 ~하는 방식으로'예요."
+    }
+   ]
+  },
+  "aff.93": {
+   "title": {
+    "en": "Better than I think",
+    "ko": "생각보다 잘하고 있다"
+   },
+   "lines": {
+    "en": [
+     "I am doing better than I think."
+    ],
+    "ko": [
+     "나는 생각보다 잘하고 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "doing better",
+     "ko": "더 잘하고 있다",
+     "note": "be doing well은 '잘 지내다, 잘해 나가다'예요."
+    },
+    {
+     "word": "than I think",
+     "ko": "내 생각보다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.94": {
+   "title": {
+    "en": "What I did not know",
+    "ko": "그때 몰랐던 것"
+   },
+   "lines": {
+    "en": [
+     "I forgive myself for what I did not know back then."
+    ],
+    "ko": [
+     "그때 몰랐던 일로 나를 탓하지 않고 용서한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "forgive",
+     "ko": "용서하다",
+     "note": ""
+    },
+    {
+     "word": "back then",
+     "ko": "그때, 그 시절",
+     "note": "지나간 때를 가리켜요."
+    }
+   ]
+  },
+  "aff.95": {
+   "title": {
+    "en": "Tired and still okay",
+    "ko": "지쳐도 괜찮다"
+   },
+   "lines": {
+    "en": [
+     "I can be tired and still be good enough."
+    ],
+    "ko": [
+     "나는 지쳐 있어도 충분히 괜찮은 사람이다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "tired",
+     "ko": "지친, 피곤한",
+     "note": ""
+    },
+    {
+     "word": "good enough",
+     "ko": "충분히 괜찮은",
+     "note": "완벽하지 않아도 된다는 느낌이에요."
+    }
+   ]
+  },
+  "aff.96": {
+   "title": {
+    "en": "My needs matter",
+    "ko": "내 마음도 소중하다"
+   },
+   "lines": {
+    "en": [
+     "My needs matter as much as anyone else's."
+    ],
+    "ko": [
+     "내가 바라는 것도 다른 사람의 것만큼 소중하다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "needs",
+     "ko": "필요, 바라는 것",
+     "note": ""
+    },
+    {
+     "word": "matter",
+     "ko": "중요하다",
+     "note": "동사로 쓰인 matter예요."
+    },
+    {
+     "word": "as much as",
+     "ko": "~만큼",
+     "note": ""
+    }
+   ]
+  },
+  "aff.97": {
+   "title": {
+    "en": "The same patience",
+    "ko": "같은 인내"
+   },
+   "lines": {
+    "en": [
+     "I give myself the same patience I give to others."
+    ],
+    "ko": [
+     "남에게 주는 인내를 나에게도 똑같이 준다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "patience",
+     "ko": "인내, 참을성",
+     "note": ""
+    },
+    {
+     "word": "the same",
+     "ko": "똑같은",
+     "note": ""
+    }
+   ]
+  },
+  "aff.98": {
+   "title": {
+    "en": "A hard day",
+    "ko": "힘든 하루"
+   },
+   "lines": {
+    "en": [
+     "A hard day does not make me a bad person."
+    ],
+    "ko": [
+     "힘든 하루가 나를 나쁜 사람으로 만들지 않는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hard",
+     "ko": "힘든",
+     "note": ""
+    },
+    {
+     "word": "make me",
+     "ko": "나를 ~로 만들다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.99": {
+   "title": {
+    "en": "A soft inner voice",
+    "ko": "부드러운 속말"
+   },
+   "lines": {
+    "en": [
+     "I keep the voice inside my head soft and kind."
+    ],
+    "ko": [
+     "내 안의 목소리를 부드럽고 다정하게 둔다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "inside my head",
+     "ko": "머릿속의",
+     "note": "속으로 하는 말을 가리켜요."
+    },
+    {
+     "word": "keep",
+     "ko": "~하게 두다, 유지하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.100": {
+   "title": {
+    "en": "Room to be human",
+    "ko": "사람이라서"
+   },
+   "lines": {
+    "en": [
+     "I am human, and I am allowed to make mistakes."
+    ],
+    "ko": [
+     "나는 사람이고, 실수해도 괜찮다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "human",
+     "ko": "사람, 인간",
+     "note": ""
+    },
+    {
+     "word": "be allowed to",
+     "ko": "~해도 된다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.101": {
+   "title": {
+    "en": "On my own side",
+    "ko": "나는 내 편"
+   },
+   "lines": {
+    "en": [
+     "Today I choose to be on my own side."
+    ],
+    "ko": [
+     "오늘 나는 내 편이 되기로 한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "choose to",
+     "ko": "~하기로 하다",
+     "note": ""
+    },
+    {
+     "word": "on my side",
+     "ko": "내 편",
+     "note": "be on someone's side는 '누구의 편이다'예요."
+    }
+   ]
+  },
+  "aff.102": {
+   "title": {
+    "en": "Sit down and begin",
+    "ko": "앉아서 시작"
+   },
+   "lines": {
+    "en": [
+     "I sit down and begin, even before I feel ready."
+    ],
+    "ko": [
+     "준비가 됐다고 느끼기 전에도 나는 앉아서 시작한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "begin",
+     "ko": "시작하다",
+     "note": ""
+    },
+    {
+     "word": "feel ready",
+     "ko": "준비됐다고 느끼다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.103": {
+   "title": {
+    "en": "Full attention",
+    "ko": "온 마음으로"
+   },
+   "lines": {
+    "en": [
+     "I give this task my full attention."
+    ],
+    "ko": [
+     "나는 이 일에 온 마음을 기울인다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "task",
+     "ko": "할 일, 과제",
+     "note": ""
+    },
+    {
+     "word": "full attention",
+     "ko": "온전한 주의",
+     "note": "give ... attention은 '~에 주의를 기울이다'예요."
+    }
+   ]
+  },
+  "aff.104": {
+   "title": {
+    "en": "The phone can wait",
+    "ko": "휴대폰은 기다린다"
+   },
+   "lines": {
+    "en": [
+     "My phone can wait while I work."
+    ],
+    "ko": [
+     "일하는 동안 휴대폰은 기다려도 된다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "wait",
+     "ko": "기다리다",
+     "note": ""
+    },
+    {
+     "word": "while",
+     "ko": "~하는 동안",
+     "note": ""
+    }
+   ]
+  },
+  "aff.105": {
+   "title": {
+    "en": "One clear goal",
+    "ko": "분명한 목표 하나"
+   },
+   "lines": {
+    "en": [
+     "One clear goal guides my day."
+    ],
+    "ko": [
+     "분명한 목표 하나가 내 하루를 이끈다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "clear",
+     "ko": "분명한, 맑은",
+     "note": ""
+    },
+    {
+     "word": "goal",
+     "ko": "목표",
+     "note": ""
+    },
+    {
+     "word": "guide",
+     "ko": "이끌다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.106": {
+   "title": {
+    "en": "Coming back",
+    "ko": "다시 돌아오기"
+   },
+   "lines": {
+    "en": [
+     "When my mind drifts, I gently come back."
+    ],
+    "ko": [
+     "생각이 흘러가면 나는 부드럽게 돌아온다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "drift",
+     "ko": "떠돌다, 흘러가다",
+     "note": "물 위에 떠밀려 가는 모습에서 온 말이에요."
+    },
+    {
+     "word": "gently",
+     "ko": "부드럽게",
+     "note": ""
+    }
+   ]
+  },
+  "aff.107": {
+   "title": {
+    "en": "Work, then rest",
+    "ko": "일하고 쉬고"
+   },
+   "lines": {
+    "en": [
+     "I work for a while, and then I take a short break."
+    ],
+    "ko": [
+     "한동안 일하고, 그다음 잠깐 쉰다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "for a while",
+     "ko": "한동안",
+     "note": ""
+    },
+    {
+     "word": "take a break",
+     "ko": "쉬다",
+     "note": "잠깐 손을 놓고 쉬는 것이에요."
+    }
+   ]
+  },
+  "aff.108": {
+   "title": {
+    "en": "Hardest part first",
+    "ko": "어려운 것 먼저"
+   },
+   "lines": {
+    "en": [
+     "I do the hardest part first, while my mind is fresh."
+    ],
+    "ko": [
+     "머리가 맑을 때 가장 어려운 부분을 먼저 한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hardest",
+     "ko": "가장 어려운",
+     "note": ""
+    },
+    {
+     "word": "fresh",
+     "ko": "맑은, 생생한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.109": {
+   "title": {
+    "en": "Done is enough",
+    "ko": "끝낸 것으로 충분"
+   },
+   "lines": {
+    "en": [
+     "Today, finished is better than perfect."
+    ],
+    "ko": [
+     "오늘은 완벽한 것보다 끝낸 것이 낫다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "finished",
+     "ko": "끝낸, 마친",
+     "note": ""
+    },
+    {
+     "word": "better than",
+     "ko": "~보다 나은",
+     "note": ""
+    },
+    {
+     "word": "perfect",
+     "ko": "완벽한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.110": {
+   "title": {
+    "en": "A little more each time",
+    "ko": "할 때마다 조금씩"
+   },
+   "lines": {
+    "en": [
+     "I get a little better each time I practice."
+    ],
+    "ko": [
+     "연습할 때마다 나는 조금씩 나아진다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "get better",
+     "ko": "나아지다",
+     "note": ""
+    },
+    {
+     "word": "practice",
+     "ko": "연습하다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.111": {
+   "title": {
+    "en": "Where I stopped",
+    "ko": "멈춘 자리"
+   },
+   "lines": {
+    "en": [
+     "I write down where I stopped, so tomorrow starts easily."
+    ],
+    "ko": [
+     "멈춘 곳을 적어 두어 내일이 쉽게 시작되게 한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "write down",
+     "ko": "적어 두다",
+     "note": ""
+    },
+    {
+     "word": "so",
+     "ko": "그래서, ~하도록",
+     "note": ""
+    }
+   ]
+  },
+  "aff.112": {
+   "title": {
+    "en": "Afraid and still stepping",
+    "ko": "두려워도 한 걸음"
+   },
+   "lines": {
+    "en": [
+     "I can feel afraid and still take a step."
+    ],
+    "ko": [
+     "두려워도 나는 한 걸음 내디딜 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "afraid",
+     "ko": "두려운",
+     "note": ""
+    },
+    {
+     "word": "take a step",
+     "ko": "한 걸음 내딛다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.113": {
+   "title": {
+    "en": "Every beginning",
+    "ko": "모든 시작"
+   },
+   "lines": {
+    "en": [
+     "Every beginning feels a little strange, and that is okay."
+    ],
+    "ko": [
+     "모든 시작은 조금 낯설고, 그래도 괜찮다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "beginning",
+     "ko": "시작",
+     "note": ""
+    },
+    {
+     "word": "strange",
+     "ko": "낯선, 이상한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.114": {
+   "title": {
+    "en": "One new yes",
+    "ko": "새로운 하나"
+   },
+   "lines": {
+    "en": [
+     "This week I say yes to one new thing."
+    ],
+    "ko": [
+     "이번 주에 나는 새로운 일 하나에 그러겠다고 답한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "this week",
+     "ko": "이번 주",
+     "note": ""
+    },
+    {
+     "word": "say yes to",
+     "ko": "~에 응하다, 받아들이다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.115": {
+   "title": {
+    "en": "The question I held back",
+    "ko": "삼켜 둔 질문"
+   },
+   "lines": {
+    "en": [
+     "I ask the question I was afraid to ask."
+    ],
+    "ko": [
+     "묻기 두려웠던 질문을 묻는다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "ask",
+     "ko": "묻다",
+     "note": ""
+    },
+    {
+     "word": "be afraid to",
+     "ko": "~하기가 두렵다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.116": {
+   "title": {
+    "en": "No need to see it all",
+    "ko": "다 보이지 않아도"
+   },
+   "lines": {
+    "en": [
+     "I do not need to see the whole road to take the next step."
+    ],
+    "ko": [
+     "다음 걸음을 내딛는 데 길 전체가 보일 필요는 없다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "whole",
+     "ko": "전체의",
+     "note": ""
+    },
+    {
+     "word": "the next step",
+     "ko": "다음 걸음",
+     "note": ""
+    }
+   ]
+  },
+  "aff.117": {
+   "title": {
+    "en": "A beginner",
+    "ko": "처음 하는 사람"
+   },
+   "lines": {
+    "en": [
+     "I am allowed to be a beginner."
+    ],
+    "ko": [
+     "나는 처음 하는 사람이어도 괜찮다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "beginner",
+     "ko": "처음 배우는 사람, 초보",
+     "note": ""
+    },
+    {
+     "word": "be allowed to",
+     "ko": "~해도 된다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.118": {
+   "title": {
+    "en": "Even if my voice shakes",
+    "ko": "목소리가 떨려도"
+   },
+   "lines": {
+    "en": [
+     "I share my idea, even if my voice shakes."
+    ],
+    "ko": [
+     "목소리가 떨려도 나는 내 생각을 말한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "share",
+     "ko": "나누다, 말하다",
+     "note": ""
+    },
+    {
+     "word": "even if",
+     "ko": "~하더라도",
+     "note": ""
+    },
+    {
+     "word": "shake",
+     "ko": "떨리다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.119": {
+   "title": {
+    "en": "Getting up",
+    "ko": "다시 일어서기"
+   },
+   "lines": {
+    "en": [
+     "If I fall, I know how to get up again."
+    ],
+    "ko": [
+     "넘어져도 나는 다시 일어서는 법을 안다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "fall",
+     "ko": "넘어지다",
+     "note": ""
+    },
+    {
+     "word": "get up",
+     "ko": "일어나다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.120": {
+   "title": {
+    "en": "Trying is brave",
+    "ko": "해 보는 용기"
+   },
+   "lines": {
+    "en": [
+     "Trying is already a brave thing to do."
+    ],
+    "ko": [
+     "해 보는 것만으로 이미 용감한 일이다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "try",
+     "ko": "해 보다, 시도하다",
+     "note": ""
+    },
+    {
+     "word": "brave",
+     "ko": "용감한",
+     "note": ""
+    }
+   ]
+  },
+  "aff.121": {
+   "title": {
+    "en": "Room for good",
+    "ko": "잘될 자리"
+   },
+   "lines": {
+    "en": [
+     "I leave room for things to go well."
+    ],
+    "ko": [
+     "일이 잘될 자리도 남겨 둔다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "leave room for",
+     "ko": "~할 여지를 남기다",
+     "note": ""
+    },
+    {
+     "word": "go well",
+     "ko": "잘되다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.122": {
+   "title": {
+    "en": "The call I put off",
+    "ko": "미뤄 둔 연락"
+   },
+   "lines": {
+    "en": [
+     "Today I make the call I have been putting off."
+    ],
+    "ko": [
+     "오늘 나는 미뤄 두었던 연락을 한다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "make a call",
+     "ko": "전화하다",
+     "note": ""
+    },
+    {
+     "word": "put off",
+     "ko": "미루다",
+     "note": ""
+    }
+   ]
+  },
+  "aff.123": {
+   "title": {
+    "en": "Hard and good",
+    "ko": "힘들고 좋은"
+   },
+   "lines": {
+    "en": [
+     "Change can be hard and good at the same time."
+    ],
+    "ko": [
+     "변화는 힘들면서 동시에 좋을 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "change",
+     "ko": "변화",
+     "note": ""
+    },
+    {
+     "word": "at the same time",
+     "ko": "동시에",
+     "note": ""
+    }
+   ]
+  },
+  "aff.124": {
+   "title": {
+    "en": "One small part",
+    "ko": "작은 부분씩"
+   },
+   "lines": {
+    "en": [
+     "I can do hard things, one small part at a time."
+    ],
+    "ko": [
+     "나는 어려운 일도 작은 부분씩 해낼 수 있다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hard things",
+     "ko": "어려운 일",
+     "note": ""
+    },
+    {
+     "word": "at a time",
+     "ko": "한 번에",
+     "note": "one ... at a time은 '하나씩'이에요."
+    }
+   ]
+  },
+  "aff.125": {
+   "title": {
+    "en": "Proud that I tried",
+    "ko": "해 본 나"
+   },
+   "lines": {
+    "en": [
+     "Whatever happens, I am proud that I tried."
+    ],
+    "ko": [
+     "어떻게 되든, 나는 해 본 내가 자랑스럽다."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "whatever happens",
+     "ko": "무슨 일이 있든",
+     "note": ""
+    },
+    {
+     "word": "proud",
+     "ko": "자랑스러운",
+     "note": ""
+    }
+   ]
   }
  }
 }

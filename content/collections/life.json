@@ -1421,6 +1421,2113 @@
      "note": ""
     }
    ]
+  },
+  "life.analects.1": {
+   "title": {
+    "ko": "날마다 세 가지",
+    "en": "Three questions a day"
+   },
+   "lines": {
+    "ko": [
+     "나는 날마다 세 가지로 나를 돌아본다. 남을 위해 일하며 정성을 다했는가, 벗을 사귀며 믿음을 지켰는가, 배운 것을 익혔는가. 논어 학이편"
+    ],
+    "en": [
+     "Each day I look at myself three ways. Did I do my best for others? Was I true to my friends? Did I practice what I was taught? Analects, Book 1"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "look at myself",
+     "ko": "나를 돌아보다",
+     "note": ""
+    },
+    {
+     "word": "true to",
+     "ko": "~에게 믿음을 지키는",
+     "note": "be true to는 '~에게 신의를 지키다'예요."
+    },
+    {
+     "word": "practice",
+     "ko": "익히다, 연습하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.2": {
+   "title": {
+    "ko": "알아주지 않을 때",
+    "en": "When no one knows you"
+   },
+   "lines": {
+    "ko": [
+     "남이 나를 알아주지 않는 것을 걱정하지 말고, 내가 남을 알지 못하는 것을 걱정하라. 논어 학이편"
+    ],
+    "en": [
+     "Do not worry that others do not know you. Worry that you do not know others. Analects, Book 1"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "worry",
+     "ko": "걱정하다",
+     "note": ""
+    },
+    {
+     "word": "others",
+     "ko": "다른 사람들",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.3": {
+   "title": {
+    "ko": "옛것을 익혀",
+    "en": "Warming up the old"
+   },
+   "lines": {
+    "ko": [
+     "옛것을 익혀 새것을 알면 남의 스승이 될 만하다. 논어 위정편"
+    ],
+    "en": [
+     "One who keeps the old warm and comes to know the new is fit to be a teacher. Analects, Book 2"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "keep ... warm",
+     "ko": "따뜻하게 데우다",
+     "note": "溫을 살려 '옛것을 다시 익힌다'는 뜻으로 옮겼어요."
+    },
+    {
+     "word": "fit to be",
+     "ko": "~이 될 만한",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.4": {
+   "title": {
+    "ko": "배움과 생각",
+    "en": "Learning and thinking"
+   },
+   "lines": {
+    "ko": [
+     "배우기만 하고 생각하지 않으면 어둡고, 생각만 하고 배우지 않으면 위태롭다. 논어 위정편"
+    ],
+    "en": [
+     "Learning without thinking leaves you lost. Thinking without learning leaves you in danger. Analects, Book 2"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "without",
+     "ko": "~없이",
+     "note": ""
+    },
+    {
+     "word": "lost",
+     "ko": "길을 잃은, 어두운",
+     "note": ""
+    },
+    {
+     "word": "in danger",
+     "ko": "위태로운",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.5": {
+   "title": {
+    "ko": "어진 이를 보면",
+    "en": "Seeing the worthy"
+   },
+   "lines": {
+    "ko": [
+     "어진 이를 보면 그와 같아지기를 생각하고, 어질지 못한 이를 보면 속으로 나를 돌아본다. 논어 이인편"
+    ],
+    "en": [
+     "When you see a worthy person, think of becoming like them. When you see an unworthy one, look within yourself. Analects, Book 4"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "worthy",
+     "ko": "어진, 훌륭한",
+     "note": ""
+    },
+    {
+     "word": "look within",
+     "ko": "속을 들여다보다",
+     "note": "스스로를 살핀다는 뜻이에요."
+    }
+   ]
+  },
+  "life.analects.6": {
+   "title": {
+    "ko": "외롭지 않다",
+    "en": "Never alone"
+   },
+   "lines": {
+    "ko": [
+     "덕은 외롭지 않으니, 반드시 이웃이 있다. 논어 이인편"
+    ],
+    "en": [
+     "Virtue is never alone. It always has neighbors. Analects, Book 4"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "virtue",
+     "ko": "덕",
+     "note": ""
+    },
+    {
+     "word": "neighbor",
+     "ko": "이웃",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.7": {
+   "title": {
+    "ko": "두 번이면 된다",
+    "en": "Twice is enough"
+   },
+   "lines": {
+    "ko": [
+     "계문자는 세 번 생각한 뒤에야 움직였다. 공자가 듣고 말했다. 두 번이면 된다. 논어 공야장편"
+    ],
+    "en": [
+     "Ji Wenzi thought three times before he acted. Hearing of it, the Master said, Twice is enough. Analects, Book 5"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "before he acted",
+     "ko": "움직이기 전에",
+     "note": ""
+    },
+    {
+     "word": "the Master",
+     "ko": "공자",
+     "note": "논어에서 스승 공자를 이렇게 불러요."
+    },
+    {
+     "word": "twice",
+     "ko": "두 번",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.8": {
+   "title": {
+    "ko": "즐기는 사람",
+    "en": "The one who enjoys it"
+   },
+   "lines": {
+    "ko": [
+     "아는 사람은 좋아하는 사람만 못하고, 좋아하는 사람은 즐기는 사람만 못하다. 논어 옹야편"
+    ],
+    "en": [
+     "To know it is not as good as to love it. To love it is not as good as to delight in it. Analects, Book 6"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "not as good as",
+     "ko": "~만 못하다",
+     "note": ""
+    },
+    {
+     "word": "delight in",
+     "ko": "즐기다",
+     "note": "깊이 기뻐하며 누린다는 뜻이에요."
+    }
+   ]
+  },
+  "life.analects.9": {
+   "title": {
+    "ko": "세 사람이 걸으면",
+    "en": "Three walking together"
+   },
+   "lines": {
+    "ko": [
+     "세 사람이 길을 가면 그 가운데 반드시 내 스승이 있다. 좋은 점은 골라 따르고, 좋지 않은 점은 보고 나를 고친다. 논어 술이편"
+    ],
+    "en": [
+     "When three people walk together, one of them is surely my teacher. I follow what is good in them and mend in myself what is not. Analects, Book 7"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "surely",
+     "ko": "반드시",
+     "note": ""
+    },
+    {
+     "word": "follow",
+     "ko": "따르다",
+     "note": ""
+    },
+    {
+     "word": "mend",
+     "ko": "고치다",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.10": {
+   "title": {
+    "ko": "넓은 마음",
+    "en": "A wide, easy heart"
+   },
+   "lines": {
+    "ko": [
+     "군자는 마음이 평평하고 넓으며, 소인은 늘 근심에 싸여 있다. 논어 술이편"
+    ],
+    "en": [
+     "The noble person is calm and at ease. The small person is always anxious. Analects, Book 7"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "noble person",
+     "ko": "군자",
+     "note": "덕을 갖춘 사람을 가리켜요."
+    },
+    {
+     "word": "at ease",
+     "ko": "편안한",
+     "note": ""
+    },
+    {
+     "word": "anxious",
+     "ko": "근심하는",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.11": {
+   "title": {
+    "ko": "한 삼태기",
+    "en": "One basket short"
+   },
+   "lines": {
+    "ko": [
+     "산을 쌓는 것에 비유하면, 흙 한 삼태기가 모자라 멈추어도 멈춘 것은 나다. 논어 자한편"
+    ],
+    "en": [
+     "It is like building a hill. If I stop one basket short, it is I who stopped. Analects, Book 9"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "building a hill",
+     "ko": "산을 쌓다",
+     "note": ""
+    },
+    {
+     "word": "basket",
+     "ko": "바구니, 삼태기",
+     "note": ""
+    },
+    {
+     "word": "short",
+     "ko": "모자란",
+     "note": "one basket short는 '한 바구니 모자라게'예요."
+    }
+   ]
+  },
+  "life.analects.12": {
+   "title": {
+    "ko": "추운 뒤에야",
+    "en": "After the cold comes"
+   },
+   "lines": {
+    "ko": [
+     "날이 추워진 뒤에야 소나무와 잣나무가 늦게 시든다는 것을 안다. 논어 자한편"
+    ],
+    "en": [
+     "Only when the year turns cold do we see that the pine and cypress are the last to fade. Analects, Book 9"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "turn cold",
+     "ko": "추워지다",
+     "note": ""
+    },
+    {
+     "word": "pine",
+     "ko": "소나무",
+     "note": ""
+    },
+    {
+     "word": "fade",
+     "ko": "시들다",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.13": {
+   "title": {
+    "ko": "서두르면",
+    "en": "In a hurry"
+   },
+   "lines": {
+    "ko": [
+     "빨리 하려 하면 이르지 못하고, 작은 이익을 보면 큰일을 이루지 못한다. 논어 자로편"
+    ],
+    "en": [
+     "Wanting speed, you do not arrive. Looking at small gains, you do not finish great things. Analects, Book 13"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "speed",
+     "ko": "빠름, 속도",
+     "note": ""
+    },
+    {
+     "word": "arrive",
+     "ko": "이르다, 닿다",
+     "note": ""
+    },
+    {
+     "word": "gains",
+     "ko": "이익",
+     "note": ""
+    }
+   ]
+  },
+  "life.analects.14": {
+   "title": {
+    "ko": "평생의 한마디",
+    "en": "One word for a lifetime"
+   },
+   "lines": {
+    "ko": [
+     "평생 지킬 한마디가 있다면 헤아림이다. 내가 바라지 않는 것을 남에게 하지 말라. 논어 위령공편"
+    ],
+    "en": [
+     "If one word could guide a whole life, it is understanding. Do not do to others what you would not want for yourself. Analects, Book 15"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "guide",
+     "ko": "이끌다",
+     "note": ""
+    },
+    {
+     "word": "understanding",
+     "ko": "헤아림",
+     "note": "恕를 옮긴 말이에요. 남의 마음을 내 마음처럼 헤아린다는 뜻이에요."
+    },
+    {
+     "word": "do to others",
+     "ko": "남에게 하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.1": {
+   "title": {
+    "ko": "작은 선, 작은 악",
+    "en": "Small good, small harm"
+   },
+   "lines": {
+    "ko": [
+     "선이 작다고 해서 하지 않으면 안 되고, 악이 작다고 해서 해서는 안 된다. 명심보감 계선편"
+    ],
+    "en": [
+     "Do not leave a good deed undone because it is small. Do not do a wrong because it is small. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "good deed",
+     "ko": "선한 일",
+     "note": ""
+    },
+    {
+     "word": "undone",
+     "ko": "하지 않은 채",
+     "note": ""
+    },
+    {
+     "word": "wrong",
+     "ko": "잘못, 나쁜 일",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.2": {
+   "title": {
+    "ko": "남을 보며 나를",
+    "en": "Seeing myself in others"
+   },
+   "lines": {
+    "ko": [
+     "남의 좋은 점을 보면 나의 좋은 점을 찾고, 남의 나쁜 점을 보면 나의 나쁜 점을 찾는다. 그래야 얻는 것이 있다. 명심보감 정기편"
+    ],
+    "en": [
+     "When you see good in others, look for it in yourself. When you see fault in others, look for it in yourself. Only then do you gain. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "look for",
+     "ko": "찾다",
+     "note": ""
+    },
+    {
+     "word": "fault",
+     "ko": "잘못, 흠",
+     "note": ""
+    },
+    {
+     "word": "gain",
+     "ko": "얻다",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.3": {
+   "title": {
+    "ko": "쓴소리 하는 스승",
+    "en": "The one who tells me my faults"
+   },
+   "lines": {
+    "ko": [
+     "나를 좋게만 말하는 사람은 나를 해치는 사람이고, 나의 잘못을 말해 주는 사람은 나의 스승이다. 명심보감 정기편"
+    ],
+    "en": [
+     "One who only praises me does me harm. One who tells me my faults is my teacher. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "praise",
+     "ko": "칭찬하다",
+     "note": ""
+    },
+    {
+     "word": "do harm",
+     "ko": "해를 끼치다",
+     "note": ""
+    },
+    {
+     "word": "faults",
+     "ko": "잘못, 허물",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.4": {
+   "title": {
+    "ko": "넉넉함을 알면",
+    "en": "Knowing enough"
+   },
+   "lines": {
+    "ko": [
+     "넉넉함을 알아 늘 넉넉하면 평생 욕되지 않고, 멈출 줄 알아 늘 멈추면 평생 부끄럽지 않다. 명심보감 안분편"
+    ],
+    "en": [
+     "Know what is enough and you always have enough, and you are never disgraced. Know when to stop and you will have no shame all your life. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "enough",
+     "ko": "넉넉한, 충분한",
+     "note": ""
+    },
+    {
+     "word": "disgraced",
+     "ko": "욕된",
+     "note": ""
+    },
+    {
+     "word": "shame",
+     "ko": "부끄러움",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.5": {
+   "title": {
+    "ko": "꾸짖는 마음, 너그러운 마음",
+    "en": "The blaming heart, the forgiving heart"
+   },
+   "lines": {
+    "ko": [
+     "남을 꾸짖는 마음으로 나를 꾸짖고, 나를 너그러이 보는 마음으로 남을 너그러이 보라. 명심보감 존심편"
+    ],
+    "en": [
+     "Blame yourself with the heart you use to blame others. Forgive others with the heart you use to forgive yourself. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "blame",
+     "ko": "꾸짖다, 탓하다",
+     "note": ""
+    },
+    {
+     "word": "forgive",
+     "ko": "너그러이 보다, 용서하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.6": {
+   "title": {
+    "ko": "내일이 있다 말하지 말라",
+    "en": "Do not say there is tomorrow"
+   },
+   "lines": {
+    "ko": [
+     "오늘 배우지 않고 내일이 있다 말하지 말고, 올해 배우지 않고 내년이 있다 말하지 말라. 해와 달은 가고 세월은 나를 기다리지 않는다. 명심보감 권학편"
+    ],
+    "en": [
+     "Do not say there is tomorrow when you have not learned today. Do not say there is next year when you have not learned this year. The days go by, and the years do not wait for me. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "go by",
+     "ko": "지나가다",
+     "note": ""
+    },
+    {
+     "word": "wait for",
+     "ko": "~을 기다리다",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.7": {
+   "title": {
+    "ko": "한 가지 일, 한 가지 지혜",
+    "en": "One thing lived, one thing learned"
+   },
+   "lines": {
+    "ko": [
+     "한 가지 일을 겪지 않으면 한 가지 지혜가 자라지 않는다. 명심보감 성심편"
+    ],
+    "en": [
+     "If you do not go through a thing, you do not grow a bit wiser. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "go through",
+     "ko": "겪다",
+     "note": ""
+    },
+    {
+     "word": "wiser",
+     "ko": "더 지혜로운",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.8": {
+   "title": {
+    "ko": "한때의 화",
+    "en": "A moment of anger"
+   },
+   "lines": {
+    "ko": [
+     "한때의 화를 참으면 백 날의 근심을 면한다. 명심보감 계성편"
+    ],
+    "en": [
+     "Hold back a moment of anger, and you are spared a hundred days of worry. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hold back",
+     "ko": "참다, 누르다",
+     "note": ""
+    },
+    {
+     "word": "be spared",
+     "ko": "면하다",
+     "note": "피하게 된다는 뜻이에요."
+    }
+   ]
+  },
+  "life.myeongsim.9": {
+   "title": {
+    "ko": "먼 길과 긴 날",
+    "en": "A long road, many days"
+   },
+   "lines": {
+    "ko": [
+     "길이 멀어야 말의 힘을 알고, 날이 오래되어야 사람의 마음을 본다. 명심보감 교우편"
+    ],
+    "en": [
+     "A long road shows the strength of a horse. Many days show the heart of a person. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "long road",
+     "ko": "먼 길",
+     "note": ""
+    },
+    {
+     "word": "strength",
+     "ko": "힘",
+     "note": ""
+    }
+   ]
+  },
+  "life.myeongsim.10": {
+   "title": {
+    "ko": "솜 같은 말",
+    "en": "Words like cotton"
+   },
+   "lines": {
+    "ko": [
+     "남을 이롭게 하는 말은 솜처럼 따뜻하고, 남을 아프게 하는 말은 가시처럼 날카롭다. 명심보감 언어편"
+    ],
+    "en": [
+     "Words that help others are warm like cotton. Words that hurt others are sharp like thorns. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "cotton",
+     "ko": "솜",
+     "note": ""
+    },
+    {
+     "word": "hurt",
+     "ko": "아프게 하다",
+     "note": ""
+    },
+    {
+     "word": "thorn",
+     "ko": "가시",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.1": {
+   "title": {
+    "ko": "한때의 쓸쓸함",
+    "en": "Lonely for a while"
+   },
+   "lines": {
+    "ko": [
+     "바른 길을 지키며 사는 사람은 한때 쓸쓸하지만, 권세에 기대어 사는 사람은 오래도록 처량하다. 채근담"
+    ],
+    "en": [
+     "One who keeps to the right way is lonely for a while. One who leans on power is pitiful for ages. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "keep to",
+     "ko": "지키다",
+     "note": ""
+    },
+    {
+     "word": "lean on",
+     "ko": "기대다",
+     "note": ""
+    },
+    {
+     "word": "pitiful",
+     "ko": "처량한",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.2": {
+   "title": {
+    "ko": "귀에 거슬리는 말",
+    "en": "Words hard to hear"
+   },
+   "lines": {
+    "ko": [
+     "귀에 거슬리는 말을 늘 듣고 마음에 거슬리는 일을 늘 겪어야, 그것이 나를 닦는 숫돌이 된다. 채근담"
+    ],
+    "en": [
+     "To hear words that are hard to hear and meet things that go against the heart, this is the whetstone that shapes you. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hard to hear",
+     "ko": "듣기 거북한",
+     "note": ""
+    },
+    {
+     "word": "go against",
+     "ko": "거스르다",
+     "note": ""
+    },
+    {
+     "word": "whetstone",
+     "ko": "숫돌",
+     "note": "칼을 가는 돌이에요."
+    }
+   ]
+  },
+  "life.chaegeun.3": {
+   "title": {
+    "ko": "조금 더 너그럽게",
+    "en": "A little more generous"
+   },
+   "lines": {
+    "ko": [
+     "사람을 대할 때 조금 더 너그러운 것이 복이다. 남을 이롭게 하는 것이 실은 나를 이롭게 하는 바탕이다. 채근담"
+    ],
+    "en": [
+     "Being a little more generous with people is a blessing. Helping others is, in truth, the ground of helping yourself. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "generous",
+     "ko": "너그러운",
+     "note": ""
+    },
+    {
+     "word": "blessing",
+     "ko": "복",
+     "note": ""
+    },
+    {
+     "word": "in truth",
+     "ko": "실은",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.4": {
+   "title": {
+    "ko": "좋은 이름은 나누고",
+    "en": "Share the good name"
+   },
+   "lines": {
+    "ko": [
+     "좋은 이름은 혼자 다 갖지 말고 조금 남과 나누고, 허물은 남에게 다 미루지 말고 조금 내 몫으로 가져온다. 채근담"
+    ],
+    "en": [
+     "Do not keep a good name all to yourself; share some with others. Do not push all the blame away; take some back as your own. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "all to yourself",
+     "ko": "혼자 다",
+     "note": ""
+    },
+    {
+     "word": "push away",
+     "ko": "밀어내다, 미루다",
+     "note": ""
+    },
+    {
+     "word": "blame",
+     "ko": "허물, 탓",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.5": {
+   "title": {
+    "ko": "견딜 만큼, 따를 만큼",
+    "en": "As much as they can bear"
+   },
+   "lines": {
+    "ko": [
+     "남의 잘못을 말할 때는 너무 엄하지 않게 그가 견딜 만한지 생각하고, 착한 길을 가르칠 때는 너무 높지 않게 그가 따를 만하게 한다. 채근담"
+    ],
+    "en": [
+     "When you point out a fault, do not be too harsh; think whether they can bear it. When you teach what is good, do not aim too high; make it something they can follow. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "point out",
+     "ko": "지적하다",
+     "note": ""
+    },
+    {
+     "word": "harsh",
+     "ko": "엄한, 가혹한",
+     "note": ""
+    },
+    {
+     "word": "bear",
+     "ko": "견디다",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.6": {
+   "title": {
+    "ko": "바람이 지나간 대숲",
+    "en": "Bamboo after the wind"
+   },
+   "lines": {
+    "ko": [
+     "바람이 성긴 대숲에 불어와도 지나가면 대는 소리를 남기지 않는다. 일이 오면 마음이 움직이고, 일이 가면 마음도 따라 비운다. 채근담"
+    ],
+    "en": [
+     "Wind comes through thin bamboo, and when it passes, the bamboo keeps no sound. When a matter comes, the heart rises to it; when it goes, the heart empties too. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "bamboo",
+     "ko": "대나무",
+     "note": ""
+    },
+    {
+     "word": "keep no sound",
+     "ko": "소리를 남기지 않다",
+     "note": ""
+    },
+    {
+     "word": "empty",
+     "ko": "비우다",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.7": {
+   "title": {
+    "ko": "다시 오지 않는 오늘",
+    "en": "This day passes easily"
+   },
+   "lines": {
+    "ko": [
+     "하늘과 땅은 영원하지만 이 몸은 다시 얻지 못하고, 인생은 백 년뿐인데 오늘 하루는 가장 쉽게 지나간다. 채근담"
+    ],
+    "en": [
+     "Heaven and earth last forever, but this body comes only once. A life is only a hundred years, and this day passes most easily of all. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "last forever",
+     "ko": "영원하다",
+     "note": ""
+    },
+    {
+     "word": "only once",
+     "ko": "단 한 번",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.8": {
+   "title": {
+    "ko": "풀 속의 동아",
+    "en": "A melon in the grass"
+   },
+   "lines": {
+    "ko": [
+     "선을 행하고 보람이 보이지 않아도, 풀 속의 동아처럼 보이지 않는 곳에서 저절로 자란다. 채근담"
+    ],
+    "en": [
+     "When you do good and see no reward, it is like a melon hidden in the grass. It grows quietly on its own. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "reward",
+     "ko": "보람, 보상",
+     "note": ""
+    },
+    {
+     "word": "melon",
+     "ko": "박과 열매",
+     "note": "원문은 동아(冬瓜)예요."
+    },
+    {
+     "word": "on its own",
+     "ko": "저절로",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.9": {
+   "title": {
+    "ko": "남에게는 너그럽게",
+    "en": "Gentle with others"
+   },
+   "lines": {
+    "ko": [
+     "남의 잘못은 너그러이 봐주되 내 잘못은 그러지 말고, 내 괴로움은 참되 남의 괴로움은 그냥 두지 말라. 채근담"
+    ],
+    "en": [
+     "Forgive the mistakes of others, but not your own. Bear your own hardship, but do not leave others to bear theirs. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "forgive",
+     "ko": "너그러이 봐주다",
+     "note": ""
+    },
+    {
+     "word": "hardship",
+     "ko": "괴로움, 어려움",
+     "note": ""
+    },
+    {
+     "word": "leave",
+     "ko": "그냥 두다",
+     "note": ""
+    }
+   ]
+  },
+  "life.chaegeun.10": {
+   "title": {
+    "ko": "오래 엎드린 새",
+    "en": "The bird that waited long"
+   },
+   "lines": {
+    "ko": [
+     "오래 엎드려 있던 새는 반드시 높이 날고, 먼저 핀 꽃은 홀로 일찍 진다. 이것을 알면 헛디딜 걱정도, 조급한 마음도 사라진다. 채근담"
+    ],
+    "en": [
+     "A bird that has crouched long will surely fly high. A flower that opens first falls early and alone. Know this, and both the fear of stumbling and the hurried heart fade. Caigentan"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "crouch",
+     "ko": "엎드리다, 웅크리다",
+     "note": ""
+    },
+    {
+     "word": "stumbling",
+     "ko": "헛디딤",
+     "note": ""
+    },
+    {
+     "word": "hurried",
+     "ko": "조급한",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.1": {
+   "title": {
+    "ko": "끝까지 듣기",
+    "en": "Listening to the end"
+   },
+   "lines": {
+    "ko": [
+     "대답을 고르며 듣지 않는다. 끝까지 듣고 나서 말한다."
+    ],
+    "en": [
+     "I do not listen while picking my reply. I listen to the end, then I speak."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "reply",
+     "ko": "대답",
+     "note": ""
+    },
+    {
+     "word": "to the end",
+     "ko": "끝까지",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.2": {
+   "title": {
+    "ko": "하지만 없는 사과",
+    "en": "An apology without but"
+   },
+   "lines": {
+    "ko": [
+     "사과에는 하지만을 붙이지 않는다. 미안하다는 말로 끝낸다."
+    ],
+    "en": [
+     "An apology does not need a but. It ends with I am sorry."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "apology",
+     "ko": "사과",
+     "note": ""
+    },
+    {
+     "word": "but",
+     "ko": "하지만",
+     "note": "변명이 시작되는 자리에 자주 와요."
+    }
+   ]
+  },
+  "life.people.3": {
+   "title": {
+    "ko": "거절은 선 긋기",
+    "en": "No is a line"
+   },
+   "lines": {
+    "ko": [
+     "거절은 사람을 밀어내는 것이 아니라 내 자리를 알려 주는 것이다."
+    ],
+    "en": [
+     "Saying no does not push a person away. It shows them where I stand."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "push away",
+     "ko": "밀어내다",
+     "note": ""
+    },
+    {
+     "word": "where I stand",
+     "ko": "내 자리, 내 입장",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.4": {
+   "title": {
+    "ko": "고마운 말은 바로",
+    "en": "Thanks without delay"
+   },
+   "lines": {
+    "ko": [
+     "고마운 말은 미루지 않는다. 떠올랐을 때 바로 한다."
+    ],
+    "en": [
+     "I do not save my thanks for later. I say it when it comes to mind."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "save for later",
+     "ko": "나중으로 미루다",
+     "note": ""
+    },
+    {
+     "word": "come to mind",
+     "ko": "떠오르다",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.5": {
+   "title": {
+    "ko": "부탁받은 조언",
+    "en": "Advice when asked"
+   },
+   "lines": {
+    "ko": [
+     "조언은 부탁받았을 때 한다. 그 전에는 들어 준다."
+    ],
+    "en": [
+     "I give advice when I am asked. Until then, I listen."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "advice",
+     "ko": "조언",
+     "note": ""
+    },
+    {
+     "word": "until then",
+     "ko": "그때까지는",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.6": {
+   "title": {
+    "ko": "하룻밤 재우기",
+    "en": "Sleeping on it"
+   },
+   "lines": {
+    "ko": [
+     "화가 난 날의 메시지는 보내기 전에 하룻밤 재운다."
+    ],
+    "en": [
+     "A message written in anger sleeps one night before I send it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "in anger",
+     "ko": "화가 난 채로",
+     "note": ""
+    },
+    {
+     "word": "send",
+     "ko": "보내다",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.7": {
+   "title": {
+    "ko": "달라도 따뜻하게",
+    "en": "Different and still warm"
+   },
+   "lines": {
+    "ko": [
+     "생각이 다른 사람과도 따뜻하게 지낼 수 있다."
+    ],
+    "en": [
+     "I can stay warm with people who think differently from me."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "stay warm",
+     "ko": "따뜻하게 지내다",
+     "note": ""
+    },
+    {
+     "word": "differently",
+     "ko": "다르게",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.8": {
+   "title": {
+    "ko": "작은 약속",
+    "en": "Small promises"
+   },
+   "lines": {
+    "ko": [
+     "작은 약속을 지키는 일이 큰 믿음을 쌓는다."
+    ],
+    "en": [
+     "Keeping small promises builds big trust."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "keep a promise",
+     "ko": "약속을 지키다",
+     "note": ""
+    },
+    {
+     "word": "trust",
+     "ko": "믿음, 신뢰",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.9": {
+   "title": {
+    "ko": "없는 사람 이야기",
+    "en": "Talking about someone absent"
+   },
+   "lines": {
+    "ko": [
+     "그 자리에 없는 사람의 이야기는 그가 들어도 괜찮을 만큼만 한다."
+    ],
+    "en": [
+     "I speak of someone who is not here only in ways they could hear."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "not here",
+     "ko": "그 자리에 없는",
+     "note": ""
+    },
+    {
+     "word": "in ways",
+     "ko": "~한 방식으로",
+     "note": ""
+    }
+   ]
+  },
+  "life.people.10": {
+   "title": {
+    "ko": "먼저 묻는 안부",
+    "en": "Reaching out first"
+   },
+   "lines": {
+    "ko": [
+     "오랜만이어도 괜찮다. 먼저 안부를 묻는 사람이 된다."
+    ],
+    "en": [
+     "It is fine if it has been a long time. I will be the one who asks first."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "it has been a long time",
+     "ko": "오랜만이다",
+     "note": ""
+    },
+    {
+     "word": "ask first",
+     "ko": "먼저 묻다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.1": {
+   "title": {
+    "ko": "올해의 첫 장",
+    "en": "The first page of the year"
+   },
+   "lines": {
+    "ko": [
+     "달력을 올해의 첫 장으로 넘겨 본다. 바빴던 달도 조용했던 달도 모두 내가 지나온 날이다."
+    ],
+    "en": [
+     "I turn the calendar back to the first page of the year. The busy months and the quiet ones are all days I lived through."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "turn back",
+     "ko": "되넘기다, 앞으로 넘기다",
+     "note": ""
+    },
+    {
+     "word": "quiet",
+     "ko": "조용한",
+     "note": ""
+    },
+    {
+     "word": "live through",
+     "ko": "지나오다, 살아 내다",
+     "note": "어떤 시간을 겪어 낸다는 뜻이에요."
+    }
+   ]
+  },
+  "life.yearend.2": {
+   "title": {
+    "ko": "해낸 일 적기",
+    "en": "Writing down what I did"
+   },
+   "lines": {
+    "ko": [
+     "올해 해낸 일을 작은 것부터 적어 본다. 적고 나면 생각보다 목록이 길다."
+    ],
+    "en": [
+     "I write down what I did this year, starting with the small things. Once it is written, the list is longer than I thought."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "starting with",
+     "ko": "부터 시작해서",
+     "note": ""
+    },
+    {
+     "word": "list",
+     "ko": "목록",
+     "note": ""
+    },
+    {
+     "word": "than I thought",
+     "ko": "생각보다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.3": {
+   "title": {
+    "ko": "놓지 않은 것",
+    "en": "What I kept up"
+   },
+   "lines": {
+    "ko": [
+     "매일은 아니어도 끝내 놓지 않은 것이 하나 있다. 그것이 올해의 나를 만들었다."
+    ],
+    "en": [
+     "There is one thing I never let go of, even if not every day. That is what shaped me this year."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "let go of",
+     "ko": "놓다, 손에서 놓아 버리다",
+     "note": ""
+    },
+    {
+     "word": "even if",
+     "ko": "비록 ~이라도",
+     "note": ""
+    },
+    {
+     "word": "shape",
+     "ko": "만들다, 빚다",
+     "note": "모양을 잡아 간다는 뜻이에요."
+    }
+   ]
+  },
+  "life.yearend.4": {
+   "title": {
+    "ko": "사진첩 거꾸로 넘기기",
+    "en": "Scrolling back through photos"
+   },
+   "lines": {
+    "ko": [
+     "사진첩을 거꾸로 넘기다 보면 잊고 있던 좋은 날이 나온다."
+    ],
+    "en": [
+     "Scrolling back through my photos, I find good days I had forgotten."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "scroll back",
+     "ko": "거꾸로 넘기다",
+     "note": ""
+    },
+    {
+     "word": "forget",
+     "ko": "잊다",
+     "note": "과거형은 forgot, forgotten이에요."
+    }
+   ]
+  },
+  "life.yearend.5": {
+   "title": {
+    "ko": "올해 배운 하나",
+    "en": "One thing I learned"
+   },
+   "lines": {
+    "ko": [
+     "올해 새로 알게 된 것을 하나 꼽는다. 크지 않아도 이제는 내 것이다."
+    ],
+    "en": [
+     "I pick one thing I learned this year. It is not big, but it is mine now."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "pick",
+     "ko": "고르다, 꼽다",
+     "note": ""
+    },
+    {
+     "word": "learn",
+     "ko": "배우다, 알게 되다",
+     "note": ""
+    },
+    {
+     "word": "mine",
+     "ko": "내 것",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.6": {
+   "title": {
+    "ko": "그냥 버틴 날",
+    "en": "Days I got through"
+   },
+   "lines": {
+    "ko": [
+     "잘한 날만 세지 않는다. 그냥 버틴 날도 한 해를 채웠다."
+    ],
+    "en": [
+     "I do not count only the good days. The days I simply got through filled the year too."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "count",
+     "ko": "세다",
+     "note": ""
+    },
+    {
+     "word": "get through",
+     "ko": "버티다, 견뎌 내다",
+     "note": ""
+    },
+    {
+     "word": "fill",
+     "ko": "채우다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.7": {
+   "title": {
+    "ko": "지켜 온 작은 것",
+    "en": "A small thing I kept"
+   },
+   "lines": {
+    "ko": [
+     "올해 바꾸지 않고 지켜 온 것을 떠올린다. 아침 산책처럼 작은 것이어도 좋다."
+    ],
+    "en": [
+     "I think of what I kept unchanged this year. Something as small as a morning walk counts."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "unchanged",
+     "ko": "바뀌지 않은, 그대로인",
+     "note": ""
+    },
+    {
+     "word": "as small as",
+     "ko": "~만큼 작은",
+     "note": ""
+    },
+    {
+     "word": "count",
+     "ko": "셈에 들다, 의미가 있다",
+     "note": "여기서는 '쳐준다'는 뜻이에요."
+    }
+   ]
+  },
+  "life.yearend.8": {
+   "title": {
+    "ko": "먼저 떠오르는 얼굴",
+    "en": "The face that comes first"
+   },
+   "lines": {
+    "ko": [
+     "올해를 떠올리면 먼저 생각나는 얼굴이 있다. 이제 그 사람에게 고맙다고 말할 차례다."
+    ],
+    "en": [
+     "When I think back on the year, one face comes to mind first. Now it is my turn to say thank you."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "think back on",
+     "ko": "돌이켜 생각하다",
+     "note": ""
+    },
+    {
+     "word": "come to mind",
+     "ko": "떠오르다",
+     "note": ""
+    },
+    {
+     "word": "my turn",
+     "ko": "내 차례",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.9": {
+   "title": {
+    "ko": "밥 한 끼",
+    "en": "One meal"
+   },
+   "lines": {
+    "ko": [
+     "힘든 날 밥을 사 준 사람이 있었다. 그 한 끼가 오래 따뜻했다."
+    ],
+    "en": [
+     "Someone bought me a meal on a hard day. That one meal kept me warm for a long time."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "buy someone a meal",
+     "ko": "밥을 사 주다",
+     "note": ""
+    },
+    {
+     "word": "hard day",
+     "ko": "힘든 날",
+     "note": ""
+    },
+    {
+     "word": "keep warm",
+     "ko": "따뜻하게 하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.10": {
+   "title": {
+    "ko": "가까운 사람에게",
+    "en": "To the ones close by"
+   },
+   "lines": {
+    "ko": [
+     "너무 가까워서 고맙다는 말을 가장 늦게 하는 사람이 가족이다."
+    ],
+    "en": [
+     "Family are the ones I thank last, because they are so close."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thank",
+     "ko": "고맙다고 하다",
+     "note": ""
+    },
+    {
+     "word": "last",
+     "ko": "마지막에, 가장 늦게",
+     "note": ""
+    },
+    {
+     "word": "close",
+     "ko": "가까운",
+     "note": "거리와 사이가 모두 가깝다는 뜻이에요."
+    }
+   ]
+  },
+  "life.yearend.11": {
+   "title": {
+    "ko": "묻지 않고 도와준 사람",
+    "en": "Help without questions"
+   },
+   "lines": {
+    "ko": [
+     "이유를 묻지 않고 도와준 사람이 있었다. 이제는 내가 그런 사람이 되고 싶다."
+    ],
+    "en": [
+     "Someone helped me without asking why. Now I want to be that kind of person."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "without asking",
+     "ko": "묻지 않고",
+     "note": ""
+    },
+    {
+     "word": "that kind of",
+     "ko": "그런 종류의, 그런",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.12": {
+   "title": {
+    "ko": "이름 모를 사람들",
+    "en": "People whose names I never knew"
+   },
+   "lines": {
+    "ko": [
+     "길을 알려 준 사람, 문을 잡아 준 사람. 이름은 몰라도 올해를 함께 만든 사람들이다."
+    ],
+    "en": [
+     "The one who showed me the way, the one who held the door. I never knew their names, but they made this year with me."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "show the way",
+     "ko": "길을 알려 주다",
+     "note": ""
+    },
+    {
+     "word": "hold the door",
+     "ko": "문을 잡아 주다",
+     "note": ""
+    },
+    {
+     "word": "never knew",
+     "ko": "끝내 알지 못했다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.13": {
+   "title": {
+    "ko": "함께 일한 사람",
+    "en": "The people I worked with"
+   },
+   "lines": {
+    "ko": [
+     "함께 일한 사람들 덕분에 혼자서는 못 했을 일을 끝냈다."
+    ],
+    "en": [
+     "Thanks to the people I worked with, I finished what I could not have done alone."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "thanks to",
+     "ko": "~덕분에",
+     "note": ""
+    },
+    {
+     "word": "could not have done",
+     "ko": "하지 못했을 것이다",
+     "note": "일어나지 않은 일을 말할 때 써요."
+    },
+    {
+     "word": "alone",
+     "ko": "혼자서",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.14": {
+   "title": {
+    "ko": "세 줄 편지",
+    "en": "A three-line note"
+   },
+   "lines": {
+    "ko": [
+     "고마운 사람에게 세 줄짜리 편지를 쓴다. 길지 않아도 마음은 다 들어간다."
+    ],
+    "en": [
+     "I write a three-line note to someone I am grateful to. It does not have to be long to hold it all."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "note",
+     "ko": "짧은 편지, 쪽지",
+     "note": ""
+    },
+    {
+     "word": "grateful",
+     "ko": "고마운",
+     "note": ""
+    },
+    {
+     "word": "hold",
+     "ko": "담다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.15": {
+   "title": {
+    "ko": "못 한 일",
+    "en": "What I did not get to"
+   },
+   "lines": {
+    "ko": [
+     "올해 못 한 일은 실패가 아니다. 내년으로 건네주는 일이다."
+    ],
+    "en": [
+     "What I did not get to this year is not a failure. It is something I hand over to next year."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "get to",
+     "ko": "~할 짬을 내다, 손대다",
+     "note": ""
+    },
+    {
+     "word": "failure",
+     "ko": "실패",
+     "note": ""
+    },
+    {
+     "word": "hand over",
+     "ko": "넘겨주다, 건네주다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.16": {
+   "title": {
+    "ko": "지나간 말",
+    "en": "Words already said"
+   },
+   "lines": {
+    "ko": [
+     "그때 그렇게 말하지 말걸. 그 생각은 여기까지만 하고 내려놓는다."
+    ],
+    "en": [
+     "I wish I had not said that. I think about it this far, and then I set it down."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "I wish I had not",
+     "ko": "~하지 말걸",
+     "note": "지난 일을 아쉬워할 때 써요."
+    },
+    {
+     "word": "this far",
+     "ko": "여기까지",
+     "note": ""
+    },
+    {
+     "word": "set down",
+     "ko": "내려놓다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.17": {
+   "title": {
+    "ko": "서랍 비우기",
+    "en": "Emptying a drawer"
+   },
+   "lines": {
+    "ko": [
+     "쓰지 않는 물건을 하나씩 내보낸다. 마음도 같이 조금 가벼워진다."
+    ],
+    "en": [
+     "I let go of things I no longer use, one by one. My heart grows a little lighter too."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "no longer",
+     "ko": "더 이상 ~않는",
+     "note": ""
+    },
+    {
+     "word": "one by one",
+     "ko": "하나씩",
+     "note": ""
+    },
+    {
+     "word": "lighter",
+     "ko": "더 가벼운",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.18": {
+   "title": {
+    "ko": "친구에게 하듯",
+    "en": "As I would to a friend"
+   },
+   "lines": {
+    "ko": [
+     "친구에게 하듯 나에게도 말해 준다. 그만하면 잘했다."
+    ],
+    "en": [
+     "I speak to myself as I would to a friend. That was well enough."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "as I would",
+     "ko": "내가 ~하듯이",
+     "note": ""
+    },
+    {
+     "word": "well enough",
+     "ko": "그만하면 잘",
+     "note": "충분히 괜찮다는 뜻이에요."
+    }
+   ]
+  },
+  "life.yearend.19": {
+   "title": {
+    "ko": "멀어진 사람",
+    "en": "People who drifted away"
+   },
+   "lines": {
+    "ko": [
+     "멀어진 사람을 탓하지 않는다. 함께한 시간만큼은 고맙게 남겨 둔다."
+    ],
+    "en": [
+     "I do not blame the people who drifted away. I keep the time we shared with thanks."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "blame",
+     "ko": "탓하다",
+     "note": ""
+    },
+    {
+     "word": "drift away",
+     "ko": "멀어지다",
+     "note": "물에 떠내려가듯 서서히 멀어진다는 뜻이에요."
+    },
+    {
+     "word": "share",
+     "ko": "함께하다, 나누다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.20": {
+   "title": {
+    "ko": "나란히 놓지 않기",
+    "en": "Not side by side"
+   },
+   "lines": {
+    "ko": [
+     "남의 한 해와 내 한 해를 나란히 놓지 않는다. 걸어온 길이 서로 다르다."
+    ],
+    "en": [
+     "I do not set my year beside someone else's. We walked different roads."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "set beside",
+     "ko": "나란히 놓다",
+     "note": ""
+    },
+    {
+     "word": "someone else's",
+     "ko": "다른 사람의 것",
+     "note": ""
+    },
+    {
+     "word": "road",
+     "ko": "길",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.21": {
+   "title": {
+    "ko": "다시 시작해도",
+    "en": "Starting again"
+   },
+   "lines": {
+    "ko": [
+     "올해 그만둔 것이 있어도 괜찮다. 마음이 생기면 언제든 다시 시작하면 된다."
+    ],
+    "en": [
+     "It is all right if I gave something up this year. When I feel ready, I can start again anytime."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "give up",
+     "ko": "그만두다, 포기하다",
+     "note": ""
+    },
+    {
+     "word": "feel ready",
+     "ko": "마음이 생기다, 준비가 되다",
+     "note": ""
+    },
+    {
+     "word": "anytime",
+     "ko": "언제든",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.22": {
+   "title": {
+    "ko": "작은 목표 하나",
+    "en": "One small goal"
+   },
+   "lines": {
+    "ko": [
+     "내년의 목표는 크게 세우지 않는다. 매일 할 수 있는 크기로 하나만 정한다."
+    ],
+    "en": [
+     "I will not set a big goal for next year. I will choose just one, small enough to do every day."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "set a goal",
+     "ko": "목표를 세우다",
+     "note": ""
+    },
+    {
+     "word": "small enough to",
+     "ko": "~할 수 있을 만큼 작은",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.23": {
+   "title": {
+    "ko": "새 공책의 첫 장",
+    "en": "The first page of a new notebook"
+   },
+   "lines": {
+    "ko": [
+     "새 공책 첫 장에 내년에 해 보고 싶은 것을 적는다. 다 못 해도 적어 둔 마음은 남는다."
+    ],
+    "en": [
+     "On the first page of a new notebook, I write what I want to try next year. Even if I do not do it all, the wish I wrote down stays."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "try",
+     "ko": "해 보다",
+     "note": ""
+    },
+    {
+     "word": "wish",
+     "ko": "바람, 마음",
+     "note": ""
+    },
+    {
+     "word": "stay",
+     "ko": "남다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.24": {
+   "title": {
+    "ko": "만나러 가기",
+    "en": "Going to see them"
+   },
+   "lines": {
+    "ko": [
+     "내년에는 자주 못 본 사람을 먼저 찾아간다. 날짜를 정해 두면 미루지 않는다."
+    ],
+    "en": [
+     "Next year I will go see the people I rarely saw. If I set a date, I will not put it off."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "rarely",
+     "ko": "좀처럼 ~않는",
+     "note": ""
+    },
+    {
+     "word": "set a date",
+     "ko": "날짜를 정하다",
+     "note": ""
+    },
+    {
+     "word": "put off",
+     "ko": "미루다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.25": {
+   "title": {
+    "ko": "가 보고 싶은 곳",
+    "en": "A place to go"
+   },
+   "lines": {
+    "ko": [
+     "멀지 않아도 좋다. 내년에 가 보고 싶은 곳을 하나 적어 둔다."
+    ],
+    "en": [
+     "It does not have to be far. I write down one place I want to visit next year."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "far",
+     "ko": "먼",
+     "note": ""
+    },
+    {
+     "word": "write down",
+     "ko": "적어 두다",
+     "note": ""
+    },
+    {
+     "word": "visit",
+     "ko": "가 보다, 찾아가다",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.26": {
+   "title": {
+    "ko": "몸에게 하는 약속",
+    "en": "A promise to my body"
+   },
+   "lines": {
+    "ko": [
+     "내년의 나에게 하나 약속한다. 조금 일찍 자고 조금 더 걷는다."
+    ],
+    "en": [
+     "I make one promise to myself for next year. To sleep a little earlier and walk a little more."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "make a promise",
+     "ko": "약속하다",
+     "note": ""
+    },
+    {
+     "word": "a little earlier",
+     "ko": "조금 일찍",
+     "note": ""
+    },
+    {
+     "word": "a little more",
+     "ko": "조금 더",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.27": {
+   "title": {
+    "ko": "평범하고 좋은 날",
+    "en": "Ordinary good days"
+   },
+   "lines": {
+    "ko": [
+     "내년에 바라는 것은 큰일보다 평범하고 좋은 하루가 많은 것이다."
+    ],
+    "en": [
+     "What I hope for next year is not big events, but many ordinary, good days."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hope for",
+     "ko": "바라다",
+     "note": ""
+    },
+    {
+     "word": "big event",
+     "ko": "큰일",
+     "note": ""
+    },
+    {
+     "word": "ordinary",
+     "ko": "평범한",
+     "note": ""
+    }
+   ]
+  },
+  "life.yearend.28": {
+   "title": {
+    "ko": "마지막 장",
+    "en": "The last page"
+   },
+   "lines": {
+    "ko": [
+     "한 해의 마지막 장을 덮는다. 다음 장도 내 글씨로 천천히 채워 간다."
+    ],
+    "en": [
+     "I close the last page of the year. I will fill the next one slowly, in my own handwriting."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "close",
+     "ko": "덮다, 닫다",
+     "note": ""
+    },
+    {
+     "word": "fill",
+     "ko": "채우다",
+     "note": ""
+    },
+    {
+     "word": "handwriting",
+     "ko": "손글씨, 글씨",
+     "note": ""
+    }
+   ]
   }
  }
 }

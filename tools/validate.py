@@ -40,7 +40,17 @@ def main():
     verses = {tid: data.get(f"bible/{tid}.json", {}).get("verses", {}) for tid in ("krv", "bsb", "kjv", "dra")}
     collections = {"affirm": data.get("collections/affirmations.json", {}).get("items", {}), "buddhist": data.get("collections/buddhist.json", {}).get("items", {}), "life": data.get("collections/life.json", {}).get("items", {})}
     bible_translations = {"bible": ["krv", "bsb", "kjv"], "catholic": ["dra"]}
+    # 한 권과 Plus 새 책은 packs_books.json 에만 둔다. 1.5.0까지의 앱은 packs.json 만 읽고, 상품이 없는 팩을 무료로 연다
     for pack in data.get("kr/packs.json", []):
+        if pack.get("book") or pack.get("plusWindow"):
+            problems.append(f"{pack['id']}: 한 권과 Plus 새 책은 packs_books.json 에 둔다")
+    book_items = {i["unlock"].split(":", 1)[1] for i in data.get("kr/store_books.json", {}).get("items", [])}
+    for pack in data.get("kr/packs_books.json", []):
+        if not (pack.get("book") or pack.get("plusWindow")):
+            problems.append(f"{pack['id']}: packs_books.json 에는 한 권과 Plus 새 책만")
+        if pack["id"] not in book_items:
+            problems.append(f"{pack['id']}: store_books.json 에 상품이 없음")
+    for pack in data.get("kr/packs.json", []) + data.get("kr/packs_books.json", []):
         collection = pack.get("collection", "bible")
         for day in pack.get("days", []):
             key = day.get("passage", "")

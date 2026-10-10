@@ -241,6 +241,226 @@
     "title": "Lines from the Classics, 14 Days",
     "subtitle": "Analects, Tao Te Ching, Myeongsim Bogam, Meditations"
    }
+  },
+  {
+   "productID": "kr.pack.iam7",
+   "unlock": "pack:iAm7",
+   "price": 1100,
+   "title": "예수님의 일곱 이름 7일",
+   "subtitle": "요한복음의 '나는' 말씀",
+   "en": {
+    "title": "The I Am Sayings, 7 Days",
+    "subtitle": "Jesus in the Gospel of John"
+   }
+  },
+  {
+   "productID": "kr.pack.romans8",
+   "unlock": "pack:romans8",
+   "price": 1100,
+   "title": "로마서 8장 10일",
+   "subtitle": "아무것도 끊을 수 없는 사랑",
+   "en": {
+    "title": "Romans 8, 10 Days",
+    "subtitle": "A love nothing can separate"
+   }
+  },
+  {
+   "productID": "kr.pack.isaiah14",
+   "unlock": "pack:isaiah14",
+   "price": 2200,
+   "title": "이사야의 위로 14일",
+   "subtitle": "내 백성을 위로하라",
+   "en": {
+    "title": "Comfort from Isaiah, 14 Days",
+    "subtitle": "Comfort my people"
+   }
+  },
+  {
+   "productID": "kr.pack.joy10",
+   "unlock": "pack:joy10",
+   "price": 1100,
+   "title": "기쁨의 편지 10일",
+   "subtitle": "빌립보서를 따라",
+   "en": {
+    "title": "The Letter of Joy, 10 Days",
+    "subtitle": "Through Philippians"
+   }
+  },
+  {
+   "productID": "kr.pack.courage10",
+   "unlock": "pack:courage10",
+   "price": 1100,
+   "title": "두려워하지 말라 10일",
+   "subtitle": "용기가 필요한 날에",
+   "en": {
+    "title": "Do Not Fear, 10 Days",
+    "subtitle": "For days that need courage"
+   }
+  },
+  {
+   "productID": "kr.pack.rosary20",
+   "unlock": "pack:rosary20",
+   "price": 2200,
+   "title": "묵주기도 20일",
+   "subtitle": "스무 신비를 말씀으로",
+   "en": {
+    "title": "The Rosary, 20 Days",
+    "subtitle": "Twenty mysteries in Scripture"
+   }
+  },
+  {
+   "productID": "kr.pack.sevenwords7",
+   "unlock": "pack:sevenWords7",
+   "price": 1100,
+   "title": "십자가 위 일곱 말씀 7일",
+   "subtitle": "가상칠언",
+   "en": {
+    "title": "Seven Last Words, 7 Days",
+    "subtitle": "From the cross"
+   }
+  },
+  {
+   "productID": "kr.pack.canticles7",
+   "unlock": "pack:canticles7",
+   "price": 1100,
+   "title": "복음서의 찬가 7일",
+   "subtitle": "성모의 노래에서 시메온의 노래까지",
+   "en": {
+    "title": "Gospel Canticles, 7 Days",
+    "subtitle": "From the Magnificat to the Nunc Dimittis"
+   }
+  },
+  {
+   "productID": "kr.pack.parables14",
+   "unlock": "pack:parables14",
+   "price": 2200,
+   "title": "예수님의 비유 14일",
+   "subtitle": "씨앗과 보물과 잃은 양",
+   "en": {
+    "title": "The Parables, 14 Days",
+    "subtitle": "Seeds, treasure, and a lost sheep"
+   }
+  },
+  {
+   "productID": "kr.pack.selfkind10",
+   "unlock": "pack:selfKind10",
+   "price": 1100,
+   "title": "나에게 다정한 확언 10일",
+   "subtitle": "나를 대하는 말투부터",
+   "en": {
+    "title": "Be Kind to Yourself, 10 Days",
+    "subtitle": "Starting with how you speak to yourself"
+   }
+  },
+  {
+   "productID": "kr.pack.focus10",
+   "unlock": "pack:focus10",
+   "price": 1100,
+   "title": "일에 집중하는 확언 10일",
+   "subtitle": "차분하게 한 가지에",
+   "en": {
+    "title": "Affirmations for Focus, 10 Days",
+    "subtitle": "Calmly, on one thing"
+   }
+  },
+  {
+   "productID": "kr.pack.brave14",
+   "unlock": "pack:brave14",
+   "price": 2200,
+   "title": "용기를 내는 확언 14일",
+   "subtitle": "작은 한 걸음의 용기",
+   "en": {
+    "title": "Affirmations for Courage, 14 Days",
+    "subtitle": "The courage of one small step"
+   }
+  },
+  {
+   "productID": "kr.pack.analects14",
+   "unlock": "pack:analects14",
+   "price": 2200,
+   "title": "논어 14일",
+   "subtitle": "공자와 제자들의 말",
+   "en": {
+    "title": "The Analects, 14 Days",
+    "subtitle": "Sayings of Confucius and his students"
+   }
+  },
+  {
+   "productID": "kr.pack.myeongsim10",
+   "unlock": "pack:myeongsim10",
+   "price": 1100,
+   "title": "명심보감 10일",
+   "subtitle": "마음에 새겨 둘 옛 거울",
+   "en": {
+    "title": "Myeongsim Bogam, 10 Days",
+    "subtitle": "An old mirror for the heart"
+   }
+  },
+  {
+   "productID": "kr.pack.chaegeun10",
+   "unlock": "pack:chaegeun10",
+   "price": 1100,
+   "title": "채근담 10일",
+   "subtitle": "나물 뿌리처럼 담백한 말",
+   "en": {
+    "title": "Caigentan, 10 Days",
+    "subtitle": "Plain words, like vegetable roots"
+   }
+  },
+  {
+   "productID": "kr.pack.people10",
+   "unlock": "pack:people10",
+   "price": 1100,
+   "title": "사람 사이의 상식 10일",
+   "subtitle": "듣고, 사과하고, 선을 긋는 법",
+   "en": {
+    "title": "Getting Along, 10 Days",
+    "subtitle": "Listening, apologizing, drawing lines"
+   }
+  },
+  {
+   "productID": "kr.pack.bowang10",
+   "unlock": "pack:bowang10",
+   "price": 1100,
+   "title": "보왕삼매론 10일",
+   "subtitle": "막힘을 디딤돌로 삼는 열 줄",
+   "en": {
+    "title": "Treasure King Samadhi, 10 Days",
+    "subtitle": "Ten lines that turn obstacles into steps"
+   }
+  },
+  {
+   "productID": "kr.pack.yebul7",
+   "unlock": "pack:yebul7",
+   "price": 1100,
+   "title": "예불 게송 7일",
+   "subtitle": "절에서 날마다 외는 일곱 게송",
+   "en": {
+    "title": "Temple Chants, 7 Days",
+    "subtitle": "Seven verses chanted daily at temples"
+   }
+  },
+  {
+   "productID": "kr.pack.sinsim10",
+   "unlock": "pack:sinsim10",
+   "price": 1100,
+   "title": "신심명 10일",
+   "subtitle": "승찬 스님의 네 글자 노래",
+   "en": {
+    "title": "Faith in Mind, 10 Days",
+    "subtitle": "Sengcan's verse in four characters"
+   }
+  },
+  {
+   "productID": "kr.pack.balsim10",
+   "unlock": "pack:balsim10",
+   "price": 1100,
+   "title": "발심수행장 10일",
+   "subtitle": "원효 스님의 마음 내는 글",
+   "en": {
+    "title": "Arousing the Mind, 10 Days",
+    "subtitle": "Wonhyo's words on beginning practice"
+   }
   }
  ]
 }

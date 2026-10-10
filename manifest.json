@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "9159203dafe5",
- "generated_at": "2026-09-27T15:12:51Z",
+ "version": "b707b010b68a",
+ "generated_at": "2026-10-10T15:09:21Z",
  "entries": [
   {
    "id": "books.json",
@@ -54,32 +54,44 @@
   {
    "id": "affirmations.json",
    "path": "content/collections/affirmations.json",
-   "checksum_sha256": "9a17ba4f38c711125d9682be5856616aeddec6b7b8d26e5c6d89905b4fe77a1f",
-   "size": 46644
+   "checksum_sha256": "f02b662b874f8cae1a7550bc21873e90376eb80aca2ed121cfc1a26c996eca37",
+   "size": 63069
   },
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "829550109d02baf002e5ff9568af889a124fa5347cdce8392603e8bda1506df8",
-   "size": 120100
+   "checksum_sha256": "abc32717e3661e745da49faa69c860becf888c06329045ac5b6f272d60247ae2",
+   "size": 215921
   },
   {
    "id": "life.json",
    "path": "content/collections/life.json",
-   "checksum_sha256": "d7d3d65a28ba2e76e389fd740e7f1bad67c1f6ae533d39858b10eaf38f539f28",
-   "size": 28215
+   "checksum_sha256": "65f4b83045359fa250803d12f69c33ff658ffd8f84c55ca3ccc01d44990fec82",
+   "size": 75275
   },
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "8fda00eb4fc2400d02c6bc0afc8cb9389be1600cceecd6f7545c2d3972512b54",
-   "size": 158741
+   "checksum_sha256": "24b9045f21dc41f2c4829161cb020306c8ced6a3a2d3dcc67f59e9180781591f",
+   "size": 246632
+  },
+  {
+   "id": "packs_books.json",
+   "path": "content/kr/packs_books.json",
+   "checksum_sha256": "ae37dcd0479affed10b0d090572f09044a44f31fad555f420b3c8a83b8cc8a56",
+   "size": 144199
   },
   {
    "id": "store.json",
    "path": "content/kr/store.json",
-   "checksum_sha256": "405581af539d7467db759d4d7c60c902e76d539cab8c361cbf1d65f2906c0711",
-   "size": 6322
+   "checksum_sha256": "425c0ad618694d8491d2821b0c00ed3c12518edc041d60c1a165031f89205097",
+   "size": 12097
+  },
+  {
+   "id": "store_books.json",
+   "path": "content/kr/store_books.json",
+   "checksum_sha256": "fa364beabce566c579e62f0f8b486703c841b7da28f77077390d627c43c12e52",
+   "size": 5214
   },
   {
    "id": "music.json",

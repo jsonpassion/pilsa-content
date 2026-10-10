@@ -3516,6 +3516,3873 @@
    ],
    "source": "오계 (교리 정형구)"
   },
+  "bud.bowang.1": {
+   "title": {
+    "ko": "몸의 병",
+    "hanja": "몸의 병",
+    "plain": "몸의 병",
+    "en": "Illness of the body"
+   },
+   "lines": {
+    "ko": [
+     "염신불구무병",
+     "신무병즉탐욕내생"
+    ],
+    "hanja": [
+     "念身不求無病",
+     "身無病則貪欲乃生"
+    ],
+    "plain": [
+     "몸에 병이 없기를 바라지 말라.",
+     "몸에 병이 없으면 탐욕이 일어나기 때문이다."
+    ],
+    "en": [
+     "Do not wish for a body free of illness.",
+     "When the body has no illness, greed arises."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "염신",
+     "ko": "몸을 생각함",
+     "note": "",
+     "hanja": "念身"
+    },
+    {
+     "word": "불구",
+     "ko": "바라지 않음",
+     "note": "열 줄 모두 이 말로 시작한다",
+     "hanja": "不求"
+    },
+    {
+     "word": "무병",
+     "ko": "병이 없음",
+     "note": "",
+     "hanja": "無病"
+    },
+    {
+     "word": "탐욕",
+     "ko": "탐내는 욕심",
+     "note": "",
+     "hanja": "貪欲"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.2": {
+   "title": {
+    "ko": "세상살이의 어려움",
+    "hanja": "세상살이의 어려움",
+    "plain": "세상살이의 어려움",
+    "en": "Hardship in life"
+   },
+   "lines": {
+    "ko": [
+     "처세불구무난",
+     "세무난즉교사필기"
+    ],
+    "hanja": [
+     "處世不求無難",
+     "世無難則驕奢必起"
+    ],
+    "plain": [
+     "세상살이에 어려움이 없기를 바라지 말라.",
+     "어려움이 없으면 교만하고 사치한 마음이 반드시 일어난다."
+    ],
+    "en": [
+     "Do not wish for a life without hardship.",
+     "Without hardship, pride and extravagance are sure to rise."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "처세",
+     "ko": "세상을 살아감",
+     "note": "",
+     "hanja": "處世"
+    },
+    {
+     "word": "무난",
+     "ko": "어려움이 없음",
+     "note": "",
+     "hanja": "無難"
+    },
+    {
+     "word": "교사",
+     "ko": "교만하고 사치함",
+     "note": "",
+     "hanja": "驕奢"
+    },
+    {
+     "word": "필기",
+     "ko": "반드시 일어남",
+     "note": "",
+     "hanja": "必起"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.3": {
+   "title": {
+    "ko": "공부의 막힘",
+    "hanja": "공부의 막힘",
+    "plain": "공부의 막힘",
+    "en": "Obstacles in study"
+   },
+   "lines": {
+    "ko": [
+     "구심불구무장",
+     "심무장즉소학엽등"
+    ],
+    "hanja": [
+     "究心不求無障",
+     "心無障則所學躐等"
+    ],
+    "plain": [
+     "마음공부에 막힘이 없기를 바라지 말라.",
+     "막힘이 없으면 배움이 차례를 건너뛴다."
+    ],
+    "en": [
+     "Do not wish for study of the mind without obstacles.",
+     "Without obstacles, learning skips its proper steps."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "구심",
+     "ko": "마음을 깊이 살핌",
+     "note": "마음공부를 이르는 말",
+     "hanja": "究心"
+    },
+    {
+     "word": "무장",
+     "ko": "막힘이 없음",
+     "note": "",
+     "hanja": "無障"
+    },
+    {
+     "word": "소학",
+     "ko": "배우는 것",
+     "note": "",
+     "hanja": "所學"
+    },
+    {
+     "word": "엽등",
+     "ko": "차례를 건너뜀",
+     "note": "단계를 밟지 않고 뛰어넘음",
+     "hanja": "躐等"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.4": {
+   "title": {
+    "ko": "수행의 마장",
+    "hanja": "수행의 마장",
+    "plain": "수행의 마장",
+    "en": "Trials in practice"
+   },
+   "lines": {
+    "ko": [
+     "입행불구무마",
+     "행무마즉서원불견"
+    ],
+    "hanja": [
+     "立行不求無魔",
+     "行無魔則誓願不堅"
+    ],
+    "plain": [
+     "수행에 마장이 없기를 바라지 말라.",
+     "마장이 없으면 세운 다짐이 굳어지지 않는다."
+    ],
+    "en": [
+     "Do not wish for practice without trials.",
+     "Without trials, your vows do not grow firm."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "입행",
+     "ko": "수행을 세움",
+     "note": "",
+     "hanja": "立行"
+    },
+    {
+     "word": "무마",
+     "ko": "마장이 없음",
+     "note": "마장은 수행을 가로막는 일",
+     "hanja": "無魔"
+    },
+    {
+     "word": "서원",
+     "ko": "맹세하여 바람",
+     "note": "스스로 세운 다짐",
+     "hanja": "誓願"
+    },
+    {
+     "word": "불견",
+     "ko": "굳지 않음",
+     "note": "",
+     "hanja": "不堅"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.5": {
+   "title": {
+    "ko": "더디 이루는 일",
+    "hanja": "더디 이루는 일",
+    "plain": "더디 이루는 일",
+    "en": "Things that come slowly"
+   },
+   "lines": {
+    "ko": [
+     "모사불구이성",
+     "사이성즉지존경만"
+    ],
+    "hanja": [
+     "謀事不求易成",
+     "事易成則志存輕慢"
+    ],
+    "plain": [
+     "일을 꾀할 때 쉽게 이루기를 바라지 말라.",
+     "일이 쉽게 이루어지면 뜻이 가볍고 거만해진다."
+    ],
+    "en": [
+     "When you plan something, do not wish for it to come easily.",
+     "When things come easily, the will turns careless and proud."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "모사",
+     "ko": "일을 꾀함",
+     "note": "",
+     "hanja": "謀事"
+    },
+    {
+     "word": "이성",
+     "ko": "쉽게 이룸",
+     "note": "",
+     "hanja": "易成"
+    },
+    {
+     "word": "지존",
+     "ko": "뜻에 남음",
+     "note": "",
+     "hanja": "志存"
+    },
+    {
+     "word": "경만",
+     "ko": "가볍게 여기고 거만함",
+     "note": "",
+     "hanja": "輕慢"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.6": {
+   "title": {
+    "ko": "사귐",
+    "hanja": "사귐",
+    "plain": "사귐",
+    "en": "Friendship"
+   },
+   "lines": {
+    "ko": [
+     "교정불구익오",
+     "교익오즉휴손도의"
+    ],
+    "hanja": [
+     "交情不求益吾",
+     "交益吾則虧損道義"
+    ],
+    "plain": [
+     "사람을 사귈 때 내게 이롭기를 바라지 말라.",
+     "사귐이 내게 이롭기만 하면 도리와 의리를 잃는다."
+    ],
+    "en": [
+     "In friendship, do not seek what benefits you.",
+     "When a friendship only serves you, goodness and loyalty are lost."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "교정",
+     "ko": "사귀는 정",
+     "note": "",
+     "hanja": "交情"
+    },
+    {
+     "word": "익오",
+     "ko": "나를 이롭게 함",
+     "note": "",
+     "hanja": "益吾"
+    },
+    {
+     "word": "휴손",
+     "ko": "이지러지고 덜어짐",
+     "note": "",
+     "hanja": "虧損"
+    },
+    {
+     "word": "도의",
+     "ko": "도리와 의리",
+     "note": "",
+     "hanja": "道義"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.7": {
+   "title": {
+    "ko": "내 뜻대로 되지 않는 사람",
+    "hanja": "내 뜻대로 되지 않는 사람",
+    "plain": "내 뜻대로 되지 않는 사람",
+    "en": "When others do not follow"
+   },
+   "lines": {
+    "ko": [
+     "어인불구순적",
+     "인순적즉심필자긍"
+    ],
+    "hanja": [
+     "於人不求順適",
+     "人順適則心必自矜"
+    ],
+    "plain": [
+     "남이 내 뜻대로 따라 주기를 바라지 말라.",
+     "남이 내 뜻대로 따르면 마음이 스스로 뽐내게 된다."
+    ],
+    "en": [
+     "Do not wish for others to go along with you.",
+     "When others always go along, the heart grows proud of itself."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "어인",
+     "ko": "남에게",
+     "note": "",
+     "hanja": "於人"
+    },
+    {
+     "word": "순적",
+     "ko": "순순히 맞춰 줌",
+     "note": "",
+     "hanja": "順適"
+    },
+    {
+     "word": "자긍",
+     "ko": "스스로 뽐냄",
+     "note": "",
+     "hanja": "自矜"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.8": {
+   "title": {
+    "ko": "보답 없는 베풂",
+    "hanja": "보답 없는 베풂",
+    "plain": "보답 없는 베풂",
+    "en": "Giving without return"
+   },
+   "lines": {
+    "ko": [
+     "시덕불구망보",
+     "덕망보즉의유소도"
+    ],
+    "hanja": [
+     "施德不求望報",
+     "德望報則意有所圖"
+    ],
+    "plain": [
+     "덕을 베풀고 보답을 바라지 말라.",
+     "보답을 바라면 베풂에 속셈이 생긴다."
+    ],
+    "en": [
+     "When you do good, do not hope for something back.",
+     "Hoping for something back turns kindness into a plan."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "시덕",
+     "ko": "덕을 베풂",
+     "note": "",
+     "hanja": "施德"
+    },
+    {
+     "word": "망보",
+     "ko": "보답을 바람",
+     "note": "",
+     "hanja": "望報"
+    },
+    {
+     "word": "소도",
+     "ko": "꾀하는 바",
+     "note": "속셈",
+     "hanja": "所圖"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.9": {
+   "title": {
+    "ko": "분에 넘치는 이익",
+    "hanja": "분에 넘치는 이익",
+    "plain": "분에 넘치는 이익",
+    "en": "More than my share"
+   },
+   "lines": {
+    "ko": [
+     "견리불구점분",
+     "이점분즉치심역동"
+    ],
+    "hanja": [
+     "見利不求霑分",
+     "利霑分則癡心亦動"
+    ],
+    "plain": [
+     "이익을 보고 분에 넘치게 바라지 말라.",
+     "이익이 분에 넘치면 어리석은 마음이 움직인다."
+    ],
+    "en": [
+     "When you see profit, do not wish for more than your share.",
+     "When the share is too large, a foolish mind is stirred."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "견리",
+     "ko": "이익을 봄",
+     "note": "",
+     "hanja": "見利"
+    },
+    {
+     "word": "점분",
+     "ko": "몫을 넉넉히 받음",
+     "note": "분에 넘치게 받는다고 풀기도 한다",
+     "hanja": "霑分"
+    },
+    {
+     "word": "치심",
+     "ko": "어리석은 마음",
+     "note": "",
+     "hanja": "癡心"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.bowang.10": {
+   "title": {
+    "ko": "억울함",
+    "hanja": "억울함",
+    "plain": "억울함",
+    "en": "Being wronged"
+   },
+   "lines": {
+    "ko": [
+     "피억불구신명",
+     "억신명즉원한자생"
+    ],
+    "hanja": [
+     "被抑不求申明",
+     "抑申明則怨恨滋生"
+    ],
+    "plain": [
+     "억울한 일을 당해도 굳이 밝히려 하지 말라.",
+     "억울함을 밝히려 하면 원망하는 마음이 자라난다."
+    ],
+    "en": [
+     "When you are wronged, do not rush to prove yourself right.",
+     "Trying to clear your name makes resentment grow."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "피억",
+     "ko": "억눌림을 당함",
+     "note": "억울한 일을 겪음",
+     "hanja": "被抑"
+    },
+    {
+     "word": "신명",
+     "ko": "밝혀 말함",
+     "note": "",
+     "hanja": "申明"
+    },
+    {
+     "word": "원한",
+     "ko": "원망하고 한스러워함",
+     "note": "",
+     "hanja": "怨恨"
+    },
+    {
+     "word": "자생",
+     "ko": "불어나 생김",
+     "note": "",
+     "hanja": "滋生"
+    }
+   ],
+   "source": "묘협 보왕삼매염불직지 (보왕삼매론)"
+  },
+  "bud.yebul.morningbell": {
+   "title": {
+    "ko": "아침 종송",
+    "hanja": "아침 종송",
+    "plain": "아침 종송",
+    "en": "Morning bell chant"
+   },
+   "lines": {
+    "ko": [
+     "원차종성변법계",
+     "철위유암실개명",
+     "삼도이고파도산",
+     "일체중생성정각"
+    ],
+    "hanja": [
+     "願此鐘聲遍法界",
+     "鐵圍幽暗悉皆明",
+     "三途離苦破刀山",
+     "一切衆生成正覺"
+    ],
+    "plain": [
+     "바라건대 이 종소리가 온 세계에 두루 퍼져",
+     "철위산의 깊은 어둠까지 모두 밝아지고",
+     "세 갈래 괴로운 세계가 고통을 벗고 칼산이 무너지며",
+     "모든 중생이 바른 깨달음을 이루기를."
+    ],
+    "en": [
+     "May the sound of this bell spread through all the worlds,",
+     "and the deep darkness of the Iron Mountains all grow bright.",
+     "May the three lower realms be free of pain and the mountain of blades fall,",
+     "and may all living beings attain true awakening."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "종성",
+     "ko": "종소리",
+     "note": "",
+     "hanja": "鐘聲"
+    },
+    {
+     "word": "법계",
+     "ko": "온 세계",
+     "note": "진리가 드러나는 모든 세계",
+     "hanja": "法界"
+    },
+    {
+     "word": "철위",
+     "ko": "철위산",
+     "note": "세계를 둘러싼 쇠 산. 그 사이는 해와 달이 비치지 않는 어둠이라 한다",
+     "hanja": "鐵圍"
+    },
+    {
+     "word": "유암",
+     "ko": "깊은 어둠",
+     "note": "",
+     "hanja": "幽暗"
+    },
+    {
+     "word": "삼도",
+     "ko": "세 갈래 괴로운 세계",
+     "note": "지옥, 아귀, 축생",
+     "hanja": "三途"
+    },
+    {
+     "word": "정각",
+     "ko": "바른 깨달음",
+     "note": "",
+     "hanja": "正覺"
+    }
+   ],
+   "source": "새벽 종송 (한국 사찰 통용형)"
+  },
+  "bud.yebul.hyang": {
+   "title": {
+    "ko": "오분향례",
+    "hanja": "오분향례",
+    "plain": "오분향례",
+    "en": "Fivefold incense offering"
+   },
+   "lines": {
+    "ko": [
+     "계향 정향 혜향",
+     "해탈향 해탈지견향",
+     "광명운대 주변법계",
+     "공양시방 무량불법승"
+    ],
+    "hanja": [
+     "戒香 定香 慧香",
+     "解脫香 解脫知見香",
+     "光明雲臺 周遍法界",
+     "供養十方 無量佛法僧"
+    ],
+    "plain": [
+     "계의 향, 선정의 향, 지혜의 향",
+     "해탈의 향, 해탈을 아는 지혜의 향",
+     "밝은 빛의 구름이 되어 온 세계에 두루 퍼져",
+     "시방의 한량없는 부처님과 가르침과 스님들께 공양합니다."
+    ],
+    "en": [
+     "The incense of precepts, of meditation, of wisdom,",
+     "the incense of liberation, and of the knowledge of liberation,",
+     "becoming a cloud of bright light that fills all the worlds,",
+     "is offered to the countless Buddhas, teachings, and Sangha of the ten directions."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "계향",
+     "ko": "계를 지키는 향",
+     "note": "",
+     "hanja": "戒香"
+    },
+    {
+     "word": "정향",
+     "ko": "선정의 향",
+     "note": "고요히 모은 마음",
+     "hanja": "定香"
+    },
+    {
+     "word": "혜향",
+     "ko": "지혜의 향",
+     "note": "",
+     "hanja": "慧香"
+    },
+    {
+     "word": "해탈지견",
+     "ko": "해탈을 아는 지혜",
+     "note": "",
+     "hanja": "解脫知見"
+    },
+    {
+     "word": "운대",
+     "ko": "구름 받침",
+     "note": "",
+     "hanja": "雲臺"
+    },
+    {
+     "word": "공양",
+     "ko": "받들어 올림",
+     "note": "",
+     "hanja": "供養"
+    }
+   ],
+   "source": "예불문 오분향례 (한국 사찰 통용형)"
+  },
+  "bud.yebul.gaegyeong": {
+   "title": {
+    "ko": "개경게",
+    "hanja": "개경게",
+    "plain": "개경게",
+    "en": "Verse for opening the sutra"
+   },
+   "lines": {
+    "ko": [
+     "무상심심미묘법",
+     "백천만겁난조우",
+     "아금문견득수지",
+     "원해여래진실의"
+    ],
+    "hanja": [
+     "無上甚深微妙法",
+     "百千萬劫難遭遇",
+     "我今聞見得受持",
+     "願解如來眞實義"
+    ],
+    "plain": [
+     "더없이 높고 깊고 미묘한 가르침은",
+     "백천만 겁이 지나도 만나기 어려운데",
+     "제가 이제 보고 듣고 받아 지니게 되었으니",
+     "여래의 참된 뜻을 알게 되기를 바랍니다."
+    ],
+    "en": [
+     "The supreme, profound, and subtle teaching",
+     "is hard to meet even in hundreds of thousands of eons.",
+     "Now I see it, hear it, receive it, and keep it.",
+     "May I understand the true meaning of the Tathagata."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "심심",
+     "ko": "매우 깊음",
+     "note": "",
+     "hanja": "甚深"
+    },
+    {
+     "word": "미묘법",
+     "ko": "미묘한 가르침",
+     "note": "",
+     "hanja": "微妙法"
+    },
+    {
+     "word": "백천만겁",
+     "ko": "헤아릴 수 없이 긴 세월",
+     "note": "",
+     "hanja": "百千萬劫"
+    },
+    {
+     "word": "조우",
+     "ko": "만남",
+     "note": "",
+     "hanja": "遭遇"
+    },
+    {
+     "word": "수지",
+     "ko": "받아 지님",
+     "note": "",
+     "hanja": "受持"
+    },
+    {
+     "word": "여래",
+     "ko": "부처님을 부르는 이름",
+     "note": "",
+     "hanja": "如來"
+    }
+   ],
+   "source": "개경게 (한국 불교 의례 통용형)"
+  },
+  "bud.yebul.chamhoe": {
+   "title": {
+    "ko": "참회게",
+    "hanja": "참회게",
+    "plain": "참회게",
+    "en": "Verse of repentance"
+   },
+   "lines": {
+    "ko": [
+     "아석소조제악업",
+     "개유무시탐진치",
+     "종신구의지소생",
+     "일체아금개참회"
+    ],
+    "hanja": [
+     "我昔所造諸惡業",
+     "皆由無始貪瞋癡",
+     "從身口意之所生",
+     "一切我今皆懺悔"
+    ],
+    "plain": [
+     "제가 지난날 지은 모든 나쁜 업은",
+     "다 끝없는 옛날부터 이어 온 탐냄과 성냄과 어리석음에서 비롯되어",
+     "몸과 입과 뜻으로 지은 것이니",
+     "그 모두를 제가 이제 참회합니다."
+    ],
+    "en": [
+     "All the harmful deeds I have done in the past",
+     "came from greed, anger, and ignorance without beginning,",
+     "and were born of body, speech, and mind.",
+     "Now I repent of them all."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "악업",
+     "ko": "나쁜 행위",
+     "note": "그 행위가 남기는 힘까지 이른다",
+     "hanja": "惡業"
+    },
+    {
+     "word": "무시",
+     "ko": "시작을 알 수 없는 옛날",
+     "note": "",
+     "hanja": "無始"
+    },
+    {
+     "word": "탐진치",
+     "ko": "탐냄, 성냄, 어리석음",
+     "note": "마음의 세 가지 독",
+     "hanja": "貪瞋癡"
+    },
+    {
+     "word": "신구의",
+     "ko": "몸과 입과 뜻",
+     "note": "",
+     "hanja": "身口意"
+    },
+    {
+     "word": "참회",
+     "ko": "잘못을 뉘우침",
+     "note": "",
+     "hanja": "懺悔"
+    }
+   ],
+   "source": "참회게 (한국 의례 통용형. 40권 화엄경 보현행원품은 貪恚癡, 身語意)"
+  },
+  "bud.yebul.jadeung": {
+   "title": {
+    "ko": "자등명 법등명",
+    "hanja": "자등명 법등명",
+    "plain": "자등명 법등명",
+    "en": "Be a lamp to yourself"
+   },
+   "lines": {
+    "ko": [
+     "자등명 법등명",
+     "자귀의 법귀의",
+     "막타귀의"
+    ],
+    "hanja": [
+     "自燈明 法燈明",
+     "自歸依 法歸依",
+     "莫他歸依"
+    ],
+    "plain": [
+     "자기를 등불로 삼고 진리를 등불로 삼아라.",
+     "자기에게 의지하고 진리에 의지하라.",
+     "다른 것에 의지하지 말라."
+    ],
+    "en": [
+     "Make yourself your lamp, and make the truth your lamp.",
+     "Rely on yourself, and rely on the truth.",
+     "Do not rely on anything else."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "자등명",
+     "ko": "자기를 등불로 삼음",
+     "note": "",
+     "hanja": "自燈明"
+    },
+    {
+     "word": "법등명",
+     "ko": "진리를 등불로 삼음",
+     "note": "",
+     "hanja": "法燈明"
+    },
+    {
+     "word": "귀의",
+     "ko": "돌아가 의지함",
+     "note": "",
+     "hanja": "歸依"
+    },
+    {
+     "word": "막타",
+     "ko": "다른 것에 하지 말라",
+     "note": "",
+     "hanja": "莫他"
+    }
+   ],
+   "source": "부처님의 마지막 당부 (장아함경 유행경의 뜻을 줄인 통용형)"
+  },
+  "bud.yebul.eveningbell": {
+   "title": {
+    "ko": "저녁 종송",
+    "hanja": "저녁 종송",
+    "plain": "저녁 종송",
+    "en": "Evening bell chant"
+   },
+   "lines": {
+    "ko": [
+     "문종성 번뇌단",
+     "지혜장 보리생",
+     "이지옥 출삼계",
+     "원성불 도중생"
+    ],
+    "hanja": [
+     "聞鐘聲 煩惱斷",
+     "智慧長 菩提生",
+     "離地獄 出三界",
+     "願成佛 度衆生"
+    ],
+    "plain": [
+     "종소리를 듣고 번뇌를 끊으니",
+     "지혜가 자라고 깨달음이 생겨나",
+     "지옥을 떠나고 삼계를 벗어나",
+     "부처를 이루어 중생을 건지기를 바랍니다."
+    ],
+    "en": [
+     "Hearing the bell, may afflictions be cut away,",
+     "wisdom grow, and awakening arise.",
+     "May we leave the hells and go beyond the three realms,",
+     "and may we become Buddhas and free all living beings."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "번뇌",
+     "ko": "마음을 괴롭히고 어지럽히는 것",
+     "note": "",
+     "hanja": "煩惱"
+    },
+    {
+     "word": "보리",
+     "ko": "깨달음",
+     "note": "",
+     "hanja": "菩提"
+    },
+    {
+     "word": "지옥",
+     "ko": "가장 괴로운 세계",
+     "note": "",
+     "hanja": "地獄"
+    },
+    {
+     "word": "삼계",
+     "ko": "중생이 나고 죽는 세 세계",
+     "note": "욕계, 색계, 무색계",
+     "hanja": "三界"
+    },
+    {
+     "word": "도중생",
+     "ko": "중생을 건짐",
+     "note": "",
+     "hanja": "度衆生"
+    }
+   ],
+   "source": "저녁 종송 (한국 사찰 통용형)"
+  },
+  "bud.yebul.hoehyang": {
+   "title": {
+    "ko": "회향게",
+    "hanja": "회향게",
+    "plain": "회향게",
+    "en": "Verse of dedication"
+   },
+   "lines": {
+    "ko": [
+     "원이차공덕",
+     "보급어일체",
+     "아등여중생",
+     "개공성불도"
+    ],
+    "hanja": [
+     "願以此功德",
+     "普及於一切",
+     "我等與衆生",
+     "皆共成佛道"
+    ],
+    "plain": [
+     "바라건대 이 공덕이",
+     "모든 이에게 두루 미쳐서",
+     "우리와 모든 중생이",
+     "다 함께 깨달음을 이루기를."
+    ],
+    "en": [
+     "May this merit",
+     "reach everyone everywhere,",
+     "so that we and all living beings",
+     "may together complete the path of awakening."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "공덕",
+     "ko": "좋은 일로 쌓은 힘",
+     "note": "",
+     "hanja": "功德"
+    },
+    {
+     "word": "보급",
+     "ko": "두루 미침",
+     "note": "",
+     "hanja": "普及"
+    },
+    {
+     "word": "아등",
+     "ko": "우리들",
+     "note": "",
+     "hanja": "我等"
+    },
+    {
+     "word": "불도",
+     "ko": "깨달음의 길",
+     "note": "",
+     "hanja": "佛道"
+    }
+   ],
+   "source": "회향게 (묘법연화경 화성유품 게송)"
+  },
+  "bud.sinsim.1": {
+   "title": {
+    "ko": "신심명 1–4구",
+    "hanja": "신심명 1–4구",
+    "plain": "신심명 1–4구",
+    "en": "Faith in Mind, lines 1–4"
+   },
+   "lines": {
+    "ko": [
+     "지도무난",
+     "유혐간택",
+     "단막증애",
+     "통연명백"
+    ],
+    "hanja": [
+     "至道無難",
+     "唯嫌揀擇",
+     "但莫憎愛",
+     "洞然明白"
+    ],
+    "plain": [
+     "지극한 도는 어렵지 않으니",
+     "다만 고르고 가리는 것을 꺼릴 뿐이다.",
+     "미워하고 사랑하는 마음만 없으면",
+     "툭 트여 밝고 분명하리라."
+    ],
+    "en": [
+     "The supreme Way is not difficult;",
+     "it only dislikes choosing and rejecting.",
+     "If there is no hate or love,",
+     "it is open, bright, and clear."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "지도",
+     "ko": "지극한 도",
+     "note": "",
+     "hanja": "至道"
+    },
+    {
+     "word": "간택",
+     "ko": "고르고 가림",
+     "note": "",
+     "hanja": "揀擇"
+    },
+    {
+     "word": "증애",
+     "ko": "미움과 사랑",
+     "note": "",
+     "hanja": "憎愛"
+    },
+    {
+     "word": "통연",
+     "ko": "툭 트인 모습",
+     "note": "",
+     "hanja": "洞然"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.2": {
+   "title": {
+    "ko": "신심명 5–8구",
+    "hanja": "신심명 5–8구",
+    "plain": "신심명 5–8구",
+    "en": "Faith in Mind, lines 5–8"
+   },
+   "lines": {
+    "ko": [
+     "호리유차",
+     "천지현격",
+     "욕득현전",
+     "막존순역"
+    ],
+    "hanja": [
+     "毫釐有差",
+     "天地懸隔",
+     "欲得現前",
+     "莫存順逆"
+    ],
+    "plain": [
+     "털끝만큼이라도 어긋나면",
+     "하늘과 땅만큼 멀어진다.",
+     "도가 눈앞에 드러나기를 바란다면",
+     "따르고 거스르는 마음을 두지 말라."
+    ],
+    "en": [
+     "Miss by a hair's breadth,",
+     "and you are as far apart as heaven and earth.",
+     "If you want it to appear before you,",
+     "hold no thought of for or against."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "호리",
+     "ko": "털끝만큼",
+     "note": "아주 작은 차이",
+     "hanja": "毫釐"
+    },
+    {
+     "word": "현격",
+     "ko": "멀리 떨어짐",
+     "note": "",
+     "hanja": "懸隔"
+    },
+    {
+     "word": "현전",
+     "ko": "눈앞에 드러남",
+     "note": "",
+     "hanja": "現前"
+    },
+    {
+     "word": "순역",
+     "ko": "따름과 거스름",
+     "note": "",
+     "hanja": "順逆"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.3": {
+   "title": {
+    "ko": "신심명 9–12구",
+    "hanja": "신심명 9–12구",
+    "plain": "신심명 9–12구",
+    "en": "Faith in Mind, lines 9–12"
+   },
+   "lines": {
+    "ko": [
+     "위순상쟁",
+     "시위심병",
+     "불식현지",
+     "도로염정"
+    ],
+    "hanja": [
+     "違順相爭",
+     "是爲心病",
+     "不識玄旨",
+     "徒勞念靜"
+    ],
+    "plain": [
+     "거스름과 따름이 서로 다투는 것",
+     "이것이 마음의 병이다.",
+     "깊은 뜻을 알지 못하면",
+     "생각을 고요히 하려 애써도 헛수고다."
+    ],
+    "en": [
+     "When for and against struggle with each other,",
+     "this is the sickness of the mind.",
+     "Not knowing the deep meaning,",
+     "you work in vain to quiet your thoughts."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "위순",
+     "ko": "거스름과 따름",
+     "note": "",
+     "hanja": "違順"
+    },
+    {
+     "word": "심병",
+     "ko": "마음의 병",
+     "note": "",
+     "hanja": "心病"
+    },
+    {
+     "word": "현지",
+     "ko": "깊고 그윽한 뜻",
+     "note": "",
+     "hanja": "玄旨"
+    },
+    {
+     "word": "도로",
+     "ko": "헛되이 애씀",
+     "note": "",
+     "hanja": "徒勞"
+    },
+    {
+     "word": "염정",
+     "ko": "생각을 고요히 함",
+     "note": "",
+     "hanja": "念靜"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.4": {
+   "title": {
+    "ko": "신심명 13–16구",
+    "hanja": "신심명 13–16구",
+    "plain": "신심명 13–16구",
+    "en": "Faith in Mind, lines 13–16"
+   },
+   "lines": {
+    "ko": [
+     "원동태허",
+     "무흠무여",
+     "양유취사",
+     "소이불여"
+    ],
+    "hanja": [
+     "圓同太虛",
+     "無欠無餘",
+     "良由取捨",
+     "所以不如"
+    ],
+    "plain": [
+     "도는 큰 허공처럼 둥글어",
+     "모자람도 남음도 없다.",
+     "다만 취하고 버리는 마음 때문에",
+     "그대로이지 못할 뿐이다."
+    ],
+    "en": [
+     "The Way is round and whole like vast space,",
+     "lacking nothing and with nothing extra.",
+     "It is only because we grasp and reject",
+     "that we do not see it as it is."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "태허",
+     "ko": "큰 허공",
+     "note": "",
+     "hanja": "太虛"
+    },
+    {
+     "word": "무흠무여",
+     "ko": "모자람도 남음도 없음",
+     "note": "",
+     "hanja": "無欠無餘"
+    },
+    {
+     "word": "취사",
+     "ko": "취하고 버림",
+     "note": "",
+     "hanja": "取捨"
+    },
+    {
+     "word": "불여",
+     "ko": "그대로이지 못함",
+     "note": "",
+     "hanja": "不如"
+    }
+   ],
+   "source": "승찬 신심명 (대정장은 圓同大虛, 한국 강설본은 太虛)"
+  },
+  "bud.sinsim.5": {
+   "title": {
+    "ko": "신심명 17–20구",
+    "hanja": "신심명 17–20구",
+    "plain": "신심명 17–20구",
+    "en": "Faith in Mind, lines 17–20"
+   },
+   "lines": {
+    "ko": [
+     "막축유연",
+     "물주공인",
+     "일종평회",
+     "민연자진"
+    ],
+    "hanja": [
+     "莫逐有緣",
+     "勿住空忍",
+     "一種平懷",
+     "泯然自盡"
+    ],
+    "plain": [
+     "바깥 인연을 좇지도 말고",
+     "공에 머물러 있지도 말라.",
+     "한결같이 평평한 마음을 지니면",
+     "치우침이 저절로 사라진다."
+    ],
+    "en": [
+     "Do not chase after things outside,",
+     "and do not dwell in emptiness either.",
+     "Keep one even, peaceful mind,",
+     "and the pulling to either side fades by itself."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "유연",
+     "ko": "있음의 인연",
+     "note": "바깥 대상에 끌리는 마음",
+     "hanja": "有緣"
+    },
+    {
+     "word": "공인",
+     "ko": "공에 머문 고요",
+     "note": "공에 빠져 머무는 마음",
+     "hanja": "空忍"
+    },
+    {
+     "word": "평회",
+     "ko": "평평한 마음",
+     "note": "",
+     "hanja": "平懷"
+    },
+    {
+     "word": "민연",
+     "ko": "자취 없이 사라지는 모습",
+     "note": "",
+     "hanja": "泯然"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.6": {
+   "title": {
+    "ko": "신심명 21–24구",
+    "hanja": "신심명 21–24구",
+    "plain": "신심명 21–24구",
+    "en": "Faith in Mind, lines 21–24"
+   },
+   "lines": {
+    "ko": [
+     "지동귀지",
+     "지갱미동",
+     "유체양변",
+     "영지일종"
+    ],
+    "hanja": [
+     "止動歸止",
+     "止更彌動",
+     "唯滯兩邊",
+     "寧知一種"
+    ],
+    "plain": [
+     "움직임을 그쳐 고요로 돌아가려 하면",
+     "그 그침이 다시 더 큰 움직임이 된다.",
+     "양쪽 끝에 머물러 있기만 하면",
+     "어찌 하나임을 알겠는가."
+    ],
+    "en": [
+     "When you stop movement to return to stillness,",
+     "that stopping only stirs more movement.",
+     "If you stay stuck at either end,",
+     "how can you know that they are one?"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "지동",
+     "ko": "움직임을 그침",
+     "note": "",
+     "hanja": "止動"
+    },
+    {
+     "word": "미동",
+     "ko": "더욱 움직임",
+     "note": "",
+     "hanja": "彌動"
+    },
+    {
+     "word": "양변",
+     "ko": "양쪽 끝",
+     "note": "있음과 없음처럼 치우친 두 쪽",
+     "hanja": "兩邊"
+    },
+    {
+     "word": "일종",
+     "ko": "한 가지",
+     "note": "둘로 나뉘지 않은 하나",
+     "hanja": "一種"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.7": {
+   "title": {
+    "ko": "신심명 25–28구",
+    "hanja": "신심명 25–28구",
+    "plain": "신심명 25–28구",
+    "en": "Faith in Mind, lines 25–28"
+   },
+   "lines": {
+    "ko": [
+     "일종불통",
+     "양처실공",
+     "견유몰유",
+     "종공배공"
+    ],
+    "hanja": [
+     "一種不通",
+     "兩處失功",
+     "遣有沒有",
+     "從空背空"
+    ],
+    "plain": [
+     "하나임을 꿰뚫지 못하면",
+     "양쪽 모두에서 공을 잃는다.",
+     "있음을 버리려 하면 도리어 있음에 빠지고",
+     "공을 좇으면 도리어 공을 등진다."
+    ],
+    "en": [
+     "If you do not see through to oneness,",
+     "you lose your effort on both sides.",
+     "Pushing away being, you sink into being;",
+     "chasing emptiness, you turn your back on emptiness."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "불통",
+     "ko": "꿰뚫지 못함",
+     "note": "",
+     "hanja": "不通"
+    },
+    {
+     "word": "실공",
+     "ko": "공을 잃음",
+     "note": "",
+     "hanja": "失功"
+    },
+    {
+     "word": "견유",
+     "ko": "있음을 버림",
+     "note": "",
+     "hanja": "遣有"
+    },
+    {
+     "word": "배공",
+     "ko": "공을 등짐",
+     "note": "",
+     "hanja": "背空"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.8": {
+   "title": {
+    "ko": "신심명 29–32구",
+    "hanja": "신심명 29–32구",
+    "plain": "신심명 29–32구",
+    "en": "Faith in Mind, lines 29–32"
+   },
+   "lines": {
+    "ko": [
+     "다언다려",
+     "전불상응",
+     "절언절려",
+     "무처불통"
+    ],
+    "hanja": [
+     "多言多慮",
+     "轉不相應",
+     "絶言絶慮",
+     "無處不通"
+    ],
+    "plain": [
+     "말이 많고 생각이 많을수록",
+     "더욱 도와 어긋난다.",
+     "말이 끊어지고 생각이 끊어지면",
+     "통하지 않는 곳이 없다."
+    ],
+    "en": [
+     "The more you talk and the more you think,",
+     "the further you drift from the Way.",
+     "When words end and thinking ends,",
+     "there is nowhere it does not reach."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "다언다려",
+     "ko": "말이 많고 생각이 많음",
+     "note": "",
+     "hanja": "多言多慮"
+    },
+    {
+     "word": "상응",
+     "ko": "서로 맞음",
+     "note": "",
+     "hanja": "相應"
+    },
+    {
+     "word": "절언절려",
+     "ko": "말과 생각이 끊어짐",
+     "note": "",
+     "hanja": "絶言絶慮"
+    },
+    {
+     "word": "무처불통",
+     "ko": "통하지 않는 곳이 없음",
+     "note": "",
+     "hanja": "無處不通"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.9": {
+   "title": {
+    "ko": "신심명 33–36구",
+    "hanja": "신심명 33–36구",
+    "plain": "신심명 33–36구",
+    "en": "Faith in Mind, lines 33–36"
+   },
+   "lines": {
+    "ko": [
+     "귀근득지",
+     "수조실종",
+     "수유반조",
+     "승각전공"
+    ],
+    "hanja": [
+     "歸根得旨",
+     "隨照失宗",
+     "須臾返照",
+     "勝却前空"
+    ],
+    "plain": [
+     "뿌리로 돌아가면 뜻을 얻고",
+     "비추는 것을 좇으면 근본을 잃는다.",
+     "잠깐이라도 돌이켜 비추어 보면",
+     "앞에서 말한 공보다 낫다."
+    ],
+    "en": [
+     "Return to the root and you find the meaning;",
+     "follow what shines outward and you lose the source.",
+     "Turn the light inward for even a moment,",
+     "and it surpasses the emptiness spoken of before."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "귀근",
+     "ko": "뿌리로 돌아감",
+     "note": "",
+     "hanja": "歸根"
+    },
+    {
+     "word": "수조",
+     "ko": "비추는 것을 좇음",
+     "note": "",
+     "hanja": "隨照"
+    },
+    {
+     "word": "실종",
+     "ko": "근본을 잃음",
+     "note": "",
+     "hanja": "失宗"
+    },
+    {
+     "word": "수유",
+     "ko": "잠깐",
+     "note": "",
+     "hanja": "須臾"
+    },
+    {
+     "word": "반조",
+     "ko": "돌이켜 비춤",
+     "note": "",
+     "hanja": "返照"
+    }
+   ],
+   "source": "승찬 신심명"
+  },
+  "bud.sinsim.10": {
+   "title": {
+    "ko": "신심명 맺음",
+    "hanja": "신심명 맺음",
+    "plain": "신심명 맺음",
+    "en": "Faith in Mind, closing"
+   },
+   "lines": {
+    "ko": [
+     "신심불이",
+     "불이신심",
+     "언어도단",
+     "비거래금"
+    ],
+    "hanja": [
+     "信心不二",
+     "不二信心",
+     "言語道斷",
+     "非去來今"
+    ],
+    "plain": [
+     "믿는 마음은 둘이 아니고",
+     "둘 아님이 곧 믿는 마음이다.",
+     "말의 길이 끊어진 자리이니",
+     "과거도 미래도 현재도 아니다."
+    ],
+    "en": [
+     "The trusting mind is not two;",
+     "not two is the trusting mind.",
+     "Here the way of words is cut off,",
+     "neither past, nor future, nor present."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "신심",
+     "ko": "믿는 마음",
+     "note": "",
+     "hanja": "信心"
+    },
+    {
+     "word": "불이",
+     "ko": "둘이 아님",
+     "note": "",
+     "hanja": "不二"
+    },
+    {
+     "word": "언어도단",
+     "ko": "말의 길이 끊어짐",
+     "note": "",
+     "hanja": "言語道斷"
+    },
+    {
+     "word": "거래금",
+     "ko": "과거, 미래, 현재",
+     "note": "",
+     "hanja": "去來今"
+    }
+   ],
+   "source": "승찬 신심명 맺는 구절"
+  },
+  "bud.balsim.1": {
+   "title": {
+    "ko": "적멸궁과 불타는 집",
+    "hanja": "적멸궁과 불타는 집",
+    "plain": "적멸궁과 불타는 집",
+    "en": "The palace of stillness and the burning house"
+   },
+   "lines": {
+    "ko": [
+     "부제불제불 장엄적멸궁",
+     "어다겁해 사욕고행",
+     "중생중생 윤회화택문",
+     "어무량세 탐욕불사"
+    ],
+    "hanja": [
+     "夫諸佛諸佛 莊嚴寂滅宮",
+     "於多劫海 捨欲苦行",
+     "衆生衆生 輪廻火宅門",
+     "於無量世 貪欲不捨"
+    ],
+    "plain": [
+     "모든 부처님께서 고요한 열반의 궁전을 장엄하신 것은",
+     "오랜 세월 욕심을 버리고 고행하셨기 때문이고",
+     "중생들이 불타는 집의 문 안에서 윤회하는 것은",
+     "한량없는 세상 동안 탐욕을 버리지 못했기 때문이다."
+    ],
+    "en": [
+     "All the Buddhas adorn the palace of stillness and peace",
+     "because over countless eons they gave up desire and practiced hard.",
+     "Living beings keep circling at the gate of the burning house",
+     "because through countless lives they have not let go of craving."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "적멸궁",
+     "ko": "고요한 열반의 궁전",
+     "note": "",
+     "hanja": "寂滅宮"
+    },
+    {
+     "word": "다겁해",
+     "ko": "바다처럼 많은 세월",
+     "note": "",
+     "hanja": "多劫海"
+    },
+    {
+     "word": "고행",
+     "ko": "괴로움을 참는 수행",
+     "note": "",
+     "hanja": "苦行"
+    },
+    {
+     "word": "윤회",
+     "ko": "나고 죽기를 되풀이함",
+     "note": "",
+     "hanja": "輪廻"
+    },
+    {
+     "word": "화택",
+     "ko": "불타는 집",
+     "note": "괴로움 가득한 세상을 법화경에서 이른 말",
+     "hanja": "火宅"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.2": {
+   "title": {
+    "ko": "천당과 악도",
+    "hanja": "천당과 악도",
+    "plain": "천당과 악도",
+    "en": "Heaven and the lower paths"
+   },
+   "lines": {
+    "ko": [
+     "무방천당 소왕지자",
+     "삼독번뇌 위자가재",
+     "무유악도 다왕입자",
+     "사사오욕 위망심보"
+    ],
+    "hanja": [
+     "無防天堂 少往至者",
+     "三毒煩惱 爲自家財",
+     "無誘惡道 多往入者",
+     "四蛇五欲 爲妄心寶"
+    ],
+    "plain": [
+     "막는 이 없는 천당에 가는 이가 적은 것은",
+     "탐냄, 성냄, 어리석음의 번뇌를 제 집 재물로 여기기 때문이고",
+     "꾀는 이 없는 나쁜 길에 많이 들어가는 것은",
+     "네 마리 뱀 같은 몸과 다섯 가지 욕망을 헛된 마음의 보배로 여기기 때문이다."
+    ],
+    "en": [
+     "No one blocks the way to heaven, yet few go there,",
+     "because we treat greed, anger, and ignorance as our household treasure.",
+     "No one lures us to the lower paths, yet many enter,",
+     "because we treat the body and the five desires as the jewels of a deluded mind."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "천당",
+     "ko": "하늘 궁전",
+     "note": "",
+     "hanja": "天堂"
+    },
+    {
+     "word": "삼독",
+     "ko": "세 가지 독",
+     "note": "탐냄, 성냄, 어리석음",
+     "hanja": "三毒"
+    },
+    {
+     "word": "악도",
+     "ko": "괴로운 세계",
+     "note": "",
+     "hanja": "惡道"
+    },
+    {
+     "word": "사사",
+     "ko": "네 마리 뱀",
+     "note": "몸을 이루는 흙, 물, 불, 바람을 비유한 말",
+     "hanja": "四蛇"
+    },
+    {
+     "word": "오욕",
+     "ko": "다섯 가지 욕망",
+     "note": "재물, 이성, 음식, 명예, 잠",
+     "hanja": "五欲"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.3": {
+   "title": {
+    "ko": "제 힘 닿는 대로",
+    "hanja": "제 힘 닿는 대로",
+    "plain": "제 힘 닿는 대로",
+    "en": "As far as your strength allows"
+   },
+   "lines": {
+    "ko": [
+     "인수불욕귀산수도",
+     "이위부진 애욕소전",
+     "연이불귀산수수심",
+     "수자신력 불사선행"
+    ],
+    "hanja": [
+     "人誰不欲歸山修道",
+     "而爲不進 愛欲所纏",
+     "然而不歸山藪修心",
+     "隨自身力 不捨善行"
+    ],
+    "plain": [
+     "누구인들 산에 들어가 도를 닦고 싶지 않으랴마는",
+     "그러지 못하는 것은 애욕에 얽혀 있기 때문이다.",
+     "산에 들어가 마음을 닦지는 못하더라도",
+     "제 힘이 닿는 대로 좋은 일을 버리지 말라."
+    ],
+    "en": [
+     "Who would not wish to go into the mountains and practice the Way?",
+     "We do not go because we are bound by attachment.",
+     "Even if you cannot go into the mountains to train the mind,",
+     "do not give up good deeds, as far as your strength allows."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "귀산",
+     "ko": "산에 들어감",
+     "note": "",
+     "hanja": "歸山"
+    },
+    {
+     "word": "애욕",
+     "ko": "애착과 욕망",
+     "note": "",
+     "hanja": "愛欲"
+    },
+    {
+     "word": "산수",
+     "ko": "산과 숲",
+     "note": "",
+     "hanja": "山藪"
+    },
+    {
+     "word": "선행",
+     "ko": "좋은 행실",
+     "note": "",
+     "hanja": "善行"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.4": {
+   "title": {
+    "ko": "버리고 행하기",
+    "hanja": "버리고 행하기",
+    "plain": "버리고 행하기",
+    "en": "Letting go and doing the hard thing"
+   },
+   "lines": {
+    "ko": [
+     "자락능사 신경여성",
+     "난행능행 존중여불",
+     "간탐어물 시마권속",
+     "자비보시 시법왕자"
+    ],
+    "hanja": [
+     "自樂能捨 信敬如聖",
+     "難行能行 尊重如佛",
+     "慳貪於物 是魔眷屬",
+     "慈悲布施 是法王子"
+    ],
+    "plain": [
+     "자기 즐거움을 버릴 수 있으면 성인처럼 믿고 공경받고",
+     "하기 어려운 수행을 해내면 부처님처럼 존중받는다.",
+     "재물에 인색하고 욕심내면 마구니의 무리이고",
+     "자비로 베풀면 부처님의 아들이다."
+    ],
+    "en": [
+     "If you can give up your own pleasure, you are trusted and respected like a sage,",
+     "and if you can do difficult practice, you are honored like the Buddha.",
+     "Clinging greedily to things is to belong to Mara's crowd;",
+     "giving with kindness and compassion is to be a child of the Buddha."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "자락",
+     "ko": "자기 즐거움",
+     "note": "",
+     "hanja": "自樂"
+    },
+    {
+     "word": "능사",
+     "ko": "능히 버림",
+     "note": "",
+     "hanja": "能捨"
+    },
+    {
+     "word": "간탐",
+     "ko": "인색하고 탐냄",
+     "note": "",
+     "hanja": "慳貪"
+    },
+    {
+     "word": "권속",
+     "ko": "한 무리, 식구",
+     "note": "",
+     "hanja": "眷屬"
+    },
+    {
+     "word": "법왕자",
+     "ko": "부처님의 아들",
+     "note": "법왕은 부처님을 이르는 말",
+     "hanja": "法王子"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.5": {
+   "title": {
+    "ko": "산속의 수행자",
+    "hanja": "산속의 수행자",
+    "plain": "산속의 수행자",
+    "en": "The practitioner in the mountains"
+   },
+   "lines": {
+    "ko": [
+     "고악아암 지인소거",
+     "벽송심곡 행자소서",
+     "기찬목과 위기기장",
+     "갈음유수 식기갈정"
+    ],
+    "hanja": [
+     "高嶽峨巖 智人所居",
+     "碧松深谷 行者所棲",
+     "飢飡木果 慰其飢腸",
+     "渴飮流水 息其渴情"
+    ],
+    "plain": [
+     "높은 산 험한 바위는 지혜로운 이가 사는 곳이고",
+     "푸른 소나무 깊은 골짜기는 수행자가 깃드는 곳이다.",
+     "배고프면 나무 열매로 주린 배를 달래고",
+     "목마르면 흐르는 물을 마셔 목마름을 쉰다."
+    ],
+    "en": [
+     "High peaks and steep rocks are where the wise live,",
+     "and green pines in deep valleys are where practitioners dwell.",
+     "When hungry, they ease an empty stomach with fruit from the trees;",
+     "when thirsty, they drink flowing water to rest their thirst."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "고악아암",
+     "ko": "높은 산과 험한 바위",
+     "note": "",
+     "hanja": "高嶽峨巖"
+    },
+    {
+     "word": "벽송",
+     "ko": "푸른 소나무",
+     "note": "",
+     "hanja": "碧松"
+    },
+    {
+     "word": "목과",
+     "ko": "나무 열매",
+     "note": "",
+     "hanja": "木果"
+    },
+    {
+     "word": "기장",
+     "ko": "주린 배",
+     "note": "",
+     "hanja": "飢腸"
+    },
+    {
+     "word": "유수",
+     "ko": "흐르는 물",
+     "note": "",
+     "hanja": "流水"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.6": {
+   "title": {
+    "ko": "백 년은 금방",
+    "hanja": "백 년은 금방",
+    "plain": "백 년은 금방",
+    "en": "A hundred years pass quickly"
+   },
+   "lines": {
+    "ko": [
+     "홀지백년 운하불학",
+     "일생기하 불수방일",
+     "이심중애 시명사문",
+     "불연세속 시명출가"
+    ],
+    "hanja": [
+     "忽至百年 云何不學",
+     "一生幾何 不修放逸",
+     "離心中愛 是名沙門",
+     "不戀世俗 是名出家"
+    ],
+    "plain": [
+     "문득 백 년에 이르는데 어찌 배우지 않으며",
+     "한평생이 얼마나 된다고 닦지 않고 게으르게 지내는가.",
+     "마음속 애착을 떠나는 것을 사문이라 하고",
+     "세속을 그리워하지 않는 것을 출가라 한다."
+    ],
+    "en": [
+     "A hundred years arrive in a moment, so why not learn?",
+     "How long is one life, that you spend it idle instead of practicing?",
+     "Leaving attachment within the heart is called being a monk,",
+     "and not longing for worldly things is called leaving home."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "방일",
+     "ko": "게으르고 함부로 지냄",
+     "note": "",
+     "hanja": "放逸"
+    },
+    {
+     "word": "사문",
+     "ko": "수행하는 사람",
+     "note": "",
+     "hanja": "沙門"
+    },
+    {
+     "word": "세속",
+     "ko": "속세의 일",
+     "note": "",
+     "hanja": "世俗"
+    },
+    {
+     "word": "출가",
+     "ko": "집을 떠나 수행함",
+     "note": "",
+     "hanja": "出家"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.7": {
+   "title": {
+    "ko": "계행과 지혜",
+    "hanja": "계행과 지혜",
+    "plain": "계행과 지혜",
+    "en": "Precepts and wisdom"
+   },
+   "lines": {
+    "ko": [
+     "수유재학 무계행자",
+     "여보소도 이불기행",
+     "수유근행 무지혜자",
+     "욕왕동방 이향서행"
+    ],
+    "hanja": [
+     "雖有才學 無戒行者",
+     "如寶所導 而不起行",
+     "雖有勤行 無智慧者",
+     "欲往東方 而向西行"
+    ],
+    "plain": [
+     "재주와 학식이 있어도 계행이 없는 사람은",
+     "보배 있는 곳으로 이끌어도 일어나 가지 않는 것과 같고",
+     "부지런히 수행해도 지혜가 없는 사람은",
+     "동쪽으로 가려 하면서 서쪽으로 걷는 것과 같다."
+    ],
+    "en": [
+     "One who has talent and learning but no discipline",
+     "is like someone led to a treasure who will not get up and go.",
+     "One who practices diligently but has no wisdom",
+     "is like someone who wants to go east but walks west."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "재학",
+     "ko": "재주와 학식",
+     "note": "",
+     "hanja": "才學"
+    },
+    {
+     "word": "계행",
+     "ko": "계를 지키는 행실",
+     "note": "",
+     "hanja": "戒行"
+    },
+    {
+     "word": "근행",
+     "ko": "부지런한 수행",
+     "note": "",
+     "hanja": "勤行"
+    },
+    {
+     "word": "지혜",
+     "ko": "참모습을 아는 밝음",
+     "note": "",
+     "hanja": "智慧"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.8": {
+   "title": {
+    "ko": "쌀로 짓는 밥",
+    "hanja": "쌀로 짓는 밥",
+    "plain": "쌀로 짓는 밥",
+    "en": "Rice, not sand"
+   },
+   "lines": {
+    "ko": [
+     "유지인소행 증미작반",
+     "무지인소행 증사작반",
+     "공지끽식이위기장",
+     "부지학법이개치심"
+    ],
+    "hanja": [
+     "有智人所行 蒸米作飯",
+     "無智人所行 蒸沙作飯",
+     "共知喫食而慰飢腸",
+     "不知學法而改癡心"
+    ],
+    "plain": [
+     "지혜로운 사람이 하는 일은 쌀을 쪄서 밥을 짓는 것이고",
+     "지혜 없는 사람이 하는 일은 모래를 쪄서 밥을 지으려는 것이다.",
+     "누구나 밥을 먹어 주린 배를 달랠 줄은 알면서",
+     "법을 배워 어리석은 마음을 고칠 줄은 모른다."
+    ],
+    "en": [
+     "What the wise do is like steaming rice to make a meal;",
+     "what the unwise do is like steaming sand to make a meal.",
+     "Everyone knows to eat to ease a hungry stomach,",
+     "yet few know to learn the teaching to change a foolish mind."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "증미작반",
+     "ko": "쌀을 쪄서 밥을 지음",
+     "note": "",
+     "hanja": "蒸米作飯"
+    },
+    {
+     "word": "증사작반",
+     "ko": "모래를 쪄서 밥을 지음",
+     "note": "될 수 없는 일을 이르는 비유",
+     "hanja": "蒸沙作飯"
+    },
+    {
+     "word": "끽식",
+     "ko": "밥을 먹음",
+     "note": "",
+     "hanja": "喫食"
+    },
+    {
+     "word": "치심",
+     "ko": "어리석은 마음",
+     "note": "",
+     "hanja": "癡心"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.9": {
+   "title": {
+    "ko": "수레의 두 바퀴",
+    "hanja": "수레의 두 바퀴",
+    "plain": "수레의 두 바퀴",
+    "en": "Two wheels of a cart"
+   },
+   "lines": {
+    "ko": [
+     "행지구비 여거이륜",
+     "자리이타 여조양익"
+    ],
+    "hanja": [
+     "行智具備 如車二輪",
+     "自利利他 如鳥兩翼"
+    ],
+    "plain": [
+     "수행과 지혜를 함께 갖추는 것은 수레의 두 바퀴와 같고",
+     "나를 이롭게 하고 남을 이롭게 하는 것은 새의 두 날개와 같다."
+    ],
+    "en": [
+     "Practice and wisdom together are like the two wheels of a cart;",
+     "helping yourself and helping others are like the two wings of a bird."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "행지",
+     "ko": "수행과 지혜",
+     "note": "",
+     "hanja": "行智"
+    },
+    {
+     "word": "구비",
+     "ko": "고루 갖춤",
+     "note": "",
+     "hanja": "具備"
+    },
+    {
+     "word": "자리이타",
+     "ko": "나를 이롭게 하고 남을 이롭게 함",
+     "note": "",
+     "hanja": "自利利他"
+    },
+    {
+     "word": "양익",
+     "ko": "두 날개",
+     "note": "",
+     "hanja": "兩翼"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.balsim.10": {
+   "title": {
+    "ko": "어찌 서두르지 않으랴",
+    "hanja": "어찌 서두르지 않으랴",
+    "plain": "어찌 서두르지 않으랴",
+    "en": "Why not hurry?"
+   },
+   "lines": {
+    "ko": [
+     "세락후고 하탐착재",
+     "일인장락 하불수재",
+     "신필유종 후신하호",
+     "막속급호 막속급호"
+    ],
+    "hanja": [
+     "世樂後苦 何貪着哉",
+     "一忍長樂 何不修哉",
+     "身必有終 後身何乎",
+     "莫速急乎 莫速急乎"
+    ],
+    "plain": [
+     "세상의 즐거움은 뒤에 괴로움이 되는데 어찌 탐하여 집착하며",
+     "한 번 참으면 오래 즐거운데 어찌 닦지 않는가.",
+     "몸은 반드시 끝이 있으니 다음 몸은 어찌할 것인가.",
+     "서둘러야 하지 않겠는가, 서둘러야 하지 않겠는가."
+    ],
+    "en": [
+     "Worldly pleasure turns into pain later, so why cling to it?",
+     "One moment of patience brings lasting joy, so why not practice?",
+     "This body will surely end; what of the body that follows?",
+     "Is it not urgent? Is it not urgent?"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "세락",
+     "ko": "세상의 즐거움",
+     "note": "",
+     "hanja": "世樂"
+    },
+    {
+     "word": "탐착",
+     "ko": "탐하여 집착함",
+     "note": "",
+     "hanja": "貪着"
+    },
+    {
+     "word": "일인",
+     "ko": "한 번 참음",
+     "note": "",
+     "hanja": "一忍"
+    },
+    {
+     "word": "장락",
+     "ko": "오래가는 즐거움",
+     "note": "",
+     "hanja": "長樂"
+    },
+    {
+     "word": "속급",
+     "ko": "서두름",
+     "note": "",
+     "hanja": "速急"
+    }
+   ],
+   "source": "원효 발심수행장"
+  },
+  "bud.bohyeon.1": {
+   "title": {
+    "ko": "부처님께 절하기",
+    "hanja": "부처님께 절하기",
+    "plain": "부처님께 절하기",
+    "en": "Bowing to all Buddhas"
+   },
+   "lines": {
+    "ko": [
+     "약욕성취차공덕문",
+     "응수십종광대행원",
+     "일자예경제불",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "若欲成就此功德門",
+     "應修十種廣大行願",
+     "一者禮敬諸佛",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "여래의 이 공덕의 문을 이루고자 한다면",
+     "열 가지 넓고 큰 수행과 바람을 닦아야 합니다.",
+     "첫째는 모든 부처님께 예배하고 공경하는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "If you wish to enter this gate of merit,",
+     "practice the ten vast vows.",
+     "The first is to bow to and honor all Buddhas.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "공덕문",
+     "ko": "공덕의 문",
+     "note": "여래의 공덕으로 들어가는 문",
+     "hanja": "功德門"
+    },
+    {
+     "word": "행원",
+     "ko": "수행과 바람",
+     "note": "보현보살의 열 가지 바람을 이르는 말",
+     "hanja": "行願"
+    },
+    {
+     "word": "예경",
+     "ko": "예배하고 공경함",
+     "note": "",
+     "hanja": "禮敬"
+    },
+    {
+     "word": "염념상속",
+     "ko": "생각생각 이어짐",
+     "note": "",
+     "hanja": "念念相續"
+    },
+    {
+     "word": "피염",
+     "ko": "지치고 싫증 남",
+     "note": "",
+     "hanja": "疲厭"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.2": {
+   "title": {
+    "ko": "여래를 찬탄하기",
+    "hanja": "여래를 찬탄하기",
+    "plain": "여래를 찬탄하기",
+    "en": "Praising the Tathagata"
+   },
+   "lines": {
+    "ko": [
+     "이자칭찬여래",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "二者稱讚如來",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "둘째는 여래의 공덕을 기리고 찬탄하는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The second is to praise the Tathagata.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "칭찬",
+     "ko": "기리어 높임",
+     "note": "",
+     "hanja": "稱讚"
+    },
+    {
+     "word": "여래",
+     "ko": "진리에서 오신 분",
+     "note": "부처님을 부르는 이름 가운데 하나",
+     "hanja": "如來"
+    },
+    {
+     "word": "간단",
+     "ko": "끊어짐",
+     "note": "",
+     "hanja": "間斷"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.3": {
+   "title": {
+    "ko": "널리 공양하기",
+    "hanja": "널리 공양하기",
+    "plain": "널리 공양하기",
+    "en": "Making offerings widely"
+   },
+   "lines": {
+    "ko": [
+     "삼자광수공양",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "三者廣修供養",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "셋째는 널리 공양을 올리는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The third is to make offerings widely.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "광수",
+     "ko": "널리 닦음",
+     "note": "",
+     "hanja": "廣修"
+    },
+    {
+     "word": "공양",
+     "ko": "정성껏 올림",
+     "note": "부처님과 스님, 이웃에게 정성을 바치는 일",
+     "hanja": "供養"
+    },
+    {
+     "word": "신어의",
+     "ko": "몸과 말과 뜻",
+     "note": "",
+     "hanja": "身語意"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.4": {
+   "title": {
+    "ko": "업장 참회하기",
+    "hanja": "업장 참회하기",
+    "plain": "업장 참회하기",
+    "en": "Repenting of karmic obstacles"
+   },
+   "lines": {
+    "ko": [
+     "사자참회업장",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "四者懺悔業障",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "넷째는 지난날 지은 업의 장애를 뉘우치는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The fourth is to repent of the obstacles made by past deeds.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "참회",
+     "ko": "잘못을 뉘우침",
+     "note": "",
+     "hanja": "懺悔"
+    },
+    {
+     "word": "업장",
+     "ko": "지은 업이 가로막는 것",
+     "note": "지난 행동이 남겨 수행을 막는 장애",
+     "hanja": "業障"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.5": {
+   "title": {
+    "ko": "함께 기뻐하기",
+    "hanja": "함께 기뻐하기",
+    "plain": "함께 기뻐하기",
+    "en": "Rejoicing in others' merit"
+   },
+   "lines": {
+    "ko": [
+     "오자수희공덕",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "五者隨喜功德",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "다섯째는 남이 지은 공덕을 함께 기뻐하는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The fifth is to rejoice in the merit of others.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "수희",
+     "ko": "따라 기뻐함",
+     "note": "남의 좋은 일을 내 일처럼 기뻐하는 것",
+     "hanja": "隨喜"
+    },
+    {
+     "word": "공덕",
+     "ko": "좋은 일로 쌓인 복",
+     "note": "",
+     "hanja": "功德"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.6": {
+   "title": {
+    "ko": "가르침을 청하기",
+    "hanja": "가르침을 청하기",
+    "plain": "가르침을 청하기",
+    "en": "Asking for the teaching"
+   },
+   "lines": {
+    "ko": [
+     "육자청전법륜",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "六者請轉法輪",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "여섯째는 부처님께 가르침의 바퀴를 굴려 주시기를 청하는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The sixth is to ask the Buddhas to turn the wheel of the Dharma.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "청전",
+     "ko": "굴려 주시기를 청함",
+     "note": "",
+     "hanja": "請轉"
+    },
+    {
+     "word": "법륜",
+     "ko": "가르침의 바퀴",
+     "note": "부처님의 가르침이 퍼져 나감을 굴러가는 바퀴에 비유한 말",
+     "hanja": "法輪"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.7": {
+   "title": {
+    "ko": "세상에 머무시기를 청하기",
+    "hanja": "세상에 머무시기를 청하기",
+    "plain": "세상에 머무시기를 청하기",
+    "en": "Asking the Buddhas to stay"
+   },
+   "lines": {
+    "ko": [
+     "칠자청불주세",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "七者請佛住世",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "일곱째는 부처님께 이 세상에 오래 머무시기를 청하는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The seventh is to ask the Buddhas to remain in the world.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "청불",
+     "ko": "부처님께 청함",
+     "note": "",
+     "hanja": "請佛"
+    },
+    {
+     "word": "주세",
+     "ko": "세상에 머무름",
+     "note": "",
+     "hanja": "住世"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.8": {
+   "title": {
+    "ko": "늘 부처님을 따라 배우기",
+    "hanja": "늘 부처님을 따라 배우기",
+    "plain": "늘 부처님을 따라 배우기",
+    "en": "Always learning from the Buddha"
+   },
+   "lines": {
+    "ko": [
+     "팔자상수불학",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "八者常隨佛學",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "여덟째는 늘 부처님을 따라 배우는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The eighth is to always follow and learn from the Buddha.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "상수",
+     "ko": "늘 따름",
+     "note": "",
+     "hanja": "常隨"
+    },
+    {
+     "word": "불학",
+     "ko": "부처님께 배움",
+     "note": "",
+     "hanja": "佛學"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.9": {
+   "title": {
+    "ko": "중생을 따르기",
+    "hanja": "중생을 따르기",
+    "plain": "중생을 따르기",
+    "en": "Always in harmony with beings"
+   },
+   "lines": {
+    "ko": [
+     "구자항순중생",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "九者恒順衆生",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "아홉째는 언제나 중생의 뜻에 맞추어 따르는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The ninth is to always accord with living beings.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "항순",
+     "ko": "늘 따르고 맞춤",
+     "note": "",
+     "hanja": "恒順"
+    },
+    {
+     "word": "중생",
+     "ko": "살아 있는 모든 존재",
+     "note": "",
+     "hanja": "衆生"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.10": {
+   "title": {
+    "ko": "두루 회향하기",
+    "hanja": "두루 회향하기",
+    "plain": "두루 회향하기",
+    "en": "Dedicating merit to all"
+   },
+   "lines": {
+    "ko": [
+     "십자보개회향",
+     "염념상속 무유간단",
+     "신어의업 무유피염"
+    ],
+    "hanja": [
+     "十者普皆迴向",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "plain": [
+     "열째는 지은 모든 공덕을 모든 이에게 두루 돌려 나누는 것입니다.",
+     "생각생각 이어져 끊어짐이 없고",
+     "몸과 말과 뜻으로 하는 일에 지치거나 싫증 내지 않습니다."
+    ],
+    "en": [
+     "The tenth is to dedicate all merit to everyone.",
+     "Thought after thought, it goes on without a break,",
+     "and body, speech, and mind never tire of it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "보개",
+     "ko": "두루 모두",
+     "note": "",
+     "hanja": "普皆"
+    },
+    {
+     "word": "회향",
+     "ko": "공덕을 돌려 나눔",
+     "note": "내가 지은 좋은 일을 남과 깨달음에 돌리는 것",
+     "hanja": "迴向"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 (반야 역, T293)"
+  },
+  "bud.bohyeon.11": {
+   "title": {
+    "ko": "온 세계의 부처님께",
+    "hanja": "온 세계의 부처님께",
+    "plain": "온 세계의 부처님께",
+    "en": "To all Buddhas everywhere"
+   },
+   "lines": {
+    "ko": [
+     "소유시방세계중",
+     "삼세일체인사자",
+     "아이청정신어의",
+     "일체변례진무여"
+    ],
+    "hanja": [
+     "所有十方世界中",
+     "三世一切人師子",
+     "我以淸淨身語意",
+     "一切遍禮盡無餘"
+    ],
+    "plain": [
+     "시방의 모든 세계에 계시는",
+     "과거, 현재, 미래의 사람 가운데 사자 같은 부처님께",
+     "저는 맑은 몸과 말과 뜻으로",
+     "남김없이 두루 절합니다."
+    ],
+    "en": [
+     "In all the worlds of the ten directions,",
+     "to every lion among humans of past, present, and future,",
+     "with pure body, speech, and mind",
+     "I bow to each and every one, leaving none out."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "시방",
+     "ko": "열 방향",
+     "note": "동서남북과 그 사이, 위아래. 온 세계",
+     "hanja": "十方"
+    },
+    {
+     "word": "삼세",
+     "ko": "과거, 현재, 미래",
+     "note": "",
+     "hanja": "三世"
+    },
+    {
+     "word": "인사자",
+     "ko": "사람 가운데 사자",
+     "note": "부처님을 높여 부르는 말",
+     "hanja": "人師子"
+    },
+    {
+     "word": "변례",
+     "ko": "두루 절함",
+     "note": "",
+     "hanja": "遍禮"
+    },
+    {
+     "word": "무여",
+     "ko": "남김이 없음",
+     "note": "",
+     "hanja": "無餘"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.12": {
+   "title": {
+    "ko": "한 몸이 티끌 수만큼",
+    "hanja": "한 몸이 티끌 수만큼",
+    "plain": "한 몸이 티끌 수만큼",
+    "en": "One body becoming countless"
+   },
+   "lines": {
+    "ko": [
+     "보현행원위신력",
+     "보현일체여래전",
+     "일신부현찰진신",
+     "일일변례찰진불"
+    ],
+    "hanja": [
+     "普賢行願威神力",
+     "普現一切如來前",
+     "一身復現刹塵身",
+     "一一遍禮刹塵佛"
+    ],
+    "plain": [
+     "보현보살의 수행과 바람에서 나오는 위신력으로",
+     "모든 여래 앞에 두루 나타나",
+     "한 몸이 다시 티끌처럼 많은 몸을 나투어",
+     "하나하나 티끌처럼 많은 부처님께 두루 절합니다."
+    ],
+    "en": [
+     "By the majestic power of Samantabhadra's practice and vows,",
+     "I appear before every Tathagata;",
+     "one body appears again as bodies countless as dust,",
+     "each bowing to Buddhas countless as dust."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "보현",
+     "ko": "보현보살",
+     "note": "실천과 서원을 대표하는 보살",
+     "hanja": "普賢"
+    },
+    {
+     "word": "위신력",
+     "ko": "거룩하고 신묘한 힘",
+     "note": "",
+     "hanja": "威神力"
+    },
+    {
+     "word": "찰진",
+     "ko": "국토를 부순 티끌",
+     "note": "셀 수 없이 많음을 이르는 말",
+     "hanja": "刹塵"
+    },
+    {
+     "word": "부현",
+     "ko": "다시 나타남",
+     "note": "",
+     "hanja": "復現"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.13": {
+   "title": {
+    "ko": "티끌 하나 속의 부처님",
+    "hanja": "티끌 하나 속의 부처님",
+    "plain": "티끌 하나 속의 부처님",
+    "en": "Buddhas in a single speck of dust"
+   },
+   "lines": {
+    "ko": [
+     "어일진중진수불",
+     "각처보살중회중",
+     "무진법계진역연",
+     "심신제불개충만"
+    ],
+    "hanja": [
+     "於一塵中塵數佛",
+     "各處菩薩衆會中",
+     "無盡法界塵亦然",
+     "深信諸佛皆充滿"
+    ],
+    "plain": [
+     "티끌 하나 속에 티끌 수만큼 많은 부처님이",
+     "저마다 보살들의 모임 가운데 계십니다.",
+     "끝없는 법계의 티끌마다 또한 그러하니",
+     "모든 부처님이 가득하심을 깊이 믿습니다."
+    ],
+    "en": [
+     "In a single speck of dust are Buddhas as many as specks of dust,",
+     "each seated among an assembly of bodhisattvas.",
+     "So it is in every speck of the endless Dharma realm;",
+     "I deeply trust that the Buddhas fill it completely."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "일진",
+     "ko": "티끌 하나",
+     "note": "",
+     "hanja": "一塵"
+    },
+    {
+     "word": "중회",
+     "ko": "대중의 모임",
+     "note": "",
+     "hanja": "衆會"
+    },
+    {
+     "word": "법계",
+     "ko": "온 세계",
+     "note": "진리가 드러나는 모든 세계",
+     "hanja": "法界"
+    },
+    {
+     "word": "심신",
+     "ko": "깊이 믿음",
+     "note": "",
+     "hanja": "深信"
+    },
+    {
+     "word": "충만",
+     "ko": "가득 참",
+     "note": "",
+     "hanja": "充滿"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.14": {
+   "title": {
+    "ko": "다함없는 찬탄",
+    "hanja": "다함없는 찬탄",
+    "plain": "다함없는 찬탄",
+    "en": "Praise without end"
+   },
+   "lines": {
+    "ko": [
+     "각이일체음성해",
+     "보출무진묘언사",
+     "진어미래일체겁",
+     "찬불심심공덕해"
+    ],
+    "hanja": [
+     "各以一切音聲海",
+     "普出無盡妙言辭",
+     "盡於未來一切劫",
+     "讚佛甚深功德海"
+    ],
+    "plain": [
+     "저마다 바다처럼 많은 온갖 소리로",
+     "다함없는 아름다운 말을 두루 내어",
+     "오는 세월이 다할 때까지",
+     "부처님의 깊고 깊은 공덕의 바다를 찬탄합니다."
+    ],
+    "en": [
+     "Each with an ocean of every kind of voice,",
+     "pouring out endless, beautiful words,",
+     "through all the eons still to come,",
+     "I praise the Buddha's deep ocean of merit."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "음성해",
+     "ko": "바다처럼 많은 소리",
+     "note": "",
+     "hanja": "音聲海"
+    },
+    {
+     "word": "언사",
+     "ko": "말",
+     "note": "",
+     "hanja": "言辭"
+    },
+    {
+     "word": "일체겁",
+     "ko": "모든 겁",
+     "note": "겁은 헤아릴 수 없이 긴 세월",
+     "hanja": "一切劫"
+    },
+    {
+     "word": "심심",
+     "ko": "매우 깊음",
+     "note": "",
+     "hanja": "甚深"
+    },
+    {
+     "word": "공덕해",
+     "ko": "바다 같은 공덕",
+     "note": "",
+     "hanja": "功德海"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.15": {
+   "title": {
+    "ko": "가장 좋은 것으로 공양",
+    "hanja": "가장 좋은 것으로 공양",
+    "plain": "가장 좋은 것으로 공양",
+    "en": "Offering the finest"
+   },
+   "lines": {
+    "ko": [
+     "이제최승묘화만",
+     "기악도향급산개",
+     "여시최승장엄구",
+     "아이공양제여래"
+    ],
+    "hanja": [
+     "以諸最勝妙華鬘",
+     "伎樂塗香及傘蓋",
+     "如是最勝莊嚴具",
+     "我以供養諸如來"
+    ],
+    "plain": [
+     "가장 훌륭하고 아름다운 꽃다발과",
+     "음악과 바르는 향과 일산 같은",
+     "이처럼 가장 훌륭한 장엄구로",
+     "저는 모든 여래께 공양합니다."
+    ],
+    "en": [
+     "With the finest, most beautiful garlands of flowers,",
+     "with music, fragrant ointments, and canopies,",
+     "with all these finest adornments,",
+     "I make offerings to all the Tathagatas."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "최승",
+     "ko": "가장 뛰어남",
+     "note": "",
+     "hanja": "最勝"
+    },
+    {
+     "word": "화만",
+     "ko": "꽃다발",
+     "note": "꽃을 엮어 만든 장식",
+     "hanja": "華鬘"
+    },
+    {
+     "word": "기악",
+     "ko": "음악과 춤",
+     "note": "",
+     "hanja": "伎樂"
+    },
+    {
+     "word": "도향",
+     "ko": "몸에 바르는 향",
+     "note": "",
+     "hanja": "塗香"
+    },
+    {
+     "word": "산개",
+     "ko": "일산",
+     "note": "햇볕을 가리는 큰 양산",
+     "hanja": "傘蓋"
+    },
+    {
+     "word": "장엄구",
+     "ko": "꾸미는 물건",
+     "note": "",
+     "hanja": "莊嚴具"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.16": {
+   "title": {
+    "ko": "모든 공덕을 함께 기뻐함",
+    "hanja": "모든 공덕을 함께 기뻐함",
+    "plain": "모든 공덕을 함께 기뻐함",
+    "en": "Rejoicing in all merit"
+   },
+   "lines": {
+    "ko": [
+     "시방일체제중생",
+     "이승유학급무학",
+     "일체여래여보살",
+     "소유공덕개수희"
+    ],
+    "hanja": [
+     "十方一切諸衆生",
+     "二乘有學及無學",
+     "一切如來與菩薩",
+     "所有功德皆隨喜"
+    ],
+    "plain": [
+     "시방의 모든 중생과",
+     "아직 배우는 이와 다 배운 이, 두 갈래 수행자와",
+     "모든 여래와 보살이",
+     "지은 공덕을 저는 모두 함께 기뻐합니다."
+    ],
+    "en": [
+     "All living beings of the ten directions,",
+     "followers of the two vehicles, still in training or beyond it,",
+     "and all Tathagatas and bodhisattvas:",
+     "in all the merit they have made, I rejoice."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "이승",
+     "ko": "두 갈래 수행자",
+     "note": "성문과 연각",
+     "hanja": "二乘"
+    },
+    {
+     "word": "유학",
+     "ko": "아직 배우는 이",
+     "note": "",
+     "hanja": "有學"
+    },
+    {
+     "word": "무학",
+     "ko": "더 배울 것이 없는 이",
+     "note": "아라한을 이르는 말",
+     "hanja": "無學"
+    },
+    {
+     "word": "보살",
+     "ko": "깨달음을 구하며 중생을 돕는 이",
+     "note": "",
+     "hanja": "菩薩"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.17": {
+   "title": {
+    "ko": "세상의 등불께 청함",
+    "hanja": "세상의 등불께 청함",
+    "plain": "세상의 등불께 청함",
+    "en": "Asking the lamps of the world"
+   },
+   "lines": {
+    "ko": [
+     "시방소유세간등",
+     "최초성취보리자",
+     "아금일체개권청",
+     "전어무상묘법륜"
+    ],
+    "hanja": [
+     "十方所有世間燈",
+     "最初成就菩提者",
+     "我今一切皆勸請",
+     "轉於無上妙法輪"
+    ],
+    "plain": [
+     "시방에 계신 세상의 등불",
+     "처음 깨달음을 이루신 분들께",
+     "저는 이제 모두 간절히 청합니다.",
+     "더없이 높고 묘한 가르침의 바퀴를 굴려 주십시오."
+    ],
+    "en": [
+     "To all the lamps of the world in the ten directions,",
+     "those who have just attained awakening,",
+     "I now earnestly make this request:",
+     "please turn the supreme and wondrous wheel of the Dharma."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "세간등",
+     "ko": "세상의 등불",
+     "note": "부처님을 비유한 말",
+     "hanja": "世間燈"
+    },
+    {
+     "word": "보리",
+     "ko": "깨달음",
+     "note": "",
+     "hanja": "菩提"
+    },
+    {
+     "word": "권청",
+     "ko": "간절히 청함",
+     "note": "",
+     "hanja": "勸請"
+    },
+    {
+     "word": "무상",
+     "ko": "더없이 높음",
+     "note": "",
+     "hanja": "無上"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.18": {
+   "title": {
+    "ko": "오래 머물러 주소서",
+    "hanja": "오래 머물러 주소서",
+    "plain": "오래 머물러 주소서",
+    "en": "Please stay long"
+   },
+   "lines": {
+    "ko": [
+     "제불약욕시열반",
+     "아실지성이권청",
+     "유원구주찰진겁",
+     "이락일체제중생"
+    ],
+    "hanja": [
+     "諸佛若欲示涅槃",
+     "我悉至誠而勸請",
+     "唯願久住刹塵劫",
+     "利樂一切諸衆生"
+    ],
+    "plain": [
+     "부처님들께서 열반에 드시려 하면",
+     "저는 지극한 정성으로 모두 청합니다.",
+     "바라건대 티끌 수만큼 긴 세월을 오래 머무시어",
+     "모든 중생을 이롭고 즐겁게 해 주십시오."
+    ],
+    "en": [
+     "When the Buddhas are about to enter nirvana,",
+     "I ask them all with my whole heart:",
+     "please stay for eons countless as dust",
+     "to benefit and gladden all living beings."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "시열반",
+     "ko": "열반을 보임",
+     "note": "부처님이 세상을 떠나심",
+     "hanja": "示涅槃"
+    },
+    {
+     "word": "지성",
+     "ko": "지극한 정성",
+     "note": "",
+     "hanja": "至誠"
+    },
+    {
+     "word": "구주",
+     "ko": "오래 머묾",
+     "note": "",
+     "hanja": "久住"
+    },
+    {
+     "word": "이락",
+     "ko": "이롭고 즐겁게 함",
+     "note": "",
+     "hanja": "利樂"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.19": {
+   "title": {
+    "ko": "모든 선근을 돌려",
+    "hanja": "모든 선근을 돌려",
+    "plain": "모든 선근을 돌려",
+    "en": "Dedicating every root of good"
+   },
+   "lines": {
+    "ko": [
+     "소유예찬공양복",
+     "청불주세전법륜",
+     "수희참회제선근",
+     "회향중생급불도"
+    ],
+    "hanja": [
+     "所有禮讚供養福",
+     "請佛住世轉法輪",
+     "隨喜懺悔諸善根",
+     "迴向衆生及佛道"
+    ],
+    "plain": [
+     "예배하고 찬탄하고 공양한 모든 복과",
+     "부처님께 세상에 머무시고 가르침을 펴 주시기를 청한 복과",
+     "함께 기뻐하고 참회한 모든 선한 뿌리를",
+     "중생과 깨달음의 길에 돌려 바칩니다."
+    ],
+    "en": [
+     "All the blessings of bowing, praising, and offering,",
+     "of asking the Buddhas to stay and turn the wheel of the Dharma,",
+     "and every root of good from rejoicing and repentance,",
+     "I dedicate to all beings and to the path of awakening."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "예찬",
+     "ko": "예배하고 찬탄함",
+     "note": "",
+     "hanja": "禮讚"
+    },
+    {
+     "word": "선근",
+     "ko": "선한 뿌리",
+     "note": "좋은 결과를 낳는 착한 마음과 행동",
+     "hanja": "善根"
+    },
+    {
+     "word": "불도",
+     "ko": "깨달음에 이르는 길",
+     "note": "",
+     "hanja": "佛道"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.20": {
+   "title": {
+    "ko": "물에 젖지 않는 연꽃",
+    "hanja": "물에 젖지 않는 연꽃",
+    "plain": "물에 젖지 않는 연꽃",
+    "en": "The lotus untouched by water"
+   },
+   "lines": {
+    "ko": [
+     "어제혹업급마경",
+     "세간도중득해탈",
+     "유여연화불착수",
+     "역여일월부주공"
+    ],
+    "hanja": [
+     "於諸惑業及魔境",
+     "世間道中得解脫",
+     "猶如蓮華不著水",
+     "亦如日月不住空"
+    ],
+    "plain": [
+     "온갖 미혹과 업과 마의 경계에서",
+     "세상의 길 가운데 벗어남을 얻으니",
+     "마치 연꽃이 물에 젖지 않는 것과 같고",
+     "해와 달이 허공에 머물지 않는 것과 같습니다."
+    ],
+    "en": [
+     "From all delusion, karma, and the realms of Mara,",
+     "I find freedom in the midst of the world's ways,",
+     "like a lotus that water does not cling to,",
+     "like the sun and moon that do not stay in the sky."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "혹업",
+     "ko": "미혹과 업",
+     "note": "",
+     "hanja": "惑業"
+    },
+    {
+     "word": "마경",
+     "ko": "마의 경계",
+     "note": "수행을 흔드는 온갖 것",
+     "hanja": "魔境"
+    },
+    {
+     "word": "해탈",
+     "ko": "얽매임에서 벗어남",
+     "note": "",
+     "hanja": "解脫"
+    },
+    {
+     "word": "연화",
+     "ko": "연꽃",
+     "note": "진흙에서 피어도 물들지 않는 꽃",
+     "hanja": "蓮華"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.21": {
+   "title": {
+    "ko": "나의 바람은 다함이 없다",
+    "hanja": "나의 바람은 다함이 없다",
+    "plain": "나의 바람은 다함이 없다",
+    "en": "My vow has no end"
+   },
+   "lines": {
+    "ko": [
+     "내지허공세계진",
+     "중생급업번뇌진",
+     "여시일체무진시",
+     "아원구경항무진"
+    ],
+    "hanja": [
+     "乃至虛空世界盡",
+     "衆生及業煩惱盡",
+     "如是一切無盡時",
+     "我願究竟恒無盡"
+    ],
+    "plain": [
+     "허공과 세계가 다하고",
+     "중생과 업과 번뇌가 다해야 끝나겠지만",
+     "이 모든 것이 다함이 없으니",
+     "나의 바람도 끝내 늘 다함이 없습니다."
+    ],
+    "en": [
+     "Only when empty space and the worlds come to an end,",
+     "when beings, karma, and afflictions come to an end, could it end;",
+     "since none of these will ever end,",
+     "my vow, too, will never end."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "허공",
+     "ko": "텅 빈 하늘",
+     "note": "",
+     "hanja": "虛空"
+    },
+    {
+     "word": "번뇌",
+     "ko": "마음을 괴롭히고 어지럽히는 것",
+     "note": "",
+     "hanja": "煩惱"
+    },
+    {
+     "word": "무진",
+     "ko": "다함이 없음",
+     "note": "",
+     "hanja": "無盡"
+    },
+    {
+     "word": "구경",
+     "ko": "마침내, 끝까지",
+     "note": "",
+     "hanja": "究竟"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
+  "bud.bohyeon.22": {
+   "title": {
+    "ko": "믿음은 도의 근원",
+    "hanja": "믿음은 도의 근원",
+    "plain": "믿음은 도의 근원",
+    "en": "Faith is the source of the Way"
+   },
+   "lines": {
+    "ko": [
+     "신위도원공덕모",
+     "장양일체제선법",
+     "단제의망출애류",
+     "개시열반무상도"
+    ],
+    "hanja": [
+     "信爲道元功德母",
+     "長養一切諸善法",
+     "斷除疑網出愛流",
+     "開示涅槃無上道"
+    ],
+    "plain": [
+     "믿음은 도의 근원이요 공덕의 어머니라",
+     "모든 선한 법을 길러 내고",
+     "의심의 그물을 끊어 애착의 물결에서 벗어나게 하며",
+     "열반에 이르는 더없이 높은 길을 열어 보입니다."
+    ],
+    "en": [
+     "Faith is the source of the Way and the mother of merit;",
+     "it nurtures every good thing,",
+     "cuts through the net of doubt and carries us out of the stream of craving,",
+     "and opens the supreme path to nirvana."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "도원",
+     "ko": "도의 근원",
+     "note": "",
+     "hanja": "道元"
+    },
+    {
+     "word": "장양",
+     "ko": "길러 냄",
+     "note": "",
+     "hanja": "長養"
+    },
+    {
+     "word": "의망",
+     "ko": "의심의 그물",
+     "note": "",
+     "hanja": "疑網"
+    },
+    {
+     "word": "애류",
+     "ko": "애착의 물결",
+     "note": "",
+     "hanja": "愛流"
+    },
+    {
+     "word": "개시",
+     "ko": "열어 보임",
+     "note": "",
+     "hanja": "開示"
+    }
+   ],
+   "source": "80권 화엄경 현수품 (실차난타 역, T279)"
+  },
+  "bud.bohyeon.23": {
+   "title": {
+    "ko": "하나의 큰일",
+    "hanja": "하나의 큰일",
+    "plain": "하나의 큰일",
+    "en": "One great purpose"
+   },
+   "lines": {
+    "ko": [
+     "제불세존",
+     "유이일대사인연고",
+     "출현어세"
+    ],
+    "hanja": [
+     "諸佛世尊",
+     "唯以一大事因緣故",
+     "出現於世"
+    ],
+    "plain": [
+     "모든 부처님은",
+     "오직 하나의 큰일을 위하여",
+     "세상에 나오십니다."
+    ],
+    "en": [
+     "All Buddhas, the World-Honored Ones,",
+     "for the sake of one great purpose alone,",
+     "appear in the world."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "세존",
+     "ko": "세상에서 가장 존귀한 분",
+     "note": "부처님을 부르는 이름",
+     "hanja": "世尊"
+    },
+    {
+     "word": "일대사",
+     "ko": "하나의 큰일",
+     "note": "중생이 부처의 지혜를 열게 하는 일",
+     "hanja": "一大事"
+    },
+    {
+     "word": "인연",
+     "ko": "까닭",
+     "note": "",
+     "hanja": "因緣"
+    },
+    {
+     "word": "출현",
+     "ko": "나타남",
+     "note": "",
+     "hanja": "出現"
+    }
+   ],
+   "source": "묘법연화경 방편품 (구마라집 역)"
+  },
+  "bud.bohyeon.24": {
+   "title": {
+    "ko": "어디에나 나투는 몸",
+    "hanja": "어디에나 나투는 몸",
+    "plain": "어디에나 나투는 몸",
+    "en": "Appearing everywhere"
+   },
+   "lines": {
+    "ko": [
+     "구족신통력",
+     "광수지방편",
+     "시방제국토",
+     "무찰불현신"
+    ],
+    "hanja": [
+     "具足神通力",
+     "廣修智方便",
+     "十方諸國土",
+     "無刹不現身"
+    ],
+    "plain": [
+     "관세음보살은 신통한 힘을 두루 갖추고",
+     "지혜와 방편을 널리 닦아",
+     "시방의 모든 나라 어디에도",
+     "몸을 나투지 않는 곳이 없습니다."
+    ],
+    "en": [
+     "Avalokiteshvara, fully endowed with spiritual powers",
+     "and widely practiced in wisdom and skillful means,",
+     "in every land of the ten directions",
+     "leaves no place where they do not appear."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "구족",
+     "ko": "두루 갖춤",
+     "note": "",
+     "hanja": "具足"
+    },
+    {
+     "word": "신통력",
+     "ko": "걸림 없는 신묘한 힘",
+     "note": "",
+     "hanja": "神通力"
+    },
+    {
+     "word": "방편",
+     "ko": "알맞은 방법",
+     "note": "중생을 이끄는 지혜로운 길",
+     "hanja": "方便"
+    },
+    {
+     "word": "현신",
+     "ko": "몸을 나툼",
+     "note": "",
+     "hanja": "現身"
+    }
+   ],
+   "source": "묘법연화경 관세음보살보문품 게송"
+  },
+  "bud.bohyeon.25": {
+   "title": {
+    "ko": "중생이 아프니 나도 아프다",
+    "hanja": "중생이 아프니 나도 아프다",
+    "plain": "중생이 아프니 나도 아프다",
+    "en": "When beings are ill, I am ill"
+   },
+   "lines": {
+    "ko": [
+     "종치유애 즉아병생",
+     "이일체중생병 시고아병",
+     "약일체중생득불병자",
+     "즉아병멸"
+    ],
+    "hanja": [
+     "從癡有愛 則我病生",
+     "以一切衆生病 是故我病",
+     "若一切衆生得不病者",
+     "則我病滅"
+    ],
+    "plain": [
+     "어리석음에서 애착이 생기고 거기서 나의 병이 생겼습니다.",
+     "모든 중생이 앓고 있으므로 나도 앓습니다.",
+     "모든 중생이 병에서 벗어나면",
+     "나의 병도 사라질 것입니다."
+    ],
+    "en": [
+     "From ignorance comes craving, and from it my illness arises.",
+     "Because all beings are ill, I am ill.",
+     "When all beings are free of illness,",
+     "my illness, too, will end."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "종치",
+     "ko": "어리석음에서",
+     "note": "",
+     "hanja": "從癡"
+    },
+    {
+     "word": "유애",
+     "ko": "애착이 있음",
+     "note": "",
+     "hanja": "有愛"
+    },
+    {
+     "word": "병생",
+     "ko": "병이 생김",
+     "note": "",
+     "hanja": "病生"
+    },
+    {
+     "word": "병멸",
+     "ko": "병이 사라짐",
+     "note": "",
+     "hanja": "病滅"
+    }
+   ],
+   "source": "유마힐소설경 문수사리문질품 (구마라집 역)"
+  },
+  "bud.bohyeon.26": {
+   "title": {
+    "ko": "이 법은 평등하다",
+    "hanja": "이 법은 평등하다",
+    "plain": "이 법은 평등하다",
+    "en": "This Dharma is equal"
+   },
+   "lines": {
+    "ko": [
+     "시법평등 무유고하",
+     "시명아뇩다라삼먁삼보리",
+     "이무아 무인 무중생 무수자",
+     "수일체선법 즉득아뇩다라삼먁삼보리"
+    ],
+    "hanja": [
+     "是法平等 無有高下",
+     "是名阿耨多羅三藐三菩提",
+     "以無我 無人 無衆生 無壽者",
+     "修一切善法 卽得阿耨多羅三藐三菩提"
+    ],
+    "plain": [
+     "이 법은 평등하여 높고 낮음이 없으니",
+     "이것을 더없이 높고 바른 깨달음이라 합니다.",
+     "나라는 생각, 남이라는 생각, 중생이라는 생각, 목숨에 매인 생각 없이",
+     "모든 선한 일을 닦으면 곧 더없이 높고 바른 깨달음을 얻습니다."
+    ],
+    "en": [
+     "This Dharma is equal, with no high or low;",
+     "this is called supreme, perfect awakening.",
+     "Without a notion of self, of others, of beings, or of a lifespan,",
+     "practice every good deed, and you will attain supreme, perfect awakening."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "평등",
+     "ko": "고르게 같음",
+     "note": "",
+     "hanja": "平等"
+    },
+    {
+     "word": "고하",
+     "ko": "높고 낮음",
+     "note": "",
+     "hanja": "高下"
+    },
+    {
+     "word": "수자",
+     "ko": "목숨을 지닌 자",
+     "note": "목숨에 매인 나라는 생각",
+     "hanja": "壽者"
+    },
+    {
+     "word": "선법",
+     "ko": "선한 일",
+     "note": "",
+     "hanja": "善法"
+    },
+    {
+     "word": "아뇩다라삼먁삼보리",
+     "ko": "더없이 높고 바른 깨달음",
+     "note": "범어를 소리대로 옮긴 말",
+     "hanja": "阿耨多羅三藐三菩提"
+    }
+   ],
+   "source": "금강경 정심행선분 (구마라집 역)"
+  },
+  "bud.bohyeon.27": {
+   "title": {
+    "ko": "허공의 꽃",
+    "hanja": "허공의 꽃",
+    "plain": "허공의 꽃",
+    "en": "Flowers in the sky"
+   },
+   "lines": {
+    "ko": [
+     "일체중생 종종환화",
+     "개생여래원각묘심",
+     "유여공화 종공이유",
+     "환화수멸 공성불괴"
+    ],
+    "hanja": [
+     "一切衆生 種種幻化",
+     "皆生如來圓覺妙心",
+     "猶如空華 從空而有",
+     "幻華雖滅 空性不壞"
+    ],
+    "plain": [
+     "모든 중생의 갖가지 허깨비 같은 것들은",
+     "다 여래의 온전한 깨달음의 묘한 마음에서 생겨나니",
+     "마치 허공의 꽃이 허공에서 생기는 것과 같습니다.",
+     "허깨비 꽃은 사라져도 허공의 본성은 무너지지 않습니다."
+    ],
+    "en": [
+     "All the many illusions of living beings",
+     "arise from the wondrous mind of the Tathagata's perfect awakening,",
+     "like flowers in the sky that appear from the sky itself.",
+     "Though the illusory flowers fade, the nature of the sky is never harmed."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "환화",
+     "ko": "허깨비처럼 나타난 것",
+     "note": "",
+     "hanja": "幻化"
+    },
+    {
+     "word": "원각",
+     "ko": "온전한 깨달음",
+     "note": "",
+     "hanja": "圓覺"
+    },
+    {
+     "word": "묘심",
+     "ko": "묘한 마음",
+     "note": "",
+     "hanja": "妙心"
+    },
+    {
+     "word": "공화",
+     "ko": "허공의 꽃",
+     "note": "눈병 난 사람에게 보이는 헛꽃",
+     "hanja": "空華"
+    },
+    {
+     "word": "공성",
+     "ko": "허공의 본성",
+     "note": "",
+     "hanja": "空性"
+    }
+   ],
+   "source": "원각경 보현보살장 (불타다라 역)"
+  },
+  "bud.bohyeon.28": {
+   "title": {
+    "ko": "보현행 회향",
+    "hanja": "보현행 회향",
+    "plain": "보현행 회향",
+    "en": "Dedicating Samantabhadra's practice"
+   },
+   "lines": {
+    "ko": [
+     "아차보현수승행",
+     "무변승복개회향",
+     "보원침닉제중생",
+     "속왕무량광불찰"
+    ],
+    "hanja": [
+     "我此普賢殊勝行",
+     "無邊勝福皆迴向",
+     "普願沈溺諸衆生",
+     "速往無量光佛刹"
+    ],
+    "plain": [
+     "저의 이 보현보살의 뛰어난 행으로 지은",
+     "끝없이 훌륭한 복을 모두 돌려",
+     "괴로움에 빠진 모든 중생이",
+     "어서 한량없는 빛의 부처님 나라에 가기를 두루 바랍니다."
+    ],
+    "en": [
+     "This supreme practice of Samantabhadra",
+     "and all its boundless blessings I dedicate,",
+     "wishing that all beings sinking in suffering",
+     "may swiftly reach the land of the Buddha of Infinite Light."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "수승",
+     "ko": "특별히 뛰어남",
+     "note": "",
+     "hanja": "殊勝"
+    },
+    {
+     "word": "승복",
+     "ko": "훌륭한 복",
+     "note": "",
+     "hanja": "勝福"
+    },
+    {
+     "word": "침닉",
+     "ko": "깊이 빠짐",
+     "note": "",
+     "hanja": "沈溺"
+    },
+    {
+     "word": "무량광불",
+     "ko": "한량없는 빛의 부처님",
+     "note": "아미타불",
+     "hanja": "無量光佛"
+    },
+    {
+     "word": "불찰",
+     "ko": "부처님 나라",
+     "note": "",
+     "hanja": "佛刹"
+    }
+   ],
+   "source": "40권 화엄경 보현행원품 게송 (반야 역, T293)"
+  },
   "bud.heart.all": {
    "title": {
     "ko": "반야심경 전체",
