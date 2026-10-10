@@ -10,7 +10,11 @@
     "title": "The Book of Comfort, 28 Days",
     "subtitle": "Words of rest and Isaiah's comfort"
    },
-   "new": true
+   "new": true,
+   "es": {
+    "title": "El libro del consuelo, 28 días",
+    "subtitle": "Palabras de descanso y el consuelo de Isaías"
+   }
   },
   {
    "productID": "kr.book.jesusbook",
@@ -22,7 +26,11 @@
     "title": "The Words of Jesus, 29 Days",
     "subtitle": "From the Beatitudes to John"
    },
-   "new": true
+   "new": true,
+   "es": {
+    "title": "El libro de las palabras de Jesús, 29 días",
+    "subtitle": "De las Bienaventuranzas a Juan"
+   }
   },
   {
    "productID": "kr.book.joybook",
@@ -34,7 +42,11 @@
     "title": "The Book of Joy and Thanks, 28 Days",
     "subtitle": "Philippians, thanksgiving, Psalms"
    },
-   "new": true
+   "new": true,
+   "es": {
+    "title": "El libro de la alegría y la gratitud, 28 días",
+    "subtitle": "Filipenses, palabras de gratitud y Salmos"
+   }
   },
   {
    "productID": "kr.book.faithbook",
@@ -46,7 +58,11 @@
     "title": "Faith and Wisdom, 28 Days",
     "subtitle": "Romans 8, do not fear, Proverbs"
    },
-   "new": true
+   "new": true,
+   "es": {
+    "title": "El libro de la fe y la sabiduría, 28 días",
+    "subtitle": "Romanos 8, No temas y Proverbios"
+   }
   },
   {
    "productID": "kr.book.psalmsbook",
@@ -58,7 +74,11 @@
     "title": "Psalms of David, 28 Days",
     "subtitle": "From morning to evening with David"
    },
-   "new": true
+   "new": true,
+   "es": {
+    "title": "El libro de los salmos de David, 28 días",
+    "subtitle": "De la mañana a la noche con David"
+   }
   },
   {
    "productID": "kr.book.marybook",

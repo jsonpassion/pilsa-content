@@ -308,6 +308,139 @@
      "prompt": "What would you like to receive in place of sorrow?"
     }
    ]
+  },
+  "es": {
+   "title": "El libro del consuelo, 28 días",
+   "subtitle": "Palabras de descanso y el consuelo de Isaías",
+   "summary": "Durante cuatro semanas, una página al día, copias palabras que dan descanso en los días de cansancio y el consuelo del libro de Isaías.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Los 3 primeros días son gratis"
+   ],
+   "tags": [
+    "libro",
+    "consuelo",
+    "descanso",
+    "cansancio",
+    "antes de dormir",
+    "paz",
+    "Isaías"
+   ],
+   "days": [
+    {
+     "title": "Ven a mí",
+     "prompt": "¿Qué carga te gustaría dejar hoy?"
+    },
+    {
+     "title": "Un yugo fácil",
+     "prompt": "¿Hay algún yugo que estás cargando a la fuerza?"
+    },
+    {
+     "title": "Aunque tiemblen los montes",
+     "prompt": "¿A qué te aferras aun cuando todo se mueve?"
+    },
+    {
+     "title": "En quietud",
+     "prompt": "¿Te detuviste hoy cinco minutos en quietud?"
+    },
+    {
+     "title": "Fuerza para el cansado",
+     "prompt": "¿Dónde sientes más cansancio en estos días?"
+    },
+    {
+     "title": "Alas como de águila",
+     "prompt": "En los días de cansancio, ¿qué te ayudó a levantarte otra vez?"
+    },
+    {
+     "title": "Nuevas cada mañana",
+     "prompt": "¿Qué recibiste hoy como nuevo, distinto de ayer?"
+    },
+    {
+     "title": "Alzaré mis ojos a los montes",
+     "prompt": "Cuando necesitas ayuda, ¿hacia dónde miras?"
+    },
+    {
+     "title": "El que no se duerme",
+     "prompt": "¿Qué te gustaría encomendar esta noche, sin preocupación?"
+    },
+    {
+     "title": "Tu sombra",
+     "prompt": "¿Qué ha sido una sombra que te protege en estos días?"
+    },
+    {
+     "title": "Tu salida y tu entrada",
+     "prompt": "Escribe pensando en los caminos por los que hoy sales y entras."
+    },
+    {
+     "title": "Que no se turbe tu corazón",
+     "prompt": "¿Qué preocupación te gustaría soltar de tu corazón?"
+    },
+    {
+     "title": "Una paz distinta",
+     "prompt": "¿Has sentido alguna vez una paz distinta de la que da el mundo?"
+    },
+    {
+     "title": "Te bendiga y te guarde",
+     "prompt": "Escribe el nombre de alguien a quien te gustaría darle esta bendición."
+    },
+    {
+     "title": "Consuelo para mi pueblo",
+     "prompt": "¿Quién necesita más consuelo hoy?"
+    },
+    {
+     "title": "En sus brazos",
+     "prompt": "¿Recuerdas un momento en que te sentiste en paz, como en un abrazo?"
+    },
+    {
+     "title": "Te toma de la mano derecha",
+     "prompt": "¿Hay algo hoy en lo que te gustaría que alguien te tomara de la mano?"
+    },
+    {
+     "title": "La caña cascada",
+     "prompt": "¿Hubo un momento en que parecía que te ibas a quebrar, pero te sostuvieron?"
+    },
+    {
+     "title": "De gran estima a mis ojos",
+     "prompt": "¿Quién te ha tratado como alguien valioso?"
+    },
+    {
+     "title": "Yo hago cosa nueva",
+     "prompt": "¿Qué cosa del pasado te gustaría soltar ahora?"
+    },
+    {
+     "title": "Hasta las canas",
+     "prompt": "¿Qué te ha sostenido fielmente durante mucho tiempo?"
+    },
+    {
+     "title": "En las palmas de mis manos",
+     "prompt": "¿Cuándo sentiste que nadie te había olvidado?"
+    },
+    {
+     "title": "Llevó nuestros dolores",
+     "prompt": "¿Cómo te llega hoy saber que él cargó con nuestros dolores?"
+    },
+    {
+     "title": "Aunque los montes se muevan",
+     "prompt": "Entre todo lo que se sacude, ¿qué es lo que no te ha dejado?"
+    },
+    {
+     "title": "A todos los sedientos",
+     "prompt": "¿Qué cosas buenas has recibido sin pagar nada?"
+    },
+    {
+     "title": "Caminos más altos",
+     "prompt": "¿Hubo algo distinto de lo que querías que, al mirar atrás, resultó bueno?"
+    },
+    {
+     "title": "Como huerta de riego",
+     "prompt": "¿Qué te llenó aun en un lugar seco?"
+    },
+    {
+     "title": "Gloria en lugar de ceniza",
+     "prompt": "¿Qué te gustaría recibir en lugar de tristeza?"
+    }
+   ]
   }
  },
  {
@@ -629,6 +762,143 @@
      "prompt": "What is being pruned and shaped in you these days?"
     }
    ]
+  },
+  "es": {
+   "title": "El libro de las palabras de Jesús, 29 días",
+   "subtitle": "De las Bienaventuranzas a Juan",
+   "summary": "Sigues en orden las Bienaventuranzas, el Sermón del Monte y los “Yo soy” del Evangelio de Juan, y copias a mano las enseñanzas de Jesús.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Los 3 primeros días son gratis"
+   ],
+   "tags": [
+    "libro",
+    "Bienaventuranzas",
+    "Sermón del Monte",
+    "Mateo",
+    "palabras de Jesús",
+    "memorizar",
+    "enseñanzas"
+   ],
+   "days": [
+    {
+     "title": "Los pobres en espíritu",
+     "prompt": "¿Qué parte de ti sientes que no puedes llenar con tus propias fuerzas?"
+    },
+    {
+     "title": "Los que lloran",
+     "prompt": "Si algo te ha dolido en el corazón estos días, escríbelo en silencio."
+    },
+    {
+     "title": "Los mansos",
+     "prompt": "¿A quién te gustaría tratar con dulzura hoy?"
+    },
+    {
+     "title": "Hambre y sed de justicia",
+     "prompt": "¿En qué situación anhelas de verdad que se haga lo justo?"
+    },
+    {
+     "title": "Los misericordiosos",
+     "prompt": "¿Hay alguien con quien te gustaría tener misericordia hoy?"
+    },
+    {
+     "title": "Los de limpio corazón",
+     "prompt": "¿Qué te gustaría soltar para tener un corazón limpio?"
+    },
+    {
+     "title": "Los pacificadores",
+     "prompt": "¿Hay alguna relación en la que te gustaría llevar paz?"
+    },
+    {
+     "title": "Los que padecen persecución",
+     "prompt": "De las ocho bienaventuranzas, ¿cuál necesitas más hoy?"
+    },
+    {
+     "title": "La sal de la tierra",
+     "prompt": "Donde estás, ¿qué necesitas para no perder tu sabor?"
+    },
+    {
+     "title": "Sobre el candelero",
+     "prompt": "¿Hay alguna buena obra que te gustaría mostrar en lugar de esconder?"
+    },
+    {
+     "title": "Reconcíliate primero",
+     "prompt": "¿Hay alguien a quien te gustaría tenderle la mano primero?"
+    },
+    {
+     "title": "La otra mejilla",
+     "prompt": "¿Qué haces cuando sientes ganas de devolver el golpe?"
+    },
+    {
+     "title": "Amar a los enemigos",
+     "prompt": "¿Podrías orar por alguien que te cuesta querer?"
+    },
+    {
+     "title": "Hace salir su sol",
+     "prompt": "¿Qué se te ha dado a ti igual que a todos?"
+    },
+    {
+     "title": "En secreto",
+     "prompt": "¿Hay algo que te gustaría hacer sin que nadie lo sepa?"
+    },
+    {
+     "title": "Entra en tu cámara",
+     "prompt": "¿Dónde está tu lugar tranquilo?"
+    },
+    {
+     "title": "Así se ora",
+     "prompt": "De esta oración, ¿qué línea se queda hoy en tu corazón?"
+    },
+    {
+     "title": "Donde está tu tesoro",
+     "prompt": "¿Dónde se detiene tu corazón más a menudo?"
+    },
+    {
+     "title": "Dos señores",
+     "prompt": "¿Qué es lo que te arrastra en este momento?"
+    },
+    {
+     "title": "No juzgues",
+     "prompt": "¿Hay algo que juzgas con demasiada facilidad en estos días?"
+    },
+    {
+     "title": "Como quieres que te traten",
+     "prompt": "¿Cómo te gustaría que te trataran los demás?"
+    },
+    {
+     "title": "Sobre la roca",
+     "prompt": "¿Qué es la roca de tu vida?"
+    },
+    {
+     "title": "El pan de vida",
+     "prompt": "¿De qué ha tenido hambre tu corazón en estos días?"
+    },
+    {
+     "title": "Antes que Abraham fuese",
+     "prompt": "¿Qué te dice hoy saber que él siempre ha estado, sin cambiar?"
+    },
+    {
+     "title": "La luz del mundo",
+     "prompt": "¿Qué pequeña luz te iluminó hoy?"
+    },
+    {
+     "title": "La puerta",
+     "prompt": "¿Tienes un lugar donde puedas entrar y salir con tranquilidad y descansar?"
+    },
+    {
+     "title": "El buen pastor",
+     "prompt": "¿Has sentido alguna vez que alguien te conoce de verdad?"
+    },
+    {
+     "title": "La resurrección y la vida",
+     "prompt": "Si hoy te preguntaran “¿Crees esto?”, ¿qué te gustaría responder?"
+    },
+    {
+     "title": "La vid verdadera",
+     "prompt": "¿Qué se está podando y formando en ti en estos días?"
+    }
+   ]
   }
  },
  {
@@ -939,6 +1209,139 @@
     {
      "title": "Forget not his benefits",
      "prompt": "Write down three graces you do not want to forget."
+    }
+   ]
+  },
+  "es": {
+   "title": "El libro de la alegría y la gratitud, 28 días",
+   "subtitle": "Filipenses, palabras de gratitud y Salmos",
+   "summary": "Cuatro semanas que comienzan con Filipenses, la carta de la alegría, y continúan con palabras de gratitud y salmos muy queridos.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Los 3 primeros días son gratis"
+   ],
+   "tags": [
+    "libro",
+    "Filipenses",
+    "alegría",
+    "gratitud",
+    "contentamiento",
+    "paz",
+    "Pablo"
+   ],
+   "days": [
+    {
+     "title": "Cada vez que me acuerdo",
+     "prompt": "¿Por quién das gracias cada vez que lo recuerdas?"
+    },
+    {
+     "title": "El que comenzó la buena obra",
+     "prompt": "¿Qué cosa buena está creciendo despacio en ti?"
+    },
+    {
+     "title": "El vivir es Cristo",
+     "prompt": "Si escribieras en una frase la razón por la que vives hoy, ¿cuál sería?"
+    },
+    {
+     "title": "Los demás primero",
+     "prompt": "¿A quién te gustaría atender primero hoy?"
+    },
+    {
+     "title": "Alegrarse juntos",
+     "prompt": "¿Hay alguna noticia que quieras celebrar con alguien?"
+    },
+    {
+     "title": "Alegría en el Señor",
+     "prompt": "¿Cuándo sentiste hoy una alegría, aunque fuera pequeña?"
+    },
+    {
+     "title": "Hacia la meta",
+     "prompt": "¿Qué quieres dejar atrás y qué quieres tener delante?"
+    },
+    {
+     "title": "En esto piensa",
+     "prompt": "¿Qué cosa verdadera y amable quieres guardar hoy en el corazón?"
+    },
+    {
+     "title": "He aprendido a contentarme",
+     "prompt": "¿Qué sientes que ya es suficiente tal como está?"
+    },
+    {
+     "title": "Él suplirá lo que falta",
+     "prompt": "¿Qué te gustaría ver suplido en estos días?"
+    },
+    {
+     "title": "No olvides",
+     "prompt": "¿Hay alguna gracia que casi pasaste por alto hoy?"
+    },
+    {
+     "title": "Por sus puertas con gratitud",
+     "prompt": "¿Tienes tu propia manera de empezar el día dando gracias?"
+    },
+    {
+     "title": "Porque él es bueno",
+     "prompt": "¿Qué rostro te viene a la mente con gratitud en estos días?"
+    },
+    {
+     "title": "Para siempre es su misericordia",
+     "prompt": "¿Qué agradeces que nunca cambie?"
+    },
+    {
+     "title": "Sean agradecidos",
+     "prompt": "¿Dónde puedes poner gratitud hoy en tus palabras y en lo que haces?"
+    },
+    {
+     "title": "Cantando en el corazón",
+     "prompt": "¿Hay alguna canción que te gustaría cantar por dentro?"
+    },
+    {
+     "title": "Se gozó mi corazón",
+     "prompt": "¿De dónde sientes que vino la fuerza que te sostuvo?"
+    },
+    {
+     "title": "¿Qué pagaré?",
+     "prompt": "¿Cómo te gustaría responder a lo que has recibido?"
+    },
+    {
+     "title": "Ante él con alabanza",
+     "prompt": "¿Por qué te gustaría dar gracias hoy en voz alta?"
+    },
+    {
+     "title": "Bendeciré en todo tiempo",
+     "prompt": "Si dieras gracias por algo muy pequeño, ¿qué sería?"
+    },
+    {
+     "title": "Bienaventurado el varón",
+     "prompt": "¿Qué te ayuda a crecer como el árbol plantado junto a arroyos de aguas?"
+    },
+    {
+     "title": "Como el tamo",
+     "prompt": "Escribe sobre un momento en que algo te sacudió con facilidad y sobre aquello a lo que te aferraste."
+    },
+    {
+     "title": "La luna y las estrellas",
+     "prompt": "¿Hubo hoy un momento en que miraste al cielo?"
+    },
+    {
+     "title": "Los cielos cuentan",
+     "prompt": "¿Has visto un paisaje que, sin palabras, le habló a tu corazón?"
+    },
+    {
+     "title": "Mi luz y mi salvación",
+     "prompt": "En estos días, ¿qué luz te gustaría sostener en lugar del miedo?"
+    },
+    {
+     "title": "El ciervo que busca las aguas",
+     "prompt": "¿De qué tiene sed tu corazón en estos días?"
+    },
+    {
+     "title": "Contar nuestros días",
+     "prompt": "Para usar bien el día de hoy, ¿qué podrías dejar de lado?"
+    },
+    {
+     "title": "No olvides ninguno de sus beneficios",
+     "prompt": "Escribe tres gracias que no quieras olvidar."
     }
    ]
   }
@@ -1253,6 +1656,139 @@
      "prompt": "Which would you like to hold close this week: justice, mercy, or humility?"
     }
    ]
+  },
+  "es": {
+   "title": "El libro de la fe y la sabiduría, 28 días",
+   "subtitle": "Romanos 8, No temas y Proverbios",
+   "summary": "Reúne Romanos 8, que habla de un amor del que nada nos puede separar, palabras de valor y la sabiduría de Proverbios.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Los 3 primeros días son gratis"
+   ],
+   "tags": [
+    "libro",
+    "Romanos",
+    "consuelo",
+    "esperanza",
+    "amor de Dios",
+    "valor",
+    "Proverbios"
+   ],
+   "days": [
+    {
+     "title": "Ninguna condenación",
+     "prompt": "¿Podrías soltar hoy un poco de la culpa que te echas?"
+    },
+    {
+     "title": "Vida y paz",
+     "prompt": "¿Dónde se detienen tus pensamientos más a menudo en estos días?"
+    },
+    {
+     "title": "Abba, Padre",
+     "prompt": "¿Qué sientes cuando llamas Padre a Dios?"
+    },
+    {
+     "title": "Hijos de Dios",
+     "prompt": "¿Qué cambia cuando recuerdas de quién eres hijo o hija?"
+    },
+    {
+     "title": "La gloria venidera",
+     "prompt": "¿Cómo se ve tu dificultad de hoy si la miras desde un poco más lejos?"
+    },
+    {
+     "title": "La esperanza que no se ve",
+     "prompt": "¿Qué esperas que todavía no puedes ver?"
+    },
+    {
+     "title": "Gemidos indecibles",
+     "prompt": "¿Hay alguna oración que no pudiste poner en palabras?"
+    },
+    {
+     "title": "Si Dios es por nosotros",
+     "prompt": "¿Cuándo sentiste que alguien estaba de tu lado?"
+    },
+    {
+     "title": "¿Quién nos apartará?",
+     "prompt": "¿Hay algo en estos días que te haga sentir lejos del amor?"
+    },
+    {
+     "title": "Más que vencedores",
+     "prompt": "De estos diez días, ¿qué versículo se quedó más tiempo en tu corazón?"
+    },
+    {
+     "title": "Quédate quieto",
+     "prompt": "¿Hay alguna batalla que no te toca pelear a ti?"
+    },
+    {
+     "title": "Él va delante",
+     "prompt": "¿Qué te inquieta del camino que recorrerás mañana?"
+    },
+    {
+     "title": "No temerá mi corazón",
+     "prompt": "¿Qué te da calma aun en medio del miedo?"
+    },
+    {
+     "title": "No temerá las malas noticias",
+     "prompt": "¿Hay algo por lo que temes recibir una mala noticia?"
+    },
+    {
+     "title": "Sé fuerte",
+     "prompt": "¿Qué le dirías a un amigo que tiene miedo?"
+    },
+    {
+     "title": "No se debiliten tus manos",
+     "prompt": "¿Cómo suena para ti que él se alegra por ti?"
+    },
+    {
+     "title": "Ánimo, yo soy",
+     "prompt": "¿Qué te parece una ola alta en estos días?"
+    },
+    {
+     "title": "Cree solamente",
+     "prompt": "En lugar del miedo, ¿a qué te gustaría aferrarte?"
+    },
+    {
+     "title": "Manada pequeña",
+     "prompt": "En los días en que te falta fuerza y te sientes poca cosa, ¿qué necesitas escuchar?"
+    },
+    {
+     "title": "El Señor es mi ayudador",
+     "prompt": "¿Qué te gustaría hacer hoy con valentía?"
+    },
+    {
+     "title": "El principio del conocimiento",
+     "prompt": "¿Qué sabiduría te gustaría aprender en estos días?"
+    },
+    {
+     "title": "No te olvides de mi ley",
+     "prompt": "Escribe una enseñanza que no quieras olvidar."
+    },
+    {
+     "title": "En la tabla de tu corazón",
+     "prompt": "¿Qué frase te gustaría escribir en la tabla de tu corazón?"
+    },
+    {
+     "title": "En todos tus caminos",
+     "prompt": "¿Qué te gustaría reconocer y encomendar hoy?"
+    },
+    {
+     "title": "De él mana la vida",
+     "prompt": "¿Qué puedes hacer hoy para guardar tu corazón?"
+    },
+    {
+     "title": "Encomienda tus obras",
+     "prompt": "Escribe un plan que te gustaría encomendar esta semana."
+    },
+    {
+     "title": "Él endereza tus pasos",
+     "prompt": "¿Alguna vez te guiaron por un camino distinto del que planeaste?"
+    },
+    {
+     "title": "Andar humildemente",
+     "prompt": "Justicia, misericordia o humildad: ¿cuál te gustaría guardar esta semana?"
+    }
+   ]
   }
  },
  {
@@ -1558,6 +2094,139 @@
     {
      "title": "The night shines like the day",
      "prompt": "Have you felt God with you even in the dark?"
+    }
+   ]
+  },
+  "es": {
+   "title": "El libro de los salmos de David, 28 días",
+   "subtitle": "De la mañana a la noche con David",
+   "summary": "Cuatro semanas con los salmos de David: de la confianza de la mañana, pasando por el lamento, el consuelo y la alabanza, hasta el descanso de la noche. Una página al día, siguiendo el aliento de los Salmos.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Un libro nuevo, primero en Plus"
+   ],
+   "tags": [
+    "Salmos",
+    "David",
+    "oración de la mañana",
+    "consuelo",
+    "alabanza",
+    "oración de la noche",
+    "descanso"
+   ],
+   "days": [
+    {
+     "title": "Oración de la mañana",
+     "prompt": "¿Qué es lo primero que te gustaría decirle al Señor esta mañana?"
+    },
+    {
+     "title": "Canto en la mañana",
+     "prompt": "¿Qué ha sido un refugio para ti en estos días?"
+    },
+    {
+     "title": "Despertaré al alba",
+     "prompt": "¿Qué te gustaría sostener hoy en tu corazón sin vacilar?"
+    },
+    {
+     "title": "Siempre delante de mí",
+     "prompt": "Si hoy tuvieras al Señor delante de ti todo el día, ¿qué cambiaría?"
+    },
+    {
+     "title": "Enséñame tus sendas",
+     "prompt": "¿Hay algo sobre lo que te gustaría pedir dirección en estos días?"
+    },
+    {
+     "title": "En tu mano están mis tiempos",
+     "prompt": "¿Qué tiempo de tu vida te gustaría poner en las manos del Señor?"
+    },
+    {
+     "title": "Espera en silencio",
+     "prompt": "¿Hay algo que hoy puedas esperar en silencio?"
+    },
+    {
+     "title": "¿Hasta cuándo?",
+     "prompt": "¿Hay algo que llevas mucho tiempo esperando?"
+    },
+    {
+     "title": "Mi suspiro delante de ti",
+     "prompt": "Si le contaras al Señor lo que no pudiste decir con palabras, ¿qué sería?"
+    },
+    {
+     "title": "Mis lágrimas en tu redoma",
+     "prompt": "¿Hay lágrimas que te gustaría que el Señor recordara?"
+    },
+    {
+     "title": "Cercano a los quebrantados",
+     "prompt": "¿Te ha dolido el corazón en estos días?"
+    },
+    {
+     "title": "La roca más alta que yo",
+     "prompt": "Cuando tu corazón pesa, ¿dónde te gustaría apoyarte?"
+    },
+    {
+     "title": "Pacientemente esperé",
+     "prompt": "¿Recuerdas un tiempo en que el Señor te rescató después de una larga espera?"
+    },
+    {
+     "title": "El lamento en baile",
+     "prompt": "¿Hubo un tiempo en que tu tristeza se convirtió en alegría?"
+    },
+    {
+     "title": "Tu nombre en toda la tierra",
+     "prompt": "De lo que viste hoy, ¿qué te pareció hermoso?"
+    },
+    {
+     "title": "Un canto nuevo en mi boca",
+     "prompt": "¿Qué cosa nueva agradeces hoy?"
+    },
+    {
+     "title": "Mejor que la vida",
+     "prompt": "¿Hubo un momento en que el amor del Señor te pareció más valioso que todo?"
+    },
+    {
+     "title": "En tu luz",
+     "prompt": "¿Qué luz ha iluminado tu vida en estos días?"
+    },
+    {
+     "title": "Con todo mi corazón",
+     "prompt": "¿Hay algo que quieras agradecer con todo tu corazón?"
+    },
+    {
+     "title": "Clemente y misericordioso",
+     "prompt": "¿Has recibido alguna bondad hace poco?"
+    },
+    {
+     "title": "Bendice, alma mía, al Señor",
+     "prompt": "Al mirar esta semana, ¿por qué te gustaría alabar al Señor?"
+    },
+    {
+     "title": "Como la ofrenda de la tarde",
+     "prompt": "¿Qué oración te gustaría ofrecerle al Señor esta noche?"
+    },
+    {
+     "title": "Aun en las noches me enseña",
+     "prompt": "¿Qué te enseñó el día de hoy?"
+    },
+    {
+     "title": "Me acuerdo de ti en mi lecho",
+     "prompt": "Antes de dormir, ¿qué te gustaría recordar?"
+    },
+    {
+     "title": "Como la niña del ojo",
+     "prompt": "¿A quién te gustaría que el Señor guardara esta noche?"
+    },
+    {
+     "title": "Como un niño destetado",
+     "prompt": "¿Tienes tu propia manera de calmar el corazón?"
+    },
+    {
+     "title": "Me acosté y dormí",
+     "prompt": "¿Sientes la mano que te sostuvo durante el día de hoy?"
+    },
+    {
+     "title": "La noche resplandece como el día",
+     "prompt": "¿Has sentido que el Señor estaba contigo aun en la oscuridad?"
     }
    ]
   }

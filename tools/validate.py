@@ -37,9 +37,9 @@ def main():
     names = Counter(p.name for p in CONTENT.rglob("*") if p.is_file())
     problems += [f"같은 파일 이름이 여러 곳에 있음: {name}" for name, count in names.items() if count > 1]
 
-    verses = {tid: data.get(f"bible/{tid}.json", {}).get("verses", {}) for tid in ("krv", "bsb", "kjv", "dra")}
+    verses = {tid: data.get(f"bible/{tid}.json", {}).get("verses", {}) for tid in ("krv", "rv1909", "bsb", "kjv", "dra")}
     collections = {"affirm": data.get("collections/affirmations.json", {}).get("items", {}), "buddhist": data.get("collections/buddhist.json", {}).get("items", {}), "life": data.get("collections/life.json", {}).get("items", {})}
-    bible_translations = {"bible": ["krv", "bsb", "kjv"], "catholic": ["dra"]}
+    bible_translations = {"bible": ["krv", "rv1909", "bsb", "kjv"], "catholic": ["dra"]}
     # 한 권과 Plus 새 책은 packs_books.json 에만 둔다. 1.5.0까지의 앱은 packs.json 만 읽고, 상품이 없는 팩을 무료로 연다
     for pack in data.get("kr/packs.json", []):
         if pack.get("book") or pack.get("plusWindow"):

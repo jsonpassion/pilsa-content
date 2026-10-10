@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
- "version": "5e1adc3d5dd2",
- "generated_at": "2026-10-11T06:20:33Z",
+ "version": "714a4cf4fcaf",
+ "generated_at": "2026-10-11T07:05:10Z",
  "entries": [
   {
    "id": "books.json",
    "path": "content/bible/books.json",
-   "checksum_sha256": "338f79aa3e453e5536a736924492db302b5331b49e49e6bb457a52429901e6ab",
-   "size": 3139
+   "checksum_sha256": "319343f9ac3d20a2723de2357285220cfa0ee6b6ba32cf659e8b7234521e6550",
+   "size": 4174
   },
   {
    "id": "books_catholic.json",
@@ -52,6 +52,12 @@
    "size": 4972436
   },
   {
+   "id": "rv1909.json",
+   "path": "content/bible/rv1909.json",
+   "checksum_sha256": "462567aaae7c269a82a0df29417dd11e1f16427e0a83ca4385936822894d070e",
+   "size": 4479721
+  },
+  {
    "id": "affirmations.json",
    "path": "content/collections/affirmations.json",
    "checksum_sha256": "f02b662b874f8cae1a7550bc21873e90376eb80aca2ed121cfc1a26c996eca37",
@@ -72,26 +78,26 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "c961874744f39626ecb5e3a5f183a220630f36b379fea084509a4c908eaaad66",
-   "size": 295928
+   "checksum_sha256": "8e775520b9f7a4ac55c6cde76492046449d8587705f8d6c251f8c87dccbe5680",
+   "size": 329981
   },
   {
    "id": "packs_books.json",
    "path": "content/kr/packs_books.json",
-   "checksum_sha256": "764d1333baaf222a38a24377afcf4f774c4c9f134bd03d0c9377074e649fd403",
-   "size": 180079
+   "checksum_sha256": "66b8b566cf20b63c50ef08686ace4ded8f282a68df75e258a6231de9458edd1d",
+   "size": 200735
   },
   {
    "id": "store.json",
    "path": "content/kr/store.json",
-   "checksum_sha256": "96df844264bc4bca08ee99d83fddb3f1d8f5e6151f3a9cf10c55785d5e348e1c",
-   "size": 14353
+   "checksum_sha256": "cdfe318291e8f28778589f225fe4239fa0b26de32e3bc2b299961b397723e92c",
+   "size": 15872
   },
   {
    "id": "store_books.json",
    "path": "content/kr/store_books.json",
-   "checksum_sha256": "29e92821ec1e3bfc1b382f9e3c0f1a34fa3a2a7ffe9615244d4fb44047c19ff0",
-   "size": 6226
+   "checksum_sha256": "eb3e8cb372c752bcdd6e6e9a26a276f729ec45d514fd56e21d9e2b87c4fb8630",
+   "size": 6879
   },
   {
    "id": "music.json",
