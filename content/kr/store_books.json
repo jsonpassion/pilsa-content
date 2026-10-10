@@ -166,7 +166,19 @@
     "title": "Samantabhadra's Vows, 28 Days",
     "subtitle": "The ten great vows of Samantabhadra"
    },
-   "new": true
+   "new": true,
+   "ja": {
+    "title": "普賢行願 28日",
+    "subtitle": "普賢菩薩の十の大願"
+   },
+   "zh-Hant": {
+    "title": "普賢行願 28 天",
+    "subtitle": "普賢菩薩的十大願"
+   },
+   "zh-Hans": {
+    "title": "普贤行愿 28 天",
+    "subtitle": "普贤菩萨的十大愿"
+   }
   },
   {
    "productID": "kr.book.sutrabook",
@@ -178,7 +190,19 @@
     "title": "Sutra Copying, 27 Days",
     "subtitle": "Heart Sutra, Beopseongge, Faith in Mind"
    },
-   "new": true
+   "new": true,
+   "ja": {
+    "title": "経典の写経 27日",
+    "subtitle": "般若心経、法性偈、信心銘"
+   },
+   "zh-Hant": {
+    "title": "經典抄經 27 天",
+    "subtitle": "般若心經、法性偈、信心銘"
+   },
+   "zh-Hans": {
+    "title": "经典抄经 27 天",
+    "subtitle": "般若心经、法性偈、信心铭"
+   }
   },
   {
    "productID": "kr.book.mindsutrabook",
@@ -190,7 +214,19 @@
     "title": "Practice of the Mind, 27 Days",
     "subtitle": "Precious King Samadhi, Arouse Your Mind, liturgy verses"
    },
-   "new": true
+   "new": true,
+   "ja": {
+    "title": "心の修行 写経 27日",
+    "subtitle": "宝王三昧論、発心修行章、礼仏の偈"
+   },
+   "zh-Hant": {
+    "title": "修心抄經 27 天",
+    "subtitle": "寶王三昧論、發心修行章、禮佛偈頌"
+   },
+   "zh-Hans": {
+    "title": "修心抄经 27 天",
+    "subtitle": "宝王三昧论、发心修行章、礼佛偈颂"
+   }
   }
  ]
 }

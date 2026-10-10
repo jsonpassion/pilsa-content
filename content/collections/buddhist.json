@@ -37,6 +37,73 @@
     "ko"
    ],
    "attribution": "Explanations written in plain English by Pilsa. Not an official translation."
+  },
+  {
+   "id": "ja",
+   "name": "写経（漢字）",
+   "shortName": "写経",
+   "language": "ja",
+   "speechLanguage": "ja-JP",
+   "readAs": "ja-yomi",
+   "hidden": true,
+   "picker": true,
+   "attribution": "著作権の切れた漢文の経典を、日本の写経本の字体でそのまま載せています。"
+  },
+  {
+   "id": "ja-yomi",
+   "name": "よみ",
+   "shortName": "よみ",
+   "language": "ja",
+   "speechLanguage": "ja-JP",
+   "hidden": true,
+   "attribution": "お経の読み（音読み）です。読み上げに使います。"
+  },
+  {
+   "id": "ja-plain",
+   "name": "現代語訳",
+   "shortName": "訳",
+   "language": "ja",
+   "speechLanguage": "ja-JP",
+   "hidden": true,
+   "attribution": "Pilsaが書いたやさしい現代語訳です。公式の翻訳ではありません。"
+  },
+  {
+   "id": "zh-Hant",
+   "name": "抄經（繁體）",
+   "shortName": "抄經",
+   "language": "zh-Hant",
+   "speechLanguage": "zh-TW",
+   "hidden": true,
+   "picker": true,
+   "attribution": "以版權已過的漢文經典原文收錄，不改動經文。"
+  },
+  {
+   "id": "zh-Hant-plain",
+   "name": "白話",
+   "shortName": "白話",
+   "language": "zh-Hant",
+   "speechLanguage": "zh-TW",
+   "hidden": true,
+   "attribution": "Pilsa 撰寫的淺白解說，並非正式譯本。"
+  },
+  {
+   "id": "zh-Hans",
+   "name": "抄经（简体）",
+   "shortName": "抄经",
+   "language": "zh-Hans",
+   "speechLanguage": "zh-CN",
+   "hidden": true,
+   "picker": true,
+   "attribution": "以版权已过的汉文经典原文收录，不改动经文。"
+  },
+  {
+   "id": "zh-Hans-plain",
+   "name": "白话",
+   "shortName": "白话",
+   "language": "zh-Hans",
+   "speechLanguage": "zh-CN",
+   "hidden": true,
+   "attribution": "Pilsa 撰写的浅白解说，并非正式译本。"
   }
  ],
  "items": {
@@ -45,7 +112,10 @@
     "ko": "삼귀의",
     "hanja": "삼귀의",
     "plain": "삼귀의",
-    "en": "Three Refuges"
+    "en": "Three Refuges",
+    "ja": "三帰依",
+    "zh-Hant": "三皈依",
+    "zh-Hans": "三皈依"
    },
    "lines": {
     "ko": [
@@ -67,6 +137,41 @@
      "I take refuge in the Buddha, complete in wisdom and merit.",
      "I take refuge in the teaching that helps us leave desire behind.",
      "I take refuge in the Sangha, most honored among those who practice together."
+    ],
+    "ja": [
+     "帰依仏 両足尊",
+     "帰依法 離欲尊",
+     "帰依僧 衆中尊"
+    ],
+    "ja-plain": [
+     "智慧と福をそなえた仏に帰依します。",
+     "欲を離れさせる教えに帰依します。",
+     "ともに修行する人々のうち、最も尊い僧に帰依します。"
+    ],
+    "ja-yomi": [
+     "きえぶつ りょうそくそん",
+     "きえほう りよくそん",
+     "きえそう しゅちゅうそん"
+    ],
+    "zh-Hant": [
+     "皈依佛 兩足尊",
+     "皈依法 離欲尊",
+     "皈依僧 眾中尊"
+    ],
+    "zh-Hant-plain": [
+     "歸向並依靠智慧和福德都圓滿的佛。",
+     "歸向並依靠使人遠離貪慾的法。",
+     "歸向並依靠共同修行者中最尊貴的僧伽。"
+    ],
+    "zh-Hans": [
+     "皈依佛 两足尊",
+     "皈依法 离欲尊",
+     "皈依僧 众中尊"
+    ],
+    "zh-Hans-plain": [
+     "归向并依靠智慧和福德都圆满的佛。",
+     "归向并依靠使人远离贪欲的法。",
+     "归向并依靠共同修行者中最尊贵的僧伽。"
     ]
    },
    "glossary": [
@@ -102,7 +207,10 @@
     "ko": "사홍서원",
     "hanja": "사홍서원",
     "plain": "사홍서원",
-    "en": "Four Great Vows"
+    "en": "Four Great Vows",
+    "ja": "四弘誓願",
+    "zh-Hant": "四弘誓願",
+    "zh-Hans": "四弘誓愿"
    },
    "lines": {
     "ko": [
@@ -128,6 +236,48 @@
      "Though afflictions are endless, I vow to cut them all off.",
      "Though the teachings are immeasurable, I vow to learn them all.",
      "Though the path to awakening is unsurpassed, I vow to fulfill it."
+    ],
+    "ja": [
+     "衆生無辺誓願度",
+     "煩悩無尽誓願断",
+     "法門無量誓願学",
+     "仏道無上誓願成"
+    ],
+    "ja-plain": [
+     "生きとし生けるものが限りなくても、みな救うことを願います。",
+     "煩悩が尽きなくても、みな断つことを願います。",
+     "教えが量りしれなくても、みな学ぶことを願います。",
+     "悟りの道がこの上なく高くても、必ず成しとげることを願います。"
+    ],
+    "ja-yomi": [
+     "しゅじょうむへんせいがんど",
+     "ぼんのうむじんせいがんだん",
+     "ほうもんむりょうせいがんがく",
+     "ぶつどうむじょうせいがんじょう"
+    ],
+    "zh-Hant": [
+     "眾生無邊誓願度",
+     "煩惱無盡誓願斷",
+     "法門無量誓願學",
+     "佛道無上誓願成"
+    ],
+    "zh-Hant-plain": [
+     "眾生雖然無邊無際，願把他們全部救度。",
+     "煩惱雖然無窮無盡，願把它們全部斷除。",
+     "法門雖然無量無數，願把它們全部學會。",
+     "覺悟之道雖然至高無上，願一定成就。"
+    ],
+    "zh-Hans": [
+     "众生无边誓愿度",
+     "烦恼无尽誓愿断",
+     "法门无量誓愿学",
+     "佛道无上誓愿成"
+    ],
+    "zh-Hans-plain": [
+     "众生虽然无边无际，愿把他们全部救度。",
+     "烦恼虽然无穷无尽，愿把它们全部断除。",
+     "法门虽然无量无数，愿把它们全部学会。",
+     "觉悟之道虽然至高无上，愿一定成就。"
     ]
    },
    "glossary": [
@@ -169,7 +319,10 @@
     "ko": "칠불통게",
     "hanja": "칠불통게",
     "plain": "칠불통게",
-    "en": "Seven Buddhas' Verse"
+    "en": "Seven Buddhas' Verse",
+    "ja": "七仏通戒偈",
+    "zh-Hant": "七佛通偈",
+    "zh-Hans": "七佛通偈"
    },
    "lines": {
     "ko": [
@@ -195,6 +348,48 @@
      "uphold and practice all good,",
      "and purify your own mind.",
      "This is the teaching of all Buddhas."
+    ],
+    "ja": [
+     "諸悪莫作",
+     "衆善奉行",
+     "自浄其意",
+     "是諸仏教"
+    ],
+    "ja-plain": [
+     "悪いことはせず",
+     "よいことを大切に行い",
+     "自らその心を清らかにすること",
+     "これがすべての仏の教えです。"
+    ],
+    "ja-yomi": [
+     "しょあくまくさ",
+     "しゅぜんぶぎょう",
+     "じじょうごい",
+     "ぜしょぶっきょう"
+    ],
+    "zh-Hant": [
+     "諸惡莫作",
+     "眾善奉行",
+     "自淨其意",
+     "是諸佛教"
+    ],
+    "zh-Hant-plain": [
+     "不做壞事，",
+     "奉行好事，",
+     "自己淨化自己的心，",
+     "這就是一切佛的教導。"
+    ],
+    "zh-Hans": [
+     "诸恶莫作",
+     "众善奉行",
+     "自净其意",
+     "是诸佛教"
+    ],
+    "zh-Hans-plain": [
+     "不做坏事，",
+     "奉行好事，",
+     "自己净化自己的心，",
+     "这就是一切佛的教导。"
     ]
    },
    "glossary": [
@@ -230,7 +425,10 @@
     "ko": "삼법인",
     "hanja": "삼법인",
     "plain": "삼법인",
-    "en": "Three Dharma Seals"
+    "en": "Three Dharma Seals",
+    "ja": "三法印",
+    "zh-Hant": "三法印",
+    "zh-Hans": "三法印"
    },
    "lines": {
     "ko": [
@@ -252,6 +450,41 @@
      "All conditioned things are always changing.",
      "In no dharma is there a separate, unchanging self.",
      "Nirvana, where the fire of affliction has gone out, is still and calm."
+    ],
+    "ja": [
+     "諸行無常",
+     "諸法無我",
+     "涅槃寂静"
+    ],
+    "ja-plain": [
+     "つくられたものはみな、いつも移り変わります。",
+     "どんなものにも、切り離された変わらない私はありません。",
+     "煩悩の火が消えた涅槃は静かです。"
+    ],
+    "ja-yomi": [
+     "しょぎょうむじょう",
+     "しょほうむが",
+     "ねはんじゃくじょう"
+    ],
+    "zh-Hant": [
+     "諸行無常",
+     "諸法無我",
+     "涅槃寂靜"
+    ],
+    "zh-Hant-plain": [
+     "一切造作而成的事物都在不斷變化。",
+     "任何事物中都沒有獨立不變的我。",
+     "煩惱之火熄滅的涅槃是寂靜的。"
+    ],
+    "zh-Hans": [
+     "诸行无常",
+     "诸法无我",
+     "涅槃寂静"
+    ],
+    "zh-Hans-plain": [
+     "一切造作而成的事物都在不断变化。",
+     "任何事物中都没有独立不变的我。",
+     "烦恼之火熄灭的涅槃是寂静的。"
     ]
    },
    "glossary": [
@@ -293,7 +526,10 @@
     "ko": "연기의 가르침",
     "hanja": "연기의 가르침",
     "plain": "연기의 가르침",
-    "en": "Dependent Origination"
+    "en": "Dependent Origination",
+    "ja": "縁起の教え",
+    "zh-Hant": "緣起的教導",
+    "zh-Hans": "缘起的教导"
    },
    "lines": {
     "ko": [
@@ -319,6 +555,48 @@
      "Because this arises, that arises.",
      "Because this does not exist, that does not exist.",
      "Because this ceases, that ceases."
+    ],
+    "ja": [
+     "此有故彼有",
+     "此起故彼起",
+     "此無故彼無",
+     "此滅故彼滅"
+    ],
+    "ja-plain": [
+     "これがあるから、あれがあり",
+     "これが起こるから、あれが起こり",
+     "これがないから、あれがなく",
+     "これが滅びるから、あれが滅びます。"
+    ],
+    "ja-yomi": [
+     "しうこひう",
+     "しきこひき",
+     "しむこひむ",
+     "しめつこひめつ"
+    ],
+    "zh-Hant": [
+     "此有故彼有",
+     "此起故彼起",
+     "此無故彼無",
+     "此滅故彼滅"
+    ],
+    "zh-Hant-plain": [
+     "因為這個有，所以那個有，",
+     "因為這個生起，所以那個生起，",
+     "因為這個沒有，所以那個沒有，",
+     "因為這個滅去，所以那個滅去。"
+    ],
+    "zh-Hans": [
+     "此有故彼有",
+     "此起故彼起",
+     "此无故彼无",
+     "此灭故彼灭"
+    ],
+    "zh-Hans-plain": [
+     "因为这个有，所以那个有，",
+     "因为这个生起，所以那个生起，",
+     "因为这个没有，所以那个没有，",
+     "因为这个灭去，所以那个灭去。"
     ]
    },
    "glossary": [
@@ -360,7 +638,10 @@
     "ko": "반야심경 1",
     "hanja": "반야심경 1",
     "plain": "반야심경 1",
-    "en": "Heart Sutra 1"
+    "en": "Heart Sutra 1",
+    "ja": "般若心経 1",
+    "zh-Hant": "般若心經 1",
+    "zh-Hans": "般若心经 1"
    },
    "lines": {
     "ko": [
@@ -382,6 +663,41 @@
      "The great sutra holding the heart of reaching the other shore through wisdom.",
      "When Avalokiteshvara bodhisattva was practicing deep wisdom,",
      "he saw that the five aggregates making up body and mind are all empty, and was freed from all suffering."
+    ],
+    "ja": [
+     "摩訶般若波羅蜜多心経",
+     "観自在菩薩 行深般若波羅蜜多時",
+     "照見五蘊皆空 度一切苦厄"
+    ],
+    "ja-plain": [
+     "智慧で向こう岸へ渡る、その要を説く大いなるお経",
+     "観自在菩薩が、深い智慧の行をしていたとき",
+     "体と心をつくる五つのものがみな空であると照らし見て、すべての苦しみから離れました。"
+    ],
+    "ja-yomi": [
+     "まかはんにゃはらみったしんぎょう",
+     "かんじざいぼさつ ぎょうじんはんにゃはらみったじ",
+     "しょうけんごうんかいくう どいっさいくやく"
+    ],
+    "zh-Hant": [
+     "般若波羅蜜多心經",
+     "觀自在菩薩 行深般若波羅蜜多時",
+     "照見五蘊皆空 度一切苦厄"
+    ],
+    "zh-Hant-plain": [
+     "這部大經講的是以智慧到達彼岸的核心。",
+     "觀自在菩薩修行深深的智慧時，",
+     "照見構成身心的五種要素都是空的，從而脫離了一切苦難。"
+    ],
+    "zh-Hans": [
+     "般若波罗蜜多心经",
+     "观自在菩萨 行深般若波罗蜜多时",
+     "照见五蕴皆空 度一切苦厄"
+    ],
+    "zh-Hans-plain": [
+     "这部大经讲的是以智慧到达彼岸的核心。",
+     "观自在菩萨修行深深的智慧时，",
+     "照见构成身心的五种要素都是空的，从而脱离了一切苦难。"
     ]
    },
    "glossary": [
@@ -429,7 +745,10 @@
     "ko": "반야심경 2",
     "hanja": "반야심경 2",
     "plain": "반야심경 2",
-    "en": "Heart Sutra 2"
+    "en": "Heart Sutra 2",
+    "ja": "般若心経 2",
+    "zh-Hant": "般若心經 2",
+    "zh-Hans": "般若心经 2"
    },
    "lines": {
     "ko": [
@@ -451,6 +770,41 @@
      "Shariputra, form is not different from emptiness, and emptiness is not different from form.",
      "Form is emptiness, and emptiness is form.",
      "Feeling, perception, volition, and consciousness are also like this."
+    ],
+    "ja": [
+     "舎利子 色不異空 空不異色",
+     "色即是空 空即是色",
+     "受想行識 亦復如是"
+    ],
+    "ja-plain": [
+     "舎利子よ、形あるものは空と異ならず、空は形あるものと異なりません。",
+     "形あるものがそのまま空であり、空がそのまま形あるものです。",
+     "感じること、思うこと、意志、知ることも、同じです。"
+    ],
+    "ja-yomi": [
+     "しゃりし しきふいくう くうふいしき",
+     "しきそくぜくう くうそくぜしき",
+     "じゅそうぎょうしき やくぶにょぜ"
+    ],
+    "zh-Hant": [
+     "舍利子 色不異空 空不異色",
+     "色即是空 空即是色",
+     "受想行識 亦復如是"
+    ],
+    "zh-Hant-plain": [
+     "舍利子，物質與空沒有不同，空與物質也沒有不同，",
+     "物質就是空，空就是物質。",
+     "感受、想法、意志和認知也是這樣。"
+    ],
+    "zh-Hans": [
+     "舍利子 色不异空 空不异色",
+     "色即是空 空即是色",
+     "受想行识 亦复如是"
+    ],
+    "zh-Hans-plain": [
+     "舍利子，物质与空没有不同，空与物质也没有不同，",
+     "物质就是空，空就是物质。",
+     "感受、想法、意志和认知也是这样。"
     ]
    },
    "glossary": [
@@ -492,7 +846,10 @@
     "ko": "반야심경 3",
     "hanja": "반야심경 3",
     "plain": "반야심경 3",
-    "en": "Heart Sutra 3"
+    "en": "Heart Sutra 3",
+    "ja": "般若心経 3",
+    "zh-Hant": "般若心經 3",
+    "zh-Hans": "般若心经 3"
    },
    "lines": {
     "ko": [
@@ -510,6 +867,34 @@
     "en": [
      "Shariputra, all dharmas have the mark of emptiness.",
      "They are not born and do not cease, are not defiled and not pure, do not increase and do not decrease."
+    ],
+    "ja": [
+     "舎利子 是諸法空相",
+     "不生不滅 不垢不浄 不増不減"
+    ],
+    "ja-plain": [
+     "舎利子よ、すべてのものは空のすがたであって",
+     "生まれも滅びもせず、汚れも清らかでもなく、増えも減りもしません。"
+    ],
+    "ja-yomi": [
+     "しゃりし ぜしょほうくうそう",
+     "ふしょうふめつ ふくふじょう ふぞうふげん"
+    ],
+    "zh-Hant": [
+     "舍利子 是諸法空相",
+     "不生不滅 不垢不淨 不增不減"
+    ],
+    "zh-Hant-plain": [
+     "舍利子，一切法都是空的樣子，",
+     "不生也不滅，不髒也不淨，不增也不減。"
+    ],
+    "zh-Hans": [
+     "舍利子 是诸法空相",
+     "不生不灭 不垢不净 不增不减"
+    ],
+    "zh-Hans-plain": [
+     "舍利子，一切法都是空的样子，",
+     "不生也不灭，不脏也不净，不增也不减。"
     ]
    },
    "glossary": [
@@ -551,7 +936,10 @@
     "ko": "반야심경 4",
     "hanja": "반야심경 4",
     "plain": "반야심경 4",
-    "en": "Heart Sutra 4"
+    "en": "Heart Sutra 4",
+    "ja": "般若心経 4",
+    "zh-Hant": "般若心經 4",
+    "zh-Hans": "般若心经 4"
    },
    "lines": {
     "ko": [
@@ -573,6 +961,41 @@
      "Therefore, in emptiness there is no form, no feeling, perception, volition, or consciousness,",
      "no eyes, ears, nose, tongue, body, or mind, and no form, sound, smell, taste, touch, or dharma,",
      "and no realm of the eye, up to no realm of consciousness."
+    ],
+    "ja": [
+     "是故 空中無色 無受想行識",
+     "無眼耳鼻舌身意 無色声香味触法",
+     "無眼界 乃至 無意識界"
+    ],
+    "ja-plain": [
+     "ですから空の中には、形あるものも、感じること、思うこと、意志、知ることもなく",
+     "目、耳、鼻、舌、体、心もなく、色、音、香り、味、触れるもの、心の対象もなく",
+     "目の世界から、意識の世界までもありません。"
+    ],
+    "ja-yomi": [
+     "ぜこ くうちゅうむしき むじゅそうぎょうしき",
+     "むげんにびぜっしんい むしきしょうこうみそくほう",
+     "むげんかい ないし むいしきかい"
+    ],
+    "zh-Hant": [
+     "是故 空中無色 無受想行識",
+     "無眼耳鼻舌身意 無色聲香味觸法",
+     "無眼界 乃至 無意識界"
+    ],
+    "zh-Hant-plain": [
+     "所以在空之中，沒有物質，也沒有感受、想法、意志和認知，",
+     "沒有眼、耳、鼻、舌、身、意，也沒有顏色、聲音、氣味、味道、觸感和法，",
+     "從眼的境界直到意識的境界，也都沒有。"
+    ],
+    "zh-Hans": [
+     "是故 空中无色 无受想行识",
+     "无眼耳鼻舌身意 无色声香味触法",
+     "无眼界 乃至 无意识界"
+    ],
+    "zh-Hans-plain": [
+     "所以在空之中，没有物质，也没有感受、想法、意志和认知，",
+     "没有眼、耳、鼻、舌、身、意，也没有颜色、声音、气味、味道、触感和法，",
+     "从眼的境界直到意识的境界，也都没有。"
     ]
    },
    "glossary": [
@@ -614,7 +1037,10 @@
     "ko": "반야심경 5",
     "hanja": "반야심경 5",
     "plain": "반야심경 5",
-    "en": "Heart Sutra 5"
+    "en": "Heart Sutra 5",
+    "ja": "般若心経 5",
+    "zh-Hant": "般若心經 5",
+    "zh-Hans": "般若心经 5"
    },
    "lines": {
     "ko": [
@@ -636,6 +1062,41 @@
      "There is no ignorance, and no ending of ignorance,",
      "no aging and death, and no ending of aging and death,",
      "no suffering, its cause, its cessation, or its path, and no wisdom and no attainment."
+    ],
+    "ja": [
+     "無無明 亦無無明尽",
+     "乃至 無老死 亦無老死尽",
+     "無苦集滅道 無智亦無得"
+    ],
+    "ja-plain": [
+     "迷いもなく、迷いが尽きることもなく",
+     "老いと死もなく、老いと死が尽きることもなく",
+     "苦しみとその原因、その滅とその道もなく、智慧もなく、得ることもありません。"
+    ],
+    "ja-yomi": [
+     "むむみょう やくむむみょうじん",
+     "ないし むろうし やくむろうしじん",
+     "むくしゅうめつどう むちやくむとく"
+    ],
+    "zh-Hant": [
+     "無無明 亦無無明盡",
+     "乃至 無老死 亦無老死盡",
+     "無苦集滅道 無智亦無得"
+    ],
+    "zh-Hant-plain": [
+     "沒有無明，也沒有無明的盡頭，",
+     "乃至沒有老死，也沒有老死的盡頭，",
+     "沒有苦、苦的原因、苦的滅除和滅苦之道，沒有智慧，也沒有所得。"
+    ],
+    "zh-Hans": [
+     "无无明 亦无无明尽",
+     "乃至 无老死 亦无老死尽",
+     "无苦集灭道 无智亦无得"
+    ],
+    "zh-Hans-plain": [
+     "没有无明，也没有无明的尽头，",
+     "乃至没有老死，也没有老死的尽头，",
+     "没有苦、苦的原因、苦的灭除和灭苦之道，没有智慧，也没有所得。"
     ]
    },
    "glossary": [
@@ -683,7 +1144,10 @@
     "ko": "반야심경 6",
     "hanja": "반야심경 6",
     "plain": "반야심경 6",
-    "en": "Heart Sutra 6"
+    "en": "Heart Sutra 6",
+    "ja": "般若心経 6",
+    "zh-Hant": "般若心經 6",
+    "zh-Hans": "般若心经 6"
    },
    "lines": {
     "ko": [
@@ -709,6 +1173,48 @@
      "relies on wisdom, so the mind has no hindrance,",
      "and because there is no hindrance, there is no fear,",
      "leaving behind inverted, empty thoughts and finally reaching nirvana."
+    ],
+    "ja": [
+     "以無所得故 菩提薩埵",
+     "依般若波羅蜜多故 心無罣礙",
+     "無罣礙故 無有恐怖",
+     "遠離一切顛倒夢想 究竟涅槃"
+    ],
+    "ja-plain": [
+     "得るものが何もないので、菩薩は",
+     "智慧によりどころを置くので、心にさまたげがなく",
+     "さまたげがないので、恐れもなく",
+     "さかさまな、むなしい思いから遠く離れて、ついに涅槃に至ります。"
+    ],
+    "ja-yomi": [
+     "いむしょとくこ ぼだいさった",
+     "えはんにゃはらみったこ しんむけいげ",
+     "むけいげこ むうくふ",
+     "おんりいっさいてんどうむそう くきょうねはん"
+    ],
+    "zh-Hant": [
+     "以無所得故 菩提薩埵",
+     "依般若波羅蜜多故 心無罣礙",
+     "無罣礙故 無有恐怖",
+     "遠離顛倒夢想 究竟涅槃"
+    ],
+    "zh-Hant-plain": [
+     "因為沒有什麼可得，菩薩",
+     "依靠智慧，所以心中沒有掛礙，",
+     "沒有掛礙，所以沒有恐懼，",
+     "遠離顛倒虛妄的念頭，最終到達涅槃。"
+    ],
+    "zh-Hans": [
+     "以无所得故 菩提萨埵",
+     "依般若波罗蜜多故 心无罣碍",
+     "无罣碍故 无有恐怖",
+     "远离颠倒梦想 究竟涅槃"
+    ],
+    "zh-Hans-plain": [
+     "因为没有什么可得，菩萨",
+     "依靠智慧，所以心中没有挂碍，",
+     "没有挂碍，所以没有恐惧，",
+     "远离颠倒虚妄的念头，最终到达涅槃。"
     ]
    },
    "glossary": [
@@ -756,7 +1262,10 @@
     "ko": "반야심경 7",
     "hanja": "반야심경 7",
     "plain": "반야심경 7",
-    "en": "Heart Sutra 7"
+    "en": "Heart Sutra 7",
+    "ja": "般若心経 7",
+    "zh-Hant": "般若心經 7",
+    "zh-Hans": "般若心经 7"
    },
    "lines": {
     "ko": [
@@ -774,6 +1283,34 @@
     "en": [
      "All Buddhas of the past, present, and future also rely on this wisdom",
      "and attain unsurpassed, complete, perfect enlightenment."
+    ],
+    "ja": [
+     "三世諸仏 依般若波羅蜜多故",
+     "得阿耨多羅三藐三菩提"
+    ],
+    "ja-plain": [
+     "過去、現在、未来のすべての仏も、この智慧によって",
+     "この上なく正しい悟りを得られました。"
+    ],
+    "ja-yomi": [
+     "さんぜしょぶつ えはんにゃはらみったこ",
+     "とくあのくたらさんみゃくさんぼだい"
+    ],
+    "zh-Hant": [
+     "三世諸佛 依般若波羅蜜多故",
+     "得阿耨多羅三藐三菩提"
+    ],
+    "zh-Hant-plain": [
+     "過去、現在、未來的一切佛，也都依靠這智慧，",
+     "證得了無上、正確、圓滿的覺悟。"
+    ],
+    "zh-Hans": [
+     "三世诸佛 依般若波罗蜜多故",
+     "得阿耨多罗三藐三菩提"
+    ],
+    "zh-Hans-plain": [
+     "过去、现在、未来的一切佛，也都依靠这智慧，",
+     "证得了无上、正确、圆满的觉悟。"
     ]
    },
    "glossary": [
@@ -809,7 +1346,10 @@
     "ko": "반야심경 8",
     "hanja": "반야심경 8",
     "plain": "반야심경 8",
-    "en": "Heart Sutra 8"
+    "en": "Heart Sutra 8",
+    "ja": "般若心経 8",
+    "zh-Hant": "般若心經 8",
+    "zh-Hans": "般若心经 8"
    },
    "lines": {
     "ko": [
@@ -831,6 +1371,41 @@
      "Therefore, know this: this wisdom is the great wondrous mantra and the great bright mantra,",
      "the unsurpassed mantra and the unequaled mantra,",
      "removing all suffering, true and not false."
+    ],
+    "ja": [
+     "故知 般若波羅蜜多 是大神呪 是大明呪",
+     "是無上呪 是無等等呪",
+     "能除一切苦 真実不虚"
+    ],
+    "ja-plain": [
+     "ですから知ってください。この智慧は大いなる不思議な真言、大いなる明るい真言であり",
+     "この上ない真言、比べるもののない真言であって",
+     "すべての苦しみを取り除くので、まことであって偽りがありません。"
+    ],
+    "ja-yomi": [
+     "こち はんにゃはらみった ぜだいじんしゅ ぜだいみょうしゅ",
+     "ぜむじょうしゅ ぜむとうどうしゅ",
+     "のうじょいっさいく しんじつふこ"
+    ],
+    "zh-Hant": [
+     "故知 般若波羅蜜多 是大神咒 是大明咒",
+     "是無上咒 是無等等咒",
+     "能除一切苦 真實不虛"
+    ],
+    "zh-Hant-plain": [
+     "所以要知道，這智慧是大神妙的咒，是大光明的咒，",
+     "是無上的咒，是無可比擬的咒，",
+     "能除去一切苦，真實不虛。"
+    ],
+    "zh-Hans": [
+     "故知 般若波罗蜜多 是大神咒 是大明咒",
+     "是无上咒 是无等等咒",
+     "能除一切苦 真实不虚"
+    ],
+    "zh-Hans-plain": [
+     "所以要知道，这智慧是大神妙的咒，是大光明的咒，",
+     "是无上的咒，是无可比拟的咒，",
+     "能除去一切苦，真实不虚。"
     ]
    },
    "glossary": [
@@ -878,7 +1453,10 @@
     "ko": "반야심경 9",
     "hanja": "반야심경 9",
     "plain": "반야심경 9",
-    "en": "Heart Sutra 9"
+    "en": "Heart Sutra 9",
+    "ja": "般若心経 9",
+    "zh-Hant": "般若心經 9",
+    "zh-Hans": "般若心经 9"
    },
    "lines": {
     "ko": [
@@ -900,6 +1478,44 @@
      "So the mantra of this wisdom is spoken like this.",
      "Go, go, go to the far shore.",
      "All together, go to the far shore and realize enlightenment."
+    ],
+    "ja": [
+     "故説 般若波羅蜜多呪 即説呪曰",
+     "羯諦羯諦 波羅羯諦",
+     "波羅僧羯諦 菩提薩婆訶",
+     "般若心経"
+    ],
+    "ja-plain": [
+     "そこで、この智慧の真言を説きます。それはこうです。",
+     "行こう、行こう、向こう岸へ行こう。",
+     "みなともに向こう岸へ行き、悟りを成しとげよう。",
+     "般若心経を、ここで結びます。"
+    ],
+    "ja-yomi": [
+     "こせつ はんにゃはらみったしゅ そくせつしゅわつ",
+     "ぎゃていぎゃてい はらぎゃてい",
+     "はらそうぎゃてい ぼじそわか",
+     "はんにゃしんぎょう"
+    ],
+    "zh-Hant": [
+     "故說 般若波羅蜜多咒 即說咒曰",
+     "揭諦揭諦 波羅揭諦",
+     "波羅僧揭諦 菩提薩婆訶"
+    ],
+    "zh-Hant-plain": [
+     "於是說出這智慧之咒，就是這樣說的。",
+     "去吧，去吧，到彼岸去吧。",
+     "大家一起到彼岸去，成就覺悟。"
+    ],
+    "zh-Hans": [
+     "故说 般若波罗蜜多咒 即说咒曰",
+     "揭谛揭谛 波罗揭谛",
+     "波罗僧揭谛 菩提萨婆诃"
+    ],
+    "zh-Hans-plain": [
+     "于是说出这智慧之咒，就是这样说的。",
+     "去吧，去吧，到彼岸去吧。",
+     "大家一起到彼岸去，成就觉悟。"
     ]
    },
    "glossary": [
@@ -947,7 +1563,10 @@
     "ko": "신수의 게송",
     "hanja": "신수의 게송",
     "plain": "신수의 게송",
-    "en": "Shenxiu's Verse"
+    "en": "Shenxiu's Verse",
+    "ja": "神秀の偈",
+    "zh-Hant": "神秀偈",
+    "zh-Hans": "神秀偈"
    },
    "lines": {
     "ko": [
@@ -973,6 +1592,48 @@
      "and the mind is like a clear mirror stand.",
      "From time to time, diligently wipe and polish it,",
      "and do not let dust settle on it."
+    ],
+    "ja": [
+     "身是菩提樹",
+     "心如明鏡台",
+     "時時勤払拭",
+     "勿使惹塵埃"
+    ],
+    "ja-plain": [
+     "体は悟りの木であり",
+     "心は澄んだ鏡台のようです。",
+     "いつもこまめに払い拭いて",
+     "ちりがつかないようにしなさい。"
+    ],
+    "ja-yomi": [
+     "しんぜぼだいじゅ",
+     "しんにょみょうきょうだい",
+     "じじごんふっしき",
+     "もつしじゃじんあい"
+    ],
+    "zh-Hant": [
+     "身是菩提樹",
+     "心如明鏡臺",
+     "時時勤拂拭",
+     "勿使惹塵埃"
+    ],
+    "zh-Hant-plain": [
+     "身體是覺悟之樹，",
+     "心像明亮的鏡臺，",
+     "要時時勤加擦拭，",
+     "不讓它沾上塵埃。"
+    ],
+    "zh-Hans": [
+     "身是菩提树",
+     "心如明镜台",
+     "时时勤拂拭",
+     "勿使惹尘埃"
+    ],
+    "zh-Hans-plain": [
+     "身体是觉悟之树，",
+     "心像明亮的镜台，",
+     "要时时勤加擦拭，",
+     "不让它沾上尘埃。"
     ]
    },
    "glossary": [
@@ -1008,7 +1669,10 @@
     "ko": "혜능의 게송",
     "hanja": "혜능의 게송",
     "plain": "혜능의 게송",
-    "en": "Huineng's Verse"
+    "en": "Huineng's Verse",
+    "ja": "慧能の偈",
+    "zh-Hant": "慧能偈",
+    "zh-Hans": "慧能偈"
    },
    "lines": {
     "ko": [
@@ -1034,6 +1698,48 @@
      "and the clear mirror is not a stand either.",
      "Originally there is not a single thing,",
      "so where could dust settle?"
+    ],
+    "ja": [
+     "菩提本無樹",
+     "明鏡亦非台",
+     "本来無一物",
+     "何処惹塵埃"
+    ],
+    "ja-plain": [
+     "悟りにはもともと木はなく",
+     "澄んだ鏡もまた台ではありません。",
+     "もともと何ひとつないのに",
+     "どこにちりがつくでしょう。"
+    ],
+    "ja-yomi": [
+     "ぼだいほんむじゅ",
+     "みょうきょうやくひだい",
+     "ほんらいむいちもつ",
+     "がしょじゃじんあい"
+    ],
+    "zh-Hant": [
+     "菩提本無樹",
+     "明鏡亦非臺",
+     "本來無一物",
+     "何處惹塵埃"
+    ],
+    "zh-Hant-plain": [
+     "覺悟本來沒有樹，",
+     "明鏡也不是臺子。",
+     "本來就沒有一樣東西，",
+     "哪裡會沾上塵埃呢。"
+    ],
+    "zh-Hans": [
+     "菩提本无树",
+     "明镜亦非台",
+     "本来无一物",
+     "何处惹尘埃"
+    ],
+    "zh-Hans-plain": [
+     "觉悟本来没有树，",
+     "明镜也不是台子。",
+     "本来就没有一样东西，",
+     "哪里会沾上尘埃呢。"
     ]
    },
    "glossary": [
@@ -1069,7 +1775,10 @@
     "ko": "선의 네 구절",
     "hanja": "선의 네 구절",
     "plain": "선의 네 구절",
-    "en": "Four lines of Zen"
+    "en": "Four lines of Zen",
+    "ja": "禅の四句",
+    "zh-Hant": "禪門四句",
+    "zh-Hans": "禅门四句"
    },
    "lines": {
     "ko": [
@@ -1095,6 +1804,48 @@
      "A separate transmission outside the scriptures",
      "Pointing directly to the human mind",
      "Seeing one’s nature and becoming Buddha."
+    ],
+    "ja": [
+     "不立文字",
+     "教外別伝",
+     "直指人心",
+     "見性成仏"
+    ],
+    "ja-plain": [
+     "文字に頼らず",
+     "経典の外に別に伝え",
+     "人の心をまっすぐに指し",
+     "本性を見て仏となります。"
+    ],
+    "ja-yomi": [
+     "ふりゅうもんじ",
+     "きょうげべつでん",
+     "じきしにんしん",
+     "けんしょうじょうぶつ"
+    ],
+    "zh-Hant": [
+     "不立文字",
+     "教外別傳",
+     "直指人心",
+     "見性成佛"
+    ],
+    "zh-Hant-plain": [
+     "不依靠文字，",
+     "在經教之外另行傳授，",
+     "直接指向人的心，",
+     "見到本性就成佛。"
+    ],
+    "zh-Hans": [
+     "不立文字",
+     "教外别传",
+     "直指人心",
+     "见性成佛"
+    ],
+    "zh-Hans-plain": [
+     "不依靠文字，",
+     "在经教之外另行传授，",
+     "直接指向人的心，",
+     "见到本性就成佛。"
     ]
    },
    "glossary": [
@@ -1130,7 +1881,10 @@
     "ko": "신심명 첫 구절",
     "hanja": "신심명 첫 구절",
     "plain": "신심명 첫 구절",
-    "en": "Opening lines of Faith in Mind"
+    "en": "Opening lines of Faith in Mind",
+    "ja": "信心銘のはじめ",
+    "zh-Hant": "信心銘開篇",
+    "zh-Hans": "信心铭开篇"
    },
    "lines": {
     "ko": [
@@ -1156,6 +1910,48 @@
      "It only avoids choosing and rejecting.",
      "If there is no mind of hate or love",
      "It will be open, bright, and clear."
+    ],
+    "ja": [
+     "至道無難",
+     "唯嫌揀択",
+     "但莫憎愛",
+     "洞然明白"
+    ],
+    "ja-plain": [
+     "至高の道は難しくありません",
+     "ただ選り好みを嫌うだけです。",
+     "憎む心と愛する心さえなければ",
+     "からりと開けて明らかになります。"
+    ],
+    "ja-yomi": [
+     "しどうぶなん",
+     "ゆいけんけんじゃく",
+     "たんまくぞうあい",
+     "とうねんめいはく"
+    ],
+    "zh-Hant": [
+     "至道無難",
+     "唯嫌揀擇",
+     "但莫憎愛",
+     "洞然明白"
+    ],
+    "zh-Hant-plain": [
+     "最高的道並不難，",
+     "只怕挑挑揀揀。",
+     "只要沒有憎恨和貪愛，",
+     "自然通透，清清楚楚。"
+    ],
+    "zh-Hans": [
+     "至道无难",
+     "唯嫌拣择",
+     "但莫憎爱",
+     "洞然明白"
+    ],
+    "zh-Hans-plain": [
+     "最高的道并不难，",
+     "只怕挑挑拣拣。",
+     "只要没有憎恨和贪爱，",
+     "自然通透，清清楚楚。"
     ]
    },
    "glossary": [
@@ -1191,7 +1987,10 @@
     "ko": "증도가 첫 구절",
     "hanja": "증도가 첫 구절",
     "plain": "증도가 첫 구절",
-    "en": "Opening lines of Song of Enlightenment"
+    "en": "Opening lines of Song of Enlightenment",
+    "ja": "証道歌のはじめ",
+    "zh-Hant": "證道歌開篇",
+    "zh-Hans": "证道歌开篇"
    },
    "lines": {
     "ko": [
@@ -1213,6 +2012,41 @@
      "Do you not see?",
      "The leisurely person of the Way, whose learning is done and who has nothing to do,",
      "Does not try to remove deluded thoughts or seek the true."
+    ],
+    "ja": [
+     "君不見",
+     "絶学無為閑道人",
+     "不除妄想不求真"
+    ],
+    "ja-plain": [
+     "あなたは見たことがありませんか",
+     "学び終えて為すこともない、のどかな道の人は",
+     "妄想を除こうともせず、真実を求めもしません。"
+    ],
+    "ja-yomi": [
+     "くんふけん",
+     "ぜつがくむいかんどうにん",
+     "ふじょもうぞうふぐしん"
+    ],
+    "zh-Hant": [
+     "君不見",
+     "絶學無為閑道人",
+     "不除妄想不求真"
+    ],
+    "zh-Hant-plain": [
+     "你難道沒有看見，",
+     "學已到頭、無事可做的閒適修道人，",
+     "既不去除妄想，也不追求真實。"
+    ],
+    "zh-Hans": [
+     "君不见",
+     "绝学无为闲道人",
+     "不除妄想不求真"
+    ],
+    "zh-Hans-plain": [
+     "你难道没有看见，",
+     "学已到头、无事可做的闲适修道人，",
+     "既不去除妄想，也不追求真实。"
     ]
    },
    "glossary": [
@@ -1254,7 +2088,10 @@
     "ko": "임제의 말",
     "hanja": "임제의 말",
     "plain": "임제의 말",
-    "en": "Linji’s words"
+    "en": "Linji’s words",
+    "ja": "臨済のことば",
+    "zh-Hant": "臨濟語",
+    "zh-Hans": "临济语"
    },
    "lines": {
     "ko": [
@@ -1272,6 +2109,34 @@
     "en": [
      "If you become the master wherever you are",
      "Every place you stand is true."
+    ],
+    "ja": [
+     "随処作主",
+     "立処皆真"
+    ],
+    "ja-plain": [
+     "どこにいても主人となれば",
+     "立つところはすべて真実です。"
+    ],
+    "ja-yomi": [
+     "ずいしょさしゅ",
+     "りっしょかいしん"
+    ],
+    "zh-Hant": [
+     "隨處作主",
+     "立處皆真"
+    ],
+    "zh-Hant-plain": [
+     "無論在哪裡都做自己的主人，",
+     "所站之處便處處是真。"
+    ],
+    "zh-Hans": [
+     "随处作主",
+     "立处皆真"
+    ],
+    "zh-Hans-plain": [
+     "无论在哪里都做自己的主人，",
+     "所站之处便处处是真。"
     ]
    },
    "glossary": [
@@ -1307,7 +2172,10 @@
     "ko": "날마다 좋은 날",
     "hanja": "날마다 좋은 날",
     "plain": "날마다 좋은 날",
-    "en": "Every day is a good day"
+    "en": "Every day is a good day",
+    "ja": "日日是好日",
+    "zh-Hant": "日日是好日",
+    "zh-Hans": "日日是好日"
    },
    "lines": {
     "ko": [
@@ -1329,6 +2197,41 @@
      "I will not ask about before the fifteenth.",
      "Say one word about after the fifteenth.",
      "Every day is a good day."
+    ],
+    "ja": [
+     "十五日已前不問汝",
+     "十五日已後道将一句来",
+     "日日是好日"
+    ],
+    "ja-plain": [
+     "十五日より前のことは問いません。",
+     "十五日より後のことを、ひとこと言ってみなさい。",
+     "毎日がよい日です。"
+    ],
+    "ja-yomi": [
+     "じゅうごにちいぜんふもんにょ",
+     "じゅうごにちいごどうしょういっくらい",
+     "にちにちぜこうじつ"
+    ],
+    "zh-Hant": [
+     "十五日已前不問汝",
+     "十五日已後道將一句來",
+     "日日是好日"
+    ],
+    "zh-Hant-plain": [
+     "十五日以前的事，我不問你。",
+     "十五日以後的事，說一句來聽聽。",
+     "天天都是好日子。"
+    ],
+    "zh-Hans": [
+     "十五日已前不问汝",
+     "十五日已后道将一句来",
+     "日日是好日"
+    ],
+    "zh-Hans-plain": [
+     "十五日以前的事，我不问你。",
+     "十五日以后的事，说一句来听听。",
+     "天天都是好日子。"
     ]
    },
    "glossary": [
@@ -1370,7 +2273,10 @@
     "ko": "무문관 서문 게송",
     "hanja": "무문관 서문 게송",
     "plain": "무문관 서문 게송",
-    "en": "Verse from the preface to The Gateless Gate"
+    "en": "Verse from the preface to The Gateless Gate",
+    "ja": "無門関 序の偈",
+    "zh-Hant": "無門關序偈",
+    "zh-Hans": "无门关序偈"
    },
    "lines": {
     "ko": [
@@ -1396,6 +2302,48 @@
      "Yet in each difference there is a path.",
      "If you pass through this barrier",
      "You walk alone through heaven and earth."
+    ],
+    "ja": [
+     "大道無門",
+     "千差有路",
+     "透得此関",
+     "乾坤独歩"
+    ],
+    "ja-plain": [
+     "大いなる道に門はありませんが",
+     "分かれ道ごとに道があります。",
+     "この関所を通り抜ければ",
+     "天と地をひとりで歩きます。"
+    ],
+    "ja-yomi": [
+     "だいどうむもん",
+     "せんしゃうろ",
+     "とうとくしかん",
+     "けんこんどっぽ"
+    ],
+    "zh-Hant": [
+     "大道無門",
+     "千差有路",
+     "透得此關",
+     "乾坤獨步"
+    ],
+    "zh-Hant-plain": [
+     "大道沒有門，",
+     "千差萬別處處有路。",
+     "穿過這道關口，",
+     "便能在天地間獨自行走。"
+    ],
+    "zh-Hans": [
+     "大道无门",
+     "千差有路",
+     "透得此关",
+     "乾坤独步"
+    ],
+    "zh-Hans-plain": [
+     "大道没有门，",
+     "千差万别处处有路。",
+     "穿过这道关口，",
+     "便能在天地间独自行走。"
     ]
    },
    "glossary": [
@@ -1443,7 +2391,10 @@
     "ko": "평상심이 도",
     "hanja": "평상심이 도",
     "plain": "평상심이 도",
-    "en": "Ordinary mind is the Way"
+    "en": "Ordinary mind is the Way",
+    "ja": "平常心是道",
+    "zh-Hant": "平常心是道",
+    "zh-Hans": "平常心是道"
    },
    "lines": {
     "ko": [
@@ -1473,6 +2424,55 @@
      "In summer, a cool breeze; in winter, snow",
      "If you do not keep useless matters hanging in your mind",
      "That is the good season of human life."
+    ],
+    "ja": [
+     "平常心是道",
+     "春有百花秋有月",
+     "夏有涼風冬有雪",
+     "若無閑事掛心頭",
+     "便是人間好時節"
+    ],
+    "ja-plain": [
+     "ふだんの心こそが道です。",
+     "春にはたくさんの花、秋には月",
+     "夏には涼しい風、冬には雪",
+     "余計なことを心にかけなければ",
+     "それこそが人の世のよい季節です。"
+    ],
+    "ja-yomi": [
+     "びょうじょうしんぜどう",
+     "しゅんうひゃっかしゅううげつ",
+     "げうりょうふうとううせつ",
+     "にゃくむかんじけしんとう",
+     "べんぜにんげんこうじせつ"
+    ],
+    "zh-Hant": [
+     "平常心是道",
+     "春有百花秋有月",
+     "夏有涼風冬有雪",
+     "若無閑事掛心頭",
+     "便是人間好時節"
+    ],
+    "zh-Hant-plain": [
+     "平常的心就是道。",
+     "春天有百花，秋天有明月，",
+     "夏天有涼風，冬天有白雪。",
+     "只要不把閒事掛在心上，",
+     "那便是人間的好時節。"
+    ],
+    "zh-Hans": [
+     "平常心是道",
+     "春有百花秋有月",
+     "夏有凉风冬有雪",
+     "若无闲事挂心头",
+     "便是人间好时节"
+    ],
+    "zh-Hans-plain": [
+     "平常的心就是道。",
+     "春天有百花，秋天有明月，",
+     "夏天有凉风，冬天有白雪。",
+     "只要不把闲事挂在心上，",
+     "那便是人间的好时节。"
     ]
    },
    "glossary": [
@@ -1514,7 +2514,10 @@
     "ko": "구름은 하늘에 물은 병에",
     "hanja": "구름은 하늘에 물은 병에",
     "plain": "구름은 하늘에 물은 병에",
-    "en": "Clouds in the sky, water in the bottle"
+    "en": "Clouds in the sky, water in the bottle",
+    "ja": "雲は空に 水は瓶に",
+    "zh-Hant": "雲在青天水在瓶",
+    "zh-Hans": "云在青天水在瓶"
    },
    "lines": {
     "ko": [
@@ -1540,6 +2543,48 @@
      "Beneath a thousand pines, only two cases of scriptures",
      "When I came to ask about the Way, he had nothing else to say",
      "Clouds are in the blue sky; water is in the bottle."
+    ],
+    "ja": [
+     "練得身形似鶴形",
+     "千株松下両函経",
+     "我来問道無余説",
+     "雲在青天水在瓶"
+    ],
+    "ja-plain": [
+     "鍛えた姿は鶴のようにやせ",
+     "千本の松の下に経典がふた箱だけ",
+     "私が来て道を問うと、ほかの言葉はなく",
+     "雲は青い空に、水は瓶の中に、とおっしゃいました。"
+    ],
+    "ja-yomi": [
+     "れんとくしんぎょうじかくぎょう",
+     "せんしゅしょうかりょうかんきょう",
+     "がらいもんどうむよせつ",
+     "うんざいせいてんすいざいびょう"
+    ],
+    "zh-Hant": [
+     "練得身形似鶴形",
+     "千株松下兩函經",
+     "我來問道無餘說",
+     "雲在青天水在甁"
+    ],
+    "zh-Hant-plain": [
+     "修煉得身形清瘦如鶴，",
+     "千株松樹下只有兩函經書。",
+     "我來問道，他沒有多說別的，",
+     "只說雲在青天，水在瓶中。"
+    ],
+    "zh-Hans": [
+     "练得身形似鹤形",
+     "千株松下两函经",
+     "我来问道无余说",
+     "云在青天水在甁"
+    ],
+    "zh-Hans-plain": [
+     "修炼得身形清瘦如鹤，",
+     "千株松树下只有两函经书。",
+     "我来问道，他没有多说别的，",
+     "只说云在青天，水在瓶中。"
     ]
    },
    "glossary": [
@@ -1581,7 +2626,10 @@
     "ko": "발심수행장",
     "hanja": "발심수행장",
     "plain": "발심수행장",
-    "en": "Awakening the mind"
+    "en": "Awakening the mind",
+    "ja": "発心修行章",
+    "zh-Hant": "發心修行章",
+    "zh-Hans": "发心修行章"
    },
    "lines": {
     "ko": [
@@ -1599,6 +2647,34 @@
     "en": [
      "If you can give up your own pleasure, you are trusted and respected like a sage,",
      "and if you can do difficult practice, you are honored like the Buddha."
+    ],
+    "ja": [
+     "自楽能捨 信敬如聖",
+     "難行能行 尊重如仏"
+    ],
+    "ja-plain": [
+     "自分の楽しみを捨てられれば、聖人のように信じ敬われ",
+     "難しい修行をやり遂げれば、仏のように尊ばれます。"
+    ],
+    "ja-yomi": [
+     "じらくのうしゃ しんきょうにょしょう",
+     "なんぎょうのうぎょう そんじゅうにょぶつ"
+    ],
+    "zh-Hant": [
+     "自樂能捨 信敬如聖",
+     "難行能行 尊重如佛"
+    ],
+    "zh-Hant-plain": [
+     "能捨棄自己的快樂，就會像聖人一樣受人信敬；",
+     "能做難做的修行，就會像佛一樣受人尊重。"
+    ],
+    "zh-Hans": [
+     "自乐能舍 信敬如圣",
+     "难行能行 尊重如佛"
+    ],
+    "zh-Hans-plain": [
+     "能舍弃自己的快乐，就会像圣人一样受人信敬；",
+     "能做难做的修行，就会像佛一样受人尊重。"
     ]
    },
    "glossary": [
@@ -1640,7 +2716,10 @@
     "ko": "땅에서 일어서기",
     "hanja": "땅에서 일어서기",
     "plain": "땅에서 일어서기",
-    "en": "Rising from the ground"
+    "en": "Rising from the ground",
+    "ja": "地から立ち上がる",
+    "zh-Hant": "從地上站起",
+    "zh-Hans": "从地上站起"
    },
    "lines": {
     "ko": [
@@ -1658,6 +2737,34 @@
     "en": [
      "A person who has fallen on the ground must use the ground to rise,",
      "for if they try to rise apart from the ground, it cannot be done."
+    ],
+    "ja": [
+     "人因地而倒者 因地而起",
+     "離地求起 無有是処"
+    ],
+    "ja-plain": [
+     "地で倒れた人は、地に手をついて立ち上がります。",
+     "地を離れて立とうとしても、それはできません。"
+    ],
+    "ja-yomi": [
+     "にんいんじにとうしゃ いんじにき",
+     "りじぐき むうぜしょ"
+    ],
+    "zh-Hant": [
+     "人因地而倒者 因地而起",
+     "離地求起 無有是處"
+    ],
+    "zh-Hant-plain": [
+     "在地上跌倒的人，要扶著地站起來；",
+     "離開地面想站起來，是做不到的。"
+    ],
+    "zh-Hans": [
+     "人因地而倒者 因地而起",
+     "离地求起 无有是处"
+    ],
+    "zh-Hans-plain": [
+     "在地上跌倒的人，要扶着地站起来；",
+     "离开地面想站起来，是做不到的。"
     ]
    },
    "glossary": [
@@ -1699,7 +2806,10 @@
     "ko": "사흘 닦은 마음",
     "hanja": "사흘 닦은 마음",
     "plain": "사흘 닦은 마음",
-    "en": "A mind trained for three days"
+    "en": "A mind trained for three days",
+    "ja": "三日磨いた心",
+    "zh-Hant": "三日修心",
+    "zh-Hans": "三日修心"
    },
    "lines": {
     "ko": [
@@ -1717,6 +2827,34 @@
     "en": [
      "A mind trained for three days becomes a treasure for a thousand years,",
      "while wealth coveted for a hundred years becomes dust in a single morning."
+    ],
+    "ja": [
+     "三日修心千載宝",
+     "百年貪物一朝塵"
+    ],
+    "ja-plain": [
+     "三日磨いた心は千年の宝となり",
+     "百年むさぼった財は一朝のちりとなります。"
+    ],
+    "ja-yomi": [
+     "さんにちしゅしんせんざいほう",
+     "ひゃくねんとんもついっちょうじん"
+    ],
+    "zh-Hant": [
+     "三日修心千載寶",
+     "百年貪物一朝塵"
+    ],
+    "zh-Hant-plain": [
+     "修心三日，是千年的珍寶；",
+     "貪財百年，不過一朝的塵土。"
+    ],
+    "zh-Hans": [
+     "三日修心千载宝",
+     "百年贪物一朝尘"
+    ],
+    "zh-Hans-plain": [
+     "修心三日，是千年的珍宝；",
+     "贪财百年，不过一朝的尘土。"
     ]
    },
    "glossary": [
@@ -1758,7 +2896,10 @@
     "ko": "한 물건",
     "hanja": "한 물건",
     "plain": "한 물건",
-    "en": "One thing"
+    "en": "One thing",
+    "ja": "ひとつのもの",
+    "zh-Hant": "一物",
+    "zh-Hans": "一物"
    },
    "lines": {
     "ko": [
@@ -1784,6 +2925,48 @@
      "bright and aware from the beginning,",
      "never born and never ceased,",
      "unable to be named or drawn in form."
+    ],
+    "ja": [
+     "有一物於此",
+     "従本以来 昭昭霊霊",
+     "不曽生 不曽滅",
+     "名不得 状不得"
+    ],
+    "ja-plain": [
+     "ここにひとつのものがあります。",
+     "もとから明るく、不思議にはたらき",
+     "生まれたこともなく、滅したこともなく",
+     "名づけることも、形を描くこともできません。"
+    ],
+    "ja-yomi": [
+     "ういちもつおし",
+     "じゅうほんいらい しょうしょうりょうりょう",
+     "ふぞうしょう ふぞうめつ",
+     "みょうふとく じょうふとく"
+    ],
+    "zh-Hant": [
+     "有一物於此",
+     "從本以來 昭昭靈靈",
+     "不曾生 不曾滅",
+     "名不得 狀不得"
+    ],
+    "zh-Hant-plain": [
+     "這裡有一樣東西，",
+     "從本以來就明亮而靈妙，",
+     "不曾生起，也不曾滅去，",
+     "叫不出名字，也畫不出樣子。"
+    ],
+    "zh-Hans": [
+     "有一物于此",
+     "从本以来 昭昭灵灵",
+     "不曾生 不曾灭",
+     "名不得 状不得"
+    ],
+    "zh-Hans-plain": [
+     "这里有一样东西，",
+     "从本以来就明亮而灵妙，",
+     "不曾生起，也不曾灭去，",
+     "叫不出名字，也画不出样子。"
     ]
    },
    "glossary": [
@@ -1831,7 +3014,10 @@
     "ko": "금강경 사구게",
     "hanja": "금강경 사구게",
     "plain": "금강경 사구게",
-    "en": "Diamond Sutra verse"
+    "en": "Diamond Sutra verse",
+    "ja": "金剛経 四句偈",
+    "zh-Hant": "金剛經四句偈",
+    "zh-Hans": "金刚经四句偈"
    },
    "lines": {
     "ko": [
@@ -1849,6 +3035,34 @@
     "en": [
      "Everything with form is empty and illusory,",
      "and when you see that all forms are not truly forms, you see the Tathagata."
+    ],
+    "ja": [
+     "凡所有相 皆是虚妄",
+     "若見諸相非相 即見如来"
+    ],
+    "ja-plain": [
+     "形あるものはみな、はかないものです。",
+     "あらゆる形が形でないと見るなら、そのまま如来を見ます。"
+    ],
+    "ja-yomi": [
+     "ぼんしょうそう かいぜこもう",
+     "にゃくけんしょそうひそう そくけんにょらい"
+    ],
+    "zh-Hant": [
+     "凡所有相 皆是虛妄",
+     "若見諸相非相 即見如來"
+    ],
+    "zh-Hant-plain": [
+     "凡是有形相的，都是虛妄不實的，",
+     "若能看見一切形相併非真的形相，就是見到了如來。"
+    ],
+    "zh-Hans": [
+     "凡所有相 皆是虚妄",
+     "若见诸相非相 即见如来"
+    ],
+    "zh-Hans-plain": [
+     "凡是有形相的，都是虚妄不实的，",
+     "若能看见一切形相并非真的形相，就是见到了如来。"
     ]
    },
    "glossary": [
@@ -1884,7 +3098,10 @@
     "ko": "금강경 사구게",
     "hanja": "금강경 사구게",
     "plain": "금강경 사구게",
-    "en": "Diamond Sutra verse"
+    "en": "Diamond Sutra verse",
+    "ja": "金剛経 四句偈",
+    "zh-Hant": "金剛經四句偈",
+    "zh-Hans": "金刚经四句偈"
    },
    "lines": {
     "ko": [
@@ -1902,6 +3119,34 @@
     "en": [
      "All conditioned things are like dreams, illusions, bubbles, and shadows,",
      "like dew and lightning; see them in this way."
+    ],
+    "ja": [
+     "一切有為法 如夢幻泡影",
+     "如露亦如電 応作如是観"
+    ],
+    "ja-plain": [
+     "つくられたものはみな、夢、幻、泡、影のようで、",
+     "露のようで、稲妻のようでもあります。このように見るべきです。"
+    ],
+    "ja-yomi": [
+     "いっさいういほう にょむげんほうよう",
+     "にょろやくにょでん おうさにょぜかん"
+    ],
+    "zh-Hant": [
+     "一切有為法 如夢幻泡影",
+     "如露亦如電 應作如是觀"
+    ],
+    "zh-Hant-plain": [
+     "一切因緣造作的事物，都像夢、幻、水泡、影子，",
+     "又像露水，又像閃電，應當這樣去看待。"
+    ],
+    "zh-Hans": [
+     "一切有为法 如梦幻泡影",
+     "如露亦如电 应作如是观"
+    ],
+    "zh-Hans-plain": [
+     "一切因缘造作的事物，都像梦、幻、水泡、影子，",
+     "又像露水，又像闪电，应当这样去看待。"
     ]
    },
    "glossary": [
@@ -1943,7 +3188,10 @@
     "ko": "금강경",
     "hanja": "금강경",
     "plain": "금강경",
-    "en": "Diamond Sutra"
+    "en": "Diamond Sutra",
+    "ja": "金剛経",
+    "zh-Hant": "金剛經",
+    "zh-Hans": "金刚经"
    },
    "lines": {
     "ko": [
@@ -1957,6 +3205,27 @@
     ],
     "en": [
      "Let that mind arise without dwelling anywhere."
+    ],
+    "ja": [
+     "応無所住 而生其心"
+    ],
+    "ja-plain": [
+     "どこにもとどまることなく、その心を起こしなさい。"
+    ],
+    "ja-yomi": [
+     "おうむしょじゅう にしょうごしん"
+    ],
+    "zh-Hant": [
+     "應無所住 而生其心"
+    ],
+    "zh-Hant-plain": [
+     "不在任何地方停留，就這樣生起那顆心。"
+    ],
+    "zh-Hans": [
+     "应无所住 而生其心"
+    ],
+    "zh-Hans-plain": [
+     "不在任何地方停留，就这样生起那颗心。"
     ]
    },
    "glossary": [
@@ -1986,7 +3255,10 @@
     "ko": "금강경 사구게",
     "hanja": "금강경 사구게",
     "plain": "금강경 사구게",
-    "en": "Diamond Sutra verse"
+    "en": "Diamond Sutra verse",
+    "ja": "金剛経 四句偈",
+    "zh-Hant": "金剛經四句偈",
+    "zh-Hans": "金刚经四句偈"
    },
    "lines": {
     "ko": [
@@ -2004,6 +3276,34 @@
     "en": [
      "If you try to see me through form or seek me through sound,",
      "you are walking a mistaken path and cannot see the Tathagata."
+    ],
+    "ja": [
+     "若以色見我 以音声求我",
+     "是人行邪道 不能見如来"
+    ],
+    "ja-plain": [
+     "姿で私を見ようとし、声で私を求めるなら、",
+     "その人は誤った道を歩んでいて、如来を見ることはできません。"
+    ],
+    "ja-yomi": [
+     "にゃくいしきけんが いおんじょうぐが",
+     "ぜにんぎょうじゃどう ふのうけんにょらい"
+    ],
+    "zh-Hant": [
+     "若以色見我 以音聲求我",
+     "是人行邪道 不能見如來"
+    ],
+    "zh-Hant-plain": [
+     "想從外貌看見我，想從聲音尋找我，",
+     "這個人走的是偏邪的路，見不到如來。"
+    ],
+    "zh-Hans": [
+     "若以色见我 以音声求我",
+     "是人行邪道 不能见如来"
+    ],
+    "zh-Hans-plain": [
+     "想从外貌看见我，想从声音寻找我，",
+     "这个人走的是偏邪的路，见不到如来。"
     ]
    },
    "glossary": [
@@ -2039,7 +3339,10 @@
     "ko": "금강경",
     "hanja": "금강경",
     "plain": "금강경",
-    "en": "Diamond Sutra"
+    "en": "Diamond Sutra",
+    "ja": "金剛経",
+    "zh-Hant": "金剛經",
+    "zh-Hans": "金刚经"
    },
    "lines": {
     "ko": [
@@ -2061,6 +3364,41 @@
      "The mind that has passed cannot be grasped,",
      "the mind of now cannot be grasped,",
      "and the mind that has not yet come cannot be grasped."
+    ],
+    "ja": [
+     "過去心不可得",
+     "現在心不可得",
+     "未来心不可得"
+    ],
+    "ja-plain": [
+     "過ぎた心もつかめず、",
+     "今の心もつかめず、",
+     "まだ来ない心もつかめません。"
+    ],
+    "ja-yomi": [
+     "かこしんふかとく",
+     "げんざいしんふかとく",
+     "みらいしんふかとく"
+    ],
+    "zh-Hant": [
+     "過去心不可得",
+     "現在心不可得",
+     "未來心不可得"
+    ],
+    "zh-Hant-plain": [
+     "過去的心抓不住，",
+     "現在的心抓不住，",
+     "還沒到來的心也抓不住。"
+    ],
+    "zh-Hans": [
+     "过去心不可得",
+     "现在心不可得",
+     "未来心不可得"
+    ],
+    "zh-Hans-plain": [
+     "过去的心抓不住，",
+     "现在的心抓不住，",
+     "还没到来的心也抓不住。"
     ]
    },
    "glossary": [
@@ -2096,7 +3434,10 @@
     "ko": "금강경",
     "hanja": "금강경",
     "plain": "금강경",
-    "en": "Diamond Sutra"
+    "en": "Diamond Sutra",
+    "ja": "金剛経",
+    "zh-Hant": "金剛經",
+    "zh-Hans": "金刚经"
    },
    "lines": {
     "ko": [
@@ -2114,6 +3455,34 @@
     "en": [
      "If you know that my teaching is like a raft,",
      "even the teaching should be let go, much more what is not the teaching."
+    ],
+    "ja": [
+     "知我説法 如筏喩者",
+     "法尙応捨 何況非法"
+    ],
+    "ja-plain": [
+     "私の教えをいかだにたとえたと知るなら、",
+     "教えさえ手放すべきです。まして教えでないものはなおさらです。"
+    ],
+    "ja-yomi": [
+     "ちがせっぽう にょばつゆしゃ",
+     "ほうしょうおうしゃ がきょうひほう"
+    ],
+    "zh-Hant": [
+     "知我說法 如筏喩者",
+     "法尙應捨 何況非法"
+    ],
+    "zh-Hant-plain": [
+     "既然知道我說的法就像渡河的木筏，",
+     "連佛法都應當放下，何況不是佛法的東西。"
+    ],
+    "zh-Hans": [
+     "知我说法 如筏喩者",
+     "法尙应舍 何况非法"
+    ],
+    "zh-Hans-plain": [
+     "既然知道我说的法就像渡河的木筏，",
+     "连佛法都应当放下，何况不是佛法的东西。"
     ]
    },
    "glossary": [
@@ -2155,7 +3524,10 @@
     "ko": "금강경",
     "hanja": "금강경",
     "plain": "금강경",
-    "en": "Diamond Sutra"
+    "en": "Diamond Sutra",
+    "ja": "金剛経",
+    "zh-Hant": "金剛經",
+    "zh-Hans": "金刚经"
    },
    "lines": {
     "ko": [
@@ -2169,6 +3541,27 @@
     ],
     "en": [
      "Knowing that all things have no self, one attains a patient mind."
+    ],
+    "ja": [
+     "知一切法無我 得成於忍"
+    ],
+    "ja-plain": [
+     "すべてに我がないと知って、忍ぶ心を成しとげます。"
+    ],
+    "ja-yomi": [
+     "ちいっさいほうむが とくじょうおにん"
+    ],
+    "zh-Hant": [
+     "知一切法無我 得成於忍"
+    ],
+    "zh-Hant-plain": [
+     "明白一切法中都沒有我，便能成就忍耐的心。"
+    ],
+    "zh-Hans": [
+     "知一切法无我 得成于忍"
+    ],
+    "zh-Hans-plain": [
+     "明白一切法中都没有我，便能成就忍耐的心。"
     ]
    },
    "glossary": [
@@ -2204,7 +3597,10 @@
     "ko": "화엄경 사구게",
     "hanja": "화엄경 사구게",
     "plain": "화엄경 사구게",
-    "en": "Avatamsaka Sutra"
+    "en": "Avatamsaka Sutra",
+    "ja": "華厳経 四句偈",
+    "zh-Hant": "華嚴經四句偈",
+    "zh-Hans": "华严经四句偈"
    },
    "lines": {
     "ko": [
@@ -2222,6 +3618,34 @@
     "en": [
      "If anyone wishes to know all Buddhas of the three times,",
      "look at the nature of the dharma realm. Everything is made by mind."
+    ],
+    "ja": [
+     "若人欲了知 三世一切仏",
+     "応観法界性 一切唯心造"
+    ],
+    "ja-plain": [
+     "だれであれ、三世のすべての仏を知りたいと願うなら、",
+     "法界の本性を見なさい。すべては心がつくり出しています。"
+    ],
+    "ja-yomi": [
+     "にゃくにんよくりょうち さんぜいっさいぶつ",
+     "おうかんほっかいしょう いっさいゆいしんぞう"
+    ],
+    "zh-Hant": [
+     "若人欲了知 三世一切佛",
+     "應觀法界性 一切唯心造"
+    ],
+    "zh-Hant-plain": [
+     "如果有人想了解過去、現在、未來的一切佛，",
+     "就應當觀察法界的本性。一切都是心所造。"
+    ],
+    "zh-Hans": [
+     "若人欲了知 三世一切佛",
+     "应观法界性 一切唯心造"
+    ],
+    "zh-Hans-plain": [
+     "如果有人想了解过去、现在、未来的一切佛，",
+     "就应当观察法界的本性。一切都是心所造。"
     ]
    },
    "glossary": [
@@ -2263,7 +3687,10 @@
     "ko": "화엄경",
     "hanja": "화엄경",
     "plain": "화엄경",
-    "en": "Avatamsaka Sutra"
+    "en": "Avatamsaka Sutra",
+    "ja": "華厳経",
+    "zh-Hant": "華嚴經",
+    "zh-Hans": "华严经"
    },
    "lines": {
     "ko": [
@@ -2281,6 +3708,34 @@
     "en": [
      "The mind is like a skilled painter, drawing all kinds of worlds,",
      "and the five aggregates of body and mind all arise from it, with nothing it cannot make."
+    ],
+    "ja": [
+     "心如工画師 能画諸世間",
+     "五蘊悉従生 無法而不造"
+    ],
+    "ja-plain": [
+     "心は腕のよい絵師のように、あらゆる世界を描き出します。",
+     "体と心の五つはみなここから生まれ、つくれないものはありません。"
+    ],
+    "ja-yomi": [
+     "しんにょくがし のうがしょせけん",
+     "ごうんしつじゅうしょう むほうにふぞう"
+    ],
+    "zh-Hant": [
+     "心如工畫師 能畫諸世間",
+     "五蘊悉從生 無法而不造"
+    ],
+    "zh-Hant-plain": [
+     "心像一位手藝高明的畫師，能畫出種種世間，",
+     "身心的五蘊都從這裡生出，沒有它造不出來的。"
+    ],
+    "zh-Hans": [
+     "心如工画师 能画诸世间",
+     "五蕴悉从生 无法而不造"
+    ],
+    "zh-Hans-plain": [
+     "心像一位手艺高明的画师，能画出种种世间，",
+     "身心的五蕴都从这里生出，没有它造不出来的。"
     ]
    },
    "glossary": [
@@ -2322,7 +3777,10 @@
     "ko": "유마경",
     "hanja": "유마경",
     "plain": "유마경",
-    "en": "Vimalakirti Sutra"
+    "en": "Vimalakirti Sutra",
+    "ja": "維摩経",
+    "zh-Hant": "維摩經",
+    "zh-Hans": "维摩经"
    },
    "lines": {
     "ko": [
@@ -2336,6 +3794,27 @@
     ],
     "en": [
      "When the mind is pure, the Buddha land is pure."
+    ],
+    "ja": [
+     "随其心浄 則仏土浄"
+    ],
+    "ja-plain": [
+     "心が清らかなら、仏の国土も清らかです。"
+    ],
+    "ja-yomi": [
+     "ずいごしんじょう そくぶつどじょう"
+    ],
+    "zh-Hant": [
+     "隨其心淨 則佛土淨"
+    ],
+    "zh-Hant-plain": [
+     "心清淨了，佛的國土也就清淨了。"
+    ],
+    "zh-Hans": [
+     "随其心净 则佛土净"
+    ],
+    "zh-Hans-plain": [
+     "心清净了，佛的国土也就清净了。"
     ]
    },
    "glossary": [
@@ -2365,7 +3844,10 @@
     "ko": "대승기신론",
     "hanja": "대승기신론",
     "plain": "대승기신론",
-    "en": "Awakening of Faith"
+    "en": "Awakening of Faith",
+    "ja": "大乗起信論",
+    "zh-Hant": "大乘起信論",
+    "zh-Hans": "大乘起信论"
    },
    "lines": {
     "ko": [
@@ -2383,6 +3865,34 @@
     "en": [
      "When the mind arises, all kinds of things arise,",
      "and when the mind ceases, all kinds of things cease."
+    ],
+    "ja": [
+     "心生則種種法生",
+     "心滅則種種法滅"
+    ],
+    "ja-plain": [
+     "心が起これば、さまざまなものが起こり、",
+     "心が消えれば、さまざまなものが消えます。"
+    ],
+    "ja-yomi": [
+     "しんしょうそくしゅじゅほうしょう",
+     "しんめつそくしゅじゅほうめつ"
+    ],
+    "zh-Hant": [
+     "心生則種種法生",
+     "心滅則種種法滅"
+    ],
+    "zh-Hant-plain": [
+     "心一生起，種種事物就隨之生起，",
+     "心一滅去，種種事物就隨之滅去。"
+    ],
+    "zh-Hans": [
+     "心生则种种法生",
+     "心灭则种种法灭"
+    ],
+    "zh-Hans-plain": [
+     "心一生起，种种事物就随之生起，",
+     "心一灭去，种种事物就随之灭去。"
     ]
    },
    "glossary": [
@@ -2412,7 +3922,10 @@
     "ko": "탄생게",
     "hanja": "탄생게",
     "plain": "탄생게",
-    "en": "Birth Verse"
+    "en": "Birth Verse",
+    "ja": "誕生偈",
+    "zh-Hant": "誕生偈",
+    "zh-Hans": "诞生偈"
    },
    "lines": {
     "ko": [
@@ -2430,6 +3943,34 @@
     "en": [
      "Above heaven and below heaven, I alone am honored,",
      "and as all the world is suffering, I will bring it peace."
+    ],
+    "ja": [
+     "天上天下 唯我為尊",
+     "三界皆苦 吾当安之"
+    ],
+    "ja-plain": [
+     "天の上にも天の下にも、ただ私がひとり尊く、",
+     "この世はみな苦しみです。私がそれを安らかにしましょう。"
+    ],
+    "ja-yomi": [
+     "てんじょうてんげ ゆいがいそん",
+     "さんがいかいく ごとうあんし"
+    ],
+    "zh-Hant": [
+     "天上天下 唯我為尊",
+     "三界皆苦 吾當安之"
+    ],
+    "zh-Hant-plain": [
+     "天上天下，唯有我最為尊貴，",
+     "整個世間都是苦，我要讓它得到安寧。"
+    ],
+    "zh-Hans": [
+     "天上天下 唯我为尊",
+     "三界皆苦 吾当安之"
+    ],
+    "zh-Hans-plain": [
+     "天上天下，唯有我最为尊贵，",
+     "整个世间都是苦，我要让它得到安宁。"
     ]
    },
    "glossary": [
@@ -2471,7 +4012,10 @@
     "ko": "설산 게송",
     "hanja": "설산 게송",
     "plain": "설산 게송",
-    "en": "Snow Mountain Verse"
+    "en": "Snow Mountain Verse",
+    "ja": "雪山偈",
+    "zh-Hant": "雪山偈",
+    "zh-Hans": "雪山偈"
    },
    "lines": {
     "ko": [
@@ -2489,6 +4033,34 @@
     "en": [
      "All things are ever-changing; this is the law of arising and passing away.",
      "When arising and passing away have fully ceased, stillness is joy."
+    ],
+    "ja": [
+     "諸行無常 是生滅法",
+     "生滅滅已 寂滅為楽"
+    ],
+    "ja-plain": [
+     "すべては移り変わります。これが生じては滅する法です。",
+     "生じることも滅することも尽きれば、静けさこそが喜びです。"
+    ],
+    "ja-yomi": [
+     "しょぎょうむじょう ぜしょうめっぽう",
+     "しょうめつめっち じゃくめついらく"
+    ],
+    "zh-Hant": [
+     "諸行無常 是生滅法",
+     "生滅滅已 寂滅為樂"
+    ],
+    "zh-Hant-plain": [
+     "一切都在不停變化，這就是生滅的法則。",
+     "生與滅都止息之後，寂靜就是快樂。"
+    ],
+    "zh-Hans": [
+     "诸行无常 是生灭法",
+     "生灭灭已 寂灭为乐"
+    ],
+    "zh-Hans-plain": [
+     "一切都在不停变化，这就是生灭的法则。",
+     "生与灭都止息之后，寂静就是快乐。"
     ]
    },
    "glossary": [
@@ -2530,7 +4102,10 @@
     "ko": "법구경",
     "hanja": "법구경",
     "plain": "법구경",
-    "en": "Dhammapada"
+    "en": "Dhammapada",
+    "ja": "法句経",
+    "zh-Hant": "法句經",
+    "zh-Hans": "法句经"
    },
    "lines": {
     "ko": [
@@ -2552,6 +4127,41 @@
      "The mind is the root of all things; the mind comes first and the mind leads.",
      "If you hold good thoughts in your heart, and speak and act from them,",
      "Blessing and joy follow naturally, like a shadow following the body."
+    ],
+    "ja": [
+     "心為法本 心尊心使",
+     "中心念善 即言即行",
+     "福楽自追 如影随形"
+    ],
+    "ja-plain": [
+     "心はすべての根本です。心が先に立ち、心が動かします。",
+     "心に善い思いを抱いて話し、行うなら、",
+     "福と喜びがおのずとついてきます。影が体についていくように。"
+    ],
+    "ja-yomi": [
+     "しんいほうほん しんそんしんし",
+     "ちゅうしんねんぜん そくごんそくぎょう",
+     "ふくらくじつい にょようずいぎょう"
+    ],
+    "zh-Hant": [
+     "心為法本 心尊心使",
+     "中心念善 即言即行",
+     "福樂自追 如影隨形"
+    ],
+    "zh-Hant-plain": [
+     "心是一切的根本，心走在前面，心在驅使，",
+     "心中懷著善念去說、去做，",
+     "福與樂自然跟隨，就像影子跟隨身體。"
+    ],
+    "zh-Hans": [
+     "心为法本 心尊心使",
+     "中心念善 即言即行",
+     "福乐自追 如影随形"
+    ],
+    "zh-Hans-plain": [
+     "心是一切的根本，心走在前面，心在驱使，",
+     "心中怀着善念去说、去做，",
+     "福与乐自然跟随，就像影子跟随身体。"
     ]
    },
    "glossary": [
@@ -2593,7 +4203,10 @@
     "ko": "출요경",
     "hanja": "출요경",
     "plain": "출요경",
-    "en": "Sutra of Emergence"
+    "en": "Sutra of Emergence",
+    "ja": "出曜経",
+    "zh-Hant": "出曜經",
+    "zh-Hans": "出曜经"
    },
    "lines": {
     "ko": [
@@ -2611,6 +4224,34 @@
     "en": [
      "Repaying resentment with resentment can never bring rest.",
      "Through patience, resentment is brought to rest; this is the dharma of the Tathagata."
+    ],
+    "ja": [
+     "不可怨以怨 終已得休息",
+     "行忍得息怨 此名如来法"
+    ],
+    "ja-plain": [
+     "恨みを恨みで返しては、いつまでも休まりません。",
+     "忍ぶことで恨みは静まります。これが如来の法です。"
+    ],
+    "ja-yomi": [
+     "ふかおんいおん しゅういとくくそく",
+     "ぎょうにんとくそくおん しみょうにょらいほう"
+    ],
+    "zh-Hant": [
+     "不可怨以怨 終已得休息",
+     "行忍得息怨 此名如來法"
+    ],
+    "zh-Hant-plain": [
+     "以怨報怨，終究無法止息，",
+     "用忍耐讓怨恨止息，這就是如來的法。"
+    ],
+    "zh-Hans": [
+     "不可怨以怨 终已得休息",
+     "行忍得息怨 此名如来法"
+    ],
+    "zh-Hans-plain": [
+     "以怨报怨，终究无法止息，",
+     "用忍耐让怨恨止息，这就是如来的法。"
     ]
    },
    "glossary": [
@@ -2652,7 +4293,10 @@
     "ko": "법구경",
     "hanja": "법구경",
     "plain": "법구경",
-    "en": "Dhammapada"
+    "en": "Dhammapada",
+    "ja": "法句経",
+    "zh-Hant": "法句經",
+    "zh-Hans": "法句经"
    },
    "lines": {
     "ko": [
@@ -2670,6 +4314,34 @@
     "en": [
      "Even if one person defeats a thousand times a thousand enemies,",
      "It is not as good as overcoming oneself; that is the highest victory in battle."
+    ],
+    "ja": [
+     "千千為敵 一夫勝之",
+     "未若自勝 為戦中上"
+    ],
+    "ja-plain": [
+     "千の千倍の敵に、ひとりで勝ったとしても、",
+     "自分に勝つことには及びません。それが戦いの中で最上です。"
+    ],
+    "ja-yomi": [
+     "せんせんいてき いっぷしょうし",
+     "みにゃくじしょう いせんちゅうじょう"
+    ],
+    "zh-Hant": [
+     "千千為敵 一夫勝之",
+     "未若自勝 為戰中上"
+    ],
+    "zh-Hant-plain": [
+     "就算一個人戰勝了千千萬萬的敵人，",
+     "也不如戰勝自己，那才是戰鬥中最上的勝利。"
+    ],
+    "zh-Hans": [
+     "千千为敌 一夫胜之",
+     "未若自胜 为战中上"
+    ],
+    "zh-Hans-plain": [
+     "就算一个人战胜了千千万万的敌人，",
+     "也不如战胜自己，那才是战斗中最上的胜利。"
     ]
    },
    "glossary": [
@@ -2711,7 +4383,10 @@
     "ko": "법구경",
     "hanja": "법구경",
     "plain": "법구경",
-    "en": "Dhammapada"
+    "en": "Dhammapada",
+    "ja": "法句経",
+    "zh-Hant": "法句經",
+    "zh-Hans": "法句经"
    },
    "lines": {
     "ko": [
@@ -2729,6 +4404,34 @@
     "en": [
      "Even if you recite a thousand words, if their meaning is not right,",
      "They are not as good as one essential word that, when heard, can settle the mind."
+    ],
+    "ja": [
+     "雖誦千言 句義不正",
+     "不如一要 聞可滅意"
+    ],
+    "ja-plain": [
+     "千の言葉を唱えても、意味が正しくなければ、",
+     "聞いて心を静める大切なひと言に及びません。"
+    ],
+    "ja-yomi": [
+     "すいじゅせんごん くぎふしょう",
+     "ふにょいちよう もんかめつい"
+    ],
+    "zh-Hant": [
+     "雖誦千言 句義不正",
+     "不如一要 聞可滅意"
+    ],
+    "zh-Hant-plain": [
+     "即使背誦千句，若意思不正，",
+     "也不如一句要緊的話，聽了能讓心平靜下來。"
+    ],
+    "zh-Hans": [
+     "虽诵千言 句义不正",
+     "不如一要 闻可灭意"
+    ],
+    "zh-Hans-plain": [
+     "即使背诵千句，若意思不正，",
+     "也不如一句要紧的话，听了能让心平静下来。"
     ]
    },
    "glossary": [
@@ -2770,7 +4473,10 @@
     "ko": "법구경",
     "hanja": "법구경",
     "plain": "법구경",
-    "en": "Dhammapada"
+    "en": "Dhammapada",
+    "ja": "法句経",
+    "zh-Hant": "法句經",
+    "zh-Hans": "法句经"
    },
    "lines": {
     "ko": [
@@ -2788,6 +4494,34 @@
     "en": [
      "Freedom from illness is the greatest gain, and knowing contentment is the greatest wealth.",
      "Trustworthiness is the best friend, and nirvana is the greatest joy."
+    ],
+    "ja": [
+     "無病最利 知足最富",
+     "厚為最友 泥洹最快"
+    ],
+    "ja-plain": [
+     "病のないことが最大の利益、足るを知ることが最大の富、",
+     "信頼できることが最良の友、涅槃が最大の喜びです。"
+    ],
+    "ja-yomi": [
+     "むびょうさいり ちそくさいふ",
+     "こういさいう ないおんさいかい"
+    ],
+    "zh-Hant": [
+     "無病最利 知足最富",
+     "厚為最友 泥洹最快"
+    ],
+    "zh-Hant-plain": [
+     "沒有病是最大的利益，知道滿足是最大的富有，",
+     "可以信賴是最好的朋友，涅槃是最大的快樂。"
+    ],
+    "zh-Hans": [
+     "无病最利 知足最富",
+     "厚为最友 泥洹最快"
+    ],
+    "zh-Hans-plain": [
+     "没有病是最大的利益，知道满足是最大的富有，",
+     "可以信赖是最好的朋友，涅槃是最大的快乐。"
     ]
    },
    "glossary": [
@@ -2835,7 +4569,10 @@
     "ko": "계경 게송",
     "hanja": "계경 게송",
     "plain": "계경 게송",
-    "en": "Precept Verse"
+    "en": "Precept Verse",
+    "ja": "戒経の偈",
+    "zh-Hant": "戒經偈",
+    "zh-Hans": "戒经偈"
    },
    "lines": {
     "ko": [
@@ -2849,6 +4586,27 @@
     ],
     "en": [
      "Patience is the foremost path; the Buddha said the unconditioned is supreme."
+    ],
+    "ja": [
+     "忍辱第一道 仏説無為最"
+    ],
+    "ja-plain": [
+     "忍ぶことが第一の道です。仏は、作為のないことを最も尊いと説かれました。"
+    ],
+    "ja-yomi": [
+     "にんにくだいいちどう ぶっせつむいさい"
+    ],
+    "zh-Hant": [
+     "忍辱第一道 佛說無為最"
+    ],
+    "zh-Hant-plain": [
+     "忍耐是第一的道路，佛說無為最為殊勝。"
+    ],
+    "zh-Hans": [
+     "忍辱第一道 佛说无为最"
+    ],
+    "zh-Hans-plain": [
+     "忍耐是第一的道路，佛说无为最为殊胜。"
     ]
    },
    "glossary": [
@@ -2884,7 +4642,10 @@
     "ko": "유교경",
     "hanja": "유교경",
     "plain": "유교경",
-    "en": "Bequeathed Teaching Sutra"
+    "en": "Bequeathed Teaching Sutra",
+    "ja": "遺教経",
+    "zh-Hant": "遺教經",
+    "zh-Hans": "遗教经"
    },
    "lines": {
     "ko": [
@@ -2902,6 +4663,34 @@
     "en": [
      "A person who knows contentment is at peace even lying on the bare ground.",
      "A person who does not know contentment is still unsatisfied even in heaven."
+    ],
+    "ja": [
+     "知足之人 雖臥地上 猶為安楽",
+     "不知足者 雖処天堂 亦不称意"
+    ],
+    "ja-plain": [
+     "足るを知る人は、地面に寝ても安らかで、",
+     "足るを知らない人は、天上にいても満ち足りません。"
+    ],
+    "ja-yomi": [
+     "ちそくしにん すいがじじょう ゆいあんらく",
+     "ふちそくしゃ すいしょてんどう やくふしょうい"
+    ],
+    "zh-Hant": [
+     "知足之人 雖臥地上 猶為安樂",
+     "不知足者 雖處天堂 亦不稱意"
+    ],
+    "zh-Hant-plain": [
+     "知足的人，即使躺在地上也安然自在，",
+     "不知足的人，即使身在天上也不稱心。"
+    ],
+    "zh-Hans": [
+     "知足之人 虽卧地上 犹为安乐",
+     "不知足者 虽处天堂 亦不称意"
+    ],
+    "zh-Hans-plain": [
+     "知足的人，即使躺在地上也安然自在，",
+     "不知足的人，即使身在天上也不称心。"
     ]
    },
    "glossary": [
@@ -2943,7 +4732,10 @@
     "ko": "원각경",
     "hanja": "원각경",
     "plain": "원각경",
-    "en": "Sutra of Perfect Enlightenment"
+    "en": "Sutra of Perfect Enlightenment",
+    "ja": "円覚経",
+    "zh-Hant": "圓覺經",
+    "zh-Hans": "圆觉经"
    },
    "lines": {
     "ko": [
@@ -2961,6 +4753,34 @@
     "en": [
      "When you know it is an illusion, you have already left it, with no need to make a separate skillful means.",
      "When you leave illusion, there is awakening, with no gradual steps."
+    ],
+    "ja": [
+     "知幻即離 不作方便",
+     "離幻即覚 亦無漸次"
+    ],
+    "ja-plain": [
+     "幻と知れば、すでに離れています。改めて手立てをこしらえることはなく、",
+     "幻を離れれば、そのまま悟りです。段階もありません。"
+    ],
+    "ja-yomi": [
+     "ちげんそくり ふさほうべん",
+     "りげんそくかく やくむぜんじ"
+    ],
+    "zh-Hant": [
+     "知幻即離 不作方便",
+     "離幻即覺 亦無漸次"
+    ],
+    "zh-Hant-plain": [
+     "知道是幻，當下就離開了，不必另設方便，",
+     "離開幻就是覺悟，也沒有先後次第。"
+    ],
+    "zh-Hans": [
+     "知幻即离 不作方便",
+     "离幻即觉 亦无渐次"
+    ],
+    "zh-Hans-plain": [
+     "知道是幻，当下就离开了，不必另设方便，",
+     "离开幻就是觉悟，也没有先后次第。"
     ]
    },
    "glossary": [
@@ -3002,7 +4822,10 @@
     "ko": "법화경",
     "hanja": "법화경",
     "plain": "법화경",
-    "en": "Lotus Sutra"
+    "en": "Lotus Sutra",
+    "ja": "法華経",
+    "zh-Hant": "法華經",
+    "zh-Hans": "法华经"
    },
    "lines": {
     "ko": [
@@ -3020,6 +4843,34 @@
     "en": [
      "All dharmas, from the beginning, are always calm and still in their own nature.",
      "When a child of the Buddha has walked this path fully, they will become a Buddha in a future life."
+    ],
+    "ja": [
+     "諸法従本来 常自寂滅相",
+     "仏子行道已 来世得作仏"
+    ],
+    "ja-plain": [
+     "すべての法は、もとから常に静かな姿をしています。",
+     "仏の子がこの道を歩みきれば、来世に仏となります。"
+    ],
+    "ja-yomi": [
+     "しょほうじゅうほんらい じょうじじゃくめっそう",
+     "ぶっしぎょうどうい らいせとくさぶつ"
+    ],
+    "zh-Hant": [
+     "諸法從本來 常自寂滅相",
+     "佛子行道已 來世得作佛"
+    ],
+    "zh-Hant-plain": [
+     "一切法從本以來，常常是自然寂靜的樣子，",
+     "佛弟子走完這條路，來世就能成佛。"
+    ],
+    "zh-Hans": [
+     "诸法从本来 常自寂灭相",
+     "佛子行道已 来世得作佛"
+    ],
+    "zh-Hans-plain": [
+     "一切法从本以来，常常是自然寂静的样子，",
+     "佛弟子走完这条路，来世就能成佛。"
     ]
    },
    "glossary": [
@@ -3067,7 +4918,10 @@
     "ko": "열반경",
     "hanja": "열반경",
     "plain": "열반경",
-    "en": "Nirvana Sutra"
+    "en": "Nirvana Sutra",
+    "ja": "涅槃経",
+    "zh-Hant": "涅槃經",
+    "zh-Hans": "涅槃经"
    },
    "lines": {
     "ko": [
@@ -3081,6 +4935,27 @@
     ],
     "en": [
      "All sentient beings have buddha-nature."
+    ],
+    "ja": [
+     "一切衆生 悉有仏性"
+    ],
+    "ja-plain": [
+     "生きとし生けるものすべてに、仏の本性がそなわっています。"
+    ],
+    "ja-yomi": [
+     "いっさいしゅじょう しつうぶっしょう"
+    ],
+    "zh-Hant": [
+     "一切眾生 悉有佛性"
+    ],
+    "zh-Hant-plain": [
+     "一切眾生都有佛性。"
+    ],
+    "zh-Hans": [
+     "一切众生 悉有佛性"
+    ],
+    "zh-Hans-plain": [
+     "一切众生都有佛性。"
     ]
    },
    "glossary": [
@@ -3110,7 +4985,10 @@
     "ko": "육조단경",
     "hanja": "육조단경",
     "plain": "육조단경",
-    "en": "Platform Sutra"
+    "en": "Platform Sutra",
+    "ja": "六祖壇経",
+    "zh-Hant": "六祖壇經",
+    "zh-Hans": "六祖坛经"
    },
    "lines": {
     "ko": [
@@ -3124,6 +5002,27 @@
     ],
     "en": [
      "It is like a person who drinks water and knows for themselves whether it is cold or warm."
+    ],
+    "ja": [
+     "如人飮水 冷暖自知"
+    ],
+    "ja-plain": [
+     "水を飲んだ人が、冷たさも温かさも自分で知るのと同じです。"
+    ],
+    "ja-yomi": [
+     "にょにんおんすい れいだんじち"
+    ],
+    "zh-Hant": [
+     "如人飮水 冷暖自知"
+    ],
+    "zh-Hant-plain": [
+     "就像人喝水，是冷是暖，只有自己知道。"
+    ],
+    "zh-Hans": [
+     "如人飮水 冷暖自知"
+    ],
+    "zh-Hans-plain": [
+     "就像人喝水，是冷是暖，只有自己知道。"
     ]
    },
    "glossary": [
@@ -3153,7 +5052,10 @@
     "ko": "보살의 길",
     "hanja": "보살의 길",
     "plain": "보살의 길",
-    "en": "The bodhisattva path"
+    "en": "The bodhisattva path",
+    "ja": "菩薩の道",
+    "zh-Hant": "菩薩之道",
+    "zh-Hans": "菩萨之道"
    },
    "lines": {
     "ko": [
@@ -3167,6 +5069,27 @@
     ],
     "en": [
      "Above, one seeks awakening; below, one helps sentient beings."
+    ],
+    "ja": [
+     "上求菩提 下化衆生"
+    ],
+    "ja-plain": [
+     "上に向かっては悟りを求め、下に向かっては生きとし生けるものを助けます。"
+    ],
+    "ja-yomi": [
+     "じょうぐぼだい げけしゅじょう"
+    ],
+    "zh-Hant": [
+     "上求菩提 下化眾生"
+    ],
+    "zh-Hant-plain": [
+     "向上追求覺悟，向下幫助眾生。"
+    ],
+    "zh-Hans": [
+     "上求菩提 下化众生"
+    ],
+    "zh-Hans-plain": [
+     "向上追求觉悟，向下帮助众生。"
     ]
    },
    "glossary": [
@@ -3202,7 +5125,10 @@
     "ko": "사성제",
     "hanja": "사성제",
     "plain": "사성제",
-    "en": "Four Noble Truths"
+    "en": "Four Noble Truths",
+    "ja": "四聖諦",
+    "zh-Hant": "四聖諦",
+    "zh-Hans": "四圣谛"
    },
    "lines": {
     "ko": [
@@ -3220,6 +5146,34 @@
     "en": [
      "The truth that there is suffering, and the truth of the cause from which suffering arises.",
      "The truth that suffering ceases, and the truth of the path that removes suffering."
+    ],
+    "ja": [
+     "苦聖諦 苦集聖諦",
+     "苦滅聖諦 苦滅道聖諦"
+    ],
+    "ja-plain": [
+     "苦しみがあるという真理、苦しみが生じる原因についての真理、",
+     "苦しみは消えるという真理、苦しみをなくす道についての真理"
+    ],
+    "ja-yomi": [
+     "くしょうたい くしゅうしょうたい",
+     "くめっしょうたい くめつどうしょうたい"
+    ],
+    "zh-Hant": [
+     "苦聖諦 苦集聖諦",
+     "苦滅聖諦 苦滅道聖諦"
+    ],
+    "zh-Hant-plain": [
+     "人生有苦的真理，苦有起因的真理，",
+     "苦可以止息的真理，有止息苦之道路的真理。"
+    ],
+    "zh-Hans": [
+     "苦圣谛 苦集圣谛",
+     "苦灭圣谛 苦灭道圣谛"
+    ],
+    "zh-Hans-plain": [
+     "人生有苦的真理，苦有起因的真理，",
+     "苦可以止息的真理，有止息苦之道路的真理。"
     ]
    },
    "glossary": [
@@ -3261,7 +5215,10 @@
     "ko": "팔정도",
     "hanja": "팔정도",
     "plain": "팔정도",
-    "en": "Noble Eightfold Path"
+    "en": "Noble Eightfold Path",
+    "ja": "八正道",
+    "zh-Hant": "八正道",
+    "zh-Hans": "八正道"
    },
    "lines": {
     "ko": [
@@ -3279,6 +5236,34 @@
     "en": [
      "Right view, right thought, right speech, right action.",
      "Right livelihood, right effort, right mindfulness, right concentration."
+    ],
+    "ja": [
+     "正見 正思惟 正語 正業",
+     "正命 正精進 正念 正定"
+    ],
+    "ja-plain": [
+     "正しく見ること、正しく考えること、正しく話すこと、正しく行うこと、",
+     "正しく暮らすこと、正しく努めること、正しく気づくこと、正しく心を定めること"
+    ],
+    "ja-yomi": [
+     "しょうけん しょうしゆい しょうご しょうごう",
+     "しょうみょう しょうしょうじん しょうねん しょうじょう"
+    ],
+    "zh-Hant": [
+     "正見 正思惟 正語 正業",
+     "正命 正精進 正念 正定"
+    ],
+    "zh-Hant-plain": [
+     "正確地看，正確地想，正確地說，正確地做，",
+     "正確地生活，正確地努力，正確地覺察，正確地專注。"
+    ],
+    "zh-Hans": [
+     "正见 正思惟 正语 正业",
+     "正命 正精进 正念 正定"
+    ],
+    "zh-Hans-plain": [
+     "正确地看，正确地想，正确地说，正确地做，",
+     "正确地生活，正确地努力，正确地觉察，正确地专注。"
     ]
    },
    "glossary": [
@@ -3338,7 +5323,10 @@
     "ko": "육바라밀",
     "hanja": "육바라밀",
     "plain": "육바라밀",
-    "en": "Six Perfections"
+    "en": "Six Perfections",
+    "ja": "六波羅蜜",
+    "zh-Hant": "六波羅蜜",
+    "zh-Hans": "六波罗蜜"
    },
    "lines": {
     "ko": [
@@ -3356,6 +5344,34 @@
     "en": [
      "Giving, keeping the precepts, being patient.",
      "Making steady effort, calming the mind, illuminating wisdom."
+    ],
+    "ja": [
+     "布施 持戒 忍辱",
+     "精進 禅定 智慧"
+    ],
+    "ja-plain": [
+     "施すこと、戒を守ること、耐え忍ぶこと、",
+     "たゆまず努めること、心を静めること、智慧を磨くこと"
+    ],
+    "ja-yomi": [
+     "ふせ じかい にんにく",
+     "しょうじん ぜんじょう ちえ"
+    ],
+    "zh-Hant": [
+     "布施 持戒 忍辱",
+     "精進 禪定 智慧"
+    ],
+    "zh-Hant-plain": [
+     "樂於給予，守持戒律，學會忍耐，",
+     "持續努力，讓心安定，讓智慧明亮。"
+    ],
+    "zh-Hans": [
+     "布施 持戒 忍辱",
+     "精进 禅定 智慧"
+    ],
+    "zh-Hans-plain": [
+     "乐于给予，守持戒律，学会忍耐，",
+     "持续努力，让心安定，让智慧明亮。"
     ]
    },
    "glossary": [
@@ -3403,7 +5419,10 @@
     "ko": "사무량심",
     "hanja": "사무량심",
     "plain": "사무량심",
-    "en": "Four immeasurable minds"
+    "en": "Four immeasurable minds",
+    "ja": "四無量心",
+    "zh-Hant": "四無量心",
+    "zh-Hans": "四无量心"
    },
    "lines": {
     "ko": [
@@ -3421,6 +5440,34 @@
     "en": [
      "A boundless loving heart, a boundless compassionate heart",
      "A boundless heart that rejoices with others, a boundless heart that lets go in peace"
+    ],
+    "ja": [
+     "慈無量心 悲無量心",
+     "喜無量心 捨無量心"
+    ],
+    "ja-plain": [
+     "限りなく慈しむ心、限りなくあわれむ心、",
+     "限りなくともに喜ぶ心、限りなく穏やかに手放す心"
+    ],
+    "ja-yomi": [
+     "じむりょうしん ひむりょうしん",
+     "きむりょうしん しゃむりょうしん"
+    ],
+    "zh-Hant": [
+     "慈無量心 悲無量心",
+     "喜無量心 捨無量心"
+    ],
+    "zh-Hant-plain": [
+     "無限慈愛的心，無限憐憫的心，",
+     "無限與人同喜的心，無限平靜放下的心。"
+    ],
+    "zh-Hans": [
+     "慈无量心 悲无量心",
+     "喜无量心 舍无量心"
+    ],
+    "zh-Hans-plain": [
+     "无限慈爱的心，无限怜悯的心，",
+     "无限与人同喜的心，无限平静放下的心。"
     ]
    },
    "glossary": [
@@ -3462,7 +5509,10 @@
     "ko": "오계",
     "hanja": "오계",
     "plain": "오계",
-    "en": "Five precepts"
+    "en": "Five precepts",
+    "ja": "五戒",
+    "zh-Hant": "五戒",
+    "zh-Hans": "五戒"
    },
    "lines": {
     "ko": [
@@ -3480,6 +5530,34 @@
     "en": [
      "Do not harm life, do not take what is not given, do not engage in wrongful sexual conduct",
      "Do not lie, do not become drunk with alcohol"
+    ],
+    "ja": [
+     "不殺生 不偸盗 不邪淫",
+     "不妄語 不飮酒"
+    ],
+    "ja-plain": [
+     "命を傷つけないこと、与えられていないものを取らないこと、みだらな行いをしないこと、",
+     "うそをつかないこと、酒に酔わないこと"
+    ],
+    "ja-yomi": [
+     "ふせっしょう ふちゅうとう ふじゃいん",
+     "ふもうご ふおんじゅ"
+    ],
+    "zh-Hant": [
+     "不殺生 不偸盜 不邪淫",
+     "不妄語 不飮酒"
+    ],
+    "zh-Hant-plain": [
+     "不傷害生命，不拿別人沒給的東西，不做不正當的淫行，",
+     "不說謊，不飲酒致醉。"
+    ],
+    "zh-Hans": [
+     "不杀生 不偸盗 不邪淫",
+     "不妄语 不飮酒"
+    ],
+    "zh-Hans-plain": [
+     "不伤害生命，不拿别人没给的东西，不做不正当的淫行，",
+     "不说谎，不饮酒致醉。"
     ]
    },
    "glossary": [
@@ -3521,7 +5599,10 @@
     "ko": "몸의 병",
     "hanja": "몸의 병",
     "plain": "몸의 병",
-    "en": "Illness of the body"
+    "en": "Illness of the body",
+    "ja": "体の病",
+    "zh-Hant": "身體的病",
+    "zh-Hans": "身体的病"
    },
    "lines": {
     "ko": [
@@ -3539,6 +5620,34 @@
     "en": [
      "Do not wish for a body free of illness.",
      "When the body has no illness, greed arises."
+    ],
+    "ja": [
+     "念身不求無病",
+     "身無病則貪欲乃生"
+    ],
+    "ja-plain": [
+     "体に病がないことを願ってはいけません。",
+     "体に病がなければ、むさぼりの心が起こるからです。"
+    ],
+    "ja-yomi": [
+     "ねんしんふぐむびょう",
+     "しんむびょうそくとんよくないしょう"
+    ],
+    "zh-Hant": [
+     "念身不求無病",
+     "身無病則貪欲乃生"
+    ],
+    "zh-Hant-plain": [
+     "不要求身體沒有病。",
+     "因為身體沒有病，貪慾就會生起。"
+    ],
+    "zh-Hans": [
+     "念身不求无病",
+     "身无病则贪欲乃生"
+    ],
+    "zh-Hans-plain": [
+     "不要求身体没有病。",
+     "因为身体没有病，贪欲就会生起。"
     ]
    },
    "glossary": [
@@ -3574,7 +5683,10 @@
     "ko": "세상살이의 어려움",
     "hanja": "세상살이의 어려움",
     "plain": "세상살이의 어려움",
-    "en": "Hardship in life"
+    "en": "Hardship in life",
+    "ja": "世を生きる苦労",
+    "zh-Hant": "處世的難處",
+    "zh-Hans": "处世的难处"
    },
    "lines": {
     "ko": [
@@ -3592,6 +5704,34 @@
     "en": [
      "Do not wish for a life without hardship.",
      "Without hardship, pride and extravagance are sure to rise."
+    ],
+    "ja": [
+     "処世不求無難",
+     "世無難則驕奢必起"
+    ],
+    "ja-plain": [
+     "世を生きるのに苦労がないことを願ってはいけません。",
+     "苦労がなければ、おごりと贅沢の心が必ず起こります。"
+    ],
+    "ja-yomi": [
+     "しょせふぐむなん",
+     "せむなんそくきょうしゃひっき"
+    ],
+    "zh-Hant": [
+     "處世不求無難",
+     "世無難則驕奢必起"
+    ],
+    "zh-Hant-plain": [
+     "不要求處世沒有難處。",
+     "沒有難處，驕傲奢侈之心必定生起。"
+    ],
+    "zh-Hans": [
+     "处世不求无难",
+     "世无难则骄奢必起"
+    ],
+    "zh-Hans-plain": [
+     "不要求处世没有难处。",
+     "没有难处，骄傲奢侈之心必定生起。"
     ]
    },
    "glossary": [
@@ -3627,7 +5767,10 @@
     "ko": "공부의 막힘",
     "hanja": "공부의 막힘",
     "plain": "공부의 막힘",
-    "en": "Obstacles in study"
+    "en": "Obstacles in study",
+    "ja": "学びの行き詰まり",
+    "zh-Hant": "用功的障礙",
+    "zh-Hans": "用功的障碍"
    },
    "lines": {
     "ko": [
@@ -3645,6 +5788,34 @@
     "en": [
      "Do not wish for study of the mind without obstacles.",
      "Without obstacles, learning skips its proper steps."
+    ],
+    "ja": [
+     "究心不求無障",
+     "心無障則所学躐等"
+    ],
+    "ja-plain": [
+     "心の学びに行き詰まりがないことを願ってはいけません。",
+     "行き詰まりがなければ、学びが順序を飛ばします。"
+    ],
+    "ja-yomi": [
+     "くしんふぐむしょう",
+     "しんむしょうそくしょがくりょうとう"
+    ],
+    "zh-Hant": [
+     "究心不求無障",
+     "心無障則所學躐等"
+    ],
+    "zh-Hant-plain": [
+     "不要求修心沒有障礙。",
+     "沒有障礙，所學就會越過次第。"
+    ],
+    "zh-Hans": [
+     "究心不求无障",
+     "心无障则所学躐等"
+    ],
+    "zh-Hans-plain": [
+     "不要求修心没有障碍。",
+     "没有障碍，所学就会越过次第。"
     ]
    },
    "glossary": [
@@ -3680,7 +5851,10 @@
     "ko": "수행의 마장",
     "hanja": "수행의 마장",
     "plain": "수행의 마장",
-    "en": "Trials in practice"
+    "en": "Trials in practice",
+    "ja": "修行の妨げ",
+    "zh-Hant": "修行的魔障",
+    "zh-Hans": "修行的魔障"
    },
    "lines": {
     "ko": [
@@ -3698,6 +5872,34 @@
     "en": [
      "Do not wish for practice without trials.",
      "Without trials, your vows do not grow firm."
+    ],
+    "ja": [
+     "立行不求無魔",
+     "行無魔則誓願不堅"
+    ],
+    "ja-plain": [
+     "修行に妨げがないことを願ってはいけません。",
+     "妨げがなければ、立てた誓いが固まりません。"
+    ],
+    "ja-yomi": [
+     "りゅうぎょうふぐむま",
+     "ぎょうむまそくせいがんふけん"
+    ],
+    "zh-Hant": [
+     "立行不求無魔",
+     "行無魔則誓願不堅"
+    ],
+    "zh-Hant-plain": [
+     "不要求修行沒有魔障。",
+     "沒有魔障，所發的誓願就不會堅定。"
+    ],
+    "zh-Hans": [
+     "立行不求无魔",
+     "行无魔则誓愿不坚"
+    ],
+    "zh-Hans-plain": [
+     "不要求修行没有魔障。",
+     "没有魔障，所发的誓愿就不会坚定。"
     ]
    },
    "glossary": [
@@ -3733,7 +5935,10 @@
     "ko": "더디 이루는 일",
     "hanja": "더디 이루는 일",
     "plain": "더디 이루는 일",
-    "en": "Things that come slowly"
+    "en": "Things that come slowly",
+    "ja": "ゆっくり成ること",
+    "zh-Hant": "慢慢成就的事",
+    "zh-Hans": "慢慢成就的事"
    },
    "lines": {
     "ko": [
@@ -3751,6 +5956,34 @@
     "en": [
      "When you plan something, do not wish for it to come easily.",
      "When things come easily, the will turns careless and proud."
+    ],
+    "ja": [
+     "謀事不求易成",
+     "事易成則志存軽慢"
+    ],
+    "ja-plain": [
+     "事をはかるとき、たやすく成ることを願ってはいけません。",
+     "たやすく成れば、志が軽くおごったものになります。"
+    ],
+    "ja-yomi": [
+     "むじふぐいじょう",
+     "じいじょうそくしぞんきょうまん"
+    ],
+    "zh-Hant": [
+     "謀事不求易成",
+     "事易成則志存輕慢"
+    ],
+    "zh-Hant-plain": [
+     "做事不要求容易成功。",
+     "事情太容易成功，心志就會輕浮傲慢。"
+    ],
+    "zh-Hans": [
+     "谋事不求易成",
+     "事易成则志存轻慢"
+    ],
+    "zh-Hans-plain": [
+     "做事不要求容易成功。",
+     "事情太容易成功，心志就会轻浮傲慢。"
     ]
    },
    "glossary": [
@@ -3786,7 +6019,10 @@
     "ko": "사귐",
     "hanja": "사귐",
     "plain": "사귐",
-    "en": "Friendship"
+    "en": "Friendship",
+    "ja": "人との交わり",
+    "zh-Hant": "交往",
+    "zh-Hans": "交往"
    },
    "lines": {
     "ko": [
@@ -3804,6 +6040,34 @@
     "en": [
      "In friendship, do not seek what benefits you.",
      "When a friendship only serves you, goodness and loyalty are lost."
+    ],
+    "ja": [
+     "交情不求益吾",
+     "交益吾則虧損道義"
+    ],
+    "ja-plain": [
+     "人と交わるとき、自分の得になることを願ってはいけません。",
+     "交わりが自分の得ばかりになれば、道理と義理を失います。"
+    ],
+    "ja-yomi": [
+     "きょうじょうふぐやくご",
+     "きょうやくごそくきそんどうぎ"
+    ],
+    "zh-Hant": [
+     "交情不求益吾",
+     "交益吾則虧損道義"
+    ],
+    "zh-Hant-plain": [
+     "與人交往，不要求對自己有利。",
+     "交往只圖對自己有利，就會失去道義。"
+    ],
+    "zh-Hans": [
+     "交情不求益吾",
+     "交益吾则亏损道义"
+    ],
+    "zh-Hans-plain": [
+     "与人交往，不要求对自己有利。",
+     "交往只图对自己有利，就会失去道义。"
     ]
    },
    "glossary": [
@@ -3839,7 +6103,10 @@
     "ko": "내 뜻대로 되지 않는 사람",
     "hanja": "내 뜻대로 되지 않는 사람",
     "plain": "내 뜻대로 되지 않는 사람",
-    "en": "When others do not follow"
+    "en": "When others do not follow",
+    "ja": "思いどおりにならない人",
+    "zh-Hant": "不順我意的人",
+    "zh-Hans": "不顺我意的人"
    },
    "lines": {
     "ko": [
@@ -3857,6 +6124,34 @@
     "en": [
      "Do not wish for others to go along with you.",
      "When others always go along, the heart grows proud of itself."
+    ],
+    "ja": [
+     "於人不求順適",
+     "人順適則心必自矜"
+    ],
+    "ja-plain": [
+     "人が自分の思いどおりに従ってくれることを願ってはいけません。",
+     "人が思いどおりに従えば、心はおのずと思い上がります。"
+    ],
+    "ja-yomi": [
+     "おにんふぐじゅんじゃく",
+     "にんじゅんじゃくそくしんひつじきょう"
+    ],
+    "zh-Hant": [
+     "於人不求順適",
+     "人順適則心必自矜"
+    ],
+    "zh-Hant-plain": [
+     "不要求別人順從我的心意。",
+     "別人處處順從，心裡必定自我誇耀。"
+    ],
+    "zh-Hans": [
+     "于人不求顺适",
+     "人顺适则心必自矜"
+    ],
+    "zh-Hans-plain": [
+     "不要求别人顺从我的心意。",
+     "别人处处顺从，心里必定自我夸耀。"
     ]
    },
    "glossary": [
@@ -3886,7 +6181,10 @@
     "ko": "보답 없는 베풂",
     "hanja": "보답 없는 베풂",
     "plain": "보답 없는 베풂",
-    "en": "Giving without return"
+    "en": "Giving without return",
+    "ja": "見返りを求めない施し",
+    "zh-Hant": "不求回報的佈施",
+    "zh-Hans": "不求回报的布施"
    },
    "lines": {
     "ko": [
@@ -3904,6 +6202,34 @@
     "en": [
      "When you do good, do not hope for something back.",
      "Hoping for something back turns kindness into a plan."
+    ],
+    "ja": [
+     "施徳不求望報",
+     "徳望報則意有所図"
+    ],
+    "ja-plain": [
+     "徳を施して見返りを願ってはいけません。",
+     "見返りを願えば、施しに下心が生まれます。"
+    ],
+    "ja-yomi": [
+     "せとくふぐもうほう",
+     "とくもうほうそくいうしょず"
+    ],
+    "zh-Hant": [
+     "施德不求望報",
+     "德望報則意有所圖"
+    ],
+    "zh-Hant-plain": [
+     "施恩不要指望回報。",
+     "指望回報，佈施就有了圖謀。"
+    ],
+    "zh-Hans": [
+     "施德不求望报",
+     "德望报则意有所图"
+    ],
+    "zh-Hans-plain": [
+     "施恩不要指望回报。",
+     "指望回报，布施就有了图谋。"
     ]
    },
    "glossary": [
@@ -3933,7 +6259,10 @@
     "ko": "분에 넘치는 이익",
     "hanja": "분에 넘치는 이익",
     "plain": "분에 넘치는 이익",
-    "en": "More than my share"
+    "en": "More than my share",
+    "ja": "分を超える利益",
+    "zh-Hant": "過分的利益",
+    "zh-Hans": "过分的利益"
    },
    "lines": {
     "ko": [
@@ -3951,6 +6280,34 @@
     "en": [
      "When you see profit, do not wish for more than your share.",
      "When the share is too large, a foolish mind is stirred."
+    ],
+    "ja": [
+     "見利不求霑分",
+     "利霑分則痴心亦動"
+    ],
+    "ja-plain": [
+     "利益を見て、分を超えて願ってはいけません。",
+     "利益が分を超えれば、愚かな心が動きます。"
+    ],
+    "ja-yomi": [
+     "けんりふぐてんぶん",
+     "りてんぶんそくちしんやくどう"
+    ],
+    "zh-Hant": [
+     "見利不求霑分",
+     "利霑分則痴心亦動"
+    ],
+    "zh-Hant-plain": [
+     "見到利益，不要求超出本分。",
+     "利益超出本分，愚痴的心也會動起來。"
+    ],
+    "zh-Hans": [
+     "见利不求沾分",
+     "利沾分则痴心亦动"
+    ],
+    "zh-Hans-plain": [
+     "见到利益，不要求超出本分。",
+     "利益超出本分，愚痴的心也会动起来。"
     ]
    },
    "glossary": [
@@ -3980,7 +6337,10 @@
     "ko": "억울함",
     "hanja": "억울함",
     "plain": "억울함",
-    "en": "Being wronged"
+    "en": "Being wronged",
+    "ja": "理不尽な思い",
+    "zh-Hant": "受委屈",
+    "zh-Hans": "受委屈"
    },
    "lines": {
     "ko": [
@@ -3998,6 +6358,34 @@
     "en": [
      "When you are wronged, do not rush to prove yourself right.",
      "Trying to clear your name makes resentment grow."
+    ],
+    "ja": [
+     "被抑不求申明",
+     "抑申明則怨恨滋生"
+    ],
+    "ja-plain": [
+     "理不尽な目にあっても、あえて言い立てようとしてはいけません。",
+     "言い立てようとすれば、恨む心が育ちます。"
+    ],
+    "ja-yomi": [
+     "ひよくふぐしんみょう",
+     "よくしんみょうそくおんこんじしょう"
+    ],
+    "zh-Hant": [
+     "被抑不求申明",
+     "抑申明則怨恨滋生"
+    ],
+    "zh-Hant-plain": [
+     "受了委屈，不必急著辯白。",
+     "急著辯白，怨恨就會滋長。"
+    ],
+    "zh-Hans": [
+     "被抑不求申明",
+     "抑申明则怨恨滋生"
+    ],
+    "zh-Hans-plain": [
+     "受了委屈，不必急着辩白。",
+     "急着辩白，怨恨就会滋长。"
     ]
    },
    "glossary": [
@@ -4033,7 +6421,10 @@
     "ko": "아침 종송",
     "hanja": "아침 종송",
     "plain": "아침 종송",
-    "en": "Morning bell chant"
+    "en": "Morning bell chant",
+    "ja": "朝の鐘の偈",
+    "zh-Hant": "晨鐘偈",
+    "zh-Hans": "晨钟偈"
    },
    "lines": {
     "ko": [
@@ -4059,6 +6450,48 @@
      "and the deep darkness of the Iron Mountains all grow bright.",
      "May the three lower realms be free of pain and the mountain of blades fall,",
      "and may all living beings attain true awakening."
+    ],
+    "ja": [
+     "願此鐘声遍法界",
+     "鉄囲幽暗悉皆明",
+     "三途離苦破刀山",
+     "一切衆生成正覚"
+    ],
+    "ja-plain": [
+     "願わくは、この鐘の音が世界のすみずみに広がり",
+     "鉄囲山の深い闇までみな明るくなり",
+     "三つの苦しみの世界が痛みを離れ、刀の山が崩れ",
+     "すべての生きものが正しい悟りを得ますように。"
+    ],
+    "ja-yomi": [
+     "がんししょうしょうへんほっかい",
+     "てついゆうあんしっかいみょう",
+     "さんずりくはとうざん",
+     "いっさいしゅじょうじょうしょうがく"
+    ],
+    "zh-Hant": [
+     "願此鐘聲遍法界",
+     "鐵圍幽暗悉皆明",
+     "三途離苦破刀山",
+     "一切眾生成正覺"
+    ],
+    "zh-Hant-plain": [
+     "願這鐘聲傳遍整個世界，",
+     "連鐵圍山深處的黑暗也全都照亮，",
+     "三惡道眾生脫離苦痛，刀山崩塌，",
+     "願一切眾生都成就正覺。"
+    ],
+    "zh-Hans": [
+     "愿此钟声遍法界",
+     "铁围幽暗悉皆明",
+     "三途离苦破刀山",
+     "一切众生成正觉"
+    ],
+    "zh-Hans-plain": [
+     "愿这钟声传遍整个世界，",
+     "连铁围山深处的黑暗也全都照亮，",
+     "三恶道众生脱离苦痛，刀山崩塌，",
+     "愿一切众生都成就正觉。"
     ]
    },
    "glossary": [
@@ -4106,7 +6539,10 @@
     "ko": "오분향례",
     "hanja": "오분향례",
     "plain": "오분향례",
-    "en": "Fivefold incense offering"
+    "en": "Fivefold incense offering",
+    "ja": "五分香礼",
+    "zh-Hant": "五分香禮",
+    "zh-Hans": "五分香礼"
    },
    "lines": {
     "ko": [
@@ -4132,6 +6568,48 @@
      "the incense of liberation, and of the knowledge of liberation,",
      "becoming a cloud of bright light that fills all the worlds,",
      "is offered to the countless Buddhas, teachings, and Sangha of the ten directions."
+    ],
+    "ja": [
+     "戒香 定香 慧香",
+     "解脱香 解脱知見香",
+     "光明雲台 周遍法界",
+     "供養十方 無量仏法僧"
+    ],
+    "ja-plain": [
+     "戒の香、禅定の香、智慧の香",
+     "解脱の香、解脱を知る智慧の香が",
+     "明るい光の雲となって世界のすみずみに広がり",
+     "十方の数限りない仏と教えと僧に供養します。"
+    ],
+    "ja-yomi": [
+     "かいこう じょうこう えこう",
+     "げだつこう げだつちけんこう",
+     "こうみょううんだい しゅうへんほっかい",
+     "くようじっぽう むりょうぶっぽうそう"
+    ],
+    "zh-Hant": [
+     "戒香 定香 慧香",
+     "解脫香 解脫知見香",
+     "光明雲臺 周遍法界",
+     "供養十方 無量佛法僧"
+    ],
+    "zh-Hant-plain": [
+     "戒的香，定的香，智慧的香，",
+     "解脫的香，了知解脫的智慧之香，",
+     "化作光明的雲，遍滿整個世界，",
+     "供養十方無量的佛、法、僧。"
+    ],
+    "zh-Hans": [
+     "戒香 定香 慧香",
+     "解脱香 解脱知见香",
+     "光明云台 周遍法界",
+     "供养十方 无量佛法僧"
+    ],
+    "zh-Hans-plain": [
+     "戒的香，定的香，智慧的香，",
+     "解脱的香，了知解脱的智慧之香，",
+     "化作光明的云，遍满整个世界，",
+     "供养十方无量的佛、法、僧。"
     ]
    },
    "glossary": [
@@ -4179,7 +6657,10 @@
     "ko": "개경게",
     "hanja": "개경게",
     "plain": "개경게",
-    "en": "Verse for opening the sutra"
+    "en": "Verse for opening the sutra",
+    "ja": "開経偈",
+    "zh-Hant": "開經偈",
+    "zh-Hans": "开经偈"
    },
    "lines": {
     "ko": [
@@ -4205,6 +6686,48 @@
      "is hard to meet even in hundreds of thousands of eons.",
      "Now I see it, hear it, receive it, and keep it.",
      "May I understand the true meaning of the Tathagata."
+    ],
+    "ja": [
+     "無上甚深微妙法",
+     "百千万劫難遭遇",
+     "我今聞見得受持",
+     "願解如来真実義"
+    ],
+    "ja-plain": [
+     "この上なく高く深く微妙な教えは",
+     "百千万劫を経ても出会いがたいものです。",
+     "私はいま見て聞いて、受けたもつことができました。",
+     "如来のまことの意味を悟れますように。"
+    ],
+    "ja-yomi": [
+     "むじょうじんじんみみょうほう",
+     "ひゃくせんまんごうなんそうぐう",
+     "がこんもんけんとくじゅじ",
+     "がんげにょらいしんじつぎ"
+    ],
+    "zh-Hant": [
+     "無上甚深微妙法",
+     "百千萬劫難遭遇",
+     "我今聞見得受持",
+     "願解如來真實義"
+    ],
+    "zh-Hant-plain": [
+     "無上、深遠而微妙的佛法，",
+     "百千萬劫也難以遇到，",
+     "我今天得以見聞並受持，",
+     "願能領會如來真實的意義。"
+    ],
+    "zh-Hans": [
+     "无上甚深微妙法",
+     "百千万劫难遭遇",
+     "我今闻见得受持",
+     "愿解如来真实义"
+    ],
+    "zh-Hans-plain": [
+     "无上、深远而微妙的佛法，",
+     "百千万劫也难以遇到，",
+     "我今天得以见闻并受持，",
+     "愿能领会如来真实的意义。"
     ]
    },
    "glossary": [
@@ -4252,7 +6775,10 @@
     "ko": "참회게",
     "hanja": "참회게",
     "plain": "참회게",
-    "en": "Verse of repentance"
+    "en": "Verse of repentance",
+    "ja": "懺悔偈",
+    "zh-Hant": "懺悔偈",
+    "zh-Hans": "忏悔偈"
    },
    "lines": {
     "ko": [
@@ -4278,6 +6804,48 @@
      "came from greed, anger, and ignorance without beginning,",
      "and were born of body, speech, and mind.",
      "Now I repent of them all."
+    ],
+    "ja": [
+     "我昔所造諸悪業",
+     "皆由無始貪瞋痴",
+     "従身口意之所生",
+     "一切我今皆懺悔"
+    ],
+    "ja-plain": [
+     "私が昔つくったあらゆる悪い行いは",
+     "みな始まりのない昔からのむさぼり、怒り、愚かさから起こり",
+     "体と口と心から生まれたものです。",
+     "そのすべてを、私はいま懺悔します。"
+    ],
+    "ja-yomi": [
+     "がしゃくしょぞうしょあくごう",
+     "かいゆうむしとんじんち",
+     "じゅうしんくいししょしょう",
+     "いっさいがこんかいさんげ"
+    ],
+    "zh-Hant": [
+     "我昔所造諸惡業",
+     "皆由無始貪瞋痴",
+     "從身口意之所生",
+     "一切我今皆懺悔"
+    ],
+    "zh-Hant-plain": [
+     "我過去所造的一切惡業，",
+     "都源自無始以來的貪、嗔、痴，",
+     "由身、口、意所造，",
+     "這一切，我今天都懺悔。"
+    ],
+    "zh-Hans": [
+     "我昔所造诸恶业",
+     "皆由无始贪瞋痴",
+     "从身口意之所生",
+     "一切我今皆忏悔"
+    ],
+    "zh-Hans-plain": [
+     "我过去所造的一切恶业，",
+     "都源自无始以来的贪、嗔、痴，",
+     "由身、口、意所造，",
+     "这一切，我今天都忏悔。"
     ]
    },
    "glossary": [
@@ -4319,7 +6887,10 @@
     "ko": "자등명 법등명",
     "hanja": "자등명 법등명",
     "plain": "자등명 법등명",
-    "en": "Be a lamp to yourself"
+    "en": "Be a lamp to yourself",
+    "ja": "自灯明 法灯明",
+    "zh-Hant": "自燈明 法燈明",
+    "zh-Hans": "自灯明 法灯明"
    },
    "lines": {
     "ko": [
@@ -4341,6 +6912,41 @@
      "Make yourself your lamp, and make the truth your lamp.",
      "Rely on yourself, and rely on the truth.",
      "Do not rely on anything else."
+    ],
+    "ja": [
+     "自灯明 法灯明",
+     "自帰依 法帰依",
+     "莫他帰依"
+    ],
+    "ja-plain": [
+     "自分をともしびとし、真理をともしびとしなさい。",
+     "自分をよりどころとし、真理をよりどころとしなさい。",
+     "ほかのものをよりどころにしてはいけません。"
+    ],
+    "ja-yomi": [
+     "じとうみょう ほうとうみょう",
+     "じきえ ほうきえ",
+     "まくたきえ"
+    ],
+    "zh-Hant": [
+     "自燈明 法燈明",
+     "自歸依 法歸依",
+     "莫他歸依"
+    ],
+    "zh-Hant-plain": [
+     "以自己為燈，以真理為燈。",
+     "依靠自己，依靠真理。",
+     "不要依靠別的。"
+    ],
+    "zh-Hans": [
+     "自灯明 法灯明",
+     "自归依 法归依",
+     "莫他归依"
+    ],
+    "zh-Hans-plain": [
+     "以自己为灯，以真理为灯。",
+     "依靠自己，依靠真理。",
+     "不要依靠别的。"
     ]
    },
    "glossary": [
@@ -4376,7 +6982,10 @@
     "ko": "저녁 종송",
     "hanja": "저녁 종송",
     "plain": "저녁 종송",
-    "en": "Evening bell chant"
+    "en": "Evening bell chant",
+    "ja": "夕べの鐘の偈",
+    "zh-Hant": "暮鍾偈",
+    "zh-Hans": "暮钟偈"
    },
    "lines": {
     "ko": [
@@ -4402,6 +7011,48 @@
      "wisdom grow, and awakening arise.",
      "May we leave the hells and go beyond the three realms,",
      "and may we become Buddhas and free all living beings."
+    ],
+    "ja": [
+     "聞鐘声 煩悩断",
+     "智慧長 菩提生",
+     "離地獄 出三界",
+     "願成仏 度衆生"
+    ],
+    "ja-plain": [
+     "鐘の音を聞いて煩悩を断ち",
+     "智慧が育ち、悟りが生まれ",
+     "地獄を離れ、三界を抜け出し",
+     "仏となって生きものを救えますように。"
+    ],
+    "ja-yomi": [
+     "もんしょうしょう ぼんのうだん",
+     "ちえちょう ぼだいしょう",
+     "りじごく しゅつさんがい",
+     "がんじょうぶつ どしゅじょう"
+    ],
+    "zh-Hant": [
+     "聞鐘聲 煩惱斷",
+     "智慧長 菩提生",
+     "離地獄 出三界",
+     "願成佛 度眾生"
+    ],
+    "zh-Hant-plain": [
+     "聽到鐘聲，煩惱斷除，",
+     "智慧增長，覺悟生起，",
+     "離開地獄，走出三界，",
+     "願成佛道，度化眾生。"
+    ],
+    "zh-Hans": [
+     "闻钟声 烦恼断",
+     "智慧长 菩提生",
+     "离地狱 出三界",
+     "愿成佛 度众生"
+    ],
+    "zh-Hans-plain": [
+     "听到钟声，烦恼断除，",
+     "智慧增长，觉悟生起，",
+     "离开地狱，走出三界，",
+     "愿成佛道，度化众生。"
     ]
    },
    "glossary": [
@@ -4443,7 +7094,10 @@
     "ko": "회향게",
     "hanja": "회향게",
     "plain": "회향게",
-    "en": "Verse of dedication"
+    "en": "Verse of dedication",
+    "ja": "回向偈",
+    "zh-Hant": "迴向偈",
+    "zh-Hans": "回向偈"
    },
    "lines": {
     "ko": [
@@ -4469,6 +7123,48 @@
      "reach everyone everywhere,",
      "so that we and all living beings",
      "may together complete the path of awakening."
+    ],
+    "ja": [
+     "願以此功徳",
+     "普及於一切",
+     "我等与衆生",
+     "皆共成仏道"
+    ],
+    "ja-plain": [
+     "願わくは、この功徳が",
+     "すべての人にあまねく届き",
+     "私たちとすべての生きものが",
+     "みなともに悟りを得ますように。"
+    ],
+    "ja-yomi": [
+     "がんにしくどく",
+     "ふぎゅうおいっさい",
+     "がとうよしゅじょう",
+     "かいぐじょうぶつどう"
+    ],
+    "zh-Hant": [
+     "願以此功德",
+     "普及於一切",
+     "我等與眾生",
+     "皆共成佛道"
+    ],
+    "zh-Hant-plain": [
+     "願以這份功德，",
+     "普遍惠及一切，",
+     "我們和所有眾生，",
+     "都一同成就佛道。"
+    ],
+    "zh-Hans": [
+     "愿以此功德",
+     "普及于一切",
+     "我等与众生",
+     "皆共成佛道"
+    ],
+    "zh-Hans-plain": [
+     "愿以这份功德，",
+     "普遍惠及一切，",
+     "我们和所有众生，",
+     "都一同成就佛道。"
     ]
    },
    "glossary": [
@@ -4504,7 +7200,10 @@
     "ko": "신심명 1–4구",
     "hanja": "신심명 1–4구",
     "plain": "신심명 1–4구",
-    "en": "Faith in Mind, lines 1–4"
+    "en": "Faith in Mind, lines 1–4",
+    "ja": "信心銘 1〜4句",
+    "zh-Hant": "信心銘 1–4句",
+    "zh-Hans": "信心铭 1–4句"
    },
    "lines": {
     "ko": [
@@ -4530,6 +7229,48 @@
      "it only dislikes choosing and rejecting.",
      "If there is no hate or love,",
      "it is open, bright, and clear."
+    ],
+    "ja": [
+     "至道無難",
+     "唯嫌揀択",
+     "但莫憎愛",
+     "洞然明白"
+    ],
+    "ja-plain": [
+     "至高の道は難しくありません。",
+     "ただ選り好みをきらうだけです。",
+     "憎む心と愛する心さえなければ",
+     "からりと開けて、明らかになります。"
+    ],
+    "ja-yomi": [
+     "しどうぶなん",
+     "ゆいけんけんじゃく",
+     "たんまくぞうあい",
+     "とうねんめいはく"
+    ],
+    "zh-Hant": [
+     "至道無難",
+     "唯嫌揀擇",
+     "但莫憎愛",
+     "洞然明白"
+    ],
+    "zh-Hant-plain": [
+     "至高的道並不難，",
+     "只是不喜歡挑揀和分別。",
+     "只要沒有憎恨和貪愛，",
+     "就會豁然通透，明明白白。"
+    ],
+    "zh-Hans": [
+     "至道无难",
+     "唯嫌拣择",
+     "但莫憎爱",
+     "洞然明白"
+    ],
+    "zh-Hans-plain": [
+     "至高的道并不难，",
+     "只是不喜欢挑拣和分别。",
+     "只要没有憎恨和贪爱，",
+     "就会豁然通透，明明白白。"
     ]
    },
    "glossary": [
@@ -4565,7 +7306,10 @@
     "ko": "신심명 5–8구",
     "hanja": "신심명 5–8구",
     "plain": "신심명 5–8구",
-    "en": "Faith in Mind, lines 5–8"
+    "en": "Faith in Mind, lines 5–8",
+    "ja": "信心銘 5〜8句",
+    "zh-Hant": "信心銘 5–8句",
+    "zh-Hans": "信心铭 5–8句"
    },
    "lines": {
     "ko": [
@@ -4591,6 +7335,48 @@
      "and you are as far apart as heaven and earth.",
      "If you want it to appear before you,",
      "hold no thought of for or against."
+    ],
+    "ja": [
+     "毫釐有差",
+     "天地懸隔",
+     "欲得現前",
+     "莫存順逆"
+    ],
+    "ja-plain": [
+     "毛すじほどでも食い違えば",
+     "天と地ほど遠く離れます。",
+     "道が目の前に現れてほしいなら",
+     "従う心も逆らう心も持たないでください。"
+    ],
+    "ja-yomi": [
+     "ごうりうしゃ",
+     "てんちけんかく",
+     "よくとくげんぜん",
+     "まくぞんじゅんぎゃく"
+    ],
+    "zh-Hant": [
+     "毫釐有差",
+     "天地懸隔",
+     "欲得現前",
+     "莫存順逆"
+    ],
+    "zh-Hant-plain": [
+     "哪怕只差一絲一毫，",
+     "就會像天和地一樣遠隔。",
+     "若想讓道顯現在眼前，",
+     "就不要存有順從和違逆的心。"
+    ],
+    "zh-Hans": [
+     "毫厘有差",
+     "天地悬隔",
+     "欲得现前",
+     "莫存顺逆"
+    ],
+    "zh-Hans-plain": [
+     "哪怕只差一丝一毫，",
+     "就会像天和地一样远隔。",
+     "若想让道显现在眼前，",
+     "就不要存有顺从和违逆的心。"
     ]
    },
    "glossary": [
@@ -4626,7 +7412,10 @@
     "ko": "신심명 9–12구",
     "hanja": "신심명 9–12구",
     "plain": "신심명 9–12구",
-    "en": "Faith in Mind, lines 9–12"
+    "en": "Faith in Mind, lines 9–12",
+    "ja": "信心銘 9〜12句",
+    "zh-Hant": "信心銘 9–12句",
+    "zh-Hans": "信心铭 9–12句"
    },
    "lines": {
     "ko": [
@@ -4652,6 +7441,48 @@
      "this is the sickness of the mind.",
      "Not knowing the deep meaning,",
      "you work in vain to quiet your thoughts."
+    ],
+    "ja": [
+     "違順相争",
+     "是為心病",
+     "不識玄旨",
+     "徒労念静"
+    ],
+    "ja-plain": [
+     "逆らう心と従う心が争うこと",
+     "それが心の病です。",
+     "深い意味を知らなければ",
+     "思いを静めようと努めても、むだな骨折りです。"
+    ],
+    "ja-yomi": [
+     "いじゅんそうそう",
+     "ぜいしんびょう",
+     "ふしきげんし",
+     "とろうねんじょう"
+    ],
+    "zh-Hant": [
+     "違順相爭",
+     "是為心病",
+     "不識玄旨",
+     "徒勞念靜"
+    ],
+    "zh-Hant-plain": [
+     "違逆與順從互相爭鬥，",
+     "這就是心的病。",
+     "不懂得深遠的意旨，",
+     "想讓念頭安靜也只是白費力氣。"
+    ],
+    "zh-Hans": [
+     "违顺相争",
+     "是为心病",
+     "不识玄旨",
+     "徒劳念静"
+    ],
+    "zh-Hans-plain": [
+     "违逆与顺从互相争斗，",
+     "这就是心的病。",
+     "不懂得深远的意旨，",
+     "想让念头安静也只是白费力气。"
     ]
    },
    "glossary": [
@@ -4693,7 +7524,10 @@
     "ko": "신심명 13–16구",
     "hanja": "신심명 13–16구",
     "plain": "신심명 13–16구",
-    "en": "Faith in Mind, lines 13–16"
+    "en": "Faith in Mind, lines 13–16",
+    "ja": "信心銘 13〜16句",
+    "zh-Hant": "信心銘 13–16句",
+    "zh-Hans": "信心铭 13–16句"
    },
    "lines": {
     "ko": [
@@ -4719,6 +7553,48 @@
      "lacking nothing and with nothing extra.",
      "It is only because we grasp and reject",
      "that we do not see it as it is."
+    ],
+    "ja": [
+     "円同太虚",
+     "無欠無余",
+     "良由取捨",
+     "所以不如"
+    ],
+    "ja-plain": [
+     "道は大きな虚空のように円かで",
+     "足りないものも余るものもありません。",
+     "ただ取る心と捨てる心のために",
+     "ありのままでいられないだけです。"
+    ],
+    "ja-yomi": [
+     "えんどうたいきょ",
+     "むけつむよ",
+     "りょうゆしゅしゃ",
+     "しょいふにょ"
+    ],
+    "zh-Hant": [
+     "圓同太虛",
+     "無欠無餘",
+     "良由取捨",
+     "所以不如"
+    ],
+    "zh-Hant-plain": [
+     "道像廣大的虛空一樣圓滿，",
+     "不欠缺，也不多餘。",
+     "只因為有取有舍的心，",
+     "才不能如其本然。"
+    ],
+    "zh-Hans": [
+     "圆同太虚",
+     "无欠无余",
+     "良由取舍",
+     "所以不如"
+    ],
+    "zh-Hans-plain": [
+     "道像广大的虚空一样圆满，",
+     "不欠缺，也不多余。",
+     "只因为有取有舍的心，",
+     "才不能如其本然。"
     ]
    },
    "glossary": [
@@ -4754,7 +7630,10 @@
     "ko": "신심명 17–20구",
     "hanja": "신심명 17–20구",
     "plain": "신심명 17–20구",
-    "en": "Faith in Mind, lines 17–20"
+    "en": "Faith in Mind, lines 17–20",
+    "ja": "信心銘 17〜20句",
+    "zh-Hant": "信心銘 17–20句",
+    "zh-Hans": "信心铭 17–20句"
    },
    "lines": {
     "ko": [
@@ -4780,6 +7659,48 @@
      "and do not dwell in emptiness either.",
      "Keep one even, peaceful mind,",
      "and the pulling to either side fades by itself."
+    ],
+    "ja": [
+     "莫逐有縁",
+     "勿住空忍",
+     "一種平懐",
+     "泯然自尽"
+    ],
+    "ja-plain": [
+     "外の縁を追いかけず",
+     "空にとどまることもしないでください。",
+     "いつも平らかな心でいれば",
+     "かたよりはおのずと消えていきます。"
+    ],
+    "ja-yomi": [
+     "まくちくうえん",
+     "もつじゅうくうにん",
+     "いっしゅびょうえ",
+     "みんねんじじん"
+    ],
+    "zh-Hant": [
+     "莫逐有緣",
+     "勿住空忍",
+     "一種平懷",
+     "泯然自盡"
+    ],
+    "zh-Hant-plain": [
+     "不要追逐外在的因緣，",
+     "也不要停留在空裡。",
+     "始終保持一顆平和的心，",
+     "偏執自然就消失了。"
+    ],
+    "zh-Hans": [
+     "莫逐有缘",
+     "勿住空忍",
+     "一种平怀",
+     "泯然自尽"
+    ],
+    "zh-Hans-plain": [
+     "不要追逐外在的因缘，",
+     "也不要停留在空里。",
+     "始终保持一颗平和的心，",
+     "偏执自然就消失了。"
     ]
    },
    "glossary": [
@@ -4815,7 +7736,10 @@
     "ko": "신심명 21–24구",
     "hanja": "신심명 21–24구",
     "plain": "신심명 21–24구",
-    "en": "Faith in Mind, lines 21–24"
+    "en": "Faith in Mind, lines 21–24",
+    "ja": "信心銘 21〜24句",
+    "zh-Hant": "信心銘 21–24句",
+    "zh-Hans": "信心铭 21–24句"
    },
    "lines": {
     "ko": [
@@ -4841,6 +7765,48 @@
      "that stopping only stirs more movement.",
      "If you stay stuck at either end,",
      "how can you know that they are one?"
+    ],
+    "ja": [
+     "止動帰止",
+     "止更弥動",
+     "唯滞両辺",
+     "寧知一種"
+    ],
+    "ja-plain": [
+     "動きを止めて静けさに戻ろうとすると",
+     "その止めることが、かえって大きな動きになります。",
+     "両方の端にとどまっているだけでは",
+     "どうしてひとつであると知ることができるでしょう。"
+    ],
+    "ja-yomi": [
+     "しどうきし",
+     "しきょうみどう",
+     "ゆいたいりょうへん",
+     "ねいちいっしゅ"
+    ],
+    "zh-Hant": [
+     "止動歸止",
+     "止更彌動",
+     "唯滯兩邊",
+     "寧知一種"
+    ],
+    "zh-Hant-plain": [
+     "想停止活動、回到靜止，",
+     "那份停止反而成了更大的活動。",
+     "只要停留在兩端，",
+     "又怎能知道它們本是一體。"
+    ],
+    "zh-Hans": [
+     "止动归止",
+     "止更弥动",
+     "唯滞两边",
+     "宁知一种"
+    ],
+    "zh-Hans-plain": [
+     "想停止活动、回到静止，",
+     "那份停止反而成了更大的活动。",
+     "只要停留在两端，",
+     "又怎能知道它们本是一体。"
     ]
    },
    "glossary": [
@@ -4876,7 +7842,10 @@
     "ko": "신심명 25–28구",
     "hanja": "신심명 25–28구",
     "plain": "신심명 25–28구",
-    "en": "Faith in Mind, lines 25–28"
+    "en": "Faith in Mind, lines 25–28",
+    "ja": "信心銘 25〜28句",
+    "zh-Hant": "信心銘 25–28句",
+    "zh-Hans": "信心铭 25–28句"
    },
    "lines": {
     "ko": [
@@ -4902,6 +7871,48 @@
      "you lose your effort on both sides.",
      "Pushing away being, you sink into being;",
      "chasing emptiness, you turn your back on emptiness."
+    ],
+    "ja": [
+     "一種不通",
+     "両処失功",
+     "遣有没有",
+     "従空背空"
+    ],
+    "ja-plain": [
+     "ひとつであることを見通せなければ",
+     "どちらの側でも、努めたことを失います。",
+     "有を捨てようとすると、かえって有に沈み",
+     "空を追うと、かえって空に背きます。"
+    ],
+    "ja-yomi": [
+     "いっしゅふつう",
+     "りょうしょしっこう",
+     "けんうもつう",
+     "じゅうくうはいくう"
+    ],
+    "zh-Hant": [
+     "一種不通",
+     "兩處失功",
+     "遣有沒有",
+     "從空背空"
+    ],
+    "zh-Hant-plain": [
+     "不能看透一體，",
+     "兩邊都會白費功夫。",
+     "想拋開有，反而陷入有，",
+     "追逐空，反而背離空。"
+    ],
+    "zh-Hans": [
+     "一种不通",
+     "两处失功",
+     "遣有没有",
+     "从空背空"
+    ],
+    "zh-Hans-plain": [
+     "不能看透一体，",
+     "两边都会白费功夫。",
+     "想抛开有，反而陷入有，",
+     "追逐空，反而背离空。"
     ]
    },
    "glossary": [
@@ -4937,7 +7948,10 @@
     "ko": "신심명 29–32구",
     "hanja": "신심명 29–32구",
     "plain": "신심명 29–32구",
-    "en": "Faith in Mind, lines 29–32"
+    "en": "Faith in Mind, lines 29–32",
+    "ja": "信心銘 29〜32句",
+    "zh-Hant": "信心銘 29–32句",
+    "zh-Hans": "信心铭 29–32句"
    },
    "lines": {
     "ko": [
@@ -4963,6 +7977,48 @@
      "the further you drift from the Way.",
      "When words end and thinking ends,",
      "there is nowhere it does not reach."
+    ],
+    "ja": [
+     "多言多慮",
+     "転不相応",
+     "絶言絶慮",
+     "無処不通"
+    ],
+    "ja-plain": [
+     "言葉が多く、思いが多いほど",
+     "ますます道から外れます。",
+     "言葉が絶え、思いが絶えれば",
+     "通じないところはありません。"
+    ],
+    "ja-yomi": [
+     "たごんたりょ",
+     "てんぷそうおう",
+     "ぜつごんぜつりょ",
+     "むしょふつう"
+    ],
+    "zh-Hant": [
+     "多言多慮",
+     "轉不相應",
+     "絶言絶慮",
+     "無處不通"
+    ],
+    "zh-Hant-plain": [
+     "話越多，想得越多，",
+     "就越與道不相應。",
+     "言語斷了，思慮斷了，",
+     "就沒有一處不通達。"
+    ],
+    "zh-Hans": [
+     "多言多虑",
+     "转不相应",
+     "绝言绝虑",
+     "无处不通"
+    ],
+    "zh-Hans-plain": [
+     "话越多，想得越多，",
+     "就越与道不相应。",
+     "言语断了，思虑断了，",
+     "就没有一处不通达。"
     ]
    },
    "glossary": [
@@ -4998,7 +8054,10 @@
     "ko": "신심명 33–36구",
     "hanja": "신심명 33–36구",
     "plain": "신심명 33–36구",
-    "en": "Faith in Mind, lines 33–36"
+    "en": "Faith in Mind, lines 33–36",
+    "ja": "信心銘 33〜36句",
+    "zh-Hant": "信心銘 33–36句",
+    "zh-Hans": "信心铭 33–36句"
    },
    "lines": {
     "ko": [
@@ -5024,6 +8083,48 @@
      "follow what shines outward and you lose the source.",
      "Turn the light inward for even a moment,",
      "and it surpasses the emptiness spoken of before."
+    ],
+    "ja": [
+     "帰根得旨",
+     "随照失宗",
+     "須臾返照",
+     "勝却前空"
+    ],
+    "ja-plain": [
+     "根もとに帰れば、意味を得て",
+     "照らされるものを追えば、根本を失います。",
+     "ほんのひとときでも、自分を照らし返せば",
+     "先に言った空よりもすぐれています。"
+    ],
+    "ja-yomi": [
+     "きこんとくし",
+     "ずいしょうしっしゅう",
+     "しゅゆへんしょう",
+     "しょうきゃくぜんくう"
+    ],
+    "zh-Hant": [
+     "歸根得旨",
+     "隨照失宗",
+     "須臾返照",
+     "勝却前空"
+    ],
+    "zh-Hant-plain": [
+     "回到根本，就得到意旨，",
+     "追隨外在的光照，就失去本源。",
+     "哪怕只是片刻回過頭來照見自己，",
+     "也勝過前面所說的空。"
+    ],
+    "zh-Hans": [
+     "归根得旨",
+     "随照失宗",
+     "须臾返照",
+     "胜却前空"
+    ],
+    "zh-Hans-plain": [
+     "回到根本，就得到意旨，",
+     "追随外在的光照，就失去本源。",
+     "哪怕只是片刻回过头来照见自己，",
+     "也胜过前面所说的空。"
     ]
    },
    "glossary": [
@@ -5065,7 +8166,10 @@
     "ko": "신심명 맺음",
     "hanja": "신심명 맺음",
     "plain": "신심명 맺음",
-    "en": "Faith in Mind, closing"
+    "en": "Faith in Mind, closing",
+    "ja": "信心銘 結び",
+    "zh-Hant": "信心銘 結語",
+    "zh-Hans": "信心铭 结语"
    },
    "lines": {
     "ko": [
@@ -5091,6 +8195,48 @@
      "not two is the trusting mind.",
      "Here the way of words is cut off,",
      "neither past, nor future, nor present."
+    ],
+    "ja": [
+     "信心不二",
+     "不二信心",
+     "言語道断",
+     "非去来今"
+    ],
+    "ja-plain": [
+     "信じる心は二つではなく",
+     "二つでないことが、そのまま信じる心です。",
+     "言葉の道が絶えたところであって",
+     "過去でも未来でも現在でもありません。"
+    ],
+    "ja-yomi": [
+     "しんじんふに",
+     "ふにしんじん",
+     "ごんごどうだん",
+     "ひこらいこん"
+    ],
+    "zh-Hant": [
+     "信心不二",
+     "不二信心",
+     "言語道斷",
+     "非去來今"
+    ],
+    "zh-Hant-plain": [
+     "信心不是兩個，",
+     "不二就是信心。",
+     "這是言語之路斷絕的地方，",
+     "不是過去，不是未來，也不是現在。"
+    ],
+    "zh-Hans": [
+     "信心不二",
+     "不二信心",
+     "言语道断",
+     "非去来今"
+    ],
+    "zh-Hans-plain": [
+     "信心不是两个，",
+     "不二就是信心。",
+     "这是言语之路断绝的地方，",
+     "不是过去，不是未来，也不是现在。"
     ]
    },
    "glossary": [
@@ -5126,7 +8272,10 @@
     "ko": "적멸궁과 불타는 집",
     "hanja": "적멸궁과 불타는 집",
     "plain": "적멸궁과 불타는 집",
-    "en": "The palace of stillness and the burning house"
+    "en": "The palace of stillness and the burning house",
+    "ja": "寂滅宮と燃える家",
+    "zh-Hant": "寂滅宮與火宅",
+    "zh-Hans": "寂灭宫与火宅"
    },
    "lines": {
     "ko": [
@@ -5152,6 +8301,48 @@
      "because over countless eons they gave up desire and practiced hard.",
      "Living beings keep circling at the gate of the burning house",
      "because through countless lives they have not let go of craving."
+    ],
+    "ja": [
+     "夫諸仏諸仏 荘厳寂滅宮",
+     "於多劫海 捨欲苦行",
+     "衆生衆生 輪廻火宅門",
+     "於無量世 貪欲不捨"
+    ],
+    "ja-plain": [
+     "すべての仏が静かな涅槃の宮殿を美しく荘厳されたのは",
+     "長い年月、欲を捨てて苦行されたからです。",
+     "衆生が燃える家の門の中で輪廻しているのは",
+     "限りない世々にわたり、貪りを捨てられなかったからです。"
+    ],
+    "ja-yomi": [
+     "ふしょぶつしょぶつ しょうごんじゃくめつぐう",
+     "おたこうかい しゃよくくぎょう",
+     "しゅじょうしゅじょう りんねかたくもん",
+     "おむりょうせ とんよくふしゃ"
+    ],
+    "zh-Hant": [
+     "夫諸佛諸佛 莊嚴寂滅宮",
+     "於多劫海 捨欲苦行",
+     "眾生眾生 輪廻火宅門",
+     "於無量世 貪欲不捨"
+    ],
+    "zh-Hant-plain": [
+     "諸佛之所以莊嚴寂靜涅槃的宮殿，",
+     "是因為在漫長歲月里舍棄慾望、勤修苦行；",
+     "眾生之所以在燃燒的房子門內輪迴，",
+     "是因為在無量世中舍不下貪慾。"
+    ],
+    "zh-Hans": [
+     "夫诸佛诸佛 庄严寂灭宫",
+     "于多劫海 舍欲苦行",
+     "众生众生 轮廻火宅门",
+     "于无量世 贪欲不舍"
+    ],
+    "zh-Hans-plain": [
+     "诸佛之所以庄严寂静涅槃的宫殿，",
+     "是因为在漫长岁月里舍弃欲望、勤修苦行；",
+     "众生之所以在燃烧的房子门内轮回，",
+     "是因为在无量世中舍不下贪欲。"
     ]
    },
    "glossary": [
@@ -5193,7 +8384,10 @@
     "ko": "천당과 악도",
     "hanja": "천당과 악도",
     "plain": "천당과 악도",
-    "en": "Heaven and the lower paths"
+    "en": "Heaven and the lower paths",
+    "ja": "天堂と悪道",
+    "zh-Hant": "天堂與惡道",
+    "zh-Hans": "天堂与恶道"
    },
    "lines": {
     "ko": [
@@ -5219,6 +8413,48 @@
      "because we treat greed, anger, and ignorance as our household treasure.",
      "No one lures us to the lower paths, yet many enter,",
      "because we treat the body and the five desires as the jewels of a deluded mind."
+    ],
+    "ja": [
+     "無防天堂 少往至者",
+     "三毒煩悩 為自家財",
+     "無誘悪道 多往入者",
+     "四蛇五欲 為妄心宝"
+    ],
+    "ja-plain": [
+     "誰も止めない天堂へ行く人が少ないのは",
+     "貪り、怒り、愚かさの煩悩をわが家の財産としているからです。",
+     "誰も誘わない悪い道へ多くの人が入るのは",
+     "四匹の蛇のような体と五つの欲を、迷った心の宝としているからです。"
+    ],
+    "ja-yomi": [
+     "むぼうてんどう しょうおうししゃ",
+     "さんどくぼんのう いじけざい",
+     "むゆうあくどう たおうにゅうしゃ",
+     "しじゃごよく いもうしんぼう"
+    ],
+    "zh-Hant": [
+     "無防天堂 少往至者",
+     "三毒煩惱 為自家財",
+     "無誘惡道 多往入者",
+     "四蛇五欲 為妄心寶"
+    ],
+    "zh-Hant-plain": [
+     "沒有人阻攔天堂，去的人卻很少，",
+     "是因為把貪、嗔、痴的煩惱當作自家的財物；",
+     "沒有人引誘走惡道，進去的人卻很多，",
+     "是因為把四蛇般的身體和五欲當作妄心的珍寶。"
+    ],
+    "zh-Hans": [
+     "无防天堂 少往至者",
+     "三毒烦恼 为自家财",
+     "无诱恶道 多往入者",
+     "四蛇五欲 为妄心宝"
+    ],
+    "zh-Hans-plain": [
+     "没有人阻拦天堂，去的人却很少，",
+     "是因为把贪、嗔、痴的烦恼当作自家的财物；",
+     "没有人引诱走恶道，进去的人却很多，",
+     "是因为把四蛇般的身体和五欲当作妄心的珍宝。"
     ]
    },
    "glossary": [
@@ -5260,7 +8496,10 @@
     "ko": "제 힘 닿는 대로",
     "hanja": "제 힘 닿는 대로",
     "plain": "제 힘 닿는 대로",
-    "en": "As far as your strength allows"
+    "en": "As far as your strength allows",
+    "ja": "力の及ぶかぎり",
+    "zh-Hant": "儘自己的力量",
+    "zh-Hans": "尽自己的力量"
    },
    "lines": {
     "ko": [
@@ -5286,6 +8525,48 @@
      "We do not go because we are bound by attachment.",
      "Even if you cannot go into the mountains to train the mind,",
      "do not give up good deeds, as far as your strength allows."
+    ],
+    "ja": [
+     "人誰不欲帰山修道",
+     "而為不進 愛欲所纏",
+     "然而不帰山藪修心",
+     "随自身力 不捨善行"
+    ],
+    "ja-plain": [
+     "山に入って道を修めたくない人がいるでしょうか。",
+     "それができないのは、愛欲に絡まれているからです。",
+     "山に入って心を修めることはできなくても",
+     "自分の力の及ぶかぎり、善い行いを捨ててはいけません。"
+    ],
+    "ja-yomi": [
+     "にんすいふよくきせんしゅどう",
+     "にいふしん あいよくしょてん",
+     "ねんにふきせんそうしゅしん",
+     "ずいじしんりき ふしゃぜんぎょう"
+    ],
+    "zh-Hant": [
+     "人誰不欲歸山修道",
+     "而為不進 愛欲所纏",
+     "然而不歸山藪修心",
+     "隨自身力 不捨善行"
+    ],
+    "zh-Hant-plain": [
+     "誰不想進山修道呢，",
+     "做不到，是因為被愛慾纏住了。",
+     "即使不能進山修心，",
+     "也要儘自己的力量，不捨棄善行。"
+    ],
+    "zh-Hans": [
+     "人谁不欲归山修道",
+     "而为不进 爱欲所缠",
+     "然而不归山薮修心",
+     "随自身力 不舍善行"
+    ],
+    "zh-Hans-plain": [
+     "谁不想进山修道呢，",
+     "做不到，是因为被爱欲缠住了。",
+     "即使不能进山修心，",
+     "也要尽自己的力量，不舍弃善行。"
     ]
    },
    "glossary": [
@@ -5321,7 +8602,10 @@
     "ko": "버리고 행하기",
     "hanja": "버리고 행하기",
     "plain": "버리고 행하기",
-    "en": "Letting go and doing the hard thing"
+    "en": "Letting go and doing the hard thing",
+    "ja": "手放すことと行うこと",
+    "zh-Hant": "捨棄與力行",
+    "zh-Hans": "舍弃与力行"
    },
    "lines": {
     "ko": [
@@ -5347,6 +8631,48 @@
      "and if you can do difficult practice, you are honored like the Buddha.",
      "Clinging greedily to things is to belong to Mara's crowd;",
      "giving with kindness and compassion is to be a child of the Buddha."
+    ],
+    "ja": [
+     "自楽能捨 信敬如聖",
+     "難行能行 尊重如仏",
+     "慳貪於物 是魔眷属",
+     "慈悲布施 是法王子"
+    ],
+    "ja-plain": [
+     "自分の楽しみを捨てられれば、聖者のように信じ敬われ",
+     "難しい修行をやり遂げれば、仏のように尊ばれます。",
+     "財に物惜しみして欲張れば魔の仲間であり",
+     "慈悲をもって施せば仏の子です。"
+    ],
+    "ja-yomi": [
+     "じらくのうしゃ しんきょうにょしょう",
+     "なんぎょうのうぎょう そんじゅうにょぶつ",
+     "けんどんおもつ ぜまけんぞく",
+     "じひふせ ぜほうおうじ"
+    ],
+    "zh-Hant": [
+     "自樂能捨 信敬如聖",
+     "難行能行 尊重如佛",
+     "慳貪於物 是魔眷屬",
+     "慈悲布施 是法王子"
+    ],
+    "zh-Hant-plain": [
+     "能捨棄自己的快樂，就會像聖人一樣受人信敬；",
+     "能做難做的修行，就會像佛一樣受人尊重。",
+     "對財物吝嗇貪求，便是魔的眷屬；",
+     "以慈悲佈施，便是佛的兒女。"
+    ],
+    "zh-Hans": [
+     "自乐能舍 信敬如圣",
+     "难行能行 尊重如佛",
+     "悭贪于物 是魔眷属",
+     "慈悲布施 是法王子"
+    ],
+    "zh-Hans-plain": [
+     "能舍弃自己的快乐，就会像圣人一样受人信敬；",
+     "能做难做的修行，就会像佛一样受人尊重。",
+     "对财物吝啬贪求，便是魔的眷属；",
+     "以慈悲布施，便是佛的儿女。"
     ]
    },
    "glossary": [
@@ -5388,7 +8714,10 @@
     "ko": "산속의 수행자",
     "hanja": "산속의 수행자",
     "plain": "산속의 수행자",
-    "en": "The practitioner in the mountains"
+    "en": "The practitioner in the mountains",
+    "ja": "山の修行者",
+    "zh-Hant": "山中的修行人",
+    "zh-Hans": "山中的修行人"
    },
    "lines": {
     "ko": [
@@ -5414,6 +8743,48 @@
      "and green pines in deep valleys are where practitioners dwell.",
      "When hungry, they ease an empty stomach with fruit from the trees;",
      "when thirsty, they drink flowing water to rest their thirst."
+    ],
+    "ja": [
+     "高岳峨巌 智人所居",
+     "碧松深谷 行者所棲",
+     "飢飡木果 慰其飢腸",
+     "渇飮流水 息其渇情"
+    ],
+    "ja-plain": [
+     "高い山と険しい岩は、智慧ある人の住む所であり",
+     "青い松と深い谷は、修行者の身を寄せる所です。",
+     "飢えれば木の実で空いたお腹をなだめ",
+     "渇けば流れる水を飲んで渇きを鎮めます。"
+    ],
+    "ja-yomi": [
+     "こうがくががん ちにんしょこ",
+     "へきしょうじんこく ぎょうじゃしょせい",
+     "きさんもっか いごきちょう",
+     "かつおんるすい そくごかつじょう"
+    ],
+    "zh-Hant": [
+     "高嶽峨巖 智人所居",
+     "碧松深谷 行者所棲",
+     "飢飡木果 慰其飢腸",
+     "渴飮流水 息其渴情"
+    ],
+    "zh-Hant-plain": [
+     "高山險巖，是智者居住的地方；",
+     "青松深谷，是修行人棲身的地方。",
+     "餓了，就用樹上的果子安慰飢餓的肚子；",
+     "渴了，就喝流水來止息口渴。"
+    ],
+    "zh-Hans": [
+     "高岳峨岩 智人所居",
+     "碧松深谷 行者所栖",
+     "饥飡木果 慰其饥肠",
+     "渴飮流水 息其渴情"
+    ],
+    "zh-Hans-plain": [
+     "高山险岩，是智者居住的地方；",
+     "青松深谷，是修行人栖身的地方。",
+     "饿了，就用树上的果子安慰饥饿的肚子；",
+     "渴了，就喝流水来止息口渴。"
     ]
    },
    "glossary": [
@@ -5455,7 +8826,10 @@
     "ko": "백 년은 금방",
     "hanja": "백 년은 금방",
     "plain": "백 년은 금방",
-    "en": "A hundred years pass quickly"
+    "en": "A hundred years pass quickly",
+    "ja": "百年はすぐに",
+    "zh-Hant": "百年轉眼即到",
+    "zh-Hans": "百年转眼即到"
    },
    "lines": {
     "ko": [
@@ -5481,6 +8855,48 @@
      "How long is one life, that you spend it idle instead of practicing?",
      "Leaving attachment within the heart is called being a monk,",
      "and not longing for worldly things is called leaving home."
+    ],
+    "ja": [
+     "忽至百年 云何不学",
+     "一生幾何 不修放逸",
+     "離心中愛 是名沙門",
+     "不恋世俗 是名出家"
+    ],
+    "ja-plain": [
+     "たちまち百年に至るのに、どうして学ばないのですか。",
+     "一生がどれほどだというので、修めずに怠けて過ごすのですか。",
+     "心の中の愛着を離れることを沙門といい",
+     "世俗を恋しがらないことを出家といいます。"
+    ],
+    "ja-yomi": [
+     "こっしひゃくねん うんがふがく",
+     "いっしょうきか ふしゅほういつ",
+     "りしんちゅうあい ぜみょうしゃもん",
+     "ふれんせぞく ぜみょうしゅっけ"
+    ],
+    "zh-Hant": [
+     "忽至百年 云何不學",
+     "一生幾何 不修放逸",
+     "離心中愛 是名沙門",
+     "不戀世俗 是名出家"
+    ],
+    "zh-Hant-plain": [
+     "百年轉眼就到，為什麼不學呢；",
+     "一生能有多久，為什麼不修行而放逸度日。",
+     "離開心中的愛著，叫作沙門；",
+     "不貪戀世俗，叫作出家。"
+    ],
+    "zh-Hans": [
+     "忽至百年 云何不学",
+     "一生几何 不修放逸",
+     "离心中爱 是名沙门",
+     "不恋世俗 是名出家"
+    ],
+    "zh-Hans-plain": [
+     "百年转眼就到，为什么不学呢；",
+     "一生能有多久，为什么不修行而放逸度日。",
+     "离开心中的爱著，叫作沙门；",
+     "不贪恋世俗，叫作出家。"
     ]
    },
    "glossary": [
@@ -5516,7 +8932,10 @@
     "ko": "계행과 지혜",
     "hanja": "계행과 지혜",
     "plain": "계행과 지혜",
-    "en": "Precepts and wisdom"
+    "en": "Precepts and wisdom",
+    "ja": "戒めと智慧",
+    "zh-Hant": "戒行與智慧",
+    "zh-Hans": "戒行与智慧"
    },
    "lines": {
     "ko": [
@@ -5542,6 +8961,48 @@
      "is like someone led to a treasure who will not get up and go.",
      "One who practices diligently but has no wisdom",
      "is like someone who wants to go east but walks west."
+    ],
+    "ja": [
+     "雖有才学 無戒行者",
+     "如宝所導 而不起行",
+     "雖有勤行 無智慧者",
+     "欲往東方 而向西行"
+    ],
+    "ja-plain": [
+     "才能と学識があっても戒めを守らない人は",
+     "宝のある所へ導かれても立って行かない人のようです。",
+     "熱心に修行しても智慧のない人は",
+     "東へ行こうとしながら西へ歩く人のようです。"
+    ],
+    "ja-yomi": [
+     "すいうさいがく むかいぎょうじゃ",
+     "にょほうしょどう にふきぎょう",
+     "すいうごんぎょう むちえしゃ",
+     "よくおうとうぼう にこうさいぎょう"
+    ],
+    "zh-Hant": [
+     "雖有才學 無戒行者",
+     "如寶所導 而不起行",
+     "雖有勤行 無智慧者",
+     "欲往東方 而向西行"
+    ],
+    "zh-Hant-plain": [
+     "有才學卻沒有戒行的人，",
+     "就像被領到寶藏前卻不起身前往；",
+     "勤於修行卻沒有智慧的人，",
+     "就像想去東方卻往西走。"
+    ],
+    "zh-Hans": [
+     "虽有才学 无戒行者",
+     "如宝所导 而不起行",
+     "虽有勤行 无智慧者",
+     "欲往东方 而向西行"
+    ],
+    "zh-Hans-plain": [
+     "有才学却没有戒行的人，",
+     "就像被领到宝藏前却不起身前往；",
+     "勤于修行却没有智慧的人，",
+     "就像想去东方却往西走。"
     ]
    },
    "glossary": [
@@ -5577,7 +9038,10 @@
     "ko": "쌀로 짓는 밥",
     "hanja": "쌀로 짓는 밥",
     "plain": "쌀로 짓는 밥",
-    "en": "Rice, not sand"
+    "en": "Rice, not sand",
+    "ja": "米で炊くご飯",
+    "zh-Hant": "用米做飯",
+    "zh-Hans": "用米做饭"
    },
    "lines": {
     "ko": [
@@ -5603,6 +9067,48 @@
      "what the unwise do is like steaming sand to make a meal.",
      "Everyone knows to eat to ease a hungry stomach,",
      "yet few know to learn the teaching to change a foolish mind."
+    ],
+    "ja": [
+     "有智人所行 蒸米作飯",
+     "無智人所行 蒸沙作飯",
+     "共知喫食而慰飢腸",
+     "不知学法而改痴心"
+    ],
+    "ja-plain": [
+     "智慧ある人のすることは、米を蒸してご飯を炊くことであり",
+     "智慧のない人のすることは、砂を蒸してご飯を炊こうとすることです。",
+     "誰もがご飯を食べて空腹をなだめることは知っていても",
+     "法を学んで愚かな心を改めることは知りません。"
+    ],
+    "ja-yomi": [
+     "うちにんしょぎょう じょうまいさぼん",
+     "むちにんしょぎょう じょうしゃさぼん",
+     "ぐちきつじきにいきちょう",
+     "ふちがくほうにかいちしん"
+    ],
+    "zh-Hant": [
+     "有智人所行 蒸米作飯",
+     "無智人所行 蒸沙作飯",
+     "共知吃食而慰飢腸",
+     "不知學法而改痴心"
+    ],
+    "zh-Hant-plain": [
+     "有智慧的人所做的，像是蒸米做飯；",
+     "沒有智慧的人所做的，像是蒸沙做飯。",
+     "人人都知道吃飯來安慰飢餓的肚子，",
+     "卻不知道學法來改正愚痴的心。"
+    ],
+    "zh-Hans": [
+     "有智人所行 蒸米作饭",
+     "无智人所行 蒸沙作饭",
+     "共知吃食而慰饥肠",
+     "不知学法而改痴心"
+    ],
+    "zh-Hans-plain": [
+     "有智慧的人所做的，像是蒸米做饭；",
+     "没有智慧的人所做的，像是蒸沙做饭。",
+     "人人都知道吃饭来安慰饥饿的肚子，",
+     "却不知道学法来改正愚痴的心。"
     ]
    },
    "glossary": [
@@ -5638,7 +9144,10 @@
     "ko": "수레의 두 바퀴",
     "hanja": "수레의 두 바퀴",
     "plain": "수레의 두 바퀴",
-    "en": "Two wheels of a cart"
+    "en": "Two wheels of a cart",
+    "ja": "車の両輪",
+    "zh-Hant": "車的兩個輪子",
+    "zh-Hans": "车的两个轮子"
    },
    "lines": {
     "ko": [
@@ -5656,6 +9165,34 @@
     "en": [
      "Practice and wisdom together are like the two wheels of a cart;",
      "helping yourself and helping others are like the two wings of a bird."
+    ],
+    "ja": [
+     "行智具備 如車二輪",
+     "自利利他 如鳥両翼"
+    ],
+    "ja-plain": [
+     "修行と智慧をともに備えるのは、車の二つの輪のようであり",
+     "自分を利し他者を利するのは、鳥の二つの翼のようです。"
+    ],
+    "ja-yomi": [
+     "ぎょうちぐび にょしゃにりん",
+     "じりりた にょちょうりょうよく"
+    ],
+    "zh-Hant": [
+     "行智具備 如車二輪",
+     "自利利他 如鳥兩翼"
+    ],
+    "zh-Hant-plain": [
+     "修行與智慧一同具備，就像車的兩個輪子；",
+     "利益自己也利益他人，就像鳥的兩隻翅膀。"
+    ],
+    "zh-Hans": [
+     "行智具备 如车二轮",
+     "自利利他 如鸟两翼"
+    ],
+    "zh-Hans-plain": [
+     "修行与智慧一同具备，就像车的两个轮子；",
+     "利益自己也利益他人，就像鸟的两只翅膀。"
     ]
    },
    "glossary": [
@@ -5691,7 +9228,10 @@
     "ko": "어찌 서두르지 않으랴",
     "hanja": "어찌 서두르지 않으랴",
     "plain": "어찌 서두르지 않으랴",
-    "en": "Why not hurry?"
+    "en": "Why not hurry?",
+    "ja": "どうして急がずにいられよう",
+    "zh-Hant": "怎能不趕緊",
+    "zh-Hans": "怎能不赶紧"
    },
    "lines": {
     "ko": [
@@ -5717,6 +9257,48 @@
      "One moment of patience brings lasting joy, so why not practice?",
      "This body will surely end; what of the body that follows?",
      "Is it not urgent? Is it not urgent?"
+    ],
+    "ja": [
+     "世楽後苦 何貪着哉",
+     "一忍長楽 何不修哉",
+     "身必有終 後身何乎",
+     "莫速急乎 莫速急乎"
+    ],
+    "ja-plain": [
+     "世の楽しみは後に苦しみとなるのに、どうして貪り執着するのですか。",
+     "一度こらえれば長く楽しいのに、どうして修めないのですか。",
+     "体には必ず終わりがあります。次の身はどうするのですか。",
+     "急がなければなりません、急がなければなりません。"
+    ],
+    "ja-yomi": [
+     "せらくごく がとんじゃくさい",
+     "いちにんじょうらく がふしゅさい",
+     "しんひつうしゅう ごしんがこ",
+     "まくそくきゅうこ まくそくきゅうこ"
+    ],
+    "zh-Hant": [
+     "世樂後苦 何貪著哉",
+     "一忍長樂 何不修哉",
+     "身必有終 後身何乎",
+     "莫速急乎 莫速急乎"
+    ],
+    "zh-Hant-plain": [
+     "世間的快樂日後會變成痛苦，為什麼還貪戀執著；",
+     "忍耐一時便能長久快樂，為什麼不修行。",
+     "身體終有盡頭，下一個身體又將如何。",
+     "不該趕緊嗎，不該趕緊嗎。"
+    ],
+    "zh-Hans": [
+     "世乐后苦 何贪著哉",
+     "一忍长乐 何不修哉",
+     "身必有终 后身何乎",
+     "莫速急乎 莫速急乎"
+    ],
+    "zh-Hans-plain": [
+     "世间的快乐日后会变成痛苦，为什么还贪恋执著；",
+     "忍耐一时便能长久快乐，为什么不修行。",
+     "身体终有尽头，下一个身体又将如何。",
+     "不该赶紧吗，不该赶紧吗。"
     ]
    },
    "glossary": [
@@ -5758,7 +9340,10 @@
     "ko": "부처님께 절하기",
     "hanja": "부처님께 절하기",
     "plain": "부처님께 절하기",
-    "en": "Bowing to all Buddhas"
+    "en": "Bowing to all Buddhas",
+    "ja": "諸仏を礼拝する",
+    "zh-Hant": "禮敬諸佛",
+    "zh-Hans": "礼敬诸佛"
    },
    "lines": {
     "ko": [
@@ -5788,6 +9373,55 @@
      "The first is to bow to and honor all Buddhas.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "若欲成就此功徳門",
+     "応修十種広大行願",
+     "一者礼敬諸仏",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "如来のこの功徳の門を成し遂げたいなら",
+     "十の広く大きな行と願いを修めなければなりません。",
+     "一つ目は、すべての仏を礼拝し敬うことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "にゃくよくじょうじゅしくどくもん",
+     "おうしゅじっしゅこうだいぎょうがん",
+     "いちしゃらいきょうしょぶつ",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "若欲成就此功德門",
+     "應修十種廣大行願",
+     "一者禮敬諸佛",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "如果想成就如來的這扇功德之門，",
+     "應當修習十種廣大的行與願。",
+     "第一是禮拜恭敬一切諸佛。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "若欲成就此功德门",
+     "应修十种广大行愿",
+     "一者礼敬诸佛",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "如果想成就如来的这扇功德之门，",
+     "应当修习十种广大的行与愿。",
+     "第一是礼拜恭敬一切诸佛。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -5829,7 +9463,10 @@
     "ko": "여래를 찬탄하기",
     "hanja": "여래를 찬탄하기",
     "plain": "여래를 찬탄하기",
-    "en": "Praising the Tathagata"
+    "en": "Praising the Tathagata",
+    "ja": "如来を讃える",
+    "zh-Hant": "稱讚如來",
+    "zh-Hans": "称赞如来"
    },
    "lines": {
     "ko": [
@@ -5851,6 +9488,41 @@
      "The second is to praise the Tathagata.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "二者称讚如来",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "二つ目は、如来の功徳をたたえ讃嘆することです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "にしゃしょうさんにょらい",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "二者稱讚如來",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第二是稱頌讚嘆如來的功德。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "二者称赞如来",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第二是称颂赞叹如来的功德。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -5880,7 +9552,10 @@
     "ko": "널리 공양하기",
     "hanja": "널리 공양하기",
     "plain": "널리 공양하기",
-    "en": "Making offerings widely"
+    "en": "Making offerings widely",
+    "ja": "広く供養する",
+    "zh-Hant": "廣修供養",
+    "zh-Hans": "广修供养"
    },
    "lines": {
     "ko": [
@@ -5902,6 +9577,41 @@
      "The third is to make offerings widely.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "三者広修供養",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "三つ目は、広く供養をささげることです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "さんしゃこうしゅくよう",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "三者廣修供養",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第三是廣泛地獻上供養。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "三者广修供养",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第三是广泛地献上供养。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -5931,7 +9641,10 @@
     "ko": "업장 참회하기",
     "hanja": "업장 참회하기",
     "plain": "업장 참회하기",
-    "en": "Repenting of karmic obstacles"
+    "en": "Repenting of karmic obstacles",
+    "ja": "業障を懺悔する",
+    "zh-Hant": "懺悔業障",
+    "zh-Hans": "忏悔业障"
    },
    "lines": {
     "ko": [
@@ -5953,6 +9666,41 @@
      "The fourth is to repent of the obstacles made by past deeds.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "四者懺悔業障",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "四つ目は、過去の行いがつくった障りを悔い改めることです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "ししゃさんげごっしょう",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "四者懺悔業障",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第四是懺悔過去所造的業障。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "四者忏悔业障",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第四是忏悔过去所造的业障。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -5976,7 +9724,10 @@
     "ko": "함께 기뻐하기",
     "hanja": "함께 기뻐하기",
     "plain": "함께 기뻐하기",
-    "en": "Rejoicing in others' merit"
+    "en": "Rejoicing in others' merit",
+    "ja": "ともに喜ぶ",
+    "zh-Hant": "隨喜功德",
+    "zh-Hans": "随喜功德"
    },
    "lines": {
     "ko": [
@@ -5998,6 +9749,41 @@
      "The fifth is to rejoice in the merit of others.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "五者随喜功徳",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "五つ目は、人が積んだ功徳をともに喜ぶことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "ごしゃずいきくどく",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "五者隨喜功德",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第五是為他人所做的功德一同歡喜。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "五者随喜功德",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第五是为他人所做的功德一同欢喜。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -6021,7 +9807,10 @@
     "ko": "가르침을 청하기",
     "hanja": "가르침을 청하기",
     "plain": "가르침을 청하기",
-    "en": "Asking for the teaching"
+    "en": "Asking for the teaching",
+    "ja": "教えを請う",
+    "zh-Hant": "請轉法輪",
+    "zh-Hans": "请转法轮"
    },
    "lines": {
     "ko": [
@@ -6043,6 +9832,41 @@
      "The sixth is to ask the Buddhas to turn the wheel of the Dharma.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "六者請転法輪",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "六つ目は、仏に教えの輪を転じてくださるよう請うことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "ろくしゃしょうてんぼうりん",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "六者請轉法輪",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第六是懇請諸佛轉動教法之輪。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "六者请转法轮",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第六是恳请诸佛转动教法之轮。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -6066,7 +9890,10 @@
     "ko": "세상에 머무시기를 청하기",
     "hanja": "세상에 머무시기를 청하기",
     "plain": "세상에 머무시기를 청하기",
-    "en": "Asking the Buddhas to stay"
+    "en": "Asking the Buddhas to stay",
+    "ja": "この世にとどまるよう請う",
+    "zh-Hant": "請佛住世",
+    "zh-Hans": "请佛住世"
    },
    "lines": {
     "ko": [
@@ -6088,6 +9915,41 @@
      "The seventh is to ask the Buddhas to remain in the world.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "七者請仏住世",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "七つ目は、仏にこの世に長くとどまってくださるよう請うことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "しちしゃしょうぶつじゅうせ",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "七者請佛住世",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第七是懇請諸佛長久住在世間。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "七者请佛住世",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第七是恳请诸佛长久住在世间。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -6111,7 +9973,10 @@
     "ko": "늘 부처님을 따라 배우기",
     "hanja": "늘 부처님을 따라 배우기",
     "plain": "늘 부처님을 따라 배우기",
-    "en": "Always learning from the Buddha"
+    "en": "Always learning from the Buddha",
+    "ja": "常に仏に学ぶ",
+    "zh-Hant": "常隨佛學",
+    "zh-Hans": "常随佛学"
    },
    "lines": {
     "ko": [
@@ -6133,6 +9998,41 @@
      "The eighth is to always follow and learn from the Buddha.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "八者常随仏学",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "八つ目は、いつも仏に従って学ぶことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "はっしゃじょうずいぶつがく",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "八者常隨佛學",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第八是常常跟隨佛學習。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "八者常随佛学",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第八是常常跟随佛学习。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -6156,7 +10056,10 @@
     "ko": "중생을 따르기",
     "hanja": "중생을 따르기",
     "plain": "중생을 따르기",
-    "en": "Always in harmony with beings"
+    "en": "Always in harmony with beings",
+    "ja": "衆生に寄り添う",
+    "zh-Hant": "恆順眾生",
+    "zh-Hans": "恒顺众生"
    },
    "lines": {
     "ko": [
@@ -6178,6 +10081,41 @@
      "The ninth is to always accord with living beings.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "九者恒順衆生",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "九つ目は、いつも衆生の思いに合わせて寄り添うことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "くしゃごうじゅんしゅじょう",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "九者恒順眾生",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第九是始終順應眾生的心意。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "九者恒顺众生",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第九是始终顺应众生的心意。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -6201,7 +10139,10 @@
     "ko": "두루 회향하기",
     "hanja": "두루 회향하기",
     "plain": "두루 회향하기",
-    "en": "Dedicating merit to all"
+    "en": "Dedicating merit to all",
+    "ja": "あまねく回向する",
+    "zh-Hant": "普皆迴向",
+    "zh-Hans": "普皆回向"
    },
    "lines": {
     "ko": [
@@ -6223,6 +10164,41 @@
      "The tenth is to dedicate all merit to everyone.",
      "Thought after thought, it goes on without a break,",
      "and body, speech, and mind never tire of it."
+    ],
+    "ja": [
+     "十者普皆迴向",
+     "念念相続 無有間断",
+     "身語意業 無有疲厭"
+    ],
+    "ja-plain": [
+     "十番目は、積んだすべての功徳を、すべての人にあまねくめぐらし分かち合うことです。",
+     "思いが絶えず続いて途切れることがなく",
+     "身と言葉と心のはたらきに疲れも飽きもありません。"
+    ],
+    "ja-yomi": [
+     "じっしゃふかいえこう",
+     "ねんねんそうぞく むうけんだん",
+     "しんごいごう むうひえん"
+    ],
+    "zh-Hant": [
+     "十者普皆迴向",
+     "念念相續 無有間斷",
+     "身語意業 無有疲厭"
+    ],
+    "zh-Hant-plain": [
+     "第十是把所有功德普遍迴向給一切眾生。",
+     "念念相續，沒有間斷，",
+     "身口意的行為，從不疲倦厭煩。"
+    ],
+    "zh-Hans": [
+     "十者普皆回向",
+     "念念相续 无有间断",
+     "身语意业 无有疲厌"
+    ],
+    "zh-Hans-plain": [
+     "第十是把所有功德普遍回向给一切众生。",
+     "念念相续，没有间断，",
+     "身口意的行为，从不疲倦厌烦。"
     ]
    },
    "glossary": [
@@ -6246,7 +10222,10 @@
     "ko": "온 세계의 부처님께",
     "hanja": "온 세계의 부처님께",
     "plain": "온 세계의 부처님께",
-    "en": "To all Buddhas everywhere"
+    "en": "To all Buddhas everywhere",
+    "ja": "十方の仏に",
+    "zh-Hant": "禮敬十方諸佛",
+    "zh-Hans": "礼敬十方诸佛"
    },
    "lines": {
     "ko": [
@@ -6272,6 +10251,48 @@
      "to every lion among humans of past, present, and future,",
      "with pure body, speech, and mind",
      "I bow to each and every one, leaving none out."
+    ],
+    "ja": [
+     "所有十方世界中",
+     "三世一切人師子",
+     "我以清浄身語意",
+     "一切遍礼尽無余"
+    ],
+    "ja-plain": [
+     "十方のすべての世界におられる",
+     "過去、現在、未来の、人の中の獅子である仏に",
+     "私は清らかな身と言葉と心で",
+     "残らずあまねく礼拝します。"
+    ],
+    "ja-yomi": [
+     "しょうじっぽうせかいちゅう",
+     "さんぜいっさいにんしし",
+     "がいしょうじょうしんごい",
+     "いっさいへんらいじんむよ"
+    ],
+    "zh-Hant": [
+     "所有十方世界中",
+     "三世一切人師子",
+     "我以清淨身語意",
+     "一切遍禮盡無餘"
+    ],
+    "zh-Hant-plain": [
+     "十方一切世界之中，",
+     "過去、現在、未來人中獅子般的諸佛，",
+     "我以清淨的身口意，",
+     "一一禮拜，沒有遺漏。"
+    ],
+    "zh-Hans": [
+     "所有十方世界中",
+     "三世一切人师子",
+     "我以清净身语意",
+     "一切遍礼尽无余"
+    ],
+    "zh-Hans-plain": [
+     "十方一切世界之中，",
+     "过去、现在、未来人中狮子般的诸佛，",
+     "我以清净的身口意，",
+     "一一礼拜，没有遗漏。"
     ]
    },
    "glossary": [
@@ -6313,7 +10334,10 @@
     "ko": "한 몸이 티끌 수만큼",
     "hanja": "한 몸이 티끌 수만큼",
     "plain": "한 몸이 티끌 수만큼",
-    "en": "One body becoming countless"
+    "en": "One body becoming countless",
+    "ja": "一つの身が塵の数ほどに",
+    "zh-Hant": "一身化作微塵數身",
+    "zh-Hans": "一身化作微尘数身"
    },
    "lines": {
     "ko": [
@@ -6339,6 +10363,48 @@
      "I appear before every Tathagata;",
      "one body appears again as bodies countless as dust,",
      "each bowing to Buddhas countless as dust."
+    ],
+    "ja": [
+     "普賢行願威神力",
+     "普現一切如来前",
+     "一身復現刹塵身",
+     "一一遍礼刹塵仏"
+    ],
+    "ja-plain": [
+     "普賢菩薩の行と願いから生まれる威神力によって",
+     "すべての如来の前にあまねく現れ",
+     "一つの身がさらに塵のように多くの身を現して",
+     "一人ひとり、塵のように多くの仏にあまねく礼拝します。"
+    ],
+    "ja-yomi": [
+     "ふげんぎょうがんいじんりき",
+     "ふげんいっさいにょらいぜん",
+     "いっしんぶげんせつじんしん",
+     "いちいちへんらいせつじんぶつ"
+    ],
+    "zh-Hant": [
+     "普賢行願威神力",
+     "普現一切如來前",
+     "一身復現刹塵身",
+     "一一遍禮刹塵佛"
+    ],
+    "zh-Hant-plain": [
+     "憑著普賢菩薩行願的威神之力，",
+     "我普遍出現在一切如來面前；",
+     "一個身體又化現出微塵般多的身體，",
+     "一一禮拜微塵般多的諸佛。"
+    ],
+    "zh-Hans": [
+     "普贤行愿威神力",
+     "普现一切如来前",
+     "一身复现刹尘身",
+     "一一遍礼刹尘佛"
+    ],
+    "zh-Hans-plain": [
+     "凭着普贤菩萨行愿的威神之力，",
+     "我普遍出现在一切如来面前；",
+     "一个身体又化现出微尘般多的身体，",
+     "一一礼拜微尘般多的诸佛。"
     ]
    },
    "glossary": [
@@ -6374,7 +10440,10 @@
     "ko": "티끌 하나 속의 부처님",
     "hanja": "티끌 하나 속의 부처님",
     "plain": "티끌 하나 속의 부처님",
-    "en": "Buddhas in a single speck of dust"
+    "en": "Buddhas in a single speck of dust",
+    "ja": "一つの塵の中の仏",
+    "zh-Hant": "一塵之中的諸佛",
+    "zh-Hans": "一尘之中的诸佛"
    },
    "lines": {
     "ko": [
@@ -6400,6 +10469,48 @@
      "each seated among an assembly of bodhisattvas.",
      "So it is in every speck of the endless Dharma realm;",
      "I deeply trust that the Buddhas fill it completely."
+    ],
+    "ja": [
+     "於一塵中塵数仏",
+     "各処菩薩衆会中",
+     "無尽法界塵亦然",
+     "深信諸仏皆充満"
+    ],
+    "ja-plain": [
+     "一つの塵の中に、塵の数ほど多くの仏が",
+     "それぞれ菩薩たちの集まりの中におられます。",
+     "果てしない法界の塵ごとにまた同じであり",
+     "すべての仏が満ちておられることを深く信じます。"
+    ],
+    "ja-yomi": [
+     "おいちじんちゅうじんじゅぶつ",
+     "かくしょぼさつしゅえちゅう",
+     "むじんほっかいじんやくねん",
+     "じんしんしょぶつかいじゅうまん"
+    ],
+    "zh-Hant": [
+     "於一塵中塵數佛",
+     "各處菩薩眾會中",
+     "無盡法界塵亦然",
+     "深信諸佛皆充滿"
+    ],
+    "zh-Hant-plain": [
+     "一粒微塵之中，有微塵數那麼多的佛，",
+     "各自坐在菩薩大眾的聚會之中。",
+     "無盡法界的每一粒微塵也都是這樣，",
+     "我深深相信諸佛充滿其中。"
+    ],
+    "zh-Hans": [
+     "于一尘中尘数佛",
+     "各处菩萨众会中",
+     "无尽法界尘亦然",
+     "深信诸佛皆充满"
+    ],
+    "zh-Hans-plain": [
+     "一粒微尘之中，有微尘数那么多的佛，",
+     "各自坐在菩萨大众的聚会之中。",
+     "无尽法界的每一粒微尘也都是这样，",
+     "我深深相信诸佛充满其中。"
     ]
    },
    "glossary": [
@@ -6441,7 +10552,10 @@
     "ko": "다함없는 찬탄",
     "hanja": "다함없는 찬탄",
     "plain": "다함없는 찬탄",
-    "en": "Praise without end"
+    "en": "Praise without end",
+    "ja": "尽きない讃嘆",
+    "zh-Hant": "無盡的讚歎",
+    "zh-Hans": "无尽的赞叹"
    },
    "lines": {
     "ko": [
@@ -6467,6 +10581,48 @@
      "pouring out endless, beautiful words,",
      "through all the eons still to come,",
      "I praise the Buddha's deep ocean of merit."
+    ],
+    "ja": [
+     "各以一切音声海",
+     "普出無尽妙言辞",
+     "尽於未来一切劫",
+     "讚仏甚深功徳海"
+    ],
+    "ja-plain": [
+     "それぞれ海のように多くのあらゆる声で",
+     "尽きることのない美しい言葉をあまねく出し",
+     "来たるべき時が尽きるまで",
+     "仏の深い深い功徳の海を讃嘆します。"
+    ],
+    "ja-yomi": [
+     "かくいいっさいおんじょうかい",
+     "ふしゅつむじんみょうごんじ",
+     "じんおみらいいっさいこう",
+     "さんぶつじんじんくどくかい"
+    ],
+    "zh-Hant": [
+     "各以一切音聲海",
+     "普出無盡妙言辭",
+     "盡於未來一切劫",
+     "讚佛甚深功德海"
+    ],
+    "zh-Hant-plain": [
+     "各以大海般眾多的種種聲音，",
+     "普遍說出無盡的美妙言辭，",
+     "直到未來一切劫的盡頭，",
+     "讚歎佛甚深的功德之海。"
+    ],
+    "zh-Hans": [
+     "各以一切音声海",
+     "普出无尽妙言辞",
+     "尽于未来一切劫",
+     "赞佛甚深功德海"
+    ],
+    "zh-Hans-plain": [
+     "各以大海般众多的种种声音，",
+     "普遍说出无尽的美妙言辞，",
+     "直到未来一切劫的尽头，",
+     "赞叹佛甚深的功德之海。"
     ]
    },
    "glossary": [
@@ -6508,7 +10664,10 @@
     "ko": "가장 좋은 것으로 공양",
     "hanja": "가장 좋은 것으로 공양",
     "plain": "가장 좋은 것으로 공양",
-    "en": "Offering the finest"
+    "en": "Offering the finest",
+    "ja": "最上のものを供養する",
+    "zh-Hant": "以最好的供養",
+    "zh-Hans": "以最好的供养"
    },
    "lines": {
     "ko": [
@@ -6534,6 +10693,48 @@
      "with music, fragrant ointments, and canopies,",
      "with all these finest adornments,",
      "I make offerings to all the Tathagatas."
+    ],
+    "ja": [
+     "以諸最勝妙華鬘",
+     "伎楽塗香及傘蓋",
+     "如是最勝荘厳具",
+     "我以供養諸如来"
+    ],
+    "ja-plain": [
+     "最もすぐれた美しい花輪と",
+     "音楽、塗る香、天蓋のような",
+     "このような最上の荘厳の品で",
+     "私はすべての如来に供養します。"
+    ],
+    "ja-yomi": [
+     "いしょさいしょうみょうけまん",
+     "ぎがくずこうぎゅうさんがい",
+     "にょぜさいしょうしょうごんぐ",
+     "がいくようしょにょらい"
+    ],
+    "zh-Hant": [
+     "以諸最勝妙華鬘",
+     "伎樂塗香及傘蓋",
+     "如是最勝莊嚴具",
+     "我以供養諸如來"
+    ],
+    "zh-Hant-plain": [
+     "用最殊勝美妙的花鬘，",
+     "以及音樂、塗香和傘蓋，",
+     "用這樣最殊勝的莊嚴之物，",
+     "我供養一切如來。"
+    ],
+    "zh-Hans": [
+     "以诸最胜妙华鬘",
+     "伎乐涂香及伞盖",
+     "如是最胜庄严具",
+     "我以供养诸如来"
+    ],
+    "zh-Hans-plain": [
+     "用最殊胜美妙的花鬘，",
+     "以及音乐、涂香和伞盖，",
+     "用这样最殊胜的庄严之物，",
+     "我供养一切如来。"
     ]
    },
    "glossary": [
@@ -6581,7 +10782,10 @@
     "ko": "모든 공덕을 함께 기뻐함",
     "hanja": "모든 공덕을 함께 기뻐함",
     "plain": "모든 공덕을 함께 기뻐함",
-    "en": "Rejoicing in all merit"
+    "en": "Rejoicing in all merit",
+    "ja": "すべての功徳をともに喜ぶ",
+    "zh-Hant": "隨喜一切功德",
+    "zh-Hans": "随喜一切功德"
    },
    "lines": {
     "ko": [
@@ -6607,6 +10811,48 @@
      "followers of the two vehicles, still in training or beyond it,",
      "and all Tathagatas and bodhisattvas:",
      "in all the merit they have made, I rejoice."
+    ],
+    "ja": [
+     "十方一切諸衆生",
+     "二乗有学及無学",
+     "一切如来与菩薩",
+     "所有功徳皆随喜"
+    ],
+    "ja-plain": [
+     "十方のすべての衆生と",
+     "まだ学ぶ人も学び終えた人も、二つの道の修行者と",
+     "すべての如来と菩薩が",
+     "積んだ功徳を、私はみなともに喜びます。"
+    ],
+    "ja-yomi": [
+     "じっぽういっさいしょしゅじょう",
+     "にじょううがくぎゅうむがく",
+     "いっさいにょらいよぼさつ",
+     "しょうくどくかいずいき"
+    ],
+    "zh-Hant": [
+     "十方一切諸眾生",
+     "二乘有學及無學",
+     "一切如來與菩薩",
+     "所有功德皆隨喜"
+    ],
+    "zh-Hant-plain": [
+     "十方一切眾生，",
+     "還在學習和已經學成的二乘修行人，",
+     "一切如來與菩薩，",
+     "他們所有的功德，我都一同歡喜。"
+    ],
+    "zh-Hans": [
+     "十方一切诸众生",
+     "二乘有学及无学",
+     "一切如来与菩萨",
+     "所有功德皆随喜"
+    ],
+    "zh-Hans-plain": [
+     "十方一切众生，",
+     "还在学习和已经学成的二乘修行人，",
+     "一切如来与菩萨，",
+     "他们所有的功德，我都一同欢喜。"
     ]
    },
    "glossary": [
@@ -6642,7 +10888,10 @@
     "ko": "세상의 등불께 청함",
     "hanja": "세상의 등불께 청함",
     "plain": "세상의 등불께 청함",
-    "en": "Asking the lamps of the world"
+    "en": "Asking the lamps of the world",
+    "ja": "世の灯に請う",
+    "zh-Hant": "勸請世間明燈",
+    "zh-Hans": "劝请世间明灯"
    },
    "lines": {
     "ko": [
@@ -6668,6 +10917,48 @@
      "those who have just attained awakening,",
      "I now earnestly make this request:",
      "please turn the supreme and wondrous wheel of the Dharma."
+    ],
+    "ja": [
+     "十方所有世間灯",
+     "最初成就菩提者",
+     "我今一切皆勧請",
+     "転於無上妙法輪"
+    ],
+    "ja-plain": [
+     "十方におられる世の灯",
+     "はじめて悟りを成し遂げた方々に",
+     "私はいま、みな心から請います。",
+     "この上なく尊く妙なる教えの輪を転じてください。"
+    ],
+    "ja-yomi": [
+     "じっぽうしょうせけんとう",
+     "さいしょじょうじゅぼだいしゃ",
+     "がこんいっさいかいかんじょう",
+     "てんおむじょうみょうほうりん"
+    ],
+    "zh-Hant": [
+     "十方所有世間燈",
+     "最初成就菩提者",
+     "我今一切皆勸請",
+     "轉於無上妙法輪"
+    ],
+    "zh-Hant-plain": [
+     "十方所有世間的明燈，",
+     "最初成就菩提的諸位，",
+     "我如今全都懇切勸請：",
+     "請轉動無上微妙的法輪。"
+    ],
+    "zh-Hans": [
+     "十方所有世间灯",
+     "最初成就菩提者",
+     "我今一切皆劝请",
+     "转于无上妙法轮"
+    ],
+    "zh-Hans-plain": [
+     "十方所有世间的明灯，",
+     "最初成就菩提的诸位，",
+     "我如今全都恳切劝请：",
+     "请转动无上微妙的法轮。"
     ]
    },
    "glossary": [
@@ -6703,7 +10994,10 @@
     "ko": "오래 머물러 주소서",
     "hanja": "오래 머물러 주소서",
     "plain": "오래 머물러 주소서",
-    "en": "Please stay long"
+    "en": "Please stay long",
+    "ja": "長くとどまってください",
+    "zh-Hant": "請佛久住",
+    "zh-Hans": "请佛久住"
    },
    "lines": {
     "ko": [
@@ -6729,6 +11023,48 @@
      "I ask them all with my whole heart:",
      "please stay for eons countless as dust",
      "to benefit and gladden all living beings."
+    ],
+    "ja": [
+     "諸仏若欲示涅槃",
+     "我悉至誠而勧請",
+     "唯願久住刹塵劫",
+     "利楽一切諸衆生"
+    ],
+    "ja-plain": [
+     "仏たちが涅槃に入ろうとされるなら",
+     "私はまごころを尽くして、みなにお願いします。",
+     "どうか塵の数ほど長い時をとどまって",
+     "すべての衆生を利し、楽しませてください。"
+    ],
+    "ja-yomi": [
+     "しょぶつにゃくよくじねはん",
+     "がしっしじょうにかんじょう",
+     "ゆいがんくじゅうせつじんこう",
+     "りらくいっさいしょしゅじょう"
+    ],
+    "zh-Hant": [
+     "諸佛若欲示涅槃",
+     "我悉至誠而勸請",
+     "唯願久住刹塵劫",
+     "利樂一切諸眾生"
+    ],
+    "zh-Hant-plain": [
+     "諸佛如果將要示現涅槃，",
+     "我都以至誠之心懇請：",
+     "願您住世微塵數劫那樣長久，",
+     "利益並安樂一切眾生。"
+    ],
+    "zh-Hans": [
+     "诸佛若欲示涅槃",
+     "我悉至诚而劝请",
+     "唯愿久住刹尘劫",
+     "利乐一切诸众生"
+    ],
+    "zh-Hans-plain": [
+     "诸佛如果将要示现涅槃，",
+     "我都以至诚之心恳请：",
+     "愿您住世微尘数劫那样长久，",
+     "利益并安乐一切众生。"
     ]
    },
    "glossary": [
@@ -6764,7 +11100,10 @@
     "ko": "모든 선근을 돌려",
     "hanja": "모든 선근을 돌려",
     "plain": "모든 선근을 돌려",
-    "en": "Dedicating every root of good"
+    "en": "Dedicating every root of good",
+    "ja": "すべての善根をめぐらす",
+    "zh-Hant": "迴向一切善根",
+    "zh-Hans": "回向一切善根"
    },
    "lines": {
     "ko": [
@@ -6790,6 +11129,48 @@
      "of asking the Buddhas to stay and turn the wheel of the Dharma,",
      "and every root of good from rejoicing and repentance,",
      "I dedicate to all beings and to the path of awakening."
+    ],
+    "ja": [
+     "所有礼讚供養福",
+     "請仏住世転法輪",
+     "随喜懺悔諸善根",
+     "迴向衆生及仏道"
+    ],
+    "ja-plain": [
+     "礼拝し、讃嘆し、供養したすべての福と",
+     "仏に世にとどまり教えを説いてくださるよう請うた福と",
+     "ともに喜び、懺悔したすべての善い根を",
+     "衆生と悟りの道へめぐらしささげます。"
+    ],
+    "ja-yomi": [
+     "しょうらいさんくようふく",
+     "しょうぶつじゅうせてんぼうりん",
+     "ずいきさんげしょぜんごん",
+     "えこうしゅじょうぎゅうぶつどう"
+    ],
+    "zh-Hant": [
+     "所有禮讚供養福",
+     "請佛住世轉法輪",
+     "隨喜懺悔諸善根",
+     "迴向眾生及佛道"
+    ],
+    "zh-Hant-plain": [
+     "禮拜、讚歎、供養所得的一切福德，",
+     "懇請諸佛住世、轉法輪的福德，",
+     "隨喜與懺悔的一切善根，",
+     "都回向給眾生和成佛之道。"
+    ],
+    "zh-Hans": [
+     "所有礼赞供养福",
+     "请佛住世转法轮",
+     "随喜忏悔诸善根",
+     "回向众生及佛道"
+    ],
+    "zh-Hans-plain": [
+     "礼拜、赞叹、供养所得的一切福德，",
+     "恳请诸佛住世、转法轮的福德，",
+     "随喜与忏悔的一切善根，",
+     "都回向给众生和成佛之道。"
     ]
    },
    "glossary": [
@@ -6819,7 +11200,10 @@
     "ko": "물에 젖지 않는 연꽃",
     "hanja": "물에 젖지 않는 연꽃",
     "plain": "물에 젖지 않는 연꽃",
-    "en": "The lotus untouched by water"
+    "en": "The lotus untouched by water",
+    "ja": "水に濡れない蓮",
+    "zh-Hant": "不著水的蓮花",
+    "zh-Hans": "不著水的莲花"
    },
    "lines": {
     "ko": [
@@ -6845,6 +11229,48 @@
      "I find freedom in the midst of the world's ways,",
      "like a lotus that water does not cling to,",
      "like the sun and moon that do not stay in the sky."
+    ],
+    "ja": [
+     "於諸惑業及魔境",
+     "世間道中得解脱",
+     "猶如蓮華不著水",
+     "亦如日月不住空"
+    ],
+    "ja-plain": [
+     "あらゆる迷いと業と魔の境から",
+     "世の道のただ中で解き放たれます。",
+     "それはまるで蓮の花が水に濡れないようであり",
+     "日と月が空にとどまらないようです。"
+    ],
+    "ja-yomi": [
+     "おしょわくごうぎゅうまきょう",
+     "せけんどうちゅうとくげだつ",
+     "ゆにょれんげふじゃくすい",
+     "やくにょにちがつふじゅうくう"
+    ],
+    "zh-Hant": [
+     "於諸惑業及魔境",
+     "世間道中得解脫",
+     "猶如蓮華不著水",
+     "亦如日月不住空"
+    ],
+    "zh-Hant-plain": [
+     "在種種迷惑、業力和魔的境界中，",
+     "於世間道路上得到解脫，",
+     "就像蓮花不被水沾溼，",
+     "也像日月不停留在虛空。"
+    ],
+    "zh-Hans": [
+     "于诸惑业及魔境",
+     "世间道中得解脱",
+     "犹如莲华不著水",
+     "亦如日月不住空"
+    ],
+    "zh-Hans-plain": [
+     "在种种迷惑、业力和魔的境界中，",
+     "于世间道路上得到解脱，",
+     "就像莲花不被水沾湿，",
+     "也像日月不停留在虚空。"
     ]
    },
    "glossary": [
@@ -6880,7 +11306,10 @@
     "ko": "나의 바람은 다함이 없다",
     "hanja": "나의 바람은 다함이 없다",
     "plain": "나의 바람은 다함이 없다",
-    "en": "My vow has no end"
+    "en": "My vow has no end",
+    "ja": "私の願いは尽きない",
+    "zh-Hant": "我願無有窮盡",
+    "zh-Hans": "我愿无有穷尽"
    },
    "lines": {
     "ko": [
@@ -6906,6 +11335,48 @@
      "when beings, karma, and afflictions come to an end, could it end;",
      "since none of these will ever end,",
      "my vow, too, will never end."
+    ],
+    "ja": [
+     "乃至虚空世界尽",
+     "衆生及業煩悩尽",
+     "如是一切無尽時",
+     "我願究竟恒無尽"
+    ],
+    "ja-plain": [
+     "虚空と世界が尽き",
+     "衆生と業と煩悩が尽きてこそ終わるでしょうが",
+     "これらはみな尽きることがないので",
+     "私の願いもついに、いつまでも尽きることがありません。"
+    ],
+    "ja-yomi": [
+     "ないしこくうせかいじん",
+     "しゅじょうぎゅうごうぼんのうじん",
+     "にょぜいっさいむじんじ",
+     "ががんくきょうごうむじん"
+    ],
+    "zh-Hant": [
+     "乃至虛空世界盡",
+     "眾生及業煩惱盡",
+     "如是一切無盡時",
+     "我願究竟恒無盡"
+    ],
+    "zh-Hant-plain": [
+     "要到虛空和世界都窮盡，",
+     "眾生、業力和煩惱都窮盡，我的願才會結束；",
+     "而這一切都沒有窮盡的時候，",
+     "所以我的願也終究永無窮盡。"
+    ],
+    "zh-Hans": [
+     "乃至虚空世界尽",
+     "众生及业烦恼尽",
+     "如是一切无尽时",
+     "我愿究竟恒无尽"
+    ],
+    "zh-Hans-plain": [
+     "要到虚空和世界都穷尽，",
+     "众生、业力和烦恼都穷尽，我的愿才会结束；",
+     "而这一切都没有穷尽的时候，",
+     "所以我的愿也终究永无穷尽。"
     ]
    },
    "glossary": [
@@ -6941,7 +11412,10 @@
     "ko": "믿음은 도의 근원",
     "hanja": "믿음은 도의 근원",
     "plain": "믿음은 도의 근원",
-    "en": "Faith is the source of the Way"
+    "en": "Faith is the source of the Way",
+    "ja": "信は道の源",
+    "zh-Hant": "信為道元",
+    "zh-Hans": "信为道元"
    },
    "lines": {
     "ko": [
@@ -6967,6 +11441,48 @@
      "it nurtures every good thing,",
      "cuts through the net of doubt and carries us out of the stream of craving,",
      "and opens the supreme path to nirvana."
+    ],
+    "ja": [
+     "信為道元功徳母",
+     "長養一切諸善法",
+     "断除疑網出愛流",
+     "開示涅槃無上道"
+    ],
+    "ja-plain": [
+     "信は道の源であり、功徳の母です。",
+     "すべての善い法を育て",
+     "疑いの網を断ち切って、愛着の流れから抜け出させ",
+     "涅槃に至るこの上ない道を開いて示します。"
+    ],
+    "ja-yomi": [
+     "しんいどうげんくどくも",
+     "ちょうよういっさいしょぜんぽう",
+     "だんじょぎもうしゅつあいる",
+     "かいじねはんむじょうどう"
+    ],
+    "zh-Hant": [
+     "信為道元功德母",
+     "長養一切諸善法",
+     "斷除疑網出愛流",
+     "開示涅槃無上道"
+    ],
+    "zh-Hant-plain": [
+     "信心是道的根源，是功德之母，",
+     "能養育一切善法，",
+     "斬斷疑惑之網，讓人走出愛慾的河流，",
+     "開示通往涅槃的無上之道。"
+    ],
+    "zh-Hans": [
+     "信为道元功德母",
+     "长养一切诸善法",
+     "断除疑网出爱流",
+     "开示涅槃无上道"
+    ],
+    "zh-Hans-plain": [
+     "信心是道的根源，是功德之母，",
+     "能养育一切善法，",
+     "斩断疑惑之网，让人走出爱欲的河流，",
+     "开示通往涅槃的无上之道。"
     ]
    },
    "glossary": [
@@ -7008,7 +11524,10 @@
     "ko": "하나의 큰일",
     "hanja": "하나의 큰일",
     "plain": "하나의 큰일",
-    "en": "One great purpose"
+    "en": "One great purpose",
+    "ja": "一大事",
+    "zh-Hant": "一大事因緣",
+    "zh-Hans": "一大事因缘"
    },
    "lines": {
     "ko": [
@@ -7030,6 +11549,41 @@
      "All Buddhas, the World-Honored Ones,",
      "for the sake of one great purpose alone,",
      "appear in the world."
+    ],
+    "ja": [
+     "諸仏世尊",
+     "唯以一大事因縁故",
+     "出現於世"
+    ],
+    "ja-plain": [
+     "すべての仏は",
+     "ただ一つの大きな事のために",
+     "この世に現れます。"
+    ],
+    "ja-yomi": [
+     "しょぶつせそん",
+     "ゆいいいちだいじいんねんこ",
+     "しゅつげんおせ"
+    ],
+    "zh-Hant": [
+     "諸佛世尊",
+     "唯以一大事因緣故",
+     "出現於世"
+    ],
+    "zh-Hant-plain": [
+     "諸佛世尊，",
+     "只為了一件大事，",
+     "出現在世間。"
+    ],
+    "zh-Hans": [
+     "诸佛世尊",
+     "唯以一大事因缘故",
+     "出现于世"
+    ],
+    "zh-Hans-plain": [
+     "诸佛世尊，",
+     "只为了一件大事，",
+     "出现在世间。"
     ]
    },
    "glossary": [
@@ -7065,7 +11619,10 @@
     "ko": "어디에나 나투는 몸",
     "hanja": "어디에나 나투는 몸",
     "plain": "어디에나 나투는 몸",
-    "en": "Appearing everywhere"
+    "en": "Appearing everywhere",
+    "ja": "どこにでも現れる身",
+    "zh-Hant": "處處現身",
+    "zh-Hans": "处处现身"
    },
    "lines": {
     "ko": [
@@ -7091,6 +11648,48 @@
      "and widely practiced in wisdom and skillful means,",
      "in every land of the ten directions",
      "leaves no place where they do not appear."
+    ],
+    "ja": [
+     "具足神通力",
+     "広修智方便",
+     "十方諸国土",
+     "無刹不現身"
+    ],
+    "ja-plain": [
+     "観世音菩薩は不思議な力を十分に備え",
+     "智慧と方便を広く修めて",
+     "十方のどの国にも",
+     "身を現さない所はありません。"
+    ],
+    "ja-yomi": [
+     "ぐそくじんずうりき",
+     "こうしゅちほうべん",
+     "じっぽうしょこくど",
+     "むせつふげんしん"
+    ],
+    "zh-Hant": [
+     "具足神通力",
+     "廣修智方便",
+     "十方諸國土",
+     "無刹不現身"
+    ],
+    "zh-Hant-plain": [
+     "觀世音菩薩具足神通之力，",
+     "廣修智慧與方便，",
+     "十方一切國土之中，",
+     "沒有一處不現身。"
+    ],
+    "zh-Hans": [
+     "具足神通力",
+     "广修智方便",
+     "十方诸国土",
+     "无刹不现身"
+    ],
+    "zh-Hans-plain": [
+     "观世音菩萨具足神通之力，",
+     "广修智慧与方便，",
+     "十方一切国土之中，",
+     "没有一处不现身。"
     ]
    },
    "glossary": [
@@ -7126,7 +11725,10 @@
     "ko": "중생이 아프니 나도 아프다",
     "hanja": "중생이 아프니 나도 아프다",
     "plain": "중생이 아프니 나도 아프다",
-    "en": "When beings are ill, I am ill"
+    "en": "When beings are ill, I am ill",
+    "ja": "衆生が病むから私も病む",
+    "zh-Hant": "眾生病故我病",
+    "zh-Hans": "众生病故我病"
    },
    "lines": {
     "ko": [
@@ -7152,6 +11754,48 @@
      "Because all beings are ill, I am ill.",
      "When all beings are free of illness,",
      "my illness, too, will end."
+    ],
+    "ja": [
+     "従痴有愛 則我病生",
+     "以一切衆生病 是故我病",
+     "若一切衆生得不病者",
+     "則我病滅"
+    ],
+    "ja-plain": [
+     "愚かさから愛着が生まれ、そこから私の病が生まれました。",
+     "すべての衆生が病んでいるので、私も病んでいます。",
+     "すべての衆生が病から離れれば",
+     "私の病も消えるでしょう。"
+    ],
+    "ja-yomi": [
+     "じゅうちうあい そくがびょうしょう",
+     "いいっさいしゅじょうびょう ぜこがびょう",
+     "にゃくいっさいしゅじょうとくふびょうしゃ",
+     "そくがびょうめつ"
+    ],
+    "zh-Hant": [
+     "從痴有愛 則我病生",
+     "以一切眾生病 是故我病",
+     "若一切眾生得不病者",
+     "則我病滅"
+    ],
+    "zh-Hant-plain": [
+     "從愚痴生出愛著，我的病由此而生。",
+     "因為一切眾生都在生病，所以我也病了。",
+     "如果一切眾生都不再生病，",
+     "我的病也就消失了。"
+    ],
+    "zh-Hans": [
+     "从痴有爱 则我病生",
+     "以一切众生病 是故我病",
+     "若一切众生得不病者",
+     "则我病灭"
+    ],
+    "zh-Hans-plain": [
+     "从愚痴生出爱著，我的病由此而生。",
+     "因为一切众生都在生病，所以我也病了。",
+     "如果一切众生都不再生病，",
+     "我的病也就消失了。"
     ]
    },
    "glossary": [
@@ -7187,7 +11831,10 @@
     "ko": "이 법은 평등하다",
     "hanja": "이 법은 평등하다",
     "plain": "이 법은 평등하다",
-    "en": "This Dharma is equal"
+    "en": "This Dharma is equal",
+    "ja": "この法は平等",
+    "zh-Hant": "是法平等",
+    "zh-Hans": "是法平等"
    },
    "lines": {
     "ko": [
@@ -7213,6 +11860,48 @@
      "this is called supreme, perfect awakening.",
      "Without a notion of self, of others, of beings, or of a lifespan,",
      "practice every good deed, and you will attain supreme, perfect awakening."
+    ],
+    "ja": [
+     "是法平等 無有高下",
+     "是名阿耨多羅三藐三菩提",
+     "以無我 無人 無衆生 無寿者",
+     "修一切善法 即得阿耨多羅三藐三菩提"
+    ],
+    "ja-plain": [
+     "この法は平等で、高い低いがありません。",
+     "これをこの上なく正しい悟りといいます。",
+     "自分という思い、他人という思い、衆生という思い、命にとらわれる思いなしに",
+     "すべての善い行いを修めれば、すぐにこの上なく正しい悟りを得ます。"
+    ],
+    "ja-yomi": [
+     "ぜほうびょうどう むうこうげ",
+     "ぜみょうあのくたらさんみゃくさんぼだい",
+     "いむが むにん むしゅじょう むじゅしゃ",
+     "しゅいっさいぜんぽう そくとくあのくたらさんみゃくさんぼだい"
+    ],
+    "zh-Hant": [
+     "是法平等 無有高下",
+     "是名阿耨多羅三藐三菩提",
+     "以無我 無人 無眾生 無壽者",
+     "修一切善法 即得阿耨多羅三藐三菩提"
+    ],
+    "zh-Hant-plain": [
+     "這個法平等，沒有高下之分，",
+     "這叫作無上正等正覺。",
+     "沒有我、人、眾生、壽者的分別，",
+     "修一切善法，就能得到無上正等正覺。"
+    ],
+    "zh-Hans": [
+     "是法平等 无有高下",
+     "是名阿耨多罗三藐三菩提",
+     "以无我 无人 无众生 无寿者",
+     "修一切善法 即得阿耨多罗三藐三菩提"
+    ],
+    "zh-Hans-plain": [
+     "这个法平等，没有高下之分，",
+     "这叫作无上正等正觉。",
+     "没有我、人、众生、寿者的分别，",
+     "修一切善法，就能得到无上正等正觉。"
     ]
    },
    "glossary": [
@@ -7254,7 +11943,10 @@
     "ko": "허공의 꽃",
     "hanja": "허공의 꽃",
     "plain": "허공의 꽃",
-    "en": "Flowers in the sky"
+    "en": "Flowers in the sky",
+    "ja": "空の花",
+    "zh-Hant": "虛空中的花",
+    "zh-Hans": "虚空中的花"
    },
    "lines": {
     "ko": [
@@ -7280,6 +11972,48 @@
      "arise from the wondrous mind of the Tathagata's perfect awakening,",
      "like flowers in the sky that appear from the sky itself.",
      "Though the illusory flowers fade, the nature of the sky is never harmed."
+    ],
+    "ja": [
+     "一切衆生 種種幻化",
+     "皆生如来円覚妙心",
+     "猶如空華 従空而有",
+     "幻華雖滅 空性不壊"
+    ],
+    "ja-plain": [
+     "すべての衆生のさまざまな幻のようなものは",
+     "みな如来の円かな悟りの妙なる心から生まれます。",
+     "それはまるで空の花が空から生まれるようなものです。",
+     "幻の花は消えても、空の本性は壊れません。"
+    ],
+    "ja-yomi": [
+     "いっさいしゅじょう しゅじゅげんけ",
+     "かいしょうにょらいえんがくみょうしん",
+     "ゆにょくうげ じゅうくうにう",
+     "げんげすいめつ くうしょうふえ"
+    ],
+    "zh-Hant": [
+     "一切眾生 種種幻化",
+     "皆生如來圓覺妙心",
+     "猶如空華 從空而有",
+     "幻華雖滅 空性不壞"
+    ],
+    "zh-Hant-plain": [
+     "一切眾生種種如幻的事物，",
+     "都生於如來圓滿覺悟的妙心，",
+     "就像空中的花從虛空中生出。",
+     "幻化的花雖然消失，虛空的本性卻不會毀壞。"
+    ],
+    "zh-Hans": [
+     "一切众生 种种幻化",
+     "皆生如来圆觉妙心",
+     "犹如空华 从空而有",
+     "幻华虽灭 空性不坏"
+    ],
+    "zh-Hans-plain": [
+     "一切众生种种如幻的事物，",
+     "都生于如来圆满觉悟的妙心，",
+     "就像空中的花从虚空中生出。",
+     "幻化的花虽然消失，虚空的本性却不会毁坏。"
     ]
    },
    "glossary": [
@@ -7321,7 +12055,10 @@
     "ko": "보현행 회향",
     "hanja": "보현행 회향",
     "plain": "보현행 회향",
-    "en": "Dedicating Samantabhadra's practice"
+    "en": "Dedicating Samantabhadra's practice",
+    "ja": "普賢行の回向",
+    "zh-Hant": "普賢行迴向",
+    "zh-Hans": "普贤行回向"
    },
    "lines": {
     "ko": [
@@ -7347,6 +12084,48 @@
      "and all its boundless blessings I dedicate,",
      "wishing that all beings sinking in suffering",
      "may swiftly reach the land of the Buddha of Infinite Light."
+    ],
+    "ja": [
+     "我此普賢殊勝行",
+     "無辺勝福皆迴向",
+     "普願沈溺諸衆生",
+     "速往無量光仏刹"
+    ],
+    "ja-plain": [
+     "私のこの普賢菩薩のすぐれた行によって積んだ",
+     "限りなくすぐれた福をすべてめぐらし",
+     "苦しみに沈むすべての衆生が",
+     "早く限りない光の仏の国へ行けるよう、あまねく願います。"
+    ],
+    "ja-yomi": [
+     "がしふげんしゅしょうぎょう",
+     "むへんしょうふくかいえこう",
+     "ふがんちんにゃくしょしゅじょう",
+     "そくおうむりょうこうぶっせつ"
+    ],
+    "zh-Hant": [
+     "我此普賢殊勝行",
+     "無邊勝福皆迴向",
+     "普願沈溺諸眾生",
+     "速往無量光佛刹"
+    ],
+    "zh-Hant-plain": [
+     "我以這普賢菩薩殊勝之行，",
+     "所得的無邊勝福全部迴向，",
+     "普願沉溺在苦海中的一切眾生，",
+     "早日往生無量光佛的國土。"
+    ],
+    "zh-Hans": [
+     "我此普贤殊胜行",
+     "无边胜福皆回向",
+     "普愿沉溺诸众生",
+     "速往无量光佛刹"
+    ],
+    "zh-Hans-plain": [
+     "我以这普贤菩萨殊胜之行，",
+     "所得的无边胜福全部回向，",
+     "普愿沉溺在苦海中的一切众生，",
+     "早日往生无量光佛的国土。"
     ]
    },
    "glossary": [
@@ -7388,7 +12167,10 @@
     "ko": "반야심경 전체",
     "hanja": "반야심경 전체",
     "plain": "반야심경 전체",
-    "en": "Heart Sutra"
+    "en": "Heart Sutra",
+    "ja": "般若心経 全文",
+    "zh-Hant": "般若心經 全文",
+    "zh-Hans": "般若心经 全文"
    },
    "lines": {
     "ko": [
@@ -7502,6 +12284,205 @@
      "So the mantra of this wisdom is spoken like this.",
      "Go, go, go to the farther shore.",
      "Let us all go to the farther shore and attain enlightenment."
+    ],
+    "ja": [
+     "摩訶般若波羅蜜多心経",
+     "観自在菩薩 行深般若波羅蜜多時",
+     "照見五蘊皆空 度一切苦厄",
+     "舎利子 色不異空 空不異色",
+     "色即是空 空即是色",
+     "受想行識 亦復如是",
+     "舎利子 是諸法空相",
+     "不生不滅 不垢不浄 不増不減",
+     "是故 空中無色 無受想行識",
+     "無眼耳鼻舌身意 無色声香味触法",
+     "無眼界 乃至 無意識界",
+     "無無明 亦無無明尽",
+     "乃至 無老死 亦無老死尽",
+     "無苦集滅道 無智亦無得",
+     "以無所得故 菩提薩埵",
+     "依般若波羅蜜多故 心無罣礙",
+     "無罣礙故 無有恐怖",
+     "遠離一切顛倒夢想 究竟涅槃",
+     "三世諸仏 依般若波羅蜜多故",
+     "得阿耨多羅三藐三菩提",
+     "故知 般若波羅蜜多 是大神呪 是大明呪",
+     "是無上呪 是無等等呪",
+     "能除一切苦 真実不虚",
+     "故説 般若波羅蜜多呪 即説呪曰",
+     "羯諦羯諦 波羅羯諦",
+     "波羅僧羯諦 菩提薩婆訶",
+     "般若心経"
+    ],
+    "ja-plain": [
+     "智慧で向こう岸へ渡る、その要を説く大いなるお経",
+     "観自在菩薩が、深い智慧の行をしていたとき",
+     "体と心をつくる五つのものがみな空であると照らし見て、すべての苦しみから離れました。",
+     "舎利子よ、形あるものは空と異ならず、空は形あるものと異なりません。",
+     "形あるものがそのまま空であり、空がそのまま形あるものです。",
+     "感じること、思うこと、意志、知ることも、同じです。",
+     "舎利子よ、すべてのものは空のすがたであって",
+     "生まれも滅びもせず、汚れも清らかでもなく、増えも減りもしません。",
+     "ですから空の中には、形あるものも、感じること、思うこと、意志、知ることもなく",
+     "目、耳、鼻、舌、体、心もなく、色、音、香り、味、触れるもの、心の対象もなく",
+     "目の世界から、意識の世界までもありません。",
+     "迷いもなく、迷いが尽きることもなく",
+     "老いと死もなく、老いと死が尽きることもなく",
+     "苦しみとその原因、その滅とその道もなく、智慧もなく、得ることもありません。",
+     "得るものが何もないので、菩薩は",
+     "智慧によりどころを置くので、心にさまたげがなく",
+     "さまたげがないので、恐れもなく",
+     "さかさまな、むなしい思いから遠く離れて、ついに涅槃に至ります。",
+     "過去、現在、未来のすべての仏も、この智慧によって",
+     "この上なく正しい悟りを得られました。",
+     "ですから知ってください。この智慧は大いなる不思議な真言、大いなる明るい真言であり",
+     "この上ない真言、比べるもののない真言であって",
+     "すべての苦しみを取り除くので、まことであって偽りがありません。",
+     "そこで、この智慧の真言を説きます。それはこうです。",
+     "行こう、行こう、向こう岸へ行こう。",
+     "みなともに向こう岸へ行き、悟りを成しとげよう。",
+     "般若心経を、ここで結びます。"
+    ],
+    "ja-yomi": [
+     "まかはんにゃはらみったしんぎょう",
+     "かんじざいぼさつ ぎょうじんはんにゃはらみったじ",
+     "しょうけんごうんかいくう どいっさいくやく",
+     "しゃりし しきふいくう くうふいしき",
+     "しきそくぜくう くうそくぜしき",
+     "じゅそうぎょうしき やくぶにょぜ",
+     "しゃりし ぜしょほうくうそう",
+     "ふしょうふめつ ふくふじょう ふぞうふげん",
+     "ぜこ くうちゅうむしき むじゅそうぎょうしき",
+     "むげんにびぜっしんい むしきしょうこうみそくほう",
+     "むげんかい ないし むいしきかい",
+     "むむみょう やくむむみょうじん",
+     "ないし むろうし やくむろうしじん",
+     "むくしゅうめつどう むちやくむとく",
+     "いむしょとくこ ぼだいさった",
+     "えはんにゃはらみったこ しんむけいげ",
+     "むけいげこ むうくふ",
+     "おんりいっさいてんどうむそう くきょうねはん",
+     "さんぜしょぶつ えはんにゃはらみったこ",
+     "とくあのくたらさんみゃくさんぼだい",
+     "こち はんにゃはらみった ぜだいじんしゅ ぜだいみょうしゅ",
+     "ぜむじょうしゅ ぜむとうどうしゅ",
+     "のうじょいっさいく しんじつふこ",
+     "こせつ はんにゃはらみったしゅ そくせつしゅわつ",
+     "ぎゃていぎゃてい はらぎゃてい",
+     "はらそうぎゃてい ぼじそわか",
+     "はんにゃしんぎょう"
+    ],
+    "zh-Hant": [
+     "般若波羅蜜多心經",
+     "觀自在菩薩 行深般若波羅蜜多時",
+     "照見五蘊皆空 度一切苦厄",
+     "舍利子 色不異空 空不異色",
+     "色即是空 空即是色",
+     "受想行識 亦復如是",
+     "舍利子 是諸法空相",
+     "不生不滅 不垢不淨 不增不減",
+     "是故 空中無色 無受想行識",
+     "無眼耳鼻舌身意 無色聲香味觸法",
+     "無眼界 乃至 無意識界",
+     "無無明 亦無無明盡",
+     "乃至 無老死 亦無老死盡",
+     "無苦集滅道 無智亦無得",
+     "以無所得故 菩提薩埵",
+     "依般若波羅蜜多故 心無罣礙",
+     "無罣礙故 無有恐怖",
+     "遠離顛倒夢想 究竟涅槃",
+     "三世諸佛 依般若波羅蜜多故",
+     "得阿耨多羅三藐三菩提",
+     "故知 般若波羅蜜多 是大神咒 是大明咒",
+     "是無上咒 是無等等咒",
+     "能除一切苦 真實不虛",
+     "故說 般若波羅蜜多咒 即說咒曰",
+     "揭諦揭諦 波羅揭諦",
+     "波羅僧揭諦 菩提薩婆訶"
+    ],
+    "zh-Hant-plain": [
+     "這部大經講的是以智慧到達彼岸的核心。",
+     "觀自在菩薩修行深深的智慧時，",
+     "照見構成身心的五種要素都是空的，從而脫離了一切苦難。",
+     "舍利子，物質與空沒有不同，空與物質也沒有不同，",
+     "物質就是空，空就是物質。",
+     "感受、想法、意志和認知也是這樣。",
+     "舍利子，一切法都是空的樣子，",
+     "不生也不滅，不髒也不淨，不增也不減。",
+     "所以在空之中，沒有物質，也沒有感受、想法、意志和認知，",
+     "沒有眼、耳、鼻、舌、身、意，也沒有顏色、聲音、氣味、味道、觸感和法，",
+     "從眼的境界直到意識的境界，也都沒有。",
+     "沒有無明，也沒有無明的盡頭，",
+     "乃至沒有老死，也沒有老死的盡頭，",
+     "沒有苦、苦的原因、苦的滅除和滅苦之道，沒有智慧，也沒有所得。",
+     "因為沒有什麼可得，菩薩",
+     "依靠智慧，所以心中沒有掛礙，",
+     "沒有掛礙，所以沒有恐懼，",
+     "遠離顛倒虛妄的念頭，最終到達涅槃。",
+     "過去、現在、未來的一切佛，也都依靠這智慧，",
+     "證得了無上、正確、圓滿的覺悟。",
+     "所以要知道，這智慧是大神妙的咒，是大光明的咒，",
+     "是無上的咒，是無可比擬的咒，",
+     "能除去一切苦，真實不虛。",
+     "於是說出這智慧之咒，就是這樣說的。",
+     "去吧，去吧，到彼岸去吧。",
+     "大家一起到彼岸去，成就覺悟。"
+    ],
+    "zh-Hans": [
+     "般若波罗蜜多心经",
+     "观自在菩萨 行深般若波罗蜜多时",
+     "照见五蕴皆空 度一切苦厄",
+     "舍利子 色不异空 空不异色",
+     "色即是空 空即是色",
+     "受想行识 亦复如是",
+     "舍利子 是诸法空相",
+     "不生不灭 不垢不净 不增不减",
+     "是故 空中无色 无受想行识",
+     "无眼耳鼻舌身意 无色声香味触法",
+     "无眼界 乃至 无意识界",
+     "无无明 亦无无明尽",
+     "乃至 无老死 亦无老死尽",
+     "无苦集灭道 无智亦无得",
+     "以无所得故 菩提萨埵",
+     "依般若波罗蜜多故 心无罣碍",
+     "无罣碍故 无有恐怖",
+     "远离颠倒梦想 究竟涅槃",
+     "三世诸佛 依般若波罗蜜多故",
+     "得阿耨多罗三藐三菩提",
+     "故知 般若波罗蜜多 是大神咒 是大明咒",
+     "是无上咒 是无等等咒",
+     "能除一切苦 真实不虚",
+     "故说 般若波罗蜜多咒 即说咒曰",
+     "揭谛揭谛 波罗揭谛",
+     "波罗僧揭谛 菩提萨婆诃"
+    ],
+    "zh-Hans-plain": [
+     "这部大经讲的是以智慧到达彼岸的核心。",
+     "观自在菩萨修行深深的智慧时，",
+     "照见构成身心的五种要素都是空的，从而脱离了一切苦难。",
+     "舍利子，物质与空没有不同，空与物质也没有不同，",
+     "物质就是空，空就是物质。",
+     "感受、想法、意志和认知也是这样。",
+     "舍利子，一切法都是空的样子，",
+     "不生也不灭，不脏也不净，不增也不减。",
+     "所以在空之中，没有物质，也没有感受、想法、意志和认知，",
+     "没有眼、耳、鼻、舌、身、意，也没有颜色、声音、气味、味道、触感和法，",
+     "从眼的境界直到意识的境界，也都没有。",
+     "没有无明，也没有无明的尽头，",
+     "乃至没有老死，也没有老死的尽头，",
+     "没有苦、苦的原因、苦的灭除和灭苦之道，没有智慧，也没有所得。",
+     "因为没有什么可得，菩萨",
+     "依靠智慧，所以心中没有挂碍，",
+     "没有挂碍，所以没有恐惧，",
+     "远离颠倒虚妄的念头，最终到达涅槃。",
+     "过去、现在、未来的一切佛，也都依靠这智慧，",
+     "证得了无上、正确、圆满的觉悟。",
+     "所以要知道，这智慧是大神妙的咒，是大光明的咒，",
+     "是无上的咒，是无可比拟的咒，",
+     "能除去一切苦，真实不虚。",
+     "于是说出这智慧之咒，就是这样说的。",
+     "去吧，去吧，到彼岸去吧。",
+     "大家一起到彼岸去，成就觉悟。"
     ]
    },
    "glossary": [
@@ -7807,7 +12788,10 @@
     "ko": "법성게 1–5구",
     "hanja": "법성게 1–5구",
     "plain": "법성게 1–5구",
-    "en": "Song of Dharma Nature 1–5"
+    "en": "Song of Dharma Nature 1–5",
+    "ja": "法性偈 1〜5句",
+    "zh-Hant": "法性偈 1–5句",
+    "zh-Hans": "法性偈 1–5句"
    },
    "lines": {
     "ko": [
@@ -7837,6 +12821,55 @@
      "With no name and no form, it is the place where all things cease.",
      "It can be known only by awakened wisdom, not by any other realm.",
      "True nature is deep and deep, utterly subtle."
+    ],
+    "ja": [
+     "法性円融無二相",
+     "諸法不動本来寂",
+     "無名無相絶一切",
+     "証智所知非余境",
+     "真性甚深極微妙"
+    ],
+    "ja-plain": [
+     "法の本性はあまねく溶け合い、二つのすがたがなく",
+     "すべてのものは動かず、もとから静かです。",
+     "名もすがたもなく、すべてが絶えたところなので",
+     "悟りの智慧でだけ知ることができ、ほかの境地では知りえません。",
+     "まことの本性は深く深く、きわめて微妙なので"
+    ],
+    "ja-yomi": [
+     "ほっしょうえんゆうむにそう",
+     "しょほうふどうほんらいじゃく",
+     "むみょうむそうぜついっさい",
+     "しょうちしょちひよきょう",
+     "しんしょうじんじんごくみみょう"
+    ],
+    "zh-Hant": [
+     "法性圓融無二相",
+     "諸法不動本來寂",
+     "無名無相絶一切",
+     "證智所知非餘境",
+     "真性甚深極微妙"
+    ],
+    "zh-Hant-plain": [
+     "法的本性圓滿融通，沒有兩種模樣，",
+     "一切法不動，本來寂靜。",
+     "沒有名字也沒有形相，是一切都斷絕的地方，",
+     "只有覺悟的智慧才能知道，別的境界無法知道。",
+     "真實的本性深而又深，極其微妙，"
+    ],
+    "zh-Hans": [
+     "法性圆融无二相",
+     "诸法不动本来寂",
+     "无名无相绝一切",
+     "证智所知非余境",
+     "真性甚深极微妙"
+    ],
+    "zh-Hans-plain": [
+     "法的本性圆满融通，没有两种模样，",
+     "一切法不动，本来寂静。",
+     "没有名字也没有形相，是一切都断绝的地方，",
+     "只有觉悟的智慧才能知道，别的境界无法知道。",
+     "真实的本性深而又深，极其微妙，"
     ]
    },
    "glossary": [
@@ -7896,7 +12929,10 @@
     "ko": "법성게 6–10구",
     "hanja": "법성게 6–10구",
     "plain": "법성게 6–10구",
-    "en": "Song of Dharma Nature 6–10"
+    "en": "Song of Dharma Nature 6–10",
+    "ja": "法性偈 6〜10句",
+    "zh-Hant": "法性偈 6–10句",
+    "zh-Hans": "法性偈 6–10句"
    },
    "lines": {
     "ko": [
@@ -7926,6 +12962,55 @@
      "One is all, and the many are one.",
      "Within a single speck of dust is the whole world.",
      "So it is within every speck of dust."
+    ],
+    "ja": [
+     "不守自性随縁成",
+     "一中一切多中一",
+     "一即一切多即一",
+     "一微塵中含十方",
+     "一切塵中亦如是"
+    ],
+    "ja-plain": [
+     "自らの本性にこだわらず、縁にしたがって成ります。",
+     "ひとつの中にすべてがあり、多くの中にひとつがあり",
+     "ひとつがすべてであり、多くがひとつです。",
+     "ひと粒のちりの中に世界のすべてが入っていて",
+     "すべてのちりの中も、また同じです。"
+    ],
+    "ja-yomi": [
+     "ふしゅじしょうずいえんじょう",
+     "いっちゅういっさいたちゅういつ",
+     "いっそくいっさいたそくいつ",
+     "いちみじんちゅうがんじっぽう",
+     "いっさいじんちゅうやくにょぜ"
+    ],
+    "zh-Hant": [
+     "不守自性隨緣成",
+     "一中一切多中一",
+     "一即一切多即一",
+     "一微塵中含十方",
+     "一切塵中亦如是"
+    ],
+    "zh-Hant-plain": [
+     "不固守自己的本性，隨著因緣而成就。",
+     "一之中有一切，多之中有一，",
+     "一就是一切，多就是一。",
+     "一粒微塵中包含整個世界，",
+     "一切微塵中也都是這樣。"
+    ],
+    "zh-Hans": [
+     "不守自性随缘成",
+     "一中一切多中一",
+     "一即一切多即一",
+     "一微尘中含十方",
+     "一切尘中亦如是"
+    ],
+    "zh-Hans-plain": [
+     "不固守自己的本性，随着因缘而成就。",
+     "一之中有一切，多之中有一，",
+     "一就是一切，多就是一。",
+     "一粒微尘中包含整个世界，",
+     "一切微尘中也都是这样。"
     ]
    },
    "glossary": [
@@ -7973,7 +13058,10 @@
     "ko": "법성게 11–15구",
     "hanja": "법성게 11–15구",
     "plain": "법성게 11–15구",
-    "en": "Song of Dharma Nature 11–15"
+    "en": "Song of Dharma Nature 11–15",
+    "ja": "法性偈 11〜15句",
+    "zh-Hant": "法性偈 11–15句",
+    "zh-Hans": "法性偈 11–15句"
    },
    "lines": {
     "ko": [
@@ -8003,6 +13091,55 @@
      "The nine times and the ten times touch one another.",
      "Yet they do not mingle, and each is separately complete.",
      "The moment one first gives rise to the mind is right awakening."
+    ],
+    "ja": [
+     "無量遠劫即一念",
+     "一念即是無量劫",
+     "九世十世互相即",
+     "仍不雑乱隔別成",
+     "初発心時便正覚"
+    ],
+    "ja-plain": [
+     "量りしれない長い時が、そのままひとつの思いであり",
+     "ひとつの思いが、そのまま量りしれない時です。",
+     "九つの世と十の世が互いに重なり合いながらも",
+     "混じり合わず、それぞれに成り立っています。",
+     "はじめて心を起こしたそのときが、そのまま正しい悟りであり"
+    ],
+    "ja-yomi": [
+     "むりょうおんごうそくいちねん",
+     "いちねんそくぜむりょうごう",
+     "くせじっせごそうそく",
+     "にょうふぞうらんきゃくべつじょう",
+     "しょほっしんじべんしょうがく"
+    ],
+    "zh-Hant": [
+     "無量遠劫即一念",
+     "一念即是無量劫",
+     "九世十世互相即",
+     "仍不雜亂隔別成",
+     "初發心時便正覺"
+    ],
+    "zh-Hant-plain": [
+     "無量久遠的歲月就是一念，",
+     "一念就是無量的歲月。",
+     "九世和十世互相交融，",
+     "卻不混亂，各自分明地成就。",
+     "最初發心的那一刻，就是正覺，"
+    ],
+    "zh-Hans": [
+     "无量远劫即一念",
+     "一念即是无量劫",
+     "九世十世互相即",
+     "仍不杂乱隔别成",
+     "初发心时便正觉"
+    ],
+    "zh-Hans-plain": [
+     "无量久远的岁月就是一念，",
+     "一念就是无量的岁月。",
+     "九世和十世互相交融，",
+     "却不混乱，各自分明地成就。",
+     "最初发心的那一刻，就是正觉，"
     ]
    },
    "glossary": [
@@ -8056,7 +13193,10 @@
     "ko": "법성게 16–20구",
     "hanja": "법성게 16–20구",
     "plain": "법성게 16–20구",
-    "en": "Song of Dharma Nature 16–20"
+    "en": "Song of Dharma Nature 16–20",
+    "ja": "法性偈 16〜20句",
+    "zh-Hant": "法性偈 16–20句",
+    "zh-Hans": "法性偈 16–20句"
    },
    "lines": {
     "ko": [
@@ -8086,6 +13226,55 @@
      "This is the realm of great sages such as the ten Buddhas and Samantabhadra Bodhisattva.",
      "Within the Buddha’s ocean seal samadhi",
      "Unthinkable things unfold endlessly as one wishes."
+    ],
+    "ja": [
+     "生死涅槃常共和",
+     "理事冥然無分別",
+     "十仏普賢大人境",
+     "能仁海印三昧中",
+     "繁出如意不思議"
+    ],
+    "ja-plain": [
+     "生と死と涅槃が、いつもともに溶け合っています。",
+     "理と事は奥深くひとつで、分けることができないので",
+     "十の仏や普賢菩薩のような大いなる聖者の境地です。",
+     "仏の海印三昧の中で",
+     "はかりしれないことを思いのままに、限りなく現し出して"
+    ],
+    "ja-yomi": [
+     "しょうじねはんじょうぐわ",
+     "りじみょうねんむふんべつ",
+     "じゅうぶつふげんだいにんきょう",
+     "のうにんかいいんざんまいちゅう",
+     "はんしゅつにょいふしぎ"
+    ],
+    "zh-Hant": [
+     "生死涅槃常共和",
+     "理事冥然無分別",
+     "十佛普賢大人境",
+     "能仁海印三昧中",
+     "繁出如意不思議"
+    ],
+    "zh-Hant-plain": [
+     "生死與涅槃常常和合在一起。",
+     "理與事深深合一，無法分別，",
+     "這是十佛和普賢菩薩等大聖人的境界。",
+     "在佛的海印三昧之中，",
+     "隨心無盡地展現出不可思議的事，"
+    ],
+    "zh-Hans": [
+     "生死涅槃常共和",
+     "理事冥然无分别",
+     "十佛普贤大人境",
+     "能仁海印三昧中",
+     "繁出如意不思议"
+    ],
+    "zh-Hans-plain": [
+     "生死与涅槃常常和合在一起。",
+     "理与事深深合一，无法分别，",
+     "这是十佛和普贤菩萨等大圣人的境界。",
+     "在佛的海印三昧之中，",
+     "随心无尽地展现出不可思议的事，"
     ]
    },
    "glossary": [
@@ -8145,7 +13334,10 @@
     "ko": "법성게 21–25구",
     "hanja": "법성게 21–25구",
     "plain": "법성게 21–25구",
-    "en": "Song of Dharma Nature 21–25"
+    "en": "Song of Dharma Nature 21–25",
+    "ja": "法性偈 21〜25句",
+    "zh-Hant": "法性偈 21–25句",
+    "zh-Hans": "法性偈 21–25句"
    },
    "lines": {
     "ko": [
@@ -8175,6 +13367,55 @@
      "Therefore, one who practices must return to the original place.",
      "But without resting empty thoughts, it can never be attained.",
      "Through unconditional skillful means, one grasps the wish-fulfilling jewel."
+    ],
+    "ja": [
+     "雨宝益生満虚空",
+     "衆生随器得利益",
+     "是故行者還本際",
+     "叵息妄想必不得",
+     "無縁善巧捉如意"
+    ],
+    "ja-plain": [
+     "生きるものを潤す宝の雨が、虚空に満ちるので",
+     "生きるものはそれぞれ、器に応じて恵みを受けます。",
+     "ですから修行する人は、もとのところへ帰るべきですが",
+     "むなしい思いを休めなければ、決して得られません。",
+     "条件をつけないよい手立てで如意宝珠をつかみ"
+    ],
+    "ja-yomi": [
+     "うほうやくしょうまんこくう",
+     "しゅじょうずいきとくりやく",
+     "ぜこぎょうじゃげんぽんざい",
+     "はそくもうぞうひつふとく",
+     "むえんぜんぎょうそくにょい"
+    ],
+    "zh-Hant": [
+     "雨寶益生滿虛空",
+     "眾生隨器得利益",
+     "是故行者還本際",
+     "叵息妄想必不得",
+     "無緣善巧捉如意"
+    ],
+    "zh-Hant-plain": [
+     "利益眾生的寶雨布滿虛空，",
+     "眾生各按自己的器量得到利益。",
+     "所以修行的人應當回到本來的地方，",
+     "但不息滅妄想，就一定得不到。",
+     "用無條件的善巧方便抓住如意寶珠，"
+    ],
+    "zh-Hans": [
+     "雨宝益生满虚空",
+     "众生随器得利益",
+     "是故行者还本际",
+     "叵息妄想必不得",
+     "无缘善巧捉如意"
+    ],
+    "zh-Hans-plain": [
+     "利益众生的宝雨布满虚空，",
+     "众生各按自己的器量得到利益。",
+     "所以修行的人应当回到本来的地方，",
+     "但不息灭妄想，就一定得不到。",
+     "用无条件的善巧方便抓住如意宝珠，"
     ]
    },
    "glossary": [
@@ -8234,7 +13475,10 @@
     "ko": "법성게 26–30구",
     "hanja": "법성게 26–30구",
     "plain": "법성게 26–30구",
-    "en": "Beopseongge, lines 26–30"
+    "en": "Beopseongge, lines 26–30",
+    "ja": "法性偈 26〜30句",
+    "zh-Hant": "法性偈 26–30句",
+    "zh-Hans": "法性偈 26–30句"
    },
    "lines": {
     "ko": [
@@ -8264,6 +13508,55 @@
      "one adorns the true jeweled palace of the dharma realm,",
      "and at last sits on the seat of reality, the seat of the middle way.",
      "That which has been unmoving from the beginning is called Buddha."
+    ],
+    "ja": [
+     "帰家随分得資糧",
+     "以陀羅尼無尽宝",
+     "荘厳法界実宝殿",
+     "窮坐実際中道床",
+     "旧来不動名為仏"
+    ],
+    "ja-plain": [
+     "家に帰って、自分の分だけ糧を得ます。",
+     "陀羅尼という尽きない宝で",
+     "法界のまことの宝の宮殿を荘厳し",
+     "ついに真実の座、中道の座に坐ると",
+     "昔から動くことのなかったそれを、仏といいます。"
+    ],
+    "ja-yomi": [
+     "きけずいぶんとくしりょう",
+     "いだらにむじんぽう",
+     "しょうごんほっかいじっぽうでん",
+     "ぐうざじっさいちゅうどうしょう",
+     "くらいふどうみょういぶつ"
+    ],
+    "zh-Hant": [
+     "歸家隨分得資糧",
+     "以陀羅尼無盡寶",
+     "莊嚴法界實寶殿",
+     "窮坐實際中道床",
+     "舊來不動名為佛"
+    ],
+    "zh-Hant-plain": [
+     "回到家中，按自己的份得到資糧。",
+     "用陀羅尼這無盡的寶藏，",
+     "莊嚴法界真實的寶殿，",
+     "最終坐在真實之座、中道之座上，",
+     "從來不動的那個，就叫作佛。"
+    ],
+    "zh-Hans": [
+     "归家随分得资粮",
+     "以陀罗尼无尽宝",
+     "庄严法界实宝殿",
+     "穷坐实际中道床",
+     "旧来不动名为佛"
+    ],
+    "zh-Hans-plain": [
+     "回到家中，按自己的份得到资粮。",
+     "用陀罗尼这无尽的宝藏，",
+     "庄严法界真实的宝殿，",
+     "最终坐在真实之座、中道之座上，",
+     "从来不动的那个，就叫作佛。"
     ]
    },
    "glossary": [
@@ -8329,7 +13622,10 @@
     "ko": "법성게 전체",
     "hanja": "법성게 전체",
     "plain": "법성게 전체",
-    "en": "Complete Beopseongge"
+    "en": "Complete Beopseongge",
+    "ja": "法性偈 全文",
+    "zh-Hant": "法性偈 全文",
+    "zh-Hans": "法性偈 全文"
    },
    "lines": {
     "ko": [
@@ -8459,6 +13755,230 @@
      "one adorns the true jeweled palace of the dharma realm,",
      "and at last sits on the seat of reality, the seat of the middle way.",
      "That which has been unmoving from the beginning is called Buddha."
+    ],
+    "ja": [
+     "法性円融無二相",
+     "諸法不動本来寂",
+     "無名無相絶一切",
+     "証智所知非余境",
+     "真性甚深極微妙",
+     "不守自性随縁成",
+     "一中一切多中一",
+     "一即一切多即一",
+     "一微塵中含十方",
+     "一切塵中亦如是",
+     "無量遠劫即一念",
+     "一念即是無量劫",
+     "九世十世互相即",
+     "仍不雑乱隔別成",
+     "初発心時便正覚",
+     "生死涅槃常共和",
+     "理事冥然無分別",
+     "十仏普賢大人境",
+     "能仁海印三昧中",
+     "繁出如意不思議",
+     "雨宝益生満虚空",
+     "衆生随器得利益",
+     "是故行者還本際",
+     "叵息妄想必不得",
+     "無縁善巧捉如意",
+     "帰家随分得資糧",
+     "以陀羅尼無尽宝",
+     "荘厳法界実宝殿",
+     "窮坐実際中道床",
+     "旧来不動名為仏"
+    ],
+    "ja-plain": [
+     "法の本性はあまねく溶け合い、二つのすがたがなく",
+     "すべてのものは動かず、もとから静かです。",
+     "名もすがたもなく、すべてが絶えたところなので",
+     "悟りの智慧でだけ知ることができ、ほかの境地では知りえません。",
+     "まことの本性は深く深く、きわめて微妙なので",
+     "自らの本性にこだわらず、縁にしたがって成ります。",
+     "ひとつの中にすべてがあり、多くの中にひとつがあり",
+     "ひとつがすべてであり、多くがひとつです。",
+     "ひと粒のちりの中に世界のすべてが入っていて",
+     "すべてのちりの中も、また同じです。",
+     "量りしれない長い時が、そのままひとつの思いであり",
+     "ひとつの思いが、そのまま量りしれない時です。",
+     "九つの世と十の世が互いに重なり合いながらも",
+     "混じり合わず、それぞれに成り立っています。",
+     "はじめて心を起こしたそのときが、そのまま正しい悟りであり",
+     "生と死と涅槃が、いつもともに溶け合っています。",
+     "理と事は奥深くひとつで、分けることができないので",
+     "十の仏や普賢菩薩のような大いなる聖者の境地です。",
+     "仏の海印三昧の中で",
+     "はかりしれないことを思いのままに、限りなく現し出して",
+     "生きるものを潤す宝の雨が、虚空に満ちるので",
+     "生きるものはそれぞれ、器に応じて恵みを受けます。",
+     "ですから修行する人は、もとのところへ帰るべきですが",
+     "むなしい思いを休めなければ、決して得られません。",
+     "条件をつけないよい手立てで如意宝珠をつかみ",
+     "家に帰って、自分の分だけ糧を得ます。",
+     "陀羅尼という尽きない宝で",
+     "法界のまことの宝の宮殿を荘厳し",
+     "ついに真実の座、中道の座に坐ると",
+     "昔から動くことのなかったそれを、仏といいます。"
+    ],
+    "ja-yomi": [
+     "ほっしょうえんゆうむにそう",
+     "しょほうふどうほんらいじゃく",
+     "むみょうむそうぜついっさい",
+     "しょうちしょちひよきょう",
+     "しんしょうじんじんごくみみょう",
+     "ふしゅじしょうずいえんじょう",
+     "いっちゅういっさいたちゅういつ",
+     "いっそくいっさいたそくいつ",
+     "いちみじんちゅうがんじっぽう",
+     "いっさいじんちゅうやくにょぜ",
+     "むりょうおんごうそくいちねん",
+     "いちねんそくぜむりょうごう",
+     "くせじっせごそうそく",
+     "にょうふぞうらんきゃくべつじょう",
+     "しょほっしんじべんしょうがく",
+     "しょうじねはんじょうぐわ",
+     "りじみょうねんむふんべつ",
+     "じゅうぶつふげんだいにんきょう",
+     "のうにんかいいんざんまいちゅう",
+     "はんしゅつにょいふしぎ",
+     "うほうやくしょうまんこくう",
+     "しゅじょうずいきとくりやく",
+     "ぜこぎょうじゃげんぽんざい",
+     "はそくもうぞうひつふとく",
+     "むえんぜんぎょうそくにょい",
+     "きけずいぶんとくしりょう",
+     "いだらにむじんぽう",
+     "しょうごんほっかいじっぽうでん",
+     "ぐうざじっさいちゅうどうしょう",
+     "くらいふどうみょういぶつ"
+    ],
+    "zh-Hant": [
+     "法性圓融無二相",
+     "諸法不動本來寂",
+     "無名無相絶一切",
+     "證智所知非餘境",
+     "真性甚深極微妙",
+     "不守自性隨緣成",
+     "一中一切多中一",
+     "一即一切多即一",
+     "一微塵中含十方",
+     "一切塵中亦如是",
+     "無量遠劫即一念",
+     "一念即是無量劫",
+     "九世十世互相即",
+     "仍不雜亂隔別成",
+     "初發心時便正覺",
+     "生死涅槃常共和",
+     "理事冥然無分別",
+     "十佛普賢大人境",
+     "能仁海印三昧中",
+     "繁出如意不思議",
+     "雨寶益生滿虛空",
+     "眾生隨器得利益",
+     "是故行者還本際",
+     "叵息妄想必不得",
+     "無緣善巧捉如意",
+     "歸家隨分得資糧",
+     "以陀羅尼無盡寶",
+     "莊嚴法界實寶殿",
+     "窮坐實際中道床",
+     "舊來不動名為佛"
+    ],
+    "zh-Hant-plain": [
+     "法的本性圓滿融通，沒有兩種模樣，",
+     "一切法不動，本來寂靜。",
+     "沒有名字也沒有形相，是一切都斷絕的地方，",
+     "只有覺悟的智慧才能知道，別的境界無法知道。",
+     "真實的本性深而又深，極其微妙，",
+     "不固守自己的本性，隨著因緣而成就。",
+     "一之中有一切，多之中有一，",
+     "一就是一切，多就是一。",
+     "一粒微塵中包含整個世界，",
+     "一切微塵中也都是這樣。",
+     "無量久遠的歲月就是一念，",
+     "一念就是無量的歲月。",
+     "九世和十世互相交融，",
+     "卻不混亂，各自分明地成就。",
+     "最初發心的那一刻，就是正覺，",
+     "生死與涅槃常常和合在一起。",
+     "理與事深深合一，無法分別，",
+     "這是十佛和普賢菩薩等大聖人的境界。",
+     "在佛的海印三昧之中，",
+     "隨心無盡地展現出不可思議的事，",
+     "利益眾生的寶雨布滿虛空，",
+     "眾生各按自己的器量得到利益。",
+     "所以修行的人應當回到本來的地方，",
+     "但不息滅妄想，就一定得不到。",
+     "用無條件的善巧方便抓住如意寶珠，",
+     "回到家中，按自己的份得到資糧。",
+     "用陀羅尼這無盡的寶藏，",
+     "莊嚴法界真實的寶殿，",
+     "最終坐在真實之座、中道之座上，",
+     "從來不動的那個，就叫作佛。"
+    ],
+    "zh-Hans": [
+     "法性圆融无二相",
+     "诸法不动本来寂",
+     "无名无相绝一切",
+     "证智所知非余境",
+     "真性甚深极微妙",
+     "不守自性随缘成",
+     "一中一切多中一",
+     "一即一切多即一",
+     "一微尘中含十方",
+     "一切尘中亦如是",
+     "无量远劫即一念",
+     "一念即是无量劫",
+     "九世十世互相即",
+     "仍不杂乱隔别成",
+     "初发心时便正觉",
+     "生死涅槃常共和",
+     "理事冥然无分别",
+     "十佛普贤大人境",
+     "能仁海印三昧中",
+     "繁出如意不思议",
+     "雨宝益生满虚空",
+     "众生随器得利益",
+     "是故行者还本际",
+     "叵息妄想必不得",
+     "无缘善巧捉如意",
+     "归家随分得资粮",
+     "以陀罗尼无尽宝",
+     "庄严法界实宝殿",
+     "穷坐实际中道床",
+     "旧来不动名为佛"
+    ],
+    "zh-Hans-plain": [
+     "法的本性圆满融通，没有两种模样，",
+     "一切法不动，本来寂静。",
+     "没有名字也没有形相，是一切都断绝的地方，",
+     "只有觉悟的智慧才能知道，别的境界无法知道。",
+     "真实的本性深而又深，极其微妙，",
+     "不固守自己的本性，随着因缘而成就。",
+     "一之中有一切，多之中有一，",
+     "一就是一切，多就是一。",
+     "一粒微尘中包含整个世界，",
+     "一切微尘中也都是这样。",
+     "无量久远的岁月就是一念，",
+     "一念就是无量的岁月。",
+     "九世和十世互相交融，",
+     "却不混乱，各自分明地成就。",
+     "最初发心的那一刻，就是正觉，",
+     "生死与涅槃常常和合在一起。",
+     "理与事深深合一，无法分别，",
+     "这是十佛和普贤菩萨等大圣人的境界。",
+     "在佛的海印三昧之中，",
+     "随心无尽地展现出不可思议的事，",
+     "利益众生的宝雨布满虚空，",
+     "众生各按自己的器量得到利益。",
+     "所以修行的人应当回到本来的地方，",
+     "但不息灭妄想，就一定得不到。",
+     "用无条件的善巧方便抓住如意宝珠，",
+     "回到家中，按自己的份得到资粮。",
+     "用陀罗尼这无尽的宝藏，",
+     "庄严法界真实的宝殿，",
+     "最终坐在真实之座、中道之座上，",
+     "从来不动的那个，就叫作佛。"
     ]
    },
    "glossary": [

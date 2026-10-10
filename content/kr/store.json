@@ -97,6 +97,18 @@
    "en": {
     "title": "The Heart Sutra, 10 Days",
     "subtitle": "Nine days in sections, then the full text"
+   },
+   "ja": {
+    "title": "般若心経の写経 10日",
+    "subtitle": "九日に分けて書き、十日目に全文"
+   },
+   "zh-Hant": {
+    "title": "般若心經抄經 10 天",
+    "subtitle": "分九天寫，第十天寫全文"
+   },
+   "zh-Hans": {
+    "title": "般若心经抄经 10 天",
+    "subtitle": "分九天写，第十天写全文"
    }
   },
   {
@@ -108,6 +120,18 @@
    "en": {
     "title": "Song of Dharma Nature, 7 Days",
     "subtitle": "Uisang's 210-character verse"
+   },
+   "ja": {
+    "title": "法性偈 7日",
+    "subtitle": "義湘大師の210字"
+   },
+   "zh-Hant": {
+    "title": "法性偈 7 天",
+    "subtitle": "義湘大師的二百一十字"
+   },
+   "zh-Hans": {
+    "title": "法性偈 7 天",
+    "subtitle": "义湘大师的二百一十字"
    }
   },
   {
@@ -119,6 +143,18 @@
    "en": {
     "title": "Words of Old Masters, 14 Days",
     "subtitle": "Short writings from Zen masters"
+   },
+   "ja": {
+    "title": "祖師のひと言 14日",
+    "subtitle": "禅師たちが残した短い言葉"
+   },
+   "zh-Hant": {
+    "title": "古德一句 14 天",
+    "subtitle": "禪師們留下的短文"
+   },
+   "zh-Hans": {
+    "title": "古德一句 14 天",
+    "subtitle": "禅师们留下的短文"
    }
   },
   {
@@ -427,6 +463,18 @@
    "en": {
     "title": "Treasure King Samadhi, 10 Days",
     "subtitle": "Ten lines that turn obstacles into steps"
+   },
+   "ja": {
+    "title": "宝王三昧論 10日",
+    "subtitle": "さまたげを踏み石にする十行"
+   },
+   "zh-Hant": {
+    "title": "寶王三昧論 10 天",
+    "subtitle": "把障礙當作墊腳石的十句"
+   },
+   "zh-Hans": {
+    "title": "宝王三昧论 10 天",
+    "subtitle": "把障碍当作垫脚石的十句"
    }
   },
   {
@@ -438,6 +486,18 @@
    "en": {
     "title": "Temple Chants, 7 Days",
     "subtitle": "Seven verses chanted daily at temples"
+   },
+   "ja": {
+    "title": "礼仏の偈 7日",
+    "subtitle": "お寺で毎日唱える七つの偈"
+   },
+   "zh-Hant": {
+    "title": "禮佛偈頌 7 天",
+    "subtitle": "寺院每天誦唸的七首偈頌"
+   },
+   "zh-Hans": {
+    "title": "礼佛偈颂 7 天",
+    "subtitle": "寺院每天诵念的七首偈颂"
    }
   },
   {
@@ -449,6 +509,18 @@
    "en": {
     "title": "Faith in Mind, 10 Days",
     "subtitle": "Sengcan's verse in four characters"
+   },
+   "ja": {
+    "title": "信心銘 10日",
+    "subtitle": "僧璨の四字の詩"
+   },
+   "zh-Hant": {
+    "title": "信心銘 10 天",
+    "subtitle": "僧璨大師的四字之歌"
+   },
+   "zh-Hans": {
+    "title": "信心铭 10 天",
+    "subtitle": "僧璨大师的四字之歌"
    }
   },
   {
@@ -460,6 +532,18 @@
    "en": {
     "title": "Arousing the Mind, 10 Days",
     "subtitle": "Wonhyo's words on beginning practice"
+   },
+   "ja": {
+    "title": "発心修行章 10日",
+    "subtitle": "元暁大師の、心を起こす文"
+   },
+   "zh-Hant": {
+    "title": "發心修行章 10 天",
+    "subtitle": "元曉大師勸人發心的文章"
+   },
+   "zh-Hans": {
+    "title": "发心修行章 10 天",
+    "subtitle": "元晓大师劝人发心的文章"
    }
   }
  ]

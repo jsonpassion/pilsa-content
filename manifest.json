@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "b707b010b68a",
- "generated_at": "2026-10-10T15:09:21Z",
+ "version": "5e1adc3d5dd2",
+ "generated_at": "2026-10-11T06:20:33Z",
  "entries": [
   {
    "id": "books.json",
@@ -60,8 +60,8 @@
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "abc32717e3661e745da49faa69c860becf888c06329045ac5b6f272d60247ae2",
-   "size": 215921
+   "checksum_sha256": "bb8c0847993bdf613b58a29c06991b49d6c98800177bffd5d5a751980b959690",
+   "size": 396318
   },
   {
    "id": "life.json",
@@ -72,26 +72,26 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "24b9045f21dc41f2c4829161cb020306c8ced6a3a2d3dcc67f59e9180781591f",
-   "size": 246632
+   "checksum_sha256": "c961874744f39626ecb5e3a5f183a220630f36b379fea084509a4c908eaaad66",
+   "size": 295928
   },
   {
    "id": "packs_books.json",
    "path": "content/kr/packs_books.json",
-   "checksum_sha256": "ae37dcd0479affed10b0d090572f09044a44f31fad555f420b3c8a83b8cc8a56",
-   "size": 144199
+   "checksum_sha256": "764d1333baaf222a38a24377afcf4f774c4c9f134bd03d0c9377074e649fd403",
+   "size": 180079
   },
   {
    "id": "store.json",
    "path": "content/kr/store.json",
-   "checksum_sha256": "425c0ad618694d8491d2821b0c00ed3c12518edc041d60c1a165031f89205097",
-   "size": 12097
+   "checksum_sha256": "96df844264bc4bca08ee99d83fddb3f1d8f5e6151f3a9cf10c55785d5e348e1c",
+   "size": 14353
   },
   {
    "id": "store_books.json",
    "path": "content/kr/store_books.json",
-   "checksum_sha256": "fa364beabce566c579e62f0f8b486703c841b7da28f77077390d627c43c12e52",
-   "size": 5214
+   "checksum_sha256": "29e92821ec1e3bfc1b382f9e3c0f1a34fa3a2a7ffe9615244d4fb44047c19ff0",
+   "size": 6226
   },
   {
    "id": "music.json",

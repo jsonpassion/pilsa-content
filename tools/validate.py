@@ -90,6 +90,30 @@ def main():
             elif any("\u4e00" <= ch <= "\u9fff" for ch in entry["word"]):
                 problems.append(f"사경 {key}: 단어 풀이 표제어에 한자가 들어 있음 {entry['word']}")
 
+    # 일본어 사경과 중국어 초경: 한자 줄, 풀이 줄(그리고 일본어 요미 줄)이 함께 있고 수가 같아야 한다.
+    # 쓰는 글에 한글이 섞이면 안 되고, 요미는 히라가나와 띄어쓰기뿐이며 한자 줄과 띄어 쓴 자리가 같아야 한다
+    for key, item in collections["buddhist"].items():
+        lines = item.get("lines", {})
+        for lang in ("ja", "zh-Hant", "zh-Hans"):
+            if lang not in lines and f"{lang}-plain" not in lines:
+                continue
+            text, plain = lines.get(lang, []), lines.get(f"{lang}-plain", [])
+            if not text or len(text) != len(plain):
+                problems.append(f"사경 {key}: {lang} 한자 줄과 풀이 줄이 함께 있고 수가 같아야 함 ({len(text)}, {len(plain)})")
+            if lang not in item.get("title", {}):
+                problems.append(f"사경 {key}: {lang} 제목이 없음")
+            if any("\uac00" <= ch <= "\ud7a3" for l in text + plain for ch in l):
+                problems.append(f"사경 {key}: {lang} 글에 한글이 섞여 있음")
+        if "ja" in lines:
+            yomi = lines.get("ja-yomi", [])
+            if len(yomi) != len(lines["ja"]):
+                problems.append(f"사경 {key}: ja-yomi 줄 수가 ja와 다름")
+            for y, k in zip(yomi, lines["ja"]):
+                if any(not ("\u3041" <= ch <= "\u309f" or ch in " ー") for ch in y):
+                    problems.append(f"사경 {key}: ja-yomi 는 히라가나만 {y}")
+                elif len(y.split(" ")) != len(k.split(" ")):
+                    problems.append(f"사경 {key}: ja-yomi 띄어쓰기가 한자 줄과 다름 {y}")
+
     music_ids = set()
     # 종교 곡은 music_faith.json 에 둔다. 종교 태그를 모르는 옛 앱(1.2.1까지)은 music.json 만 읽으므로,
     # music.json 에 종교 곡을 넣으면 옛 앱에서 모든 사람에게 보인다
