@@ -100,36 +100,83 @@
   },
   {
    "id": "seongdo2027",
-   "from": "2027-01-12",
+   "from": "2027-01-01",
    "until": "2027-01-15",
    "traditions": [
     "buddhist"
    ],
    "art": "moment_retreat",
-   "symbol": "moon",
-   "tint": "lavender",
-   "collection": "buddhist",
-   "passage": "bud.yeongi",
+   "symbol": "sun.max",
+   "tint": "mustard",
+   "pack": "seongdoBook",
    "text": {
     "ko": {
-     "title": "성도재일이 다가와요",
-     "line": "부처님이 깨달음을 이루신 날, 연기의 가르침을 한 장 써 볼까요?"
+     "title": "성도재일을 맞아요",
+     "line": "1월 15일 성도재일까지, 부처님의 깨달음을 하루 한 장 써 볼까요?"
     },
     "en": {
-     "title": "Bodhi Day is near",
-     "line": "On the day the Buddha awakened, copy the teaching of dependent arising."
+     "title": "Bodhi Day is coming",
+     "line": "Until Bodhi Day on January 15, copy the Buddha's awakening one page a day."
     },
     "ja": {
      "title": "お釈迦さまの悟りを思って",
-     "line": "お釈迦さまが悟りをひらかれた日に、縁起の教えを一枚書いてみませんか。"
+     "line": "お釈迦さまの悟りの言葉を、一日一枚書いてみませんか。"
     },
     "zh-Hans": {
-     "title": "成道日快到了",
-     "line": "佛陀成道之日，抄写一页缘起的教法吧。"
+     "title": "成道日将至",
+     "line": "到腊月初八成道日，每天抄一页佛陀的觉悟吧。"
     },
     "zh-Hant": {
-     "title": "成道日快到了",
-     "line": "佛陀成道之日，抄寫一頁緣起的教法吧。"
+     "title": "成道日將至",
+     "line": "到臘月初八成道日，每天抄一頁佛陀的覺悟吧。"
+    }
+   }
+  },
+  {
+   "id": "renew2027-protestant",
+   "from": "2027-01-01",
+   "until": "2027-01-17",
+   "traditions": [
+    "protestant"
+   ],
+   "art": "moment_newyear",
+   "symbol": "sunrise",
+   "tint": "mustard",
+   "pack": "renewBook",
+   "text": {
+    "ko": {
+     "title": "새해, 새 마음",
+     "line": "새롭게 하시는 말씀으로 한 해의 첫 장들을 채워 볼까요?"
+    },
+    "en": {
+     "title": "A new year, a new heart",
+     "line": "Fill the first pages of the year with the Word that makes all things new."
+    },
+    "es": {
+     "title": "Año nuevo, corazón nuevo",
+     "line": "Llena las primeras páginas del año con la Palabra que hace nuevas todas las cosas."
+    }
+   }
+  },
+  {
+   "id": "epiphany2027-catholic",
+   "from": "2027-01-01",
+   "until": "2027-01-17",
+   "traditions": [
+    "catholic"
+   ],
+   "art": "moment_christmas",
+   "symbol": "sparkles",
+   "tint": "mustard",
+   "pack": "epiphanyBook",
+   "text": {
+    "ko": {
+     "title": "주님 공현을 맞아요",
+     "line": "별을 따라온 박사들처럼, 빛으로 오신 주님을 하루 한 장 따라가 봐요."
+    },
+    "en": {
+     "title": "The Epiphany of the Lord",
+     "line": "Like the wise men following the star, follow the Lord who came as light, a page a day."
     }
    }
   },
@@ -165,6 +212,41 @@
     "zh-Hant": {
      "title": "開啟新年的28天",
      "line": "一次一個小小的決心，親手翻開新年的第一頁。"
+    }
+   }
+  },
+  {
+   "id": "resolve2027",
+   "from": "2027-01-11",
+   "until": "2027-01-31",
+   "art": "moment_newyear",
+   "symbol": "mountain.2",
+   "tint": "sage",
+   "pack": "resolveBook",
+   "text": {
+    "ko": {
+     "title": "뜻을 세우는 1월",
+     "line": "율곡의 격몽요결에서 세네카까지, 새해의 다짐을 고전으로 다져 볼까요?"
+    },
+    "en": {
+     "title": "A month for resolve",
+     "line": "From Yulgok to Seneca, steady your new year's resolve with the classics."
+    },
+    "es": {
+     "title": "Un mes para decidir",
+     "line": "De Yulgok a Séneca, afianza tus propósitos de año nuevo con los clásicos."
+    },
+    "ja": {
+     "title": "志を立てる一月",
+     "line": "栗谷の『撃蒙要訣』からセネカまで、新年の決意を古典で固めてみませんか。"
+    },
+    "zh-Hans": {
+     "title": "立志的一月",
+     "line": "从栗谷的《击蒙要诀》到塞涅卡，用经典稳住新年的决心。"
+    },
+    "zh-Hant": {
+     "title": "立志的一月",
+     "line": "從栗谷的《擊蒙要訣》到塞涅卡，用經典穩住新年的決心。"
     }
    }
   },

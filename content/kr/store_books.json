@@ -295,6 +295,70 @@
     "title": "冬安居 28 天",
     "subtitle": "冬季三个月，收摄身心的抄经"
    }
+  },
+  {
+   "productID": "kr.book.renewbook",
+   "unlock": "pack:renewBook",
+   "price": 4400,
+   "title": "새롭게 하시는 말씀 28일",
+   "subtitle": "새해, 새 마음을 주시는 하나님",
+   "en": {
+    "title": "The Word That Makes New, 28 Days",
+    "subtitle": "A new year, a new heart from God"
+   },
+   "new": true,
+   "es": {
+    "title": "La Palabra que hace nuevo, 28 días",
+    "subtitle": "Año nuevo, un corazón nuevo de Dios"
+   }
+  },
+  {
+   "productID": "kr.book.epiphanybook",
+   "unlock": "pack:epiphanyBook",
+   "price": 4400,
+   "title": "주님 공현 28일",
+   "subtitle": "빛으로 오신 주님을 따라",
+   "en": {
+    "title": "Epiphany of the Lord, 28 Days",
+    "subtitle": "Following the Lord who came as light"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.resolvebook",
+   "unlock": "pack:resolveBook",
+   "price": 4400,
+   "title": "뜻을 세우는 28일",
+   "subtitle": "격몽요결에서 세네카까지",
+   "en": {
+    "title": "Setting Your Resolve, 28 Days",
+    "subtitle": "From Yulgok to Seneca"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.seongdobook",
+   "unlock": "pack:seongdoBook",
+   "price": 4400,
+   "title": "부처님의 깨달음 28일",
+   "subtitle": "성도재일, 보리수 아래에서",
+   "en": {
+    "title": "The Buddha's Awakening, 28 Days",
+    "subtitle": "Bodhi Day, under the bodhi tree"
+   },
+   "new": true,
+   "ja": {
+    "title": "お釈迦さまの悟り 28日",
+    "subtitle": "菩提樹の下で開かれた悟り"
+   },
+   "zh-Hant": {
+    "title": "佛陀成道 28 天",
+    "subtitle": "成道日，在菩提樹下"
+   },
+   "zh-Hans": {
+    "title": "佛陀成道 28 天",
+    "subtitle": "成道日，在菩提树下"
+   }
   }
  ]
 }

@@ -4396,6 +4396,874 @@
      "note": "begin에 s가 붙은 꼴이에요."
     }
    ]
+  },
+  "life.resolve.1": {
+   "title": {
+    "ko": "먼저 뜻을 세운다",
+    "en": "First, set your resolve"
+   },
+   "lines": {
+    "ko": [
+     "처음 배우는 사람은 먼저 뜻을 세워야 한다. 스스로를 작게 여기며 물러설 생각은 털끝만큼도 두어서는 안 된다. 격몽요결 입지장"
+    ],
+    "en": [
+     "Whoever begins to learn must first set their resolve. Do not keep even a hair of the thought that you are small and should hold back. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "set their resolve",
+     "ko": "뜻을 세우다",
+     "note": "resolve는 '굳게 정한 뜻'이에요."
+    },
+    {
+     "word": "hair",
+     "ko": "털끝",
+     "note": ""
+    },
+    {
+     "word": "hold back",
+     "ko": "물러서다, 망설이다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.2": {
+   "title": {
+    "ko": "바꿀 수 있는 것",
+    "en": "What can be changed"
+   },
+   "lines": {
+    "ko": [
+     "얼굴의 생김과 타고난 힘과 키는 바꿀 수 없다. 그러나 마음과 뜻은 어리석음을 지혜로, 못남을 어짊으로 바꿀 수 있다. 격몽요결 입지장"
+    ],
+    "en": [
+     "Your face, your strength, and your height cannot be changed. But the heart and will can turn foolishness into wisdom and unworthiness into goodness. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "cannot be changed",
+     "ko": "바꿀 수 없다",
+     "note": ""
+    },
+    {
+     "word": "will",
+     "ko": "뜻, 의지",
+     "note": ""
+    },
+    {
+     "word": "turn",
+     "ko": "바꾸다",
+     "note": "turn A into B는 'A를 B로 바꾸다'예요."
+    }
+   ]
+  },
+  "life.resolve.3": {
+   "title": {
+    "ko": "곧바로",
+    "en": "At once"
+   },
+   "lines": {
+    "ko": [
+     "뜻을 세웠다 하면서 곧바로 힘쓰지 않고 머뭇거리며 기다린다면, 이름만 뜻일 뿐 배움을 향한 정성이 없는 것이다. 격몽요결 입지장"
+    ],
+    "en": [
+     "If you say you have set your resolve but do not start at once, lingering and waiting, it is a resolve in name only, with no true heart for learning. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "at once",
+     "ko": "곧바로",
+     "note": ""
+    },
+    {
+     "word": "lingering",
+     "ko": "머뭇거리는",
+     "note": ""
+    },
+    {
+     "word": "in name only",
+     "ko": "이름뿐인",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.4": {
+   "title": {
+    "ko": "물러서지 않는 마음",
+    "en": "Never stepping back"
+   },
+   "lines": {
+    "ko": [
+     "뜻을 세움이 귀한 까닭은, 곧바로 공부를 시작하고 행여 못 미칠까 하여 생각마다 물러서지 않기 때문이다. 격몽요결 입지장"
+    ],
+    "en": [
+     "A resolve is precious because you begin the work at once and, as if afraid of falling short, never step back in a single thought. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "precious",
+     "ko": "귀한",
+     "note": ""
+    },
+    {
+     "word": "falling short",
+     "ko": "못 미치다",
+     "note": ""
+    },
+    {
+     "word": "step back",
+     "ko": "물러서다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.5": {
+   "title": {
+    "ko": "가로막는 옛 습관",
+    "en": "Old habits in the way"
+   },
+   "lines": {
+    "ko": [
+     "배움에 뜻을 두고도 용감하게 곧장 나아가 이루지 못하는 것은, 옛 습관이 가로막아 무너뜨리기 때문이다. 격몽요결 혁구습장"
+    ],
+    "en": [
+     "When people who want to learn cannot go boldly straight ahead and achieve it, it is because old habits block the way and wear them down. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "boldly",
+     "ko": "용감하게",
+     "note": ""
+    },
+    {
+     "word": "old habits",
+     "ko": "옛 습관",
+     "note": ""
+    },
+    {
+     "word": "wear them down",
+     "ko": "무너뜨리다, 지치게 하다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.6": {
+   "title": {
+    "ko": "아침의 뉘우침",
+    "en": "Regret in the morning"
+   },
+   "lines": {
+    "ko": [
+     "옛 습관은 뜻을 굳지 못하게 한다. 오늘 한 일을 내일 고치기 어렵고, 아침에 뉘우쳐도 저녁이면 다시 그렇게 한다. 격몽요결 혁구습장"
+    ],
+    "en": [
+     "Old habits keep the will from growing firm. What you did today is hard to change tomorrow. You regret it in the morning, and by evening you do it again. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "firm",
+     "ko": "굳은",
+     "note": ""
+    },
+    {
+     "word": "regret",
+     "ko": "뉘우치다",
+     "note": ""
+    },
+    {
+     "word": "by evening",
+     "ko": "저녁이면",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.7": {
+   "title": {
+    "ko": "뿌리째 끊기",
+    "en": "Cutting at the root"
+   },
+   "lines": {
+    "ko": [
+     "반드시 크게 용기를 내어, 한칼에 뿌리를 끊듯 옛 습관을 끊고 마음 바탕을 깨끗이 씻어야 한다. 격몽요결 혁구습장"
+    ],
+    "en": [
+     "You must summon great courage, cut off old habits as if severing a root with one stroke, and wash the ground of your heart clean. Yulgok, Gyeongmong Yogyeol"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "summon",
+     "ko": "불러일으키다",
+     "note": ""
+    },
+    {
+     "word": "severing",
+     "ko": "끊어 내는",
+     "note": ""
+    },
+    {
+     "word": "one stroke",
+     "ko": "한칼, 단번",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.8": {
+   "title": {
+    "ko": "날마다 새롭게",
+    "en": "New every day"
+   },
+   "lines": {
+    "ko": [
+     "탕왕의 세숫대야에 새긴 글에 이르기를, 진실로 하루가 새로워졌거든 날마다 새롭게 하고 또 날로 새롭게 하라. 대학"
+    ],
+    "en": [
+     "The words carved on King Tang's washbasin said: If you can be new for one day, be new day by day, and new again each day. The Great Learning"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "carved",
+     "ko": "새긴",
+     "note": ""
+    },
+    {
+     "word": "washbasin",
+     "ko": "세숫대야",
+     "note": ""
+    },
+    {
+     "word": "day by day",
+     "ko": "날마다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.9": {
+   "title": {
+    "ko": "먼저 할 일",
+    "en": "What comes first"
+   },
+   "lines": {
+    "ko": [
+     "모든 것에는 뿌리와 가지가 있고, 일에는 마침과 시작이 있다. 무엇을 먼저 하고 나중에 할지 알면 길에 가깝다. 대학"
+    ],
+    "en": [
+     "Things have their roots and branches. Affairs have their endings and beginnings. Know what comes first and what comes after, and you are close to the way. The Great Learning"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "roots and branches",
+     "ko": "뿌리와 가지",
+     "note": "근본과 말단을 말해요."
+    },
+    {
+     "word": "affairs",
+     "ko": "일, 일들",
+     "note": ""
+    },
+    {
+     "word": "comes first",
+     "ko": "먼저 오다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.10": {
+   "title": {
+    "ko": "남이 한 번이면",
+    "en": "If others need one try"
+   },
+   "lines": {
+    "ko": [
+     "남이 한 번에 해내면 나는 백 번 하고, 남이 열 번에 해내면 나는 천 번 한다. 그러면 어리석어도 반드시 밝아진다. 중용 20장"
+    ],
+    "en": [
+     "If another can do it in one try, I will take a hundred. If another can do it in ten, I will take a thousand. Then even a dull mind will surely grow bright. Doctrine of the Mean, 20"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "try",
+     "ko": "시도, 한 번 해 봄",
+     "note": ""
+    },
+    {
+     "word": "dull",
+     "ko": "둔한, 어리석은",
+     "note": ""
+    },
+    {
+     "word": "grow bright",
+     "ko": "밝아지다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.11": {
+   "title": {
+    "ko": "놓친 마음 찾기",
+    "en": "Finding the strayed heart"
+   },
+   "lines": {
+    "ko": [
+     "닭이나 개를 잃으면 찾을 줄 알면서 잃은 마음은 찾을 줄 모른다. 배움의 길은 다른 것이 없다. 놓친 마음을 찾는 것뿐이다. 맹자 고자 상"
+    ],
+    "en": [
+     "People who lose a chicken or a dog know to look for it, yet do not look for the heart they have lost. The way of learning is nothing but seeking that lost heart. Mencius, Gaozi I"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "look for",
+     "ko": "찾다",
+     "note": ""
+    },
+    {
+     "word": "nothing but",
+     "ko": "~일 뿐",
+     "note": ""
+    },
+    {
+     "word": "seeking",
+     "ko": "찾는 것",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.12": {
+   "title": {
+    "ko": "하루 볕, 열흘 추위",
+    "en": "One day of sun, ten of cold"
+   },
+   "lines": {
+    "ko": [
+     "아무리 쉽게 자라는 것이라도 하루 볕을 쬐고 열흘을 차게 두면 자랄 수 있는 것이 없다. 맹자 고자 상"
+    ],
+    "en": [
+     "Even the easiest thing to grow will not grow if it gets one day of sun and ten days of cold. Mencius, Gaozi I"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "easiest",
+     "ko": "가장 쉬운",
+     "note": ""
+    },
+    {
+     "word": "sun",
+     "ko": "햇볕",
+     "note": ""
+    },
+    {
+     "word": "cold",
+     "ko": "추위, 찬 기운",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.13": {
+   "title": {
+    "ko": "샘에 닿을 때까지",
+    "en": "Until you reach water"
+   },
+   "lines": {
+    "ko": [
+     "무언가를 하는 것은 우물을 파는 것과 같다. 아홉 길을 파고도 샘에 닿지 못하고 그치면, 우물을 버린 것과 같다. 맹자 진심 상"
+    ],
+    "en": [
+     "Doing anything is like digging a well. If you dig nine fathoms and stop before reaching water, it is the same as abandoning the well. Mencius, Jinxin I"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "digging a well",
+     "ko": "우물을 파기",
+     "note": ""
+    },
+    {
+     "word": "fathoms",
+     "ko": "길",
+     "note": "물 깊이를 재는 단위예요."
+    },
+    {
+     "word": "abandoning",
+     "ko": "버리는",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.14": {
+   "title": {
+    "ko": "가까운 길도",
+    "en": "Even a short road"
+   },
+   "lines": {
+    "ko": [
+     "길이 가까워도 가지 않으면 이르지 못하고, 일이 작아도 하지 않으면 이루지 못한다. 순자 수신편"
+    ],
+    "en": [
+     "Though the road is short, you will not arrive if you do not walk it. Though the task is small, it will not be done if you do not do it. Xunzi, Self-Cultivation"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "road",
+     "ko": "길",
+     "note": ""
+    },
+    {
+     "word": "arrive",
+     "ko": "이르다, 닿다",
+     "note": ""
+    },
+    {
+     "word": "task",
+     "ko": "일, 할 일",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.15": {
+   "title": {
+    "ko": "지키는 수고",
+    "en": "The work of keeping"
+   },
+   "lines": {
+    "ko": [
+     "좋은 다짐을 세우는 것보다 세운 다짐을 지키는 데 더 많은 수고가 든다. 날마다 힘을 더해, 좋은 바람이 좋은 마음이 되게 한다. 세네카 편지"
+    ],
+    "en": [
+     "It takes more work to keep your resolutions than to make good ones. Add strength day after day, until a good wish becomes a good mind. Seneca, Letters"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "resolutions",
+     "ko": "다짐들",
+     "note": ""
+    },
+    {
+     "word": "strength",
+     "ko": "힘",
+     "note": ""
+    },
+    {
+     "word": "wish",
+     "ko": "바람",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.16": {
+   "title": {
+    "ko": "하늘 말고 마음",
+    "en": "Not the sky, but the mind"
+   },
+   "lines": {
+    "ko": [
+     "멀리 떠나도 근심이 따라오는 것은 나를 데리고 가기 때문이다. 바꿔야 할 것은 하늘이 아니라 마음이다. 세네카 편지"
+    ],
+    "en": [
+     "Why does travel not help you? Because you take yourself along. What you must change is your mind, not your sky. Seneca, Letters"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "travel",
+     "ko": "여행, 떠남",
+     "note": ""
+    },
+    {
+     "word": "take yourself along",
+     "ko": "나를 데리고 가다",
+     "note": ""
+    },
+    {
+     "word": "sky",
+     "ko": "하늘",
+     "note": "여기서는 머무는 곳을 뜻해요."
+    }
+   ]
+  },
+  "life.resolve.17": {
+   "title": {
+    "ko": "오늘을 붙들기",
+    "en": "Holding on to today"
+   },
+   "lines": {
+    "ko": [
+     "모든 시간을 꼭 붙들어라. 오늘을 손에 쥐면 내일에 덜 매달린다. 미루는 사이에 삶은 달려간다. 세네카 편지"
+    ],
+    "en": [
+     "Hold on to every hour. Lay hold of today, and you will depend less on tomorrow. While we put things off, life runs past. Seneca, Letters"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hold on to",
+     "ko": "꼭 붙들다",
+     "note": ""
+    },
+    {
+     "word": "depend",
+     "ko": "기대다, 매달리다",
+     "note": ""
+    },
+    {
+     "word": "put things off",
+     "ko": "미루다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.18": {
+   "title": {
+    "ko": "일어나기 싫은 아침",
+    "en": "A reluctant morning"
+   },
+   "lines": {
+    "ko": [
+     "아침에 일어나기 싫을 때는 이 생각을 곁에 두라. 나는 사람으로서 할 일을 하러 일어난다. 아우렐리우스 명상록"
+    ],
+    "en": [
+     "On mornings when you do not want to get up, keep this thought at hand: I am rising to do the work of a human being. Marcus Aurelius, Meditations"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "get up",
+     "ko": "일어나다",
+     "note": ""
+    },
+    {
+     "word": "at hand",
+     "ko": "곁에, 가까이",
+     "note": ""
+    },
+    {
+     "word": "rising",
+     "ko": "일어나는",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.19": {
+   "title": {
+    "ko": "말보다 되기",
+    "en": "Be one"
+   },
+   "lines": {
+    "ko": [
+     "좋은 사람이란 어떤 사람인가를 두고 더는 따지지 말라. 그런 사람이 되어라. 아우렐리우스 명상록"
+    ],
+    "en": [
+     "Stop arguing about what a good person should be like. Be one. Marcus Aurelius, Meditations"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "arguing",
+     "ko": "따지는, 논하는",
+     "note": ""
+    },
+    {
+     "word": "should be like",
+     "ko": "어떠해야 하는지",
+     "note": ""
+    },
+    {
+     "word": "Be one",
+     "ko": "그런 사람이 되어라",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.20": {
+   "title": {
+    "ko": "언제까지 미루려나",
+    "en": "How long will you wait"
+   },
+   "lines": {
+    "ko": [
+     "나를 가장 좋은 것에 걸맞다고 여기기를 언제까지 미루려는가. 아직 소크라테스가 아니어도 그렇게 되려는 사람처럼 살라. 에픽테토스 엥케이리디온"
+    ],
+    "en": [
+     "How long will you put off counting yourself worthy of the best? Even if you are not yet Socrates, live as one who wants to be Socrates. Epictetus, Enchiridion"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "put off",
+     "ko": "미루다",
+     "note": ""
+    },
+    {
+     "word": "worthy",
+     "ko": "걸맞은, 자격이 있는",
+     "note": ""
+    },
+    {
+     "word": "not yet",
+     "ko": "아직 ~이 아닌",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.21": {
+   "title": {
+    "ko": "무화과가 익기까지",
+    "en": "Until the fig ripens"
+   },
+   "lines": {
+    "ko": [
+     "큰 것은 단번에 생기지 않는다. 포도 한 송이, 무화과 하나도 그렇다. 먼저 꽃이 피고, 열매를 맺고, 그다음에 익는다. 에픽테토스 어록"
+    ],
+    "en": [
+     "No great thing comes into being all at once, not even a bunch of grapes or a fig. First it must blossom, then bear fruit, then ripen. Epictetus, Discourses"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "all at once",
+     "ko": "단번에",
+     "note": ""
+    },
+    {
+     "word": "blossom",
+     "ko": "꽃이 피다",
+     "note": ""
+    },
+    {
+     "word": "ripen",
+     "ko": "익다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.22": {
+   "title": {
+    "ko": "결단",
+    "en": "Resolution"
+   },
+   "lines": {
+    "ko": [
+     "결단. 해야 할 일은 하기로 마음먹고, 마음먹은 일은 어김없이 한다. 프랭클린 자서전"
+    ],
+    "en": [
+     "Resolution. Resolve to do what you ought. Do without fail what you resolve. Benjamin Franklin, Autobiography"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "Resolution",
+     "ko": "결단",
+     "note": ""
+    },
+    {
+     "word": "ought",
+     "ko": "마땅히 해야 하다",
+     "note": "what you ought는 '해야 할 일'이에요."
+    },
+    {
+     "word": "without fail",
+     "ko": "어김없이",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.23": {
+   "title": {
+    "ko": "한 번에 하나",
+    "en": "One at a time"
+   },
+   "lines": {
+    "ko": [
+     "모든 덕목을 한꺼번에 지키려다 마음이 흩어지지 않게, 한 번에 하나에만 마음을 모았다. 그것이 몸에 익으면 다음으로 넘어갔다. 프랭클린 자서전"
+    ],
+    "en": [
+     "So as not to scatter my attention by trying them all at once, I fixed it on one virtue at a time. When I had mastered it, I moved on to the next. Benjamin Franklin, Autobiography"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "scatter",
+     "ko": "흩뜨리다",
+     "note": ""
+    },
+    {
+     "word": "virtue",
+     "ko": "덕목",
+     "note": ""
+    },
+    {
+     "word": "mastered",
+     "ko": "익혔다, 몸에 익혔다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.24": {
+   "title": {
+    "ko": "아침의 물음",
+    "en": "The morning question"
+   },
+   "lines": {
+    "ko": [
+     "아침의 물음. 오늘 나는 어떤 좋은 일을 할까. 저녁의 물음. 오늘 나는 어떤 좋은 일을 했나. 프랭클린 자서전"
+    ],
+    "en": [
+     "The morning question: What good shall I do this day? The evening question: What good have I done today? Benjamin Franklin, Autobiography"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "morning question",
+     "ko": "아침의 물음",
+     "note": ""
+    },
+    {
+     "word": "What good",
+     "ko": "어떤 좋은 일",
+     "note": ""
+    },
+    {
+     "word": "evening question",
+     "ko": "저녁의 물음",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.25": {
+   "title": {
+    "ko": "미리 긋는 선",
+    "en": "A line drawn too soon"
+   },
+   "lines": {
+    "ko": [
+     "염구가 힘이 모자란다고 하자 공자가 말했다. 힘이 모자란 사람은 가다가 중간에 멈춘다. 지금 너는 미리 선을 긋는구나. 논어 옹야편"
+    ],
+    "en": [
+     "When Ran Qiu said his strength was not enough, the Master said: Those who truly lack strength stop halfway. You are drawing a line before you start. Analects, Book 6"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "not enough",
+     "ko": "모자란",
+     "note": ""
+    },
+    {
+     "word": "halfway",
+     "ko": "중간에",
+     "note": ""
+    },
+    {
+     "word": "drawing a line",
+     "ko": "선을 긋다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.26": {
+   "title": {
+    "ko": "빼앗을 수 없는 뜻",
+    "en": "A will no one can take"
+   },
+   "lines": {
+    "ko": [
+     "큰 군대에서 장수는 빼앗을 수 있어도, 평범한 한 사람에게서 그 뜻은 빼앗을 수 없다. 논어 자한편"
+    ],
+    "en": [
+     "You can take the general from a great army, but you cannot take the will from even one ordinary person. Analects, Book 9"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "general",
+     "ko": "장수",
+     "note": ""
+    },
+    {
+     "word": "army",
+     "ko": "군대",
+     "note": ""
+    },
+    {
+     "word": "ordinary",
+     "ko": "평범한",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.27": {
+   "title": {
+    "ko": "하루의 계획은 새벽에",
+    "en": "A day's plan at dawn"
+   },
+   "lines": {
+    "ko": [
+     "한 해의 계획은 봄에 있고, 하루의 계획은 새벽에 있다. 봄에 밭을 갈지 않으면 가을에 바랄 것이 없다. 명심보감 입교편"
+    ],
+    "en": [
+     "The plan for a year lies in spring, and the plan for a day lies at dawn. If you do not plow in spring, there is nothing to hope for in autumn. Myeongsim Bogam"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "dawn",
+     "ko": "새벽",
+     "note": ""
+    },
+    {
+     "word": "plow",
+     "ko": "밭을 갈다",
+     "note": ""
+    },
+    {
+     "word": "hope for",
+     "ko": "바라다",
+     "note": ""
+    }
+   ]
+  },
+  "life.resolve.28": {
+   "title": {
+    "ko": "이르지 못해도",
+    "en": "Even if I fall short"
+   },
+   "lines": {
+    "ko": [
+     "바라던 완전함에는 끝내 이르지 못했다. 그래도 애써 본 덕분에, 애쓰지 않았을 때보다 더 낫고 더 행복한 사람이 되었다. 프랭클린 자서전"
+    ],
+    "en": [
+     "I never reached the perfection I had hoped for. Yet by trying, I became a better and happier man than I would have been had I not tried. Benjamin Franklin, Autobiography"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "perfection",
+     "ko": "완전함",
+     "note": ""
+    },
+    {
+     "word": "by trying",
+     "ko": "애써 본 덕분에",
+     "note": ""
+    },
+    {
+     "word": "happier",
+     "ko": "더 행복한",
+     "note": ""
+    }
+   ]
   }
  }
 }
