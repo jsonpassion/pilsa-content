@@ -1,0 +1,341 @@
+{
+ "moments": [
+  {
+   "id": "christmas2026-protestant",
+   "from": "2026-12-24",
+   "until": "2026-12-26",
+   "traditions": [
+    "protestant"
+   ],
+   "art": "moment_christmas",
+   "symbol": "sparkles",
+   "tint": "peach",
+   "collection": "bible",
+   "passage": "LUK.2.10-11",
+   "text": {
+    "ko": {
+     "title": "메리 크리스마스",
+     "line": "오늘 우리에게 오신 아기 예수님의 소식을 한 장에 담아 볼까요?"
+    },
+    "en": {
+     "title": "Merry Christmas",
+     "line": "Write down the good news of the Child born to us today."
+    },
+    "es": {
+     "title": "Feliz Navidad",
+     "line": "Escribe en una página la buena noticia del Niño que hoy nos ha nacido."
+    }
+   }
+  },
+  {
+   "id": "christmas2026-catholic",
+   "from": "2026-12-24",
+   "until": "2026-12-26",
+   "traditions": [
+    "catholic"
+   ],
+   "art": "moment_christmas",
+   "symbol": "sparkles",
+   "tint": "peach",
+   "collection": "catholic",
+   "passage": "LUK.2.10-11",
+   "text": {
+    "ko": {
+     "title": "성탄을 축하해요",
+     "line": "천사가 전한 큰 기쁨의 소식을 한 장에 담아 볼까요?"
+    },
+    "en": {
+     "title": "Merry Christmas",
+     "line": "Write down the tidings of great joy the angel brought."
+    }
+   }
+  },
+  {
+   "id": "advent2026-protestant",
+   "from": "2026-11-29",
+   "until": "2026-12-23",
+   "traditions": [
+    "protestant"
+   ],
+   "art": "moment_advent",
+   "symbol": "sparkles",
+   "tint": "sky",
+   "pack": "adventBook",
+   "text": {
+    "ko": {
+     "title": "대림절이 시작됐어요",
+     "line": "오실 주님을 기다리며 성탄까지 하루 한 장씩 써 볼까요?"
+    },
+    "en": {
+     "title": "Advent has begun",
+     "line": "Wait for the coming Lord with one page a day until Christmas."
+    },
+    "es": {
+     "title": "Comienza el Adviento",
+     "line": "Espera al Señor que viene con una página al día hasta Navidad."
+    }
+   }
+  },
+  {
+   "id": "advent2026-catholic",
+   "from": "2026-11-29",
+   "until": "2026-12-23",
+   "traditions": [
+    "catholic"
+   ],
+   "art": "moment_advent",
+   "symbol": "sun.haze",
+   "tint": "lavender",
+   "pack": "catholicAdventBook",
+   "text": {
+    "ko": {
+     "title": "대림 시기가 시작됐어요",
+     "line": "촛불을 하나씩 밝히듯, 성탄까지 하루 한 장씩 주님을 기다려 봐요."
+    },
+    "en": {
+     "title": "The season of Advent",
+     "line": "Like lighting one candle at a time, wait for the Lord with a page a day."
+    }
+   }
+  },
+  {
+   "id": "seongdo2027",
+   "from": "2027-01-12",
+   "until": "2027-01-15",
+   "traditions": [
+    "buddhist"
+   ],
+   "art": "moment_retreat",
+   "symbol": "moon",
+   "tint": "lavender",
+   "collection": "buddhist",
+   "passage": "bud.yeongi",
+   "text": {
+    "ko": {
+     "title": "성도재일이 다가와요",
+     "line": "부처님이 깨달음을 이루신 날, 연기의 가르침을 한 장 써 볼까요?"
+    },
+    "en": {
+     "title": "Bodhi Day is near",
+     "line": "On the day the Buddha awakened, copy the teaching of dependent arising."
+    },
+    "ja": {
+     "title": "お釈迦さまの悟りを思って",
+     "line": "お釈迦さまが悟りをひらかれた日に、縁起の教えを一枚書いてみませんか。"
+    },
+    "zh-Hans": {
+     "title": "成道日快到了",
+     "line": "佛陀成道之日，抄写一页缘起的教法吧。"
+    },
+    "zh-Hant": {
+     "title": "成道日快到了",
+     "line": "佛陀成道之日，抄寫一頁緣起的教法吧。"
+    }
+   }
+  },
+  {
+   "id": "newyear2027",
+   "from": "2026-12-27",
+   "until": "2027-01-10",
+   "art": "moment_newyear",
+   "symbol": "sunrise",
+   "tint": "peach",
+   "pack": "newYearBook",
+   "text": {
+    "ko": {
+     "title": "새해를 여는 28일",
+     "line": "작은 다짐 하나씩, 새해의 첫 장을 손으로 열어 봐요."
+    },
+    "en": {
+     "title": "Opening the New Year",
+     "line": "Open the year by hand, one small promise at a time."
+    },
+    "es": {
+     "title": "Abrir el año nuevo",
+     "line": "Abre el año a mano, con una pequeña promesa cada día."
+    },
+    "ja": {
+     "title": "新しい年をひらく28日",
+     "line": "小さな決意をひとつずつ、新しい年の最初のページを手でひらきましょう。"
+    },
+    "zh-Hans": {
+     "title": "开启新年的28天",
+     "line": "一次一个小小的决心，亲手翻开新年的第一页。"
+    },
+    "zh-Hant": {
+     "title": "開啟新年的28天",
+     "line": "一次一個小小的決心，親手翻開新年的第一頁。"
+    }
+   }
+  },
+  {
+   "id": "dongangeo2026",
+   "from": "2026-11-29",
+   "until": "2027-02-20",
+   "traditions": [
+    "buddhist"
+   ],
+   "art": "moment_retreat",
+   "symbol": "mountain.2",
+   "tint": "sky",
+   "pack": "dongangeoBook",
+   "text": {
+    "ko": {
+     "title": "동안거 기간이에요",
+     "line": "스님들이 산문을 닫고 정진하는 겨울, 하루 한 장 마음을 모아 볼까요?"
+    },
+    "en": {
+     "title": "The winter retreat",
+     "line": "While monks sit through the winter, gather your mind with one page a day."
+    },
+    "ja": {
+     "title": "冬安居の季節です",
+     "line": "僧侶が山門を閉じて修行する冬、一日一枚、心を集めてみませんか。"
+    },
+    "zh-Hans": {
+     "title": "冬安居的时节",
+     "line": "僧人闭关精进的冬天，每天一页，收摄身心吧。"
+    },
+    "zh-Hant": {
+     "title": "冬安居的時節",
+     "line": "僧人閉關精進的冬天，每天一頁，收攝身心吧。"
+    }
+   }
+  },
+  {
+   "id": "lent2027-protestant",
+   "from": "2027-02-10",
+   "until": "2027-03-20",
+   "traditions": [
+    "protestant"
+   ],
+   "art": "cozy_candle",
+   "symbol": "flame",
+   "tint": "lavender",
+   "collection": "bible",
+   "passage": "PSA.51.10",
+   "text": {
+    "ko": {
+     "title": "사순절이에요",
+     "line": "부활절을 기다리는 마흔 날, 정한 마음을 구하는 기도를 써 볼까요?"
+    },
+    "en": {
+     "title": "It's Lent",
+     "line": "In the forty days before Easter, write a prayer for a clean heart."
+    },
+    "es": {
+     "title": "Es Cuaresma",
+     "line": "En los cuarenta días antes de la Pascua, escribe una oración por un corazón limpio."
+    }
+   }
+  },
+  {
+   "id": "lent2027-catholic",
+   "from": "2027-02-10",
+   "until": "2027-03-20",
+   "traditions": [
+    "catholic"
+   ],
+   "art": "cozy_candle",
+   "symbol": "flame",
+   "tint": "lavender",
+   "collection": "catholic",
+   "passage": "PSA.50.12",
+   "text": {
+    "ko": {
+     "title": "사순 시기예요",
+     "line": "재의 수요일부터 부활까지, 깨끗한 마음을 청하는 기도를 써 볼까요?"
+    },
+    "en": {
+     "title": "The season of Lent",
+     "line": "From Ash Wednesday to Easter, write a prayer for a clean heart."
+    }
+   }
+  },
+  {
+   "id": "easter2027-protestant",
+   "from": "2027-03-21",
+   "until": "2027-04-03",
+   "traditions": [
+    "protestant"
+   ],
+   "art": "moment_easter",
+   "symbol": "sunrise",
+   "tint": "mustard",
+   "collection": "bible",
+   "passage": "MAT.28.5-6",
+   "text": {
+    "ko": {
+     "title": "부활절을 맞아요",
+     "line": "무덤이 비었던 그 아침의 말씀을 한 장에 담아 볼까요?"
+    },
+    "en": {
+     "title": "Easter is here",
+     "line": "Write the words spoken on the morning the tomb was empty."
+    },
+    "es": {
+     "title": "Llega la Pascua",
+     "line": "Escribe las palabras de la mañana en que el sepulcro estaba vacío."
+    }
+   }
+  },
+  {
+   "id": "easter2027-catholic",
+   "from": "2027-03-21",
+   "until": "2027-04-03",
+   "traditions": [
+    "catholic"
+   ],
+   "art": "moment_easter",
+   "symbol": "sunrise",
+   "tint": "mustard",
+   "collection": "catholic",
+   "passage": "MAT.28.5-6",
+   "text": {
+    "ko": {
+     "title": "주님 부활을 축하해요",
+     "line": "무덤이 비었던 그 아침의 말씀을 한 장에 담아 볼까요?"
+    },
+    "en": {
+     "title": "He is risen",
+     "line": "Write the words spoken on the morning the tomb was empty."
+    }
+   }
+  },
+  {
+   "id": "buddhabirthday2027",
+   "from": "2027-05-06",
+   "until": "2027-05-13",
+   "traditions": [
+    "buddhist"
+   ],
+   "art": "moment_lotus",
+   "symbol": "circle.hexagongrid",
+   "tint": "peach",
+   "collection": "buddhist",
+   "passage": "bud.d.tansaeng",
+   "text": {
+    "ko": {
+     "title": "부처님오신날이 다가와요",
+     "line": "연등을 밝히는 마음으로 탄생게를 한 장 써 볼까요?"
+    },
+    "en": {
+     "title": "Buddha's Birthday is near",
+     "line": "With the heart of lighting a lotus lantern, copy the birth verse."
+    },
+    "ja": {
+     "title": "お釈迦さまの誕生を祝って",
+     "line": "灯籠をともす心で、誕生偈を一枚書いてみませんか。"
+    },
+    "zh-Hans": {
+     "title": "佛诞快到了",
+     "line": "以点灯的心，抄写一页诞生偈吧。"
+    },
+    "zh-Hant": {
+     "title": "佛誕快到了",
+     "line": "以點燈的心，抄寫一頁誕生偈吧。"
+    }
+   }
+  }
+ ]
+}

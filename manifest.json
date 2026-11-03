@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "30b49e36fd3e",
- "generated_at": "2026-11-04T05:44:56Z",
+ "version": "4957afce822b",
+ "generated_at": "2026-11-04T06:57:36Z",
  "entries": [
   {
    "id": "books.json",
@@ -74,6 +74,18 @@
    "path": "content/collections/life.json",
    "checksum_sha256": "753ae4c984eb65a99fdf6293f713253720d16f9f24af8430e6f630dca48effe0",
    "size": 94355
+  },
+  {
+   "id": "moments.json",
+   "path": "content/kr/moments.json",
+   "checksum_sha256": "ad31ee92673660c2791bae4c085c2424de2cbdc05bb570a1cbdbbf8f0fce7fe3",
+   "size": 9132
+  },
+  {
+   "id": "moods.json",
+   "path": "content/kr/moods.json",
+   "checksum_sha256": "89e0c68a83aa3e1867cb3587b7b3f50ce12d854a277b0c40a2efbe93f805b96e",
+   "size": 10361
   },
   {
    "id": "packs.json",

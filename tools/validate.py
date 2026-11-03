@@ -151,6 +151,49 @@ def main():
             if not (CONTENT / "stickers" / f"{name}.png").exists():
                 problems.append(f"스티커 팩 {pack.get('id')}: 그림 없음 {name}")
 
+    # 오늘의 마음 (1.8.0): 마음마다 권할 글. 앱은 고른 종교에 보이는 컬렉션의 글만 쓴다
+    all_packs = {p["id"] for p in data.get("kr/packs.json", []) + data.get("kr/packs_books.json", [])}
+
+    def passage_exists(collection, key):
+        if collection in bible_translations:
+            try:
+                book, chapter, span = key.split(".")
+                start, _, end = span.partition("-")
+                ids = [f"{book}.{chapter}.{v}" for v in range(int(start), int(end or start) + 1)]
+            except ValueError:
+                return False
+            return all(v in verses.get(tid, {}) for tid in bible_translations[collection] for v in ids)
+        return key in collections.get(collection, {})
+
+    moods = {"calm", "joy", "thankful", "tired", "worried", "sad"}
+    for pick in data.get("kr/moods.json", {}).get("picks", []):
+        if pick.get("mood") not in moods:
+            problems.append(f"오늘의 마음: 모르는 마음 {pick.get('mood')}")
+        if not passage_exists(pick.get("collection"), pick.get("passage", "")):
+            problems.append(f"오늘의 마음 {pick.get('mood')}: {pick.get('collection')}에 없는 글 {pick.get('passage')}")
+    # 때에 맞는 추천 (1.8.0): 기간, 종교, 책이나 글, 한국어와 영어 글
+    seen_moments = set()
+    for moment in data.get("kr/moments.json", {}).get("moments", []):
+        mid = moment.get("id")
+        if mid in seen_moments:
+            problems.append(f"추천 id가 겹침: {mid}")
+        seen_moments.add(mid)
+        if not (len(moment.get("from", "")) == 10 and len(moment.get("until", "")) == 10 and moment["from"] <= moment["until"]):
+            problems.append(f"추천 {mid}: 기간(from, until)은 YYYY-MM-DD 이고 from 이 앞")
+        if set(moment.get("traditions") or []) - {"protestant", "catholic", "buddhist"}:
+            problems.append(f"추천 {mid}: 모르는 종교 태그")
+        if moment.get("pack"):
+            if moment["pack"] not in all_packs:
+                problems.append(f"추천 {mid}: 없는 팩 {moment['pack']}")
+        elif not passage_exists(moment.get("collection"), moment.get("passage", "")):
+            problems.append(f"추천 {mid}: {moment.get('collection')}에 없는 글 {moment.get('passage')}")
+        text = moment.get("text", {})
+        for lang in ("ko", "en"):
+            if not (text.get(lang, {}).get("title") and text.get(lang, {}).get("line")):
+                problems.append(f"추천 {mid}: {lang} 제목과 한 줄이 있어야 함")
+        if any("·" in v for t in text.values() for v in t.values()):
+            problems.append(f"추천 {mid}: 가운뎃점을 쓰지 않는다")
+
     for problem in problems:
         print(f"✗ {problem}")
     print("✓ 콘텐츠 점검 통과" if not problems else f"문제 {len(problems)}개")

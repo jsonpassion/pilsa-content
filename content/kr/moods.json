@@ -1,0 +1,624 @@
+{
+ "picks": [
+  {
+   "mood": "calm",
+   "collection": "bible",
+   "passage": "PSA.46.10"
+  },
+  {
+   "mood": "calm",
+   "collection": "bible",
+   "passage": "PSA.23.1-2"
+  },
+  {
+   "mood": "calm",
+   "collection": "bible",
+   "passage": "ISA.26.3"
+  },
+  {
+   "mood": "calm",
+   "collection": "bible",
+   "passage": "PSA.4.8"
+  },
+  {
+   "mood": "calm",
+   "collection": "catholic",
+   "passage": "PSA.45.11"
+  },
+  {
+   "mood": "calm",
+   "collection": "catholic",
+   "passage": "PSA.22.2-3"
+  },
+  {
+   "mood": "calm",
+   "collection": "catholic",
+   "passage": "PSA.4.9"
+  },
+  {
+   "mood": "calm",
+   "collection": "catholic",
+   "passage": "PSA.61.2"
+  },
+  {
+   "mood": "calm",
+   "collection": "buddhist",
+   "passage": "bud.zen.pyeongsang"
+  },
+  {
+   "mood": "calm",
+   "collection": "buddhist",
+   "passage": "bud.sinsim.5"
+  },
+  {
+   "mood": "calm",
+   "collection": "buddhist",
+   "passage": "bud.d.nibbana"
+  },
+  {
+   "mood": "calm",
+   "collection": "buddhist",
+   "passage": "bud.d.yuma"
+  },
+  {
+   "mood": "calm",
+   "collection": "buddhist",
+   "passage": "bud.zen.yaksan"
+  },
+  {
+   "mood": "calm",
+   "collection": "life",
+   "passage": "life.steady.2"
+  },
+  {
+   "mood": "calm",
+   "collection": "life",
+   "passage": "life.body.9"
+  },
+  {
+   "mood": "calm",
+   "collection": "life",
+   "passage": "life.morning.10"
+  },
+  {
+   "mood": "calm",
+   "collection": "life",
+   "passage": "life.classic.7"
+  },
+  {
+   "mood": "calm",
+   "collection": "life",
+   "passage": "life.chaegeun.6"
+  },
+  {
+   "mood": "calm",
+   "collection": "affirm",
+   "passage": "aff.10"
+  },
+  {
+   "mood": "calm",
+   "collection": "affirm",
+   "passage": "aff.32"
+  },
+  {
+   "mood": "calm",
+   "collection": "affirm",
+   "passage": "aff.88"
+  },
+  {
+   "mood": "calm",
+   "collection": "affirm",
+   "passage": "aff.59"
+  },
+  {
+   "mood": "joy",
+   "collection": "bible",
+   "passage": "PHP.4.4"
+  },
+  {
+   "mood": "joy",
+   "collection": "bible",
+   "passage": "PSA.118.24"
+  },
+  {
+   "mood": "joy",
+   "collection": "bible",
+   "passage": "PSA.16.11"
+  },
+  {
+   "mood": "joy",
+   "collection": "bible",
+   "passage": "PSA.126.3"
+  },
+  {
+   "mood": "joy",
+   "collection": "catholic",
+   "passage": "PHP.4.4"
+  },
+  {
+   "mood": "joy",
+   "collection": "catholic",
+   "passage": "PSA.117.24"
+  },
+  {
+   "mood": "joy",
+   "collection": "catholic",
+   "passage": "LUK.1.46-47"
+  },
+  {
+   "mood": "joy",
+   "collection": "catholic",
+   "passage": "PSA.125.3"
+  },
+  {
+   "mood": "joy",
+   "collection": "buddhist",
+   "passage": "bud.zen.unmun"
+  },
+  {
+   "mood": "joy",
+   "collection": "buddhist",
+   "passage": "bud.d.beopgu1"
+  },
+  {
+   "mood": "joy",
+   "collection": "buddhist",
+   "passage": "bud.d.samuryang"
+  },
+  {
+   "mood": "joy",
+   "collection": "buddhist",
+   "passage": "bud.zen.imje"
+  },
+  {
+   "mood": "joy",
+   "collection": "life",
+   "passage": "life.classic.1"
+  },
+  {
+   "mood": "joy",
+   "collection": "life",
+   "passage": "life.analects.8"
+  },
+  {
+   "mood": "joy",
+   "collection": "life",
+   "passage": "life.classic.14"
+  },
+  {
+   "mood": "joy",
+   "collection": "life",
+   "passage": "life.analects.6"
+  },
+  {
+   "mood": "joy",
+   "collection": "affirm",
+   "passage": "aff.17"
+  },
+  {
+   "mood": "joy",
+   "collection": "affirm",
+   "passage": "aff.42"
+  },
+  {
+   "mood": "joy",
+   "collection": "affirm",
+   "passage": "aff.48"
+  },
+  {
+   "mood": "joy",
+   "collection": "affirm",
+   "passage": "aff.26"
+  },
+  {
+   "mood": "thankful",
+   "collection": "bible",
+   "passage": "1TH.5.16-18"
+  },
+  {
+   "mood": "thankful",
+   "collection": "bible",
+   "passage": "PSA.107.1"
+  },
+  {
+   "mood": "thankful",
+   "collection": "bible",
+   "passage": "PSA.103.1-2"
+  },
+  {
+   "mood": "thankful",
+   "collection": "bible",
+   "passage": "COL.3.15"
+  },
+  {
+   "mood": "thankful",
+   "collection": "catholic",
+   "passage": "1TH.5.16-18"
+  },
+  {
+   "mood": "thankful",
+   "collection": "catholic",
+   "passage": "PSA.106.1"
+  },
+  {
+   "mood": "thankful",
+   "collection": "catholic",
+   "passage": "PSA.102.2"
+  },
+  {
+   "mood": "thankful",
+   "collection": "catholic",
+   "passage": "COL.3.15"
+  },
+  {
+   "mood": "thankful",
+   "collection": "buddhist",
+   "passage": "bud.d.yugyo"
+  },
+  {
+   "mood": "thankful",
+   "collection": "buddhist",
+   "passage": "bud.d.beopgu5"
+  },
+  {
+   "mood": "thankful",
+   "collection": "buddhist",
+   "passage": "bud.yebul.gaegyeong"
+  },
+  {
+   "mood": "thankful",
+   "collection": "buddhist",
+   "passage": "bud.yebul.hoehyang"
+  },
+  {
+   "mood": "thankful",
+   "collection": "life",
+   "passage": "life.people.4"
+  },
+  {
+   "mood": "thankful",
+   "collection": "life",
+   "passage": "life.myeongsim.4"
+  },
+  {
+   "mood": "thankful",
+   "collection": "life",
+   "passage": "life.chaegeun.3"
+  },
+  {
+   "mood": "thankful",
+   "collection": "affirm",
+   "passage": "aff.33"
+  },
+  {
+   "mood": "thankful",
+   "collection": "affirm",
+   "passage": "aff.18"
+  },
+  {
+   "mood": "thankful",
+   "collection": "affirm",
+   "passage": "aff.82"
+  },
+  {
+   "mood": "thankful",
+   "collection": "affirm",
+   "passage": "aff.83"
+  },
+  {
+   "mood": "tired",
+   "collection": "bible",
+   "passage": "MAT.11.28-30"
+  },
+  {
+   "mood": "tired",
+   "collection": "bible",
+   "passage": "ISA.40.31"
+  },
+  {
+   "mood": "tired",
+   "collection": "bible",
+   "passage": "MRK.6.31"
+  },
+  {
+   "mood": "tired",
+   "collection": "bible",
+   "passage": "2CO.12.9"
+  },
+  {
+   "mood": "tired",
+   "collection": "catholic",
+   "passage": "MAT.11.28-30"
+  },
+  {
+   "mood": "tired",
+   "collection": "catholic",
+   "passage": "ISA.40.31"
+  },
+  {
+   "mood": "tired",
+   "collection": "catholic",
+   "passage": "MRK.6.31"
+  },
+  {
+   "mood": "tired",
+   "collection": "catholic",
+   "passage": "2CO.12.9"
+  },
+  {
+   "mood": "tired",
+   "collection": "buddhist",
+   "passage": "bud.zen.jeungdo"
+  },
+  {
+   "mood": "tired",
+   "collection": "buddhist",
+   "passage": "bud.sinsim.4"
+  },
+  {
+   "mood": "tired",
+   "collection": "buddhist",
+   "passage": "bud.sinsim.8"
+  },
+  {
+   "mood": "tired",
+   "collection": "buddhist",
+   "passage": "bud.balsim.3"
+  },
+  {
+   "mood": "tired",
+   "collection": "life",
+   "passage": "life.steady.3"
+  },
+  {
+   "mood": "tired",
+   "collection": "life",
+   "passage": "life.steady.9"
+  },
+  {
+   "mood": "tired",
+   "collection": "life",
+   "passage": "life.money.10"
+  },
+  {
+   "mood": "tired",
+   "collection": "life",
+   "passage": "life.chaegeun.10"
+  },
+  {
+   "mood": "tired",
+   "collection": "affirm",
+   "passage": "aff.03"
+  },
+  {
+   "mood": "tired",
+   "collection": "affirm",
+   "passage": "aff.95"
+  },
+  {
+   "mood": "tired",
+   "collection": "affirm",
+   "passage": "aff.91"
+  },
+  {
+   "mood": "tired",
+   "collection": "affirm",
+   "passage": "aff.09"
+  },
+  {
+   "mood": "worried",
+   "collection": "bible",
+   "passage": "PHP.4.6-7"
+  },
+  {
+   "mood": "worried",
+   "collection": "bible",
+   "passage": "ISA.41.10"
+  },
+  {
+   "mood": "worried",
+   "collection": "bible",
+   "passage": "JHN.14.27"
+  },
+  {
+   "mood": "worried",
+   "collection": "bible",
+   "passage": "1PE.5.7"
+  },
+  {
+   "mood": "worried",
+   "collection": "bible",
+   "passage": "MAT.6.34"
+  },
+  {
+   "mood": "worried",
+   "collection": "catholic",
+   "passage": "PHP.4.6-7"
+  },
+  {
+   "mood": "worried",
+   "collection": "catholic",
+   "passage": "ISA.41.10"
+  },
+  {
+   "mood": "worried",
+   "collection": "catholic",
+   "passage": "JHN.14.27"
+  },
+  {
+   "mood": "worried",
+   "collection": "catholic",
+   "passage": "1PE.5.7"
+  },
+  {
+   "mood": "worried",
+   "collection": "catholic",
+   "passage": "MAT.6.34"
+  },
+  {
+   "mood": "worried",
+   "collection": "buddhist",
+   "passage": "bud.heart.6"
+  },
+  {
+   "mood": "worried",
+   "collection": "buddhist",
+   "passage": "bud.d.geumgang5"
+  },
+  {
+   "mood": "worried",
+   "collection": "buddhist",
+   "passage": "bud.d.geumgang2"
+  },
+  {
+   "mood": "worried",
+   "collection": "buddhist",
+   "passage": "bud.d.gisin"
+  },
+  {
+   "mood": "worried",
+   "collection": "life",
+   "passage": "life.steady.6"
+  },
+  {
+   "mood": "worried",
+   "collection": "life",
+   "passage": "life.steady.8"
+  },
+  {
+   "mood": "worried",
+   "collection": "life",
+   "passage": "life.classic.9"
+  },
+  {
+   "mood": "worried",
+   "collection": "life",
+   "passage": "life.classic.10"
+  },
+  {
+   "mood": "worried",
+   "collection": "affirm",
+   "passage": "aff.07"
+  },
+  {
+   "mood": "worried",
+   "collection": "affirm",
+   "passage": "aff.90"
+  },
+  {
+   "mood": "worried",
+   "collection": "affirm",
+   "passage": "aff.89"
+  },
+  {
+   "mood": "worried",
+   "collection": "affirm",
+   "passage": "aff.116"
+  },
+  {
+   "mood": "sad",
+   "collection": "bible",
+   "passage": "PSA.34.18"
+  },
+  {
+   "mood": "sad",
+   "collection": "bible",
+   "passage": "MAT.5.4"
+  },
+  {
+   "mood": "sad",
+   "collection": "bible",
+   "passage": "PSA.147.3"
+  },
+  {
+   "mood": "sad",
+   "collection": "bible",
+   "passage": "PSA.30.5"
+  },
+  {
+   "mood": "sad",
+   "collection": "catholic",
+   "passage": "PSA.33.19"
+  },
+  {
+   "mood": "sad",
+   "collection": "catholic",
+   "passage": "MAT.5.5"
+  },
+  {
+   "mood": "sad",
+   "collection": "catholic",
+   "passage": "PSA.146.3"
+  },
+  {
+   "mood": "sad",
+   "collection": "catholic",
+   "passage": "REV.21.4"
+  },
+  {
+   "mood": "sad",
+   "collection": "buddhist",
+   "passage": "bud.zen.jinul"
+  },
+  {
+   "mood": "sad",
+   "collection": "buddhist",
+   "passage": "bud.d.bulseong"
+  },
+  {
+   "mood": "sad",
+   "collection": "buddhist",
+   "passage": "bud.sambeop"
+  },
+  {
+   "mood": "sad",
+   "collection": "buddhist",
+   "passage": "bud.yebul.jadeung"
+  },
+  {
+   "mood": "sad",
+   "collection": "life",
+   "passage": "life.steady.1"
+  },
+  {
+   "mood": "sad",
+   "collection": "life",
+   "passage": "life.steady.5"
+  },
+  {
+   "mood": "sad",
+   "collection": "life",
+   "passage": "life.steady.10"
+  },
+  {
+   "mood": "sad",
+   "collection": "life",
+   "passage": "life.analects.12"
+  },
+  {
+   "mood": "sad",
+   "collection": "affirm",
+   "passage": "aff.16"
+  },
+  {
+   "mood": "sad",
+   "collection": "affirm",
+   "passage": "aff.20"
+  },
+  {
+   "mood": "sad",
+   "collection": "affirm",
+   "passage": "aff.34"
+  },
+  {
+   "mood": "sad",
+   "collection": "affirm",
+   "passage": "aff.51"
+  },
+  {
+   "mood": "sad",
+   "collection": "affirm",
+   "passage": "aff.38"
+  }
+ ]
+}
