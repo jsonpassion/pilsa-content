@@ -6807,5 +6807,1766 @@
     }
    ]
   }
+ },
+ {
+  "id": "adventBook",
+  "kind": "plan",
+  "title": "대림절과 성탄 28일",
+  "subtitle": "오실 주님을 기다리며",
+  "summary": "예언자들의 약속에서 시작해 길을 예비한 요한과 마리아의 기다림을 지나 성탄의 밤까지, 네 주 동안 오실 주님을 기다리며 씁니다. 하루 한 장, 촛불을 하나씩 밝히듯 걸어가요.",
+  "symbol": "sparkles",
+  "tint": "sky",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "대림절",
+   "성탄",
+   "기다림",
+   "이사야",
+   "누가복음",
+   "임마누엘",
+   "12월"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "book": true,
+  "plusWindow": {
+   "from": "2026-11-29",
+   "until": "2027-01-31"
+  },
+  "days": [
+   {
+    "title": "하늘을 가르고 강림하소서",
+    "passage": "ISA.64.1",
+    "prompt": "이번 대림절, 주께서 내 삶의 어디에 오시기를 바라나요?"
+   },
+   {
+    "title": "흑암에 비친 큰 빛",
+    "passage": "ISA.9.2",
+    "prompt": "어둠 속에서 빛을 기다리고 있는 자리가 있나요?"
+   },
+   {
+    "title": "한 아기가 우리에게 났고",
+    "passage": "ISA.9.6",
+    "prompt": "주의 이름 가운데 오늘 가장 마음에 닿는 이름은 무엇인가요?"
+   },
+   {
+    "title": "이새의 줄기에서 한 싹",
+    "passage": "ISA.11.1-2",
+    "prompt": "끝난 줄 알았던 자리에서 새싹을 본 적이 있나요?"
+   },
+   {
+    "title": "선한 말을 성취할 날",
+    "passage": "JER.33.14-15",
+    "prompt": "주께서 이루어 주시기를 기다리는 약속이 있나요?"
+   },
+   {
+    "title": "베들레헴 에브라다야",
+    "passage": "MIC.5.2",
+    "prompt": "작다고 여겼던 것이 귀하게 쓰였던 때가 있었나요?"
+   },
+   {
+    "title": "그 이름은 임마누엘",
+    "passage": "ISA.7.14",
+    "prompt": "하나님이 함께 계심을 느낀 순간이 있었나요?"
+   },
+   {
+    "title": "광야에서 길을 예비하라",
+    "passage": "ISA.40.3-4",
+    "prompt": "주를 맞으려고 내 마음에서 평탄하게 하고 싶은 곳은 어디인가요?"
+   },
+   {
+    "title": "내 앞에서 길을 예비할 것이요",
+    "passage": "MAL.3.1",
+    "prompt": "요즘 내가 사모하며 기다리는 것은 무엇인가요?"
+   },
+   {
+    "title": "나보다 능력 많으신 이",
+    "passage": "MRK.1.7-8",
+    "prompt": "내 힘으로 감당하기 어려운 일을 주께 맡긴다면 무엇일까요?"
+   },
+   {
+    "title": "우리가 무엇을 하리이까",
+    "passage": "LUK.3.10-11",
+    "prompt": "이번 주 누군가와 나눌 수 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "빛에 대하여 증거하러",
+    "passage": "JHN.1.6-8",
+    "prompt": "내 삶을 통해 누군가에게 비추고 싶은 빛은 무엇인가요?"
+   },
+   {
+    "title": "그는 흥하여야 하겠고",
+    "passage": "JHN.3.30",
+    "prompt": "주께 자리를 내어 드리려고 내려놓고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "밤이 깊고 낮이 가까웠으니",
+    "passage": "ROM.13.11-12",
+    "prompt": "오늘 벗어 두고 싶은 것과 새로 입고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "마리아여 무서워 말라",
+    "passage": "LUK.1.30-31",
+    "prompt": "요즘 두려운 마음이 드는 일이 있나요?"
+   },
+   {
+    "title": "말씀대로 이루어지이다",
+    "passage": "LUK.1.38",
+    "prompt": "아직 다 알 수 없어도 맡겨 보고 싶은 일이 있나요?"
+   },
+   {
+    "title": "기쁨으로 뛰놀았도다",
+    "passage": "LUK.1.44-45",
+    "prompt": "만나면 마음이 기뻐 뛰는 사람이 있나요?"
+   },
+   {
+    "title": "내 영혼이 주를 찬양하며",
+    "passage": "LUK.1.46-48",
+    "prompt": "낮은 자리에 있을 때 돌아보아 주셨다고 느낀 때가 있었나요?"
+   },
+   {
+    "title": "시온의 딸아 노래할지어다",
+    "passage": "ZEP.3.14-15",
+    "prompt": "오늘 마음껏 기뻐하고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "사막이 백합화 같이",
+    "passage": "ISA.35.1-2",
+    "prompt": "메말랐던 마음에 꽃이 핀 듯한 때가 있었나요?"
+   },
+   {
+    "title": "돋는 해가 위로부터",
+    "passage": "LUK.1.78-79",
+    "prompt": "평강의 길로 이끌어 주셨으면 하는 걸음이 있나요?"
+   },
+   {
+    "title": "요셉아 무서워 말라",
+    "passage": "MAT.1.20-21",
+    "prompt": "뜻밖의 일 앞에서 마음을 정하기 어려웠던 때가 있었나요?"
+   },
+   {
+    "title": "때가 차매",
+    "passage": "GAL.4.4-5",
+    "prompt": "아직 때가 차기를 기다리고 있는 일이 있나요?"
+   },
+   {
+    "title": "이렇게 나타난 사랑",
+    "passage": "1JN.4.9",
+    "prompt": "올해 받은 사랑 가운데 가장 고마운 것은 무엇인가요?"
+   },
+   {
+    "title": "우리 가운데 거하시매",
+    "passage": "JHN.1.14",
+    "prompt": "내 일상 한가운데 주께서 계셨다고 느낀 순간이 있었나요?"
+   },
+   {
+    "title": "큰 기쁨의 좋은 소식",
+    "passage": "LUK.2.10-11",
+    "prompt": "오늘 밤 누구에게 좋은 소식을 전하고 싶나요?"
+   },
+   {
+    "title": "땅에서는 평화로다",
+    "passage": "LUK.2.13-14",
+    "prompt": "오늘 평화를 빌어 주고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "주 예수여 오시옵소서",
+    "passage": "REV.22.20",
+    "prompt": "다시 오실 주님을 기다리며 드리고 싶은 기도는 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "Advent and Christmas, 28 Days",
+   "subtitle": "Waiting for the Lord who comes",
+   "summary": "Four weeks of waiting for the Lord, from the promises of the prophets through John who prepared the way and Mary's waiting to the night of Christmas. One page a day, like lighting one candle at a time.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "A notebook in your own handwriting when you finish",
+    "A new book, first with Plus"
+   ],
+   "tags": [
+    "Advent",
+    "Christmas",
+    "Waiting",
+    "Isaiah",
+    "Luke",
+    "Immanuel",
+    "December"
+   ],
+   "days": [
+    {
+     "title": "Rend the heavens and come down",
+     "prompt": "Where in your life do you hope the Lord will come this Advent?"
+    },
+    {
+     "title": "A great light in the darkness",
+     "prompt": "Is there a place in your life waiting for light in the dark?"
+    },
+    {
+     "title": "Unto us a child is born",
+     "prompt": "Which of His names speaks most to your heart today?"
+    },
+    {
+     "title": "A shoot from the stump of Jesse",
+     "prompt": "Have you ever seen something new sprout where you thought it was over?"
+    },
+    {
+     "title": "The days are coming",
+     "prompt": "Is there a promise you are waiting for God to fulfill?"
+    },
+    {
+     "title": "O Bethlehem Ephrathah",
+     "prompt": "Was there a time something you thought small turned out to matter?"
+    },
+    {
+     "title": "His name is Immanuel",
+     "prompt": "Has there been a moment you felt God was with you?"
+    },
+    {
+     "title": "Prepare the way in the wilderness",
+     "prompt": "To welcome the Lord, what in your heart would you like to make smooth?"
+    },
+    {
+     "title": "He will prepare the way",
+     "prompt": "What are you longing for and waiting on these days?"
+    },
+    {
+     "title": "One more powerful than I",
+     "prompt": "If you handed God something too heavy for you, what would it be?"
+    },
+    {
+     "title": "What then should we do?",
+     "prompt": "What could you share with someone this week?"
+    },
+    {
+     "title": "A witness to the light",
+     "prompt": "What light would you like to shine for someone through your life?"
+    },
+    {
+     "title": "He must increase",
+     "prompt": "What would you like to set down to make room for the Lord?"
+    },
+    {
+     "title": "The day has drawn near",
+     "prompt": "What would you like to lay aside today, and what would you like to put on?"
+    },
+    {
+     "title": "Do not be afraid, Mary",
+     "prompt": "Is there something making you afraid these days?"
+    },
+    {
+     "title": "According to your word",
+     "prompt": "Is there something you want to entrust to God, even without knowing it all yet?"
+    },
+    {
+     "title": "Leaped for joy",
+     "prompt": "Is there someone whose presence makes your heart leap for joy?"
+    },
+    {
+     "title": "My soul magnifies the Lord",
+     "prompt": "Was there a time you felt God noticed you when you were low?"
+    },
+    {
+     "title": "Sing, O Daughter of Zion",
+     "prompt": "What would you like to rejoice in freely today?"
+    },
+    {
+     "title": "The desert will blossom",
+     "prompt": "Was there a time your dry heart seemed to bloom again?"
+    },
+    {
+     "title": "The Dawn from on high",
+     "prompt": "Is there a step you hope God will guide into the way of peace?"
+    },
+    {
+     "title": "Joseph, do not be afraid",
+     "prompt": "Was there a time it was hard to decide in the face of something unexpected?"
+    },
+    {
+     "title": "When the time had fully come",
+     "prompt": "Is there something still waiting for its time to come?"
+    },
+    {
+     "title": "How God's love was revealed",
+     "prompt": "Of all the love you received this year, what are you most grateful for?"
+    },
+    {
+     "title": "He dwelt among us",
+     "prompt": "Was there a moment you felt the Lord right in the middle of your ordinary days?"
+    },
+    {
+     "title": "Good news of great joy",
+     "prompt": "Who would you like to share good news with tonight?"
+    },
+    {
+     "title": "On earth peace",
+     "prompt": "Who would you like to wish peace upon today?"
+    },
+    {
+     "title": "Come, Lord Jesus",
+     "prompt": "As you wait for the Lord to come again, what prayer would you like to offer?"
+    }
+   ]
+  },
+  "es": {
+   "title": "Adviento y Navidad, 28 días",
+   "subtitle": "Esperando al Señor que viene",
+   "summary": "Cuatro semanas esperando al Señor: de las promesas de los profetas, pasando por Juan, que preparó el camino, y la espera de María, hasta la noche de Navidad. Una página al día, como quien enciende una vela a la vez.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Un libro nuevo, primero en Plus"
+   ],
+   "tags": [
+    "Adviento",
+    "Navidad",
+    "espera",
+    "Isaías",
+    "Lucas",
+    "Emanuel",
+    "diciembre"
+   ],
+   "days": [
+    {
+     "title": "Rompe los cielos y desciende",
+     "prompt": "¿A qué parte de tu vida te gustaría que el Señor viniera en este Adviento?"
+    },
+    {
+     "title": "Una gran luz en las tinieblas",
+     "prompt": "¿Hay algún lugar en tu vida que espera la luz en medio de la oscuridad?"
+    },
+    {
+     "title": "Un niño nos es nacido",
+     "prompt": "¿Cuál de sus nombres toca más tu corazón hoy?"
+    },
+    {
+     "title": "Una vara del tronco de Isaí",
+     "prompt": "¿Alguna vez viste brotar algo nuevo donde creías que todo había terminado?"
+    },
+    {
+     "title": "He aquí vienen días",
+     "prompt": "¿Hay alguna promesa que esperas que el Señor cumpla?"
+    },
+    {
+     "title": "Belén Efrata",
+     "prompt": "¿Hubo un tiempo en que algo que creías pequeño resultó valioso?"
+    },
+    {
+     "title": "Su nombre, Emanuel",
+     "prompt": "¿Hubo un momento en que sentiste que Dios estaba contigo?"
+    },
+    {
+     "title": "Preparen camino en el desierto",
+     "prompt": "Para recibir al Señor, ¿qué parte de tu corazón te gustaría allanar?"
+    },
+    {
+     "title": "Preparará el camino delante de mí",
+     "prompt": "¿Qué anhelas y esperas en estos días?"
+    },
+    {
+     "title": "El que es más poderoso que yo",
+     "prompt": "Si le entregaras al Señor algo que no puedes cargar solo, ¿qué sería?"
+    },
+    {
+     "title": "¿Qué haremos?",
+     "prompt": "¿Qué podrías compartir con alguien esta semana?"
+    },
+    {
+     "title": "Testimonio de la luz",
+     "prompt": "¿Qué luz te gustaría que alguien viera a través de tu vida?"
+    },
+    {
+     "title": "Él debe crecer",
+     "prompt": "¿Qué te gustaría soltar para hacerle lugar al Señor?"
+    },
+    {
+     "title": "Ha llegado el día",
+     "prompt": "¿Qué te gustaría dejar hoy y de qué te gustaría vestirte?"
+    },
+    {
+     "title": "María, no temas",
+     "prompt": "¿Hay algo que te da miedo en estos días?"
+    },
+    {
+     "title": "Hágase conforme a tu palabra",
+     "prompt": "¿Hay algo que quieras confiarle al Señor aunque todavía no lo entiendas del todo?"
+    },
+    {
+     "title": "Saltó de alegría",
+     "prompt": "¿Hay alguien que, al verlo, hace que tu corazón salte de alegría?"
+    },
+    {
+     "title": "Engrandece mi alma al Señor",
+     "prompt": "¿Hubo un tiempo en que sentiste que el Señor te miró cuando estabas abajo?"
+    },
+    {
+     "title": "Canta, hija de Sión",
+     "prompt": "¿De qué te gustaría alegrarte de todo corazón hoy?"
+    },
+    {
+     "title": "El yermo florecerá",
+     "prompt": "¿Hubo un tiempo en que tu corazón seco pareció florecer otra vez?"
+    },
+    {
+     "title": "El Oriente de lo alto",
+     "prompt": "¿Hay algún paso que esperas que el Señor guíe por el camino de paz?"
+    },
+    {
+     "title": "José, no temas",
+     "prompt": "¿Hubo un tiempo en que te costó decidir frente a algo inesperado?"
+    },
+    {
+     "title": "El cumplimiento del tiempo",
+     "prompt": "¿Hay algo que todavía espera que llegue su tiempo?"
+    },
+    {
+     "title": "Así se mostró el amor",
+     "prompt": "De todo el amor que recibiste este año, ¿qué agradeces más?"
+    },
+    {
+     "title": "Habitó entre nosotros",
+     "prompt": "¿Hubo un momento en que sentiste al Señor en medio de tus días comunes?"
+    },
+    {
+     "title": "Nuevas de gran gozo",
+     "prompt": "¿A quién te gustaría darle una buena noticia esta noche?"
+    },
+    {
+     "title": "En la tierra paz",
+     "prompt": "¿A quién te gustaría desearle paz hoy?"
+    },
+    {
+     "title": "Ven, Señor Jesús",
+     "prompt": "Mientras esperas que el Señor vuelva, ¿qué oración te gustaría ofrecerle?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "catholicAdventBook",
+  "kind": "plan",
+  "title": "대림과 성탄 28일",
+  "subtitle": "오시는 주님을 기다리는 네 주",
+  "summary": "대림 시기 네 주 동안 오시는 주님을 기다리며 이사야의 예언과 성모님의 노래, 성탄의 말씀을 씁니다. 하루 한 장씩 마음을 고요히 하고 아기 예수님을 맞을 자리를 마련해요.",
+  "symbol": "sun.haze",
+  "tint": "lavender",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "대림 시기",
+   "성탄",
+   "기다림",
+   "성모님",
+   "마니피캇",
+   "임마누엘",
+   "12월"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": "dra",
+  "collection": "catholic",
+  "book": true,
+  "plusWindow": {
+   "from": "2026-11-29",
+   "until": "2027-01-31"
+  },
+  "days": [
+   {
+    "title": "하늘아 이슬을 내려라",
+    "passage": "ISA.45.8",
+    "prompt": "Drop down dew는 '이슬을 내려라'예요. 이번 대림 시기에 하늘에서 내려오기를 기다리는 것은 무엇인가요?"
+   },
+   {
+    "title": "잠에서 깨어날 시간",
+    "passage": "ROM.13.11-12",
+    "prompt": "armour of light는 '빛의 갑옷'이에요. 오늘 벗어 두고 싶은 어둠과 입고 싶은 빛은 무엇인가요?"
+   },
+   {
+    "title": "깨어 기도하여라",
+    "passage": "MRK.13.33",
+    "prompt": "Take ye heed는 '정신을 차려라'예요. 바쁜 하루 속에서 깨어 있고 싶은 순간은 언제인가요?"
+   },
+   {
+    "title": "주님의 빛 속을 걷자",
+    "passage": "ISA.2.4-5",
+    "prompt": "ploughshares는 '보습', 곧 밭을 가는 쟁기날이에요. 내 안의 날카로운 마음을 무엇으로 바꾸고 싶나요?"
+   },
+   {
+    "title": "우리가 기다린 하느님",
+    "passage": "ISA.25.9",
+    "prompt": "patiently waited는 '참으며 기다렸다'예요. 오래 기다려 온 기도가 있나요?"
+   },
+   {
+    "title": "당신의 길을 가르쳐 주소서",
+    "passage": "PSA.24.4-5",
+    "prompt": "Direct me는 '이끌어 주소서'예요. 요즘 주님께 길을 여쭙고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "농부처럼 참으며",
+    "passage": "JAS.5.7-8",
+    "prompt": "husbandman은 '농부'예요. 서두르지 않고 기다려야 할 일이 있나요?"
+   },
+   {
+    "title": "내 백성을 위로하여라",
+    "passage": "ISA.40.1-2",
+    "prompt": "Speak ye to the heart는 '마음에 말하여라'예요. 오늘 다정한 말이 필요한 사람은 누구인가요?"
+   },
+   {
+    "title": "주님의 길을 닦아라",
+    "passage": "ISA.40.3-5",
+    "prompt": "make straight는 '곧게 하라'예요. 주님이 오시도록 내 안에서 고르고 싶은 길은 어디인가요?"
+   },
+   {
+    "title": "나자렛의 처녀",
+    "passage": "LUK.1.26-27",
+    "prompt": "espoused는 '약혼한'이에요. 하느님께서 작은 마을의 성모님을 찾아오신 일이 어떻게 다가오나요?"
+   },
+   {
+    "title": "광야에서 외치는 요한",
+    "passage": "MAT.3.1-2",
+    "prompt": "Do penance는 '회개하여라'예요. 주님께 돌아가기 위해 오늘 내려놓고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "기운을 내어라",
+    "passage": "ISA.35.3-4",
+    "prompt": "fainthearted는 '마음이 약한'이에요. 힘이 빠진 나에게 주님은 어떤 말을 건네실까요?"
+   },
+   {
+    "title": "슬픔의 옷을 벗어라",
+    "passage": "BAR.5.1-2",
+    "prompt": "garment of thy mourning은 '슬픔의 옷'이에요. 이번 대림 시기에 벗어 두고 싶은 슬픔이 있나요?"
+   },
+   {
+    "title": "믿으신 분은 복되시다",
+    "passage": "LUK.1.44-45",
+    "prompt": "leaped for joy는 '기뻐 뛰놀았다'예요. 성모님처럼 말씀을 믿고 기다린 적이 있나요?"
+   },
+   {
+    "title": "너로 기뻐하시는 하느님",
+    "passage": "ZEP.3.17",
+    "prompt": "rejoice over thee는 '너를 두고 기뻐하다'예요. 하느님께서 나를 보며 기뻐하신다는 말이 어떻게 들리나요?"
+   },
+   {
+    "title": "동쪽을 바라보아라",
+    "passage": "BAR.5.5",
+    "prompt": "towards the east는 '동쪽을 향해'예요. 해 뜨는 쪽을 바라보듯 오늘 기다리는 빛은 무엇인가요?"
+   },
+   {
+    "title": "자비와 진리가 만나고",
+    "passage": "PSA.84.11-13",
+    "prompt": "have kissed는 '입 맞추었다'예요. 내 삶에서 정의와 평화가 함께 있기를 바라는 곳은 어디인가요?"
+   },
+   {
+    "title": "주님의 길을 닦을 아이",
+    "passage": "LUK.1.76-77",
+    "prompt": "remission은 '용서', 곧 죄를 풀어 줌이에요. 주님께 용서를 청하고 싶은 일이 있나요?"
+   },
+   {
+    "title": "오 지혜여",
+    "passage": "WIS.8.1",
+    "prompt": "sweetly는 '부드럽게'예요. 하느님께서 내 하루를 부드럽게 이끄신다고 느낀 때가 있나요?"
+   },
+   {
+    "title": "요셉의 꿈",
+    "passage": "MAT.1.20-21",
+    "prompt": "in his sleep은 '잠든 사이에'예요. 요셉처럼 두려움 속에서도 따르고 싶은 하느님의 뜻이 있나요?"
+   },
+   {
+    "title": "오 이사이의 뿌리여",
+    "passage": "ISA.11.1-2",
+    "prompt": "root of Jesse는 '이사이의 뿌리'예요. 오래된 뿌리에서 새싹이 돋듯 내 안에서 다시 자라기를 바라는 것은 무엇인가요?"
+   },
+   {
+    "title": "오 다윗의 열쇠여",
+    "passage": "ISA.22.22",
+    "prompt": "key of the house of David는 '다윗 집안의 열쇠'예요. 주님께서 열어 주시기를 바라는 닫힌 문이 있나요?"
+   },
+   {
+    "title": "오 떠오르는 태양이여",
+    "passage": "ZEC.6.12",
+    "prompt": "the Orient는 여기서 '떠오르는 해'예요. 가장 어두운 때에 내가 기다리는 빛은 무엇인가요?"
+   },
+   {
+    "title": "비천한 이를 높이시고",
+    "passage": "LUK.1.52-53",
+    "prompt": "exalted the humble은 '비천한 이를 높이셨다'예요. 성모님의 노래처럼 하느님께 감사드리고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "오 임마누엘",
+    "passage": "MAT.1.23",
+    "prompt": "God with us는 '하느님께서 우리와 함께 계시다'예요. 오늘 하느님께서 곁에 계심을 느낀 순간이 있었나요?"
+   },
+   {
+    "title": "큰 빛을 보았다",
+    "passage": "ISA.9.2",
+    "prompt": "a great light는 '큰 빛'이에요. 어둠 속을 걷던 날 나를 비춰 준 빛은 무엇이었나요?"
+   },
+   {
+    "title": "한 아기가 태어났다",
+    "passage": "ISA.9.6",
+    "prompt": "Prince of Peace는 '평화의 군왕'이에요. 아기 예수님께 드리고 싶은 마음의 선물은 무엇인가요?"
+   },
+   {
+    "title": "베들레헴으로 가 보자",
+    "passage": "LUK.2.15-16",
+    "prompt": "came with haste는 '서둘러 갔다'예요. 목자들처럼 서둘러 찾아가고 싶은 기쁨은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The Season of Advent, 28 Days",
+   "subtitle": "Four weeks of waiting for the Lord who comes",
+   "summary": "Through the four weeks of Advent, write Isaiah's prophecies, Mary's song and the words of Christmas while waiting for the Lord. Page by page, quiet your heart and make room for the Child Jesus.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "A notebook in your own handwriting when you finish",
+    "A new book, first with Plus"
+   ],
+   "tags": [
+    "Advent",
+    "Christmas",
+    "Waiting",
+    "Our Lady",
+    "Magnificat",
+    "Emmanuel",
+    "December"
+   ],
+   "days": [
+    {
+     "title": "Drop down dew, ye heavens",
+     "prompt": "What are you waiting for heaven to send down this Advent?"
+    },
+    {
+     "title": "The hour to rise from sleep",
+     "prompt": "What darkness would you lay down today, and what light would you put on?"
+    },
+    {
+     "title": "Watch and pray",
+     "prompt": "When in your busy day would you like to stay awake to God?"
+    },
+    {
+     "title": "Let us walk in the light of the Lord",
+     "prompt": "What sharp edge in you would you like to turn into something that gives life?"
+    },
+    {
+     "title": "This is our God",
+     "prompt": "Is there a prayer you have waited a long time to see answered?"
+    },
+    {
+     "title": "Teach me thy paths",
+     "prompt": "What would you like to ask the Lord to guide you in these days?"
+    },
+    {
+     "title": "Patient like the farmer",
+     "prompt": "Is there something you need to wait for without hurrying?"
+    },
+    {
+     "title": "Comfort my people",
+     "prompt": "Who needs a gentle word from you today?"
+    },
+    {
+     "title": "Prepare the way of the Lord",
+     "prompt": "What path in your heart would you like to make straight for the Lord?"
+    },
+    {
+     "title": "A virgin of Nazareth",
+     "prompt": "How does it move you that God came to Mary in a small town?"
+    },
+    {
+     "title": "John in the desert",
+     "prompt": "What would you like to let go of today to turn back to the Lord?"
+    },
+    {
+     "title": "Take courage",
+     "prompt": "What do you think the Lord would say to you when you feel weak?"
+    },
+    {
+     "title": "Put off the garment of mourning",
+     "prompt": "Is there a sorrow you would like to lay aside this Advent?"
+    },
+    {
+     "title": "Blessed is she who believed",
+     "prompt": "Have you ever trusted a promise and waited, as Mary did?"
+    },
+    {
+     "title": "God rejoices over you",
+     "prompt": "How does it feel to hear that God rejoices over you?"
+    },
+    {
+     "title": "Look towards the east",
+     "prompt": "As you would watch for the sunrise, what light are you waiting for today?"
+    },
+    {
+     "title": "Mercy and truth have met",
+     "prompt": "Where in your life do you hope justice and peace will meet?"
+    },
+    {
+     "title": "The prophet of the Highest",
+     "prompt": "Is there something you would like to ask the Lord to forgive?"
+    },
+    {
+     "title": "O Wisdom",
+     "prompt": "When have you felt God gently ordering your day?"
+    },
+    {
+     "title": "Joseph's dream",
+     "prompt": "Is there something of God's will you want to follow even when you are afraid?"
+    },
+    {
+     "title": "O Root of Jesse",
+     "prompt": "As a shoot rises from an old root, what do you hope will grow again in you?"
+    },
+    {
+     "title": "O Key of David",
+     "prompt": "Is there a closed door you hope the Lord will open?"
+    },
+    {
+     "title": "O Dayspring",
+     "prompt": "In your darkest hour, what light do you wait for?"
+    },
+    {
+     "title": "He hath exalted the humble",
+     "prompt": "Like Mary in her song, what would you like to thank God for?"
+    },
+    {
+     "title": "O Emmanuel",
+     "prompt": "Was there a moment today when you felt God was with you?"
+    },
+    {
+     "title": "A great light",
+     "prompt": "On a dark day, what light shone for you?"
+    },
+    {
+     "title": "A child is born to us",
+     "prompt": "What gift of the heart would you like to offer the Child Jesus?"
+    },
+    {
+     "title": "Let us go over to Bethlehem",
+     "prompt": "Like the shepherds, what joy would you hurry to find?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "newYearBook",
+  "kind": "plan",
+  "title": "새해를 여는 28일",
+  "subtitle": "작은 다짐을 손으로",
+  "summary": "새해를 맞는 책상 정리부터 작은 습관, 사람에게 건네는 말, 1월을 넘기는 꾸준함까지 하루 한 장씩 옮겨 씁니다. 다 쓰고 나면 내 글씨로 연 한 해가 남습니다.",
+  "symbol": "sunrise",
+  "tint": "peach",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "새해",
+   "다짐",
+   "습관",
+   "계획",
+   "1월",
+   "새 출발",
+   "꾸준함"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "life",
+  "book": true,
+  "plusWindow": {
+   "from": "2026-11-29",
+   "until": "2027-01-31"
+  },
+  "days": [
+   {
+    "title": "깨끗한 책상",
+    "passage": "life.newyear.1",
+    "prompt": "새해를 앞두고 비워 두고 싶은 자리는 어디인가요?"
+   },
+   {
+    "title": "새 달력",
+    "passage": "life.newyear.2",
+    "prompt": "새 달력에 가장 먼저 적고 싶은 날은 언제인가요?"
+   },
+   {
+    "title": "자정이 지나고",
+    "passage": "life.newyear.3",
+    "prompt": "해가 바뀌는 밤에 마음은 어땠나요?"
+   },
+   {
+    "title": "새해 첫 아침",
+    "passage": "life.newyear.4",
+    "prompt": "새해 첫 아침에 가장 먼저 한 일은 무엇인가요?"
+   },
+   {
+    "title": "떡국 한 그릇",
+    "passage": "life.newyear.5",
+    "prompt": "새해에 함께 밥을 먹고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "물 한 잔부터",
+    "passage": "life.newyear.6",
+    "prompt": "오늘 바로 할 수 있는 가장 작은 다짐은 무엇인가요?"
+   },
+   {
+    "title": "올해의 한 단어",
+    "passage": "life.newyear.7",
+    "prompt": "올해를 한 단어로 정한다면 무엇인가요?"
+   },
+   {
+    "title": "하루 한 장",
+    "passage": "life.newyear.8",
+    "prompt": "매일 부담 없이 할 수 있는 한 가지는 무엇인가요?"
+   },
+   {
+    "title": "이불부터",
+    "passage": "life.newyear.9",
+    "prompt": "아침에 가장 먼저 끝낼 수 있는 일은 무엇인가요?"
+   },
+   {
+    "title": "같은 시간에",
+    "passage": "life.newyear.10",
+    "prompt": "몇 시에 잠드는 것이 나에게 가장 좋은가요?"
+   },
+   {
+    "title": "다른 방에 둔 휴대폰",
+    "passage": "life.newyear.11",
+    "prompt": "잠들기 전에 내려놓고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "점심 뒤 십 분",
+    "passage": "life.newyear.12",
+    "prompt": "하루 중 십 분을 걸을 수 있는 때는 언제인가요?"
+   },
+   {
+    "title": "하루 한 번 고맙다고",
+    "passage": "life.newyear.13",
+    "prompt": "오늘 고맙다고 말할 수 있는 사람은 누구인가요?"
+   },
+   {
+    "title": "달력의 동그라미",
+    "passage": "life.newyear.14",
+    "prompt": "이번 주에 동그라미를 그린 날은 며칠인가요?"
+   },
+   {
+    "title": "문자 대신 전화",
+    "passage": "life.newyear.15",
+    "prompt": "목소리가 듣고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "한 줄 더",
+    "passage": "life.newyear.16",
+    "prompt": "새해 인사에 한 줄을 더한다면 누구에게 무엇이라고 쓰고 싶나요?"
+   },
+   {
+    "title": "되짚어 듣기",
+    "passage": "life.newyear.17",
+    "prompt": "최근에 누군가의 말을 끝까지 들어 준 적이 있나요?"
+   },
+   {
+    "title": "말끝 고르기",
+    "passage": "life.newyear.18",
+    "prompt": "오늘 부드럽게 바꾸어 말하고 싶은 말이 있나요?"
+   },
+   {
+    "title": "몇 걸음 함께",
+    "passage": "life.newyear.19",
+    "prompt": "오늘 일 분 만에 베풀 수 있는 친절은 무엇인가요?"
+   },
+   {
+    "title": "미루지 않는 사과",
+    "passage": "life.newyear.20",
+    "prompt": "미뤄 둔 미안하다는 말이 있나요?"
+   },
+   {
+    "title": "나에게 다정하게",
+    "passage": "life.newyear.21",
+    "prompt": "요즘 나에게 해 주고 싶은 다정한 말은 무엇인가요?"
+   },
+   {
+    "title": "빈칸 하나",
+    "passage": "life.newyear.22",
+    "prompt": "하루를 거른 뒤 다시 시작하게 해 주는 것은 무엇인가요?"
+   },
+   {
+    "title": "처음 적은 이유",
+    "passage": "life.newyear.23",
+    "prompt": "올해 다짐을 처음 세운 이유는 무엇이었나요?"
+   },
+   {
+    "title": "거북이 걸음",
+    "passage": "life.newyear.24",
+    "prompt": "천천히라도 이어 가고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "반이라도",
+    "passage": "life.newyear.25",
+    "prompt": "힘든 날에는 다짐을 어디까지 줄일 수 있나요?"
+   },
+   {
+    "title": "반걸음이 쌓여",
+    "passage": "life.newyear.26",
+    "prompt": "요즘 조금씩 쌓이고 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "삼백예순다섯 날",
+    "passage": "life.newyear.27",
+    "prompt": "오늘 같은 평범한 날에 고마운 것은 무엇인가요?"
+   },
+   {
+    "title": "여기서부터",
+    "passage": "life.newyear.28",
+    "prompt": "올해의 끝에서 나에게 어떤 말을 듣고 싶나요?"
+   }
+  ],
+  "en": {
+   "title": "Opening the New Year, 28 Days",
+   "subtitle": "Small promises, by hand",
+   "summary": "From clearing the desk for the new year to small habits, words for the people around you, and keeping going past January, one page a day. When you finish, the year you opened remains in your own handwriting.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "A copybook in your own handwriting when you finish",
+    "A new book, first with Plus"
+   ],
+   "tags": [
+    "new year",
+    "resolution",
+    "habits",
+    "plans",
+    "January",
+    "fresh start",
+    "keeping going"
+   ],
+   "days": [
+    {
+     "title": "A clean desk",
+     "prompt": "What space would you like to clear before the new year?"
+    },
+    {
+     "title": "A new calendar",
+     "prompt": "What day would you mark first on a new calendar?"
+    },
+    {
+     "title": "Just after midnight",
+     "prompt": "How did your heart feel on the night the year turned?"
+    },
+    {
+     "title": "The first morning",
+     "prompt": "What was the first thing you did on the first morning of the year?"
+    },
+    {
+     "title": "A bowl of rice cake soup",
+     "prompt": "Who would you like to share a meal with in the new year?"
+    },
+    {
+     "title": "Starting with a glass of water",
+     "prompt": "What is the smallest resolution you could start today?"
+    },
+    {
+     "title": "One word for the year",
+     "prompt": "If you chose one word for this year, what would it be?"
+    },
+    {
+     "title": "One page a day",
+     "prompt": "What is one thing you could do every day without strain?"
+    },
+    {
+     "title": "Making the bed first",
+     "prompt": "What is one thing you can finish first thing in the morning?"
+    },
+    {
+     "title": "At the same time",
+     "prompt": "What time to sleep feels best for you?"
+    },
+    {
+     "title": "The phone in another room",
+     "prompt": "What would you like to put down before you sleep?"
+    },
+    {
+     "title": "Ten minutes after lunch",
+     "prompt": "When in your day could you walk for ten minutes?"
+    },
+    {
+     "title": "Thank you, once a day",
+     "prompt": "Who could you say thank you to today?"
+    },
+    {
+     "title": "Circles on the calendar",
+     "prompt": "How many days did you draw a circle this week?"
+    },
+    {
+     "title": "A call instead of a text",
+     "prompt": "Whose voice would you like to hear?"
+    },
+    {
+     "title": "One more line",
+     "prompt": "If you added one more line to a New Year greeting, what would you write, and to whom?"
+    },
+    {
+     "title": "Saying it back",
+     "prompt": "When did you last listen to someone all the way through?"
+    },
+    {
+     "title": "Choosing my words gently",
+     "prompt": "Is there something you would like to say more gently today?"
+    },
+    {
+     "title": "A few steps together",
+     "prompt": "What kindness could you offer in a minute today?"
+    },
+    {
+     "title": "An apology not put off",
+     "prompt": "Is there an apology you have been putting off?"
+    },
+    {
+     "title": "Kind to myself",
+     "prompt": "What kind words would you like to give yourself these days?"
+    },
+    {
+     "title": "One empty box",
+     "prompt": "What helps you start again after missing a day?"
+    },
+    {
+     "title": "Why I started",
+     "prompt": "Why did you make your resolution in the first place?"
+    },
+    {
+     "title": "A turtle's pace",
+     "prompt": "What are you keeping up, even slowly?"
+    },
+    {
+     "title": "Even half",
+     "prompt": "On a hard day, how small could your resolution become?"
+    },
+    {
+     "title": "Half steps add up",
+     "prompt": "What is slowly adding up for you these days?"
+    },
+    {
+     "title": "Three hundred sixty-five days",
+     "prompt": "What are you grateful for on an ordinary day like today?"
+    },
+    {
+     "title": "From here",
+     "prompt": "What would you like to hear from yourself at the end of this year?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "dongangeoBook",
+  "kind": "plan",
+  "title": "동안거 28일",
+  "subtitle": "겨울 석 달, 마음을 모으는 사경",
+  "summary": "스님들이 겨울 석 달 산문을 닫고 정진하는 동안거를 네 주로 따라갑니다. 첫 마음을 내고, 유교경으로 마음을 다스리고, 선사들의 화두를 품은 뒤 해제의 게송으로 다시 삶으로 돌아옵니다.",
+  "symbol": "mountain.2",
+  "tint": "sky",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "동안거",
+   "안거",
+   "참선",
+   "화두",
+   "정진",
+   "유교경",
+   "사경"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "book": true,
+  "plusWindow": {
+   "from": "2026-11-29",
+   "until": "2027-01-31"
+  },
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "처음 마음을 낸 사람",
+    "passage": "bud.dongan.1",
+    "prompt": "이번 겨울, 곁에 두고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "큰 자비의 마음부터",
+    "passage": "bud.dongan.2",
+    "prompt": "오늘 앉는 이 시간을 누구를 위해 쓰고 싶나요?"
+   },
+   {
+    "title": "어떻게 머물러야 하나",
+    "passage": "bud.dongan.3",
+    "prompt": "요즘 내 마음은 주로 어디에 머물러 있나요?"
+   },
+   {
+    "title": "불타는 집",
+    "passage": "bud.dongan.4",
+    "prompt": "요즘 나를 뜨겁게 달구는 일은 무엇인가요?"
+   },
+   {
+    "title": "마음은 멀리 있지 않다",
+    "passage": "bud.dongan.5",
+    "prompt": "멀리서 찾던 것이 사실 가까이 있었던 적이 있나요?"
+   },
+   {
+    "title": "재물과 색의 화",
+    "passage": "bud.dongan.6",
+    "prompt": "오늘 나를 돌아보며 알게 된 것 하나를 적어 보세요."
+   },
+   {
+    "title": "계는 선의 뿌리",
+    "passage": "bud.dongan.7",
+    "prompt": "이번 겨울 지키고 싶은 작은 약속 하나는 무엇인가요?"
+   },
+   {
+    "title": "마음이 주인",
+    "passage": "bud.dongan.8",
+    "prompt": "오늘 내 마음이 가장 쉽게 끌려간 곳은 어디였나요?"
+   },
+   {
+    "title": "한곳에 두면",
+    "passage": "bud.dongan.9",
+    "prompt": "오늘 한 가지에만 마음을 모은다면 무엇에 모으고 싶나요?"
+   },
+   {
+    "title": "낮에도 밤에도",
+    "passage": "bud.dongan.10",
+    "prompt": "하루 가운데 나에게 가장 맑은 시간은 언제인가요?"
+   },
+   {
+    "title": "참음의 힘",
+    "passage": "bud.dongan.11",
+    "prompt": "오늘 참아 낸 일이 있다면 무엇이었나요?"
+   },
+   {
+    "title": "적게 바라는 마음",
+    "passage": "bud.dongan.12",
+    "prompt": "덜 바라도 괜찮은 것 하나를 떠올려 보세요."
+   },
+   {
+    "title": "고요한 곳",
+    "passage": "bud.dongan.13",
+    "prompt": "오늘 잠시 시끄러움에서 떨어져 있을 수 있는 곳은 어디인가요?"
+   },
+   {
+    "title": "하루를 살아도",
+    "passage": "bud.dongan.14",
+    "prompt": "오늘 하루, 힘을 내어 해 보고 싶은 일은 무엇인가요?"
+   },
+   {
+    "title": "작은 물이 돌을 뚫는다",
+    "passage": "bud.dongan.15",
+    "prompt": "조금씩 꾸준히 해 온 일이 있나요?"
+   },
+   {
+    "title": "마음이 선정에 들면",
+    "passage": "bud.dongan.16",
+    "prompt": "숨을 세 번 고르고 나서 지금 마음을 적어 보세요."
+   },
+   {
+    "title": "어둠을 밝히는 등불",
+    "passage": "bud.dongan.17",
+    "prompt": "요즘 내 어둠을 밝혀 준 한마디가 있나요?"
+   },
+   {
+    "title": "선과 교",
+    "passage": "bud.dongan.18",
+    "prompt": "말보다 마음으로 전해진 것이 있었나요?"
+   },
+   {
+    "title": "세 가지 갖출 것",
+    "passage": "bud.dongan.19",
+    "prompt": "지금 내게 가장 필요한 것은 믿음, 분발, 물음 가운데 무엇인가요?"
+   },
+   {
+    "title": "닭이 알을 품듯",
+    "passage": "bud.dongan.20",
+    "prompt": "닭이 알을 품듯 오래 품고 있는 물음이 있나요?"
+   },
+   {
+    "title": "조주의 무",
+    "passage": "bud.dongan.21",
+    "prompt": "오늘 하루, 답을 서두르지 않고 품어 보고 싶은 물음은 무엇인가요?"
+   },
+   {
+    "title": "밖으로 모양을 떠나",
+    "passage": "bud.dongan.22",
+    "prompt": "오늘 나를 흔든 겉모습은 무엇이었나요?"
+   },
+   {
+    "title": "다니는 것도 선",
+    "passage": "bud.dongan.23",
+    "prompt": "걷거나 설거지하는 동안에도 마음을 지켜본 적이 있나요?"
+   },
+   {
+    "title": "하나의 달",
+    "passage": "bud.dongan.24",
+    "prompt": "서로 다른 듯 이어져 있다고 느낀 것이 있나요?"
+   },
+   {
+    "title": "바람은 멎어도",
+    "passage": "bud.dongan.25",
+    "prompt": "알면서도 쉽게 고쳐지지 않는 버릇 하나를 적어 보세요."
+   },
+   {
+    "title": "텅 비고 신령한 앎",
+    "passage": "bud.dongan.26",
+    "prompt": "꾸미지 않은 본래 내 모습은 어떤 모습일까요?"
+   },
+   {
+    "title": "어찌 알았으랴",
+    "passage": "bud.dongan.27",
+    "prompt": "석 달 동안 새로 알게 된 내 모습이 있나요?"
+   },
+   {
+    "title": "해제, 다시 삶으로",
+    "passage": "bud.dongan.28",
+    "prompt": "이 겨울에 닦은 마음을 누구에게 먼저 건네고 싶나요?"
+   }
+  ],
+  "en": {
+   "title": "Winter Retreat, 28 Days",
+   "subtitle": "Three months of winter, gathering the mind",
+   "summary": "Follow the monks' winter retreat for four weeks: begin with the first resolve, tame the mind with the Buddha's last teaching, hold a hwadu with Seon masters, and close the retreat by returning to everyday life.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "Finish and you have a notebook in your own handwriting",
+    "A new book for Plus members first"
+   ],
+   "tags": [
+    "winter retreat",
+    "Seon",
+    "meditation",
+    "hwadu",
+    "diligence",
+    "sutra copying"
+   ],
+   "days": [
+    {
+     "title": "Those who have just set out",
+     "prompt": "Who would you like to keep close this winter?"
+    },
+    {
+     "title": "Begin with great compassion",
+     "prompt": "For whom would you like to spend this time of sitting today?"
+    },
+    {
+     "title": "How should the mind abide?",
+     "prompt": "Where does your mind usually rest these days?"
+    },
+    {
+     "title": "The burning house",
+     "prompt": "What has been heating you up lately?"
+    },
+    {
+     "title": "The mind is not far away",
+     "prompt": "Was there something you looked for far away that was close all along?"
+    },
+    {
+     "title": "The harm of wealth and lust",
+     "prompt": "Write down one thing you noticed when you looked into yourself today."
+    },
+    {
+     "title": "Precepts are the root of good",
+     "prompt": "What small promise would you like to keep this winter?"
+    },
+    {
+     "title": "The mind is the master",
+     "prompt": "Where was your mind most easily pulled today?"
+    },
+    {
+     "title": "Gathered in one place",
+     "prompt": "If you gathered your mind on just one thing today, what would it be?"
+    },
+    {
+     "title": "By day and by night",
+     "prompt": "When is the clearest time of your day?"
+    },
+    {
+     "title": "The strength of patience",
+     "prompt": "Was there something you were patient with today?"
+    },
+    {
+     "title": "Wanting little",
+     "prompt": "Think of one thing you could want a little less."
+    },
+    {
+     "title": "A quiet place",
+     "prompt": "Where could you step away from the noise for a while today?"
+    },
+    {
+     "title": "Even a single day",
+     "prompt": "What would you like to put your strength into today?"
+    },
+    {
+     "title": "Small water wears through stone",
+     "prompt": "Is there something you have kept doing, little by little?"
+    },
+    {
+     "title": "When the mind settles",
+     "prompt": "Take three slow breaths, then write down how your mind is now."
+    },
+    {
+     "title": "A lamp in the darkness",
+     "prompt": "Has a single word lit up your darkness lately?"
+    },
+    {
+     "title": "Seon and the teachings",
+     "prompt": "Has something reached you heart to heart rather than in words?"
+    },
+    {
+     "title": "Three essentials",
+     "prompt": "Which do you need most now: faith, determination, or a question?"
+    },
+    {
+     "title": "Like a hen on her eggs",
+     "prompt": "Is there a question you have been holding for a long time, like a hen on her eggs?"
+    },
+    {
+     "title": "Zhaozhou's Mu",
+     "prompt": "What question would you like to hold today without rushing to an answer?"
+    },
+    {
+     "title": "Free of forms outside",
+     "prompt": "What appearance shook you today?"
+    },
+    {
+     "title": "Walking is Seon too",
+     "prompt": "Have you ever watched your mind while walking or washing the dishes?"
+    },
+    {
+     "title": "One moon",
+     "prompt": "Is there something that seems separate but feels connected?"
+    },
+    {
+     "title": "The wind has stopped",
+     "prompt": "Write down one habit that is hard to change even though you know better."
+    },
+    {
+     "title": "Empty, still, and aware",
+     "prompt": "What might your original self look like, without any decoration?"
+    },
+    {
+     "title": "Who would have known",
+     "prompt": "Over these three months, did you discover something new about yourself?"
+    },
+    {
+     "title": "Back to life",
+     "prompt": "To whom would you first like to give the heart you cultivated this winter?"
+    }
+   ]
+  },
+  "ja": {
+   "title": "冬安居 28日",
+   "subtitle": "冬の三か月、心を集める写経",
+   "summary": "僧侶たちが冬の三か月、山門を閉じて修行に励む冬安居を、4週間でたどります。初心をおこし、遺教経で心を調え、禅師たちの公案を抱いたあと、解制の偈でふたたび暮らしへ戻ります。",
+   "highlights": [
+    "4週間、一日一枚",
+    "書き終えると、自分の字で綴じた筆写ノートに",
+    "Plusで先に出会える新しい本"
+   ],
+   "tags": [
+    "冬安居",
+    "安居",
+    "坐禅",
+    "公案",
+    "精進",
+    "遺教経",
+    "写経"
+   ],
+   "days": [
+    {
+     "title": "初心の人",
+     "prompt": "この冬、そばにいてほしい人はだれですか。"
+    },
+    {
+     "title": "大きな慈悲の心から",
+     "prompt": "今日座るこの時間を、だれのために使いたいですか。"
+    },
+    {
+     "title": "心をどう住まわせるか",
+     "prompt": "このごろ、わたしの心はおもにどこにとどまっていますか。"
+    },
+    {
+     "title": "燃える家",
+     "prompt": "このごろ、わたしを熱くしているものは何ですか。"
+    },
+    {
+     "title": "心は遠くにない",
+     "prompt": "遠くに探していたものが、じつは近くにあったことはありますか。"
+    },
+    {
+     "title": "財と色のわざわい",
+     "prompt": "今日、自分をふり返って気づいたことをひとつ書いてみましょう。"
+    },
+    {
+     "title": "戒は善の根",
+     "prompt": "この冬、守りたい小さな約束は何ですか。"
+    },
+    {
+     "title": "心が主",
+     "prompt": "今日、わたしの心がいちばんたやすく引っぱられたのはどこでしたか。"
+    },
+    {
+     "title": "一つところに置けば",
+     "prompt": "今日ひとつのことだけに心を集めるなら、何に集めたいですか。"
+    },
+    {
+     "title": "昼も夜も",
+     "prompt": "一日のうちで、わたしにとっていちばん澄んだ時間はいつですか。"
+    },
+    {
+     "title": "忍ぶ力",
+     "prompt": "今日こらえたことがあれば、それは何でしたか。"
+    },
+    {
+     "title": "少なく望む心",
+     "prompt": "もう少し望まなくてもよいものを、ひとつ思い浮かべてみましょう。"
+    },
+    {
+     "title": "静かなところ",
+     "prompt": "今日、しばらくにぎやかさから離れていられる場所はどこですか。"
+    },
+    {
+     "title": "一日を生きても",
+     "prompt": "今日一日、力を出してやってみたいことは何ですか。"
+    },
+    {
+     "title": "小さな水が石をうがつ",
+     "prompt": "少しずつ続けてきたことはありますか。"
+    },
+    {
+     "title": "心が定に入れば",
+     "prompt": "三回ゆっくり息をととのえてから、いまの心を書いてみましょう。"
+    },
+    {
+     "title": "闇を照らす灯",
+     "prompt": "このごろ、わたしの闇を照らしてくれたひと言はありますか。"
+    },
+    {
+     "title": "禅と教",
+     "prompt": "ことばよりも心で伝わったものはありましたか。"
+    },
+    {
+     "title": "そなえるべき三つ",
+     "prompt": "いまのわたしにいちばん必要なのは、信、奮い立つ心、問いのうちどれですか。"
+    },
+    {
+     "title": "鶏が卵を抱くように",
+     "prompt": "鶏が卵を抱くように、長く抱いている問いはありますか。"
+    },
+    {
+     "title": "趙州の無",
+     "prompt": "今日一日、答えを急がずに抱いてみたい問いは何ですか。"
+    },
+    {
+     "title": "外にかたちを離れて",
+     "prompt": "今日、わたしをゆさぶった見かけは何でしたか。"
+    },
+    {
+     "title": "歩むのも禅",
+     "prompt": "歩いたり皿を洗ったりするあいだにも、心を見守ったことはありますか。"
+    },
+    {
+     "title": "ひとつの月",
+     "prompt": "ちがうようでいて、つながっていると感じたものはありますか。"
+    },
+    {
+     "title": "風はやんでも",
+     "prompt": "わかっていても、なかなか直らない癖をひとつ書いてみましょう。"
+    },
+    {
+     "title": "空にして霊なる知",
+     "prompt": "飾らない本来のわたしは、どんなすがたでしょう。"
+    },
+    {
+     "title": "思いもよらなかった",
+     "prompt": "この三か月で、新しく知ったわたしのすがたはありますか。"
+    },
+    {
+     "title": "解制、ふたたび暮らしへ",
+     "prompt": "この冬に磨いた心を、まずだれに手渡したいですか。"
+    }
+   ]
+  },
+  "zh-Hant": {
+   "title": "冬安居 28 天",
+   "subtitle": "冬季三個月，收攝身心的抄經",
+   "summary": "跟隨僧人冬季三個月閉門精進的冬安居，用四周走一遍：發起初心，以遺教經調伏內心，參究禪師們的話頭，最後以解制的偈頌回到日常生活。",
+   "highlights": [
+    "四周，每天一頁",
+    "寫完得到用自己的字裝訂的抄寫本",
+    "Plus 搶先讀的新書"
+   ],
+   "tags": [
+    "冬安居",
+    "安居",
+    "參禪",
+    "話頭",
+    "精進",
+    "遺教經",
+    "抄經"
+   ],
+   "days": [
+    {
+     "title": "初發心的人",
+     "prompt": "這個冬天，你想讓誰留在身邊？"
+    },
+    {
+     "title": "從大悲心開始",
+     "prompt": "今天坐下來的這段時間，你想為誰而用？"
+    },
+    {
+     "title": "應當如何安住",
+     "prompt": "最近你的心大多停留在哪裡？"
+    },
+    {
+     "title": "著火的房子",
+     "prompt": "最近讓你心裡發熱的事是什麼？"
+    },
+    {
+     "title": "心不在遠處",
+     "prompt": "有沒有一樣東西，你曾到遠處去找，其實一直就在身邊？"
+    },
+    {
+     "title": "財色之禍",
+     "prompt": "寫下今天反省自己時發現的一件事。"
+    },
+    {
+     "title": "戒是善的根本",
+     "prompt": "這個冬天，你想守住的一個小約定是什麼？"
+    },
+    {
+     "title": "心是主人",
+     "prompt": "今天你的心最容易被牽走的地方是哪裡？"
+    },
+    {
+     "title": "制心一處",
+     "prompt": "如果今天只把心放在一件事上，你想放在哪裡？"
+    },
+    {
+     "title": "無論晝夜",
+     "prompt": "一天之中，對你來說最清明的時間是什麼時候？"
+    },
+    {
+     "title": "忍的力量",
+     "prompt": "今天如果有忍下來的事，那是什麼？"
+    },
+    {
+     "title": "少欲的心",
+     "prompt": "想一想，有哪一樣東西可以少要一點。"
+    },
+    {
+     "title": "寂靜處",
+     "prompt": "今天哪裡可以讓你暫時遠離喧鬧？"
+    },
+    {
+     "title": "哪怕只活一天",
+     "prompt": "今天，你想盡力去做的一件事是什麼？"
+    },
+    {
+     "title": "小水穿石",
+     "prompt": "有沒有一件事，你一點一點堅持了下來？"
+    },
+    {
+     "title": "心入禪定",
+     "prompt": "慢慢調勻三次呼吸，再寫下此刻的心。"
+    },
+    {
+     "title": "照亮黑暗的燈",
+     "prompt": "最近有沒有一句話照亮了你的黑暗？"
+    },
+    {
+     "title": "禪與教",
+     "prompt": "有沒有什麼不是靠言語，而是用心傳給你的？"
+    },
+    {
+     "title": "須具三要",
+     "prompt": "信心、發奮和疑問之中，你現在最需要哪一個？"
+    },
+    {
+     "title": "如雞抱卵",
+     "prompt": "有沒有一個問題，你像母雞孵蛋一樣抱了很久？"
+    },
+    {
+     "title": "趙州的無",
+     "prompt": "今天，有哪個問題你想抱著它，不急著找答案？"
+    },
+    {
+     "title": "外離諸相",
+     "prompt": "今天讓你動搖的外在樣子是什麼？"
+    },
+    {
+     "title": "行亦禪",
+     "prompt": "走路或洗碗的時候，你有沒有留意過自己的心？"
+    },
+    {
+     "title": "一月",
+     "prompt": "有沒有什麼看似不同，卻讓你覺得彼此相連？"
+    },
+    {
+     "title": "風雖停了",
+     "prompt": "寫下一個明知道卻不容易改的習慣。"
+    },
+    {
+     "title": "空寂靈知",
+     "prompt": "不加修飾的本來的你，是什麼樣子？"
+    },
+    {
+     "title": "何期自性",
+     "prompt": "這三個月裡，你發現了自己新的一面嗎？"
+    },
+    {
+     "title": "解制，回到生活",
+     "prompt": "這個冬天修來的心，你最想先交給誰？"
+    }
+   ]
+  },
+  "zh-Hans": {
+   "title": "冬安居 28 天",
+   "subtitle": "冬季三个月，收摄身心的抄经",
+   "summary": "跟随僧人冬季三个月闭门精进的冬安居，用四周走一遍：发起初心，以遗教经调伏内心，参究禅师们的话头，最后以解制的偈颂回到日常生活。",
+   "highlights": [
+    "四周，每天一页",
+    "写完得到用自己的字装订的抄写本",
+    "Plus 抢先读的新书"
+   ],
+   "tags": [
+    "冬安居",
+    "安居",
+    "参禅",
+    "话头",
+    "精进",
+    "遗教经",
+    "抄经"
+   ],
+   "days": [
+    {
+     "title": "初发心的人",
+     "prompt": "这个冬天，你想让谁留在身边？"
+    },
+    {
+     "title": "从大悲心开始",
+     "prompt": "今天坐下来的这段时间，你想为谁而用？"
+    },
+    {
+     "title": "应当如何安住",
+     "prompt": "最近你的心大多停留在哪里？"
+    },
+    {
+     "title": "着火的房子",
+     "prompt": "最近让你心里发热的事是什么？"
+    },
+    {
+     "title": "心不在远处",
+     "prompt": "有没有一样东西，你曾到远处去找，其实一直就在身边？"
+    },
+    {
+     "title": "财色之祸",
+     "prompt": "写下今天反省自己时发现的一件事。"
+    },
+    {
+     "title": "戒是善的根本",
+     "prompt": "这个冬天，你想守住的一个小约定是什么？"
+    },
+    {
+     "title": "心是主人",
+     "prompt": "今天你的心最容易被牵走的地方是哪里？"
+    },
+    {
+     "title": "制心一处",
+     "prompt": "如果今天只把心放在一件事上，你想放在哪里？"
+    },
+    {
+     "title": "无论昼夜",
+     "prompt": "一天之中，对你来说最清明的时间是什么时候？"
+    },
+    {
+     "title": "忍的力量",
+     "prompt": "今天如果有忍下来的事，那是什么？"
+    },
+    {
+     "title": "少欲的心",
+     "prompt": "想一想，有哪一样东西可以少要一点。"
+    },
+    {
+     "title": "寂静处",
+     "prompt": "今天哪里可以让你暂时远离喧闹？"
+    },
+    {
+     "title": "哪怕只活一天",
+     "prompt": "今天，你想尽力去做的一件事是什么？"
+    },
+    {
+     "title": "小水穿石",
+     "prompt": "有没有一件事，你一点一点坚持了下来？"
+    },
+    {
+     "title": "心入禅定",
+     "prompt": "慢慢调匀三次呼吸，再写下此刻的心。"
+    },
+    {
+     "title": "照亮黑暗的灯",
+     "prompt": "最近有没有一句话照亮了你的黑暗？"
+    },
+    {
+     "title": "禅与教",
+     "prompt": "有没有什么不是靠言语，而是用心传给你的？"
+    },
+    {
+     "title": "须具三要",
+     "prompt": "信心、发奋和疑问之中，你现在最需要哪一个？"
+    },
+    {
+     "title": "如鸡抱卵",
+     "prompt": "有没有一个问题，你像母鸡孵蛋一样抱了很久？"
+    },
+    {
+     "title": "赵州的无",
+     "prompt": "今天，有哪个问题你想抱着它，不急着找答案？"
+    },
+    {
+     "title": "外离诸相",
+     "prompt": "今天让你动摇的外在样子是什么？"
+    },
+    {
+     "title": "行亦禅",
+     "prompt": "走路或洗碗的时候，你有没有留意过自己的心？"
+    },
+    {
+     "title": "一月",
+     "prompt": "有没有什么看似不同，却让你觉得彼此相连？"
+    },
+    {
+     "title": "风虽停了",
+     "prompt": "写下一个明知道却不容易改的习惯。"
+    },
+    {
+     "title": "空寂灵知",
+     "prompt": "不加修饰的本来的你，是什么样子？"
+    },
+    {
+     "title": "何期自性",
+     "prompt": "这三个月里，你发现了自己新的一面吗？"
+    },
+    {
+     "title": "解制，回到生活",
+     "prompt": "这个冬天修来的心，你最想先交给谁？"
+    }
+   ]
+  }
  }
 ]

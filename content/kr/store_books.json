@@ -10,7 +10,6 @@
     "title": "The Book of Comfort, 28 Days",
     "subtitle": "Words of rest and Isaiah's comfort"
    },
-   "new": true,
    "es": {
     "title": "El libro del consuelo, 28 días",
     "subtitle": "Palabras de descanso y el consuelo de Isaías"
@@ -26,7 +25,6 @@
     "title": "The Words of Jesus, 29 Days",
     "subtitle": "From the Beatitudes to John"
    },
-   "new": true,
    "es": {
     "title": "El libro de las palabras de Jesús, 29 días",
     "subtitle": "De las Bienaventuranzas a Juan"
@@ -42,7 +40,6 @@
     "title": "The Book of Joy and Thanks, 28 Days",
     "subtitle": "Philippians, thanksgiving, Psalms"
    },
-   "new": true,
    "es": {
     "title": "El libro de la alegría y la gratitud, 28 días",
     "subtitle": "Filipenses, palabras de gratitud y Salmos"
@@ -58,7 +55,6 @@
     "title": "Faith and Wisdom, 28 Days",
     "subtitle": "Romans 8, do not fear, Proverbs"
    },
-   "new": true,
    "es": {
     "title": "El libro de la fe y la sabiduría, 28 días",
     "subtitle": "Romanos 8, No temas y Proverbios"
@@ -74,7 +70,6 @@
     "title": "Psalms of David, 28 Days",
     "subtitle": "From morning to evening with David"
    },
-   "new": true,
    "es": {
     "title": "El libro de los salmos de David, 28 días",
     "subtitle": "De la mañana a la noche con David"
@@ -89,8 +84,7 @@
    "en": {
     "title": "Walking with Mary, 27 Days",
     "subtitle": "The twenty mysteries and the Gospel canticles"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.gospelbook",
@@ -101,8 +95,7 @@
    "en": {
     "title": "Gospel and Prayer, 28 Days",
     "subtitle": "Parables, Seven Last Words, Psalms"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.holysoulsbook",
@@ -113,8 +106,7 @@
    "en": {
     "title": "Month of the Holy Souls, 28 Days",
     "subtitle": "Remembering those who have gone before us"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.carebook",
@@ -125,8 +117,7 @@
    "en": {
     "title": "Taking Care of Me, 31 Days",
     "subtitle": "Kindness, gratitude, bedtime"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.classicsbook",
@@ -137,8 +128,7 @@
    "en": {
     "title": "A Book of Classics, 28 Days",
     "subtitle": "East and West, then the Analects"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.mindbook",
@@ -149,8 +139,7 @@
    "en": {
     "title": "Steadying the Mind, 30 Days",
     "subtitle": "Unsteady days, Myeongsim Bogam, Caigentan"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.everydaybook",
@@ -161,8 +150,7 @@
    "en": {
     "title": "Everyday Sense, 30 Days",
     "subtitle": "Body, money and time, people"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.yearendbook",
@@ -173,8 +161,7 @@
    "en": {
     "title": "Looking Back on the Year, 28 Days",
     "subtitle": "From late autumn to the year's end"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.bohyeonbook",
@@ -186,7 +173,6 @@
     "title": "Samantabhadra's Vows, 28 Days",
     "subtitle": "The ten great vows of Samantabhadra"
    },
-   "new": true,
    "ja": {
     "title": "普賢行願 28日",
     "subtitle": "普賢菩薩の十の大願"
@@ -210,7 +196,6 @@
     "title": "Sutra Copying, 27 Days",
     "subtitle": "Heart Sutra, Beopseongge, Faith in Mind"
    },
-   "new": true,
    "ja": {
     "title": "経典の写経 27日",
     "subtitle": "般若心経、法性偈、信心銘"
@@ -234,7 +219,6 @@
     "title": "Practice of the Mind, 27 Days",
     "subtitle": "Precious King Samadhi, Arouse Your Mind, liturgy verses"
    },
-   "new": true,
    "ja": {
     "title": "心の修行 写経 27日",
     "subtitle": "宝王三昧論、発心修行章、礼仏の偈"
@@ -246,6 +230,70 @@
    "zh-Hans": {
     "title": "修心抄经 27 天",
     "subtitle": "宝王三昧论、发心修行章、礼佛偈颂"
+   }
+  },
+  {
+   "productID": "kr.book.adventbook",
+   "unlock": "pack:adventBook",
+   "price": 4400,
+   "title": "대림절과 성탄 28일",
+   "subtitle": "오실 주님을 기다리며",
+   "en": {
+    "title": "Advent and Christmas, 28 Days",
+    "subtitle": "Waiting for the Lord who comes"
+   },
+   "new": true,
+   "es": {
+    "title": "Adviento y Navidad, 28 días",
+    "subtitle": "Esperando al Señor que viene"
+   }
+  },
+  {
+   "productID": "kr.book.catholicadventbook",
+   "unlock": "pack:catholicAdventBook",
+   "price": 4400,
+   "title": "대림과 성탄 28일",
+   "subtitle": "오시는 주님을 기다리는 네 주",
+   "en": {
+    "title": "The Season of Advent, 28 Days",
+    "subtitle": "Four weeks of waiting for the Lord who comes"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.newyearbook",
+   "unlock": "pack:newYearBook",
+   "price": 4400,
+   "title": "새해를 여는 28일",
+   "subtitle": "작은 다짐을 손으로",
+   "en": {
+    "title": "Opening the New Year, 28 Days",
+    "subtitle": "Small promises, by hand"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.dongangeobook",
+   "unlock": "pack:dongangeoBook",
+   "price": 4400,
+   "title": "동안거 28일",
+   "subtitle": "겨울 석 달, 마음을 모으는 사경",
+   "en": {
+    "title": "Winter Retreat, 28 Days",
+    "subtitle": "Three months of winter, gathering the mind"
+   },
+   "new": true,
+   "ja": {
+    "title": "冬安居 28日",
+    "subtitle": "冬の三か月、心を集める写経"
+   },
+   "zh-Hant": {
+    "title": "冬安居 28 天",
+    "subtitle": "冬季三個月，收攝身心的抄經"
+   },
+   "zh-Hans": {
+    "title": "冬安居 28 天",
+    "subtitle": "冬季三个月，收摄身心的抄经"
    }
   }
  ]

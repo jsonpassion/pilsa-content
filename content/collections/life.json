@@ -3528,6 +3528,874 @@
      "note": ""
     }
    ]
+  },
+  "life.newyear.1": {
+   "title": {
+    "ko": "깨끗한 책상",
+    "en": "A clean desk"
+   },
+   "lines": {
+    "ko": [
+     "한 해의 끝에 책상 위를 말끔히 닦는다. 빈자리가 생기니 새로 놓을 것이 보인다."
+    ],
+    "en": [
+     "At the end of the year, I wipe my desk clean. Now that there is empty space, I can see what to put there next."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "wipe",
+     "ko": "닦다",
+     "note": ""
+    },
+    {
+     "word": "empty space",
+     "ko": "빈자리",
+     "note": ""
+    },
+    {
+     "word": "put",
+     "ko": "놓다, 두다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.2": {
+   "title": {
+    "ko": "새 달력",
+    "en": "A new calendar"
+   },
+   "lines": {
+    "ko": [
+     "새 달력을 벽에 건다. 아직 아무것도 적히지 않은 날들이 조용히 나를 기다린다."
+    ],
+    "en": [
+     "I hang a new calendar on the wall. Days with nothing written on them yet are quietly waiting for me."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "hang",
+     "ko": "걸다",
+     "note": ""
+    },
+    {
+     "word": "nothing written",
+     "ko": "아무것도 적히지 않은",
+     "note": ""
+    },
+    {
+     "word": "waiting for",
+     "ko": "기다리는",
+     "note": "wait for는 '~을 기다리다'예요."
+    }
+   ]
+  },
+  "life.newyear.3": {
+   "title": {
+    "ko": "자정이 지나고",
+    "en": "Just after midnight"
+   },
+   "lines": {
+    "ko": [
+     "자정이 지나도 방 안은 어제와 똑같다. 그래도 마음 한쪽에는 새 페이지가 펼쳐진다."
+    ],
+    "en": [
+     "After midnight, the room looks just the same as yesterday. Still, somewhere in my heart, a new page opens."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "midnight",
+     "ko": "자정",
+     "note": ""
+    },
+    {
+     "word": "just the same",
+     "ko": "똑같은",
+     "note": ""
+    },
+    {
+     "word": "somewhere",
+     "ko": "어딘가에, 한쪽에",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.4": {
+   "title": {
+    "ko": "새해 첫 아침",
+    "en": "The first morning"
+   },
+   "lines": {
+    "ko": [
+     "새해 첫 아침, 창문을 열고 찬 공기를 깊이 한 번 들이마신다. 그것으로 충분한 시작이다."
+    ],
+    "en": [
+     "On the first morning of the year, I open the window and take one deep breath of cold air. That is enough of a beginning."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "deep breath",
+     "ko": "깊은 숨",
+     "note": ""
+    },
+    {
+     "word": "cold air",
+     "ko": "찬 공기",
+     "note": ""
+    },
+    {
+     "word": "enough of a beginning",
+     "ko": "충분한 시작",
+     "note": "'그만하면 시작으로 넉넉하다'는 느낌이에요."
+    }
+   ]
+  },
+  "life.newyear.5": {
+   "title": {
+    "ko": "떡국 한 그릇",
+    "en": "A bowl of rice cake soup"
+   },
+   "lines": {
+    "ko": [
+     "떡국 한 그릇을 천천히 먹는다. 한 살을 더 먹는 일도 이렇게 따뜻하면 좋겠다."
+    ],
+    "en": [
+     "I eat a bowl of rice cake soup slowly. I hope growing a year older can feel this warm."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "rice cake soup",
+     "ko": "떡국",
+     "note": "새해에 먹는 떡국을 이렇게 옮겼어요."
+    },
+    {
+     "word": "a year older",
+     "ko": "한 살 더",
+     "note": ""
+    },
+    {
+     "word": "this warm",
+     "ko": "이만큼 따뜻한",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.6": {
+   "title": {
+    "ko": "물 한 잔부터",
+    "en": "Starting with a glass of water"
+   },
+   "lines": {
+    "ko": [
+     "새해 다짐은 작을수록 오래간다. 오늘은 일어나서 물 한 잔 마시는 것으로 시작한다."
+    ],
+    "en": [
+     "The smaller the resolution, the longer it lasts. Today I start with a glass of water when I get up."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "resolution",
+     "ko": "다짐, 결심",
+     "note": ""
+    },
+    {
+     "word": "the longer it lasts",
+     "ko": "더 오래간다",
+     "note": "The smaller..., the longer...는 '~할수록 더 ~하다'예요."
+    },
+    {
+     "word": "glass of water",
+     "ko": "물 한 잔",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.7": {
+   "title": {
+    "ko": "올해의 한 단어",
+    "en": "One word for the year"
+   },
+   "lines": {
+    "ko": [
+     "올해를 한 단어로 정해 둔다. 길을 잃은 것 같을 때마다 그 단어로 돌아온다."
+    ],
+    "en": [
+     "I choose one word for this year. Whenever I feel lost, I come back to that word."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "choose",
+     "ko": "고르다, 정하다",
+     "note": ""
+    },
+    {
+     "word": "feel lost",
+     "ko": "길을 잃은 것 같다",
+     "note": ""
+    },
+    {
+     "word": "come back to",
+     "ko": "~로 돌아오다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.8": {
+   "title": {
+    "ko": "하루 한 장",
+    "en": "One page a day"
+   },
+   "lines": {
+    "ko": [
+     "하루에 한 장만 쓰기로 한다. 한 장은 부담이 없어서 내일도 또 할 수 있다."
+    ],
+    "en": [
+     "I decide to write just one page a day. One page is light enough that I can do it again tomorrow."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "decide to",
+     "ko": "~하기로 하다",
+     "note": ""
+    },
+    {
+     "word": "light enough",
+     "ko": "부담 없을 만큼 가벼운",
+     "note": ""
+    },
+    {
+     "word": "again",
+     "ko": "다시, 또",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.9": {
+   "title": {
+    "ko": "이불부터",
+    "en": "Making the bed first"
+   },
+   "lines": {
+    "ko": [
+     "일어나면 이불부터 갠다. 하루에 끝낸 일이 하나 생기면 그다음 일이 쉬워진다."
+    ],
+    "en": [
+     "When I get up, I make my bed first. Once the day has one finished task, the next one comes easier."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "make my bed",
+     "ko": "이불을 개다, 잠자리를 정리하다",
+     "note": ""
+    },
+    {
+     "word": "finished task",
+     "ko": "끝낸 일",
+     "note": ""
+    },
+    {
+     "word": "comes easier",
+     "ko": "더 쉬워진다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.10": {
+   "title": {
+    "ko": "같은 시간에",
+    "en": "At the same time"
+   },
+   "lines": {
+    "ko": [
+     "어제와 같은 시간에 잠자리에 든다. 몸은 이런 약속을 누구보다 먼저 알아챈다."
+    ],
+    "en": [
+     "I go to bed at the same time as yesterday. My body is the first to notice a promise like this."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "go to bed",
+     "ko": "잠자리에 들다",
+     "note": ""
+    },
+    {
+     "word": "same time",
+     "ko": "같은 시간",
+     "note": ""
+    },
+    {
+     "word": "notice",
+     "ko": "알아채다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.11": {
+   "title": {
+    "ko": "다른 방에 둔 휴대폰",
+    "en": "The phone in another room"
+   },
+   "lines": {
+    "ko": [
+     "잠들기 전에는 휴대폰을 다른 방에 둔다. 머리맡이 조용하니 생각도 따라서 조용해진다."
+    ],
+    "en": [
+     "Before sleep, I leave my phone in another room. With a quiet bedside, my thoughts grow quiet too."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "leave",
+     "ko": "두고 오다, 두다",
+     "note": ""
+    },
+    {
+     "word": "bedside",
+     "ko": "머리맡",
+     "note": ""
+    },
+    {
+     "word": "grow quiet",
+     "ko": "조용해지다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.12": {
+   "title": {
+    "ko": "점심 뒤 십 분",
+    "en": "Ten minutes after lunch"
+   },
+   "lines": {
+    "ko": [
+     "점심을 먹고 나면 십 분만 걷는다. 짧은 걸음에도 오후가 한결 가벼워진다."
+    ],
+    "en": [
+     "After lunch, I walk for just ten minutes. Even a short walk makes the afternoon feel lighter."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "walk for",
+     "ko": "~동안 걷다",
+     "note": ""
+    },
+    {
+     "word": "short walk",
+     "ko": "짧은 산책",
+     "note": ""
+    },
+    {
+     "word": "afternoon",
+     "ko": "오후",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.13": {
+   "title": {
+    "ko": "하루 한 번 고맙다고",
+    "en": "Thank you, once a day"
+   },
+   "lines": {
+    "ko": [
+     "하루에 한 번은 소리 내어 고맙다고 말한다. 동네 가게 계산대 앞에서라도 좋다."
+    ],
+    "en": [
+     "Once a day, I say thank you out loud. Even at the counter of a corner shop is fine."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "out loud",
+     "ko": "소리 내어",
+     "note": ""
+    },
+    {
+     "word": "counter",
+     "ko": "계산대",
+     "note": ""
+    },
+    {
+     "word": "corner shop",
+     "ko": "동네 가게",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.14": {
+   "title": {
+    "ko": "달력의 동그라미",
+    "en": "Circles on the calendar"
+   },
+   "lines": {
+    "ko": [
+     "약속을 지킨 날마다 달력에 작은 동그라미를 그린다. 동그라미가 이어지는 것을 보는 재미가 있다."
+    ],
+    "en": [
+     "On each day I keep my promise, I draw a small circle on the calendar. Watching the circles line up is a quiet joy."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "keep my promise",
+     "ko": "약속을 지키다",
+     "note": ""
+    },
+    {
+     "word": "circle",
+     "ko": "동그라미",
+     "note": ""
+    },
+    {
+     "word": "line up",
+     "ko": "줄지어 서다, 이어지다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.15": {
+   "title": {
+    "ko": "문자 대신 전화",
+    "en": "A call instead of a text"
+   },
+   "lines": {
+    "ko": [
+     "짧은 문자 대신 전화를 건다. 목소리를 들으면 그 사람이 어떻게 지내는지 금방 알 수 있다."
+    ],
+    "en": [
+     "I call instead of sending a short text. In a voice, I can quickly tell how someone is really doing."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "instead of",
+     "ko": "~대신",
+     "note": ""
+    },
+    {
+     "word": "sending a short text",
+     "ko": "짧은 문자를 보내기",
+     "note": ""
+    },
+    {
+     "word": "how someone is really doing",
+     "ko": "그 사람이 정말 어떻게 지내는지",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.16": {
+   "title": {
+    "ko": "한 줄 더",
+    "en": "One more line"
+   },
+   "lines": {
+    "ko": [
+     "새해 인사를 보낼 때 한 줄을 더 쓴다. 그 사람에게만 할 수 있는 말 한 줄이다."
+    ],
+    "en": [
+     "When I send New Year greetings, I write one more line. A line I could only say to that person."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "greetings",
+     "ko": "인사",
+     "note": ""
+    },
+    {
+     "word": "one more line",
+     "ko": "한 줄 더",
+     "note": ""
+    },
+    {
+     "word": "only",
+     "ko": "오직, ~에게만",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.17": {
+   "title": {
+    "ko": "되짚어 듣기",
+    "en": "Saying it back"
+   },
+   "lines": {
+    "ko": [
+     "상대가 한 말을 내 말로 한 번 되짚어 준다. 잘 들었다는 마음이 그렇게 전해진다."
+    ],
+    "en": [
+     "I say back what someone told me, in my own words. That is how they know I really heard them."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "say back",
+     "ko": "되짚어 말하다",
+     "note": ""
+    },
+    {
+     "word": "in my own words",
+     "ko": "내 말로",
+     "note": ""
+    },
+    {
+     "word": "heard",
+     "ko": "들었다",
+     "note": "hear의 과거형이에요."
+    }
+   ]
+  },
+  "life.newyear.18": {
+   "title": {
+    "ko": "말끝 고르기",
+    "en": "Choosing my words gently"
+   },
+   "lines": {
+    "ko": [
+     "같은 말도 부드럽게 하면 더 멀리 간다. 오늘은 말끝을 한 번 더 고른다."
+    ],
+    "en": [
+     "The same words travel farther when said gently. Today I choose how I end my sentences with a little more care."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "travel farther",
+     "ko": "더 멀리 가다",
+     "note": ""
+    },
+    {
+     "word": "gently",
+     "ko": "부드럽게",
+     "note": ""
+    },
+    {
+     "word": "care",
+     "ko": "마음 씀, 조심",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.19": {
+   "title": {
+    "ko": "몇 걸음 함께",
+    "en": "A few steps together"
+   },
+   "lines": {
+    "ko": [
+     "길을 묻는 사람과 몇 걸음 함께 걸어 준다. 작은 친절에는 일 분이면 충분하다."
+    ],
+    "en": [
+     "When someone asks for directions, I walk a few steps with them. A small kindness needs only a minute."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "directions",
+     "ko": "길 안내",
+     "note": "길을 묻다는 ask for directions라고 해요."
+    },
+    {
+     "word": "a few steps",
+     "ko": "몇 걸음",
+     "note": ""
+    },
+    {
+     "word": "kindness",
+     "ko": "친절",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.20": {
+   "title": {
+    "ko": "미루지 않는 사과",
+    "en": "An apology not put off"
+   },
+   "lines": {
+    "ko": [
+     "미안하다는 말은 늦을수록 무거워진다. 오늘 할 수 있으면 오늘 한다."
+    ],
+    "en": [
+     "An apology grows heavier the longer I wait. If I can say it today, I say it today."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "apology",
+     "ko": "사과",
+     "note": ""
+    },
+    {
+     "word": "heavier",
+     "ko": "더 무거운",
+     "note": ""
+    },
+    {
+     "word": "the longer I wait",
+     "ko": "오래 미룰수록",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.21": {
+   "title": {
+    "ko": "나에게 다정하게",
+    "en": "Kind to myself"
+   },
+   "lines": {
+    "ko": [
+     "실수한 나를 다그치는 대신 따뜻한 차를 한 잔 건넨다. 나도 나에게 다정할 수 있다."
+    ],
+    "en": [
+     "Instead of scolding myself for a mistake, I hand myself a cup of warm tea. I can be kind to myself too."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "scolding",
+     "ko": "다그치기, 꾸짖기",
+     "note": ""
+    },
+    {
+     "word": "mistake",
+     "ko": "실수",
+     "note": ""
+    },
+    {
+     "word": "kind to myself",
+     "ko": "나에게 다정한",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.22": {
+   "title": {
+    "ko": "빈칸 하나",
+    "en": "One empty box"
+   },
+   "lines": {
+    "ko": [
+     "하루를 빠뜨렸다고 다 그만두지 않는다. 빈칸 하나 옆에 다시 동그라미를 그린다."
+    ],
+    "en": [
+     "Missing one day is no reason to quit it all. Next to the one empty box, I draw a circle again."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "missing",
+     "ko": "빠뜨리기, 거르기",
+     "note": ""
+    },
+    {
+     "word": "quit",
+     "ko": "그만두다",
+     "note": ""
+    },
+    {
+     "word": "empty box",
+     "ko": "빈칸",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.23": {
+   "title": {
+    "ko": "처음 적은 이유",
+    "en": "Why I started"
+   },
+   "lines": {
+    "ko": [
+     "1월 중순이 되면 다짐이 조금 식는다. 그럴 때는 처음 적어 둔 이유를 다시 읽는다."
+    ],
+    "en": [
+     "By mid-January, my resolutions cool a little. When that happens, I read again why I wrote them in the first place."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "mid-January",
+     "ko": "1월 중순",
+     "note": ""
+    },
+    {
+     "word": "cool",
+     "ko": "식다",
+     "note": ""
+    },
+    {
+     "word": "in the first place",
+     "ko": "애초에, 처음에",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.24": {
+   "title": {
+    "ko": "거북이 걸음",
+    "en": "A turtle's pace"
+   },
+   "lines": {
+    "ko": [
+     "느려도 멈추지 않으면 간다. 거북이 걸음도 한 달이 지나면 꽤 멀리 와 있다."
+    ],
+    "en": [
+     "Slow still gets somewhere, as long as I do not stop. Even at a turtle's pace, a month takes me quite far."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "as long as",
+     "ko": "~하는 한",
+     "note": ""
+    },
+    {
+     "word": "turtle",
+     "ko": "거북이",
+     "note": ""
+    },
+    {
+     "word": "pace",
+     "ko": "걸음, 속도",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.25": {
+   "title": {
+    "ko": "반이라도",
+    "en": "Even half"
+   },
+   "lines": {
+    "ko": [
+     "다 못 하는 날에는 반만 한다. 반이라도 한 날은 아무것도 안 한 날과 다르다."
+    ],
+    "en": [
+     "On days I cannot do it all, I do half. A day with half done is not the same as a day with nothing."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "do it all",
+     "ko": "다 하다",
+     "note": ""
+    },
+    {
+     "word": "half",
+     "ko": "반, 절반",
+     "note": ""
+    },
+    {
+     "word": "not the same as",
+     "ko": "~와 같지 않은",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.26": {
+   "title": {
+    "ko": "반걸음이 쌓여",
+    "en": "Half steps add up"
+   },
+   "lines": {
+    "ko": [
+     "반걸음이 쌓이지 않으면 천 리에 이르지 못하고, 작은 물줄기가 모이지 않으면 강과 바다가 되지 못한다. 순자 권학편"
+    ],
+    "en": [
+     "Without piling up half steps, you cannot reach a thousand miles. Without gathering small streams, there is no river or sea. Xunzi, Encouraging Learning"
+    ]
+   },
+   "glossary": [
+    {
+     "word": "piling up",
+     "ko": "쌓기",
+     "note": ""
+    },
+    {
+     "word": "half steps",
+     "ko": "반걸음",
+     "note": ""
+    },
+    {
+     "word": "small streams",
+     "ko": "작은 물줄기",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.27": {
+   "title": {
+    "ko": "삼백예순다섯 날",
+    "en": "Three hundred sixty-five days"
+   },
+   "lines": {
+    "ko": [
+     "한 해는 특별한 날 몇 개로 채워지지 않는다. 평범한 날 삼백예순다섯 개가 모여 한 해가 된다."
+    ],
+    "en": [
+     "A year is not filled by a few special days. Three hundred sixty-five ordinary days come together to make it."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "special",
+     "ko": "특별한",
+     "note": ""
+    },
+    {
+     "word": "ordinary",
+     "ko": "평범한",
+     "note": ""
+    },
+    {
+     "word": "come together",
+     "ko": "모이다",
+     "note": ""
+    }
+   ]
+  },
+  "life.newyear.28": {
+   "title": {
+    "ko": "여기서부터",
+    "en": "From here"
+   },
+   "lines": {
+    "ko": [
+     "올해의 내가 어디까지 갈지는 아직 모른다. 다만 오늘 쓴 이 한 장이 그 길의 처음이다."
+    ],
+    "en": [
+     "I do not know yet how far I will go this year. But this one page I wrote today is where that road begins."
+    ]
+   },
+   "glossary": [
+    {
+     "word": "how far",
+     "ko": "얼마나 멀리",
+     "note": ""
+    },
+    {
+     "word": "yet",
+     "ko": "아직",
+     "note": ""
+    },
+    {
+     "word": "begins",
+     "ko": "시작되다",
+     "note": "begin에 s가 붙은 꼴이에요."
+    }
+   ]
   }
  }
 }
