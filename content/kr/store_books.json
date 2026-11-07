@@ -242,7 +242,6 @@
     "title": "Advent and Christmas, 28 Days",
     "subtitle": "Waiting for the Lord who comes"
    },
-   "new": true,
    "es": {
     "title": "Adviento y Navidad, 28 días",
     "subtitle": "Esperando al Señor que viene"
@@ -257,8 +256,7 @@
    "en": {
     "title": "The Season of Advent, 28 Days",
     "subtitle": "Four weeks of waiting for the Lord who comes"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.newyearbook",
@@ -269,8 +267,7 @@
    "en": {
     "title": "Opening the New Year, 28 Days",
     "subtitle": "Small promises, by hand"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.dongangeobook",
@@ -282,7 +279,6 @@
     "title": "Winter Retreat, 28 Days",
     "subtitle": "Three months of winter, gathering the mind"
    },
-   "new": true,
    "ja": {
     "title": "冬安居 28日",
     "subtitle": "冬の三か月、心を集める写経"

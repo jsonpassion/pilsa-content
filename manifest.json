@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "f1cb58045294",
- "generated_at": "2026-11-08T04:00:00Z",
+ "version": "aab73967e884",
+ "generated_at": "2026-11-08T04:28:37Z",
  "entries": [
   {
    "id": "books.json",
@@ -108,8 +108,8 @@
   {
    "id": "store_books.json",
    "path": "content/kr/store_books.json",
-   "checksum_sha256": "aed94dd81e1de4517d45cdf4c6bd0b407f2676229ddd3930afbf007a8dccdd10",
-   "size": 10104
+   "checksum_sha256": "b4df838f272e4382765b18ab984f0087bd1168404ea9422e4d0c5b0d6f9226f0",
+   "size": 10040
   },
   {
    "id": "store_more.json",
