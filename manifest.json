@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "badbcc5154a8",
- "generated_at": "2026-11-04T12:40:38Z",
+ "version": "f1cb58045294",
+ "generated_at": "2026-11-08T04:00:00Z",
  "entries": [
   {
    "id": "books.json",
@@ -90,8 +90,8 @@
   {
    "id": "packs.json",
    "path": "content/kr/packs.json",
-   "checksum_sha256": "8e775520b9f7a4ac55c6cde76492046449d8587705f8d6c251f8c87dccbe5680",
-   "size": 329981
+   "checksum_sha256": "4fc0a8fbbb3adc2f91258c2cf2eea409b53a5f55ed8df78d54ac6f846550b357",
+   "size": 330001
   },
   {
    "id": "packs_books.json",
@@ -110,6 +110,12 @@
    "path": "content/kr/store_books.json",
    "checksum_sha256": "aed94dd81e1de4517d45cdf4c6bd0b407f2676229ddd3930afbf007a8dccdd10",
    "size": 10104
+  },
+  {
+   "id": "store_more.json",
+   "path": "content/kr/store_more.json",
+   "checksum_sha256": "35f04fde10cf7cc0c356a58a2409d116bc691f3d44bc4e4e28194e921fedf912",
+   "size": 674
   },
   {
    "id": "music.json",

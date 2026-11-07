@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "productID": "kr.pack.affirmstart7",
+   "unlock": "pack:affirmStart7",
+   "price": 1100,
+   "title": "영어 확언 7일",
+   "subtitle": "쉬운 영어 한 문장씩",
+   "en": {
+    "title": "Affirmations, 7 Days",
+    "subtitle": "One short sentence at a time"
+   },
+   "wasFree": true,
+   "new": true
+  },
+  {
+   "productID": "kr.pack.affirmpages3",
+   "unlock": "pack:affirmPages3",
+   "price": 1100,
+   "title": "한 페이지 영어 확언 3편",
+   "subtitle": "짧은 이야기로 쓰는 확언",
+   "en": {
+    "title": "One-Page Affirmations",
+    "subtitle": "Affirmations in short stories"
+   },
+   "wasFree": true,
+   "new": true
+  }
+ ]
+}

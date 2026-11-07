@@ -2521,7 +2521,7 @@
   "symbol": "leaf",
   "tint": "sky",
   "highlights": [
-   "끝까지 무료예요",
+   "하루 한 문장, 쉬운 영어",
    "영어 학습 모드를 써 볼 수 있어요"
   ],
   "tags": [
@@ -2531,7 +2531,7 @@
    "자신감",
    "짧은 글"
   ],
-  "previewDays": 0,
+  "previewDays": 2,
   "recommendedMode": "bilingual",
   "translationID": "en",
   "includedModes": [
@@ -2580,7 +2580,7 @@
    "subtitle": "One short sentence at a time",
    "summary": "Start your day by writing short, simple English sentences with read-aloud.",
    "highlights": [
-    "Free to the end",
+    "One easy sentence a day",
     "Write with read-aloud"
    ],
    "tags": [
@@ -2631,8 +2631,8 @@
   "symbol": "doc.text",
   "tint": "peach",
   "highlights": [
-   "끝까지 무료예요",
-   "기승전결이 있는 한 페이지 글"
+   "기승전결이 있는 한 페이지 글",
+   "세 편, 하루에 한 편"
   ],
   "tags": [
    "영어 확언",
@@ -2640,7 +2640,7 @@
    "한 페이지",
    "영어 공부"
   ],
-  "previewDays": 0,
+  "previewDays": 1,
   "recommendedMode": "bilingual",
   "translationID": "en",
   "collection": "affirm",
@@ -2670,8 +2670,8 @@
    "subtitle": "Affirmations in short stories",
    "summary": "These one-page writings are a little longer than a one-line affirmation, with a small story inside. They move through worry, comparison, and a day that goes wrong, then end with words that comfort you. Includes read-aloud.",
    "highlights": [
-    "Free from start to finish",
-    "One-page writings with a beginning, middle, and end"
+    "One-page writings with a beginning, middle, and end",
+    "Three pieces, one a day"
    ],
    "tags": [
     "affirmations",
