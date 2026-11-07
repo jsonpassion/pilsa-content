@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "version": "aab73967e884",
- "generated_at": "2026-11-08T04:28:37Z",
+ "version": "a6b4984bea09",
+ "generated_at": "2026-11-08T09:19:43Z",
  "entries": [
   {
    "id": "books.json",
@@ -66,20 +66,20 @@
   {
    "id": "buddhist.json",
    "path": "content/collections/buddhist.json",
-   "checksum_sha256": "99bae886299089c5d37e340be8b66ba1c4ce5501d4e4e72ac8602d9738a9071b",
-   "size": 540263
+   "checksum_sha256": "7200d97c061b1c7bd1b4ebbaf257ab43582d9ccc3c95ffcf6e2ff3093bdf2d18",
+   "size": 614752
   },
   {
    "id": "life.json",
    "path": "content/collections/life.json",
-   "checksum_sha256": "629f6862d3a56bfe1d83f2a9654ab223fe72e262c72b5a072c1d44ded544640b",
-   "size": 116062
+   "checksum_sha256": "b07235c5f3d0b27c8ccb19db4550f655af7e924709a9def85783e38f24c42d34",
+   "size": 138333
   },
   {
    "id": "moments.json",
    "path": "content/kr/moments.json",
-   "checksum_sha256": "1242f81cf6a2b1a2aa6b82cec428f65552aa43d65d437f85a08618e0c2cebffb",
-   "size": 11536
+   "checksum_sha256": "058583467d1bbda8895af82b0ef5aea8c304e476a7586f29dc9d0d8aa481969f",
+   "size": 13636
   },
   {
    "id": "moods.json",
@@ -96,8 +96,8 @@
   {
    "id": "packs_books.json",
    "path": "content/kr/packs_books.json",
-   "checksum_sha256": "13e720bc1c6dca8e9889e0961b3821f921e4398fed883c522eb42e85f8de4237",
-   "size": 317037
+   "checksum_sha256": "45d5cab8d087b5e24f90d29235cf361b642169c3c1dbd94a220440d8f6ec1f11",
+   "size": 377093
   },
   {
    "id": "store.json",
@@ -108,8 +108,8 @@
   {
    "id": "store_books.json",
    "path": "content/kr/store_books.json",
-   "checksum_sha256": "b4df838f272e4382765b18ab984f0087bd1168404ea9422e4d0c5b0d6f9226f0",
-   "size": 10040
+   "checksum_sha256": "925fbdc4c05a93410db0f227fa69e1838e6dabd050e3dd616ef1a29692d42d14",
+   "size": 11725
   },
   {
    "id": "store_more.json",

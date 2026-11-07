@@ -302,7 +302,6 @@
     "title": "The Word That Makes New, 28 Days",
     "subtitle": "A new year, a new heart from God"
    },
-   "new": true,
    "es": {
     "title": "La Palabra que hace nuevo, 28 días",
     "subtitle": "Año nuevo, un corazón nuevo de Dios"
@@ -317,8 +316,7 @@
    "en": {
     "title": "Epiphany of the Lord, 28 Days",
     "subtitle": "Following the Lord who came as light"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.resolvebook",
@@ -329,8 +327,7 @@
    "en": {
     "title": "Setting Your Resolve, 28 Days",
     "subtitle": "From Yulgok to Seneca"
-   },
-   "new": true
+   }
   },
   {
    "productID": "kr.book.seongdobook",
@@ -342,7 +339,6 @@
     "title": "The Buddha's Awakening, 28 Days",
     "subtitle": "Bodhi Day, under the bodhi tree"
    },
-   "new": true,
    "ja": {
     "title": "お釈迦さまの悟り 28日",
     "subtitle": "菩提樹の下で開かれた悟り"
@@ -354,6 +350,70 @@
    "zh-Hans": {
     "title": "佛陀成道 28 天",
     "subtitle": "成道日，在菩提树下"
+   }
+  },
+  {
+   "productID": "kr.book.lentbook",
+   "unlock": "pack:lentBook",
+   "price": 4400,
+   "title": "사순절 28일",
+   "subtitle": "십자가를 바라보며 걷는 길",
+   "en": {
+    "title": "Lent, 28 Days",
+    "subtitle": "A walk with our eyes on the cross"
+   },
+   "new": true,
+   "es": {
+    "title": "Cuaresma, 28 días",
+    "subtitle": "Un camino con la mirada en la cruz"
+   }
+  },
+  {
+   "productID": "kr.book.catholiclentbook",
+   "unlock": "pack:catholicLentBook",
+   "price": 4400,
+   "title": "사순 시기 28일",
+   "subtitle": "재의 수요일에서 성주간까지",
+   "en": {
+    "title": "The Season of Lent, 28 Days",
+    "subtitle": "From Ash Wednesday to Holy Week"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.springbook",
+   "unlock": "pack:springBook",
+   "price": 4400,
+   "title": "봄을 기다리는 28일",
+   "subtitle": "입춘과 설날, 새봄의 문장들",
+   "en": {
+    "title": "Waiting for Spring, 28 Days",
+    "subtitle": "Lines for the start of spring and the Lunar New Year"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.nirvanabook",
+   "unlock": "pack:nirvanaBook",
+   "price": 4400,
+   "title": "출가와 열반 28일",
+   "subtitle": "출가재일에서 열반재일까지",
+   "en": {
+    "title": "Leaving Home and Nirvana, 28 Days",
+    "subtitle": "From the day he left home to his parinirvana"
+   },
+   "new": true,
+   "ja": {
+    "title": "お釈迦さまの出家と涅槃 28日",
+    "subtitle": "城を出た夜から、最後の教えまで"
+   },
+   "zh-Hant": {
+    "title": "出家與涅槃 28 天",
+    "subtitle": "從出家日到涅槃日"
+   },
+   "zh-Hans": {
+    "title": "出家与涅槃 28 天",
+    "subtitle": "从出家日到涅槃日"
    }
   }
  ]

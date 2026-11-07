@@ -251,6 +251,41 @@
    }
   },
   {
+   "id": "spring2027",
+   "from": "2027-02-01",
+   "until": "2027-02-21",
+   "art": "moment_spring",
+   "symbol": "leaf",
+   "tint": "sage",
+   "pack": "springBook",
+   "text": {
+    "ko": {
+     "title": "입춘과 설날",
+     "line": "새봄을 기다리는 고전의 문장을 하루 한 장 옮겨 써 볼까요?"
+    },
+    "en": {
+     "title": "Spring is on its way",
+     "line": "Welcome the new spring with classic lines, one page a day."
+    },
+    "es": {
+     "title": "La primavera se acerca",
+     "line": "Recibe la nueva primavera con frases clásicas, una página al día."
+    },
+    "ja": {
+     "title": "立春を迎えて",
+     "line": "春を待つ古典の言葉を、一日一枚書き写してみませんか。"
+    },
+    "zh-Hans": {
+     "title": "立春与春节",
+     "line": "每天一页，抄写迎接新春的经典名句吧。"
+    },
+    "zh-Hant": {
+     "title": "立春與春節",
+     "line": "每天一頁，抄寫迎接新春的經典名句吧。"
+    }
+   }
+  },
+  {
    "id": "dongangeo2026",
    "from": "2026-11-29",
    "until": "2027-02-20",
@@ -285,6 +320,40 @@
    }
   },
   {
+   "id": "nirvana2027",
+   "from": "2027-02-21",
+   "until": "2027-03-22",
+   "traditions": [
+    "buddhist"
+   ],
+   "art": "moment_nirvana",
+   "symbol": "moon",
+   "tint": "lavender",
+   "pack": "nirvanaBook",
+   "text": {
+    "ko": {
+     "title": "출가재일과 열반재일",
+     "line": "3월 22일 열반재일까지, 부처님의 출가와 마지막 가르침을 하루 한 장 써 볼까요?"
+    },
+    "en": {
+     "title": "Leaving home and nirvana",
+     "line": "Until Nirvana Day on March 22, copy the Buddha's leaving home and last teachings one page a day."
+    },
+    "ja": {
+     "title": "お釈迦さまの出家と涅槃",
+     "line": "お釈迦さまの出家と最後の教えを、一日一枚書いてみませんか。"
+    },
+    "zh-Hans": {
+     "title": "出家日与涅槃日",
+     "line": "到农历二月十五涅槃日，每天抄一页佛陀的出家与最后的教诲吧。"
+    },
+    "zh-Hant": {
+     "title": "出家日與涅槃日",
+     "line": "到農曆二月十五涅槃日，每天抄一頁佛陀的出家與最後的教誨吧。"
+    }
+   }
+  },
+  {
    "id": "lent2027-protestant",
    "from": "2027-02-10",
    "until": "2027-03-20",
@@ -294,22 +363,21 @@
    "art": "cozy_candle",
    "symbol": "flame",
    "tint": "lavender",
-   "collection": "bible",
-   "passage": "PSA.51.10",
    "text": {
     "ko": {
      "title": "사순절이에요",
-     "line": "부활절을 기다리는 마흔 날, 정한 마음을 구하는 기도를 써 볼까요?"
+     "line": "부활절을 기다리는 마흔 날, 십자가를 바라보며 하루 한 장 말씀을 써 볼까요?"
     },
     "en": {
      "title": "It's Lent",
-     "line": "In the forty days before Easter, write a prayer for a clean heart."
+     "line": "In the forty days before Easter, walk toward the cross one page a day."
     },
     "es": {
      "title": "Es Cuaresma",
-     "line": "En los cuarenta días antes de la Pascua, escribe una oración por un corazón limpio."
+     "line": "En los cuarenta días antes de la Pascua, camina hacia la cruz con una página al día."
     }
-   }
+   },
+   "pack": "lentBook"
   },
   {
    "id": "lent2027-catholic",
@@ -321,18 +389,17 @@
    "art": "cozy_candle",
    "symbol": "flame",
    "tint": "lavender",
-   "collection": "catholic",
-   "passage": "PSA.50.12",
    "text": {
     "ko": {
      "title": "사순 시기예요",
-     "line": "재의 수요일부터 부활까지, 깨끗한 마음을 청하는 기도를 써 볼까요?"
+     "line": "재의 수요일부터 성주간까지, 하루 한 장 말씀을 쓰며 주님께 돌아가 볼까요?"
     },
     "en": {
      "title": "The season of Lent",
-     "line": "From Ash Wednesday to Easter, write a prayer for a clean heart."
+     "line": "From Ash Wednesday to Holy Week, return to the Lord one page a day."
     }
-   }
+   },
+   "pack": "catholicLentBook"
   },
   {
    "id": "easter2027-protestant",
