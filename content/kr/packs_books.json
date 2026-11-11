@@ -12092,5 +12092,1762 @@
     }
    ]
   }
+ },
+ {
+  "id": "easterBook",
+  "kind": "plan",
+  "title": "부활의 아침 28일",
+  "subtitle": "고난주간에서 부활의 계절로",
+  "summary": "호산나 외치던 무리와 함께 예루살렘에 들어가 고난주간을 지나고, 빈 무덤과 엠마오와 갈릴리 바닷가의 아침을 거쳐 새 생명의 소망까지 걷습니다. 하루 한 장, 살아나신 주님을 내 글씨로 따라가요.",
+  "symbol": "sunrise",
+  "tint": "peach",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "부활절",
+   "부활",
+   "고난주간",
+   "빈 무덤",
+   "엠마오",
+   "새 생명",
+   "3월"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "bible",
+  "book": true,
+  "plusWindow": {
+   "from": "2027-03-01",
+   "until": "2027-04-30"
+  },
+  "days": [
+   {
+    "title": "호산나",
+    "passage": "MAT.21.9",
+    "prompt": "오늘 주님을 어떤 마음으로 맞고 싶나요?"
+   },
+   {
+    "title": "성을 보시고 우시며",
+    "passage": "LUK.19.41-42",
+    "prompt": "주님이 함께 울어 주셨으면 하는 일이 있나요?"
+   },
+   {
+    "title": "힘을 다하여",
+    "passage": "MRK.14.8",
+    "prompt": "오늘 내가 할 수 있는 만큼 드리고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "나를 기념하라",
+    "passage": "LUK.22.19",
+    "prompt": "주님을 기억하게 하는 나만의 자리가 있나요?"
+   },
+   {
+    "title": "깨어 기도하라",
+    "passage": "MAT.26.41",
+    "prompt": "마음은 원하지만 몸이 따라 주지 않는 일이 있나요?"
+   },
+   {
+    "title": "돌이켜 베드로를 보시니",
+    "passage": "LUK.22.61-62",
+    "prompt": "주님의 눈길 앞에서 내려놓고 싶은 마음이 있나요?"
+   },
+   {
+    "title": "오늘 나와 함께 낙원에",
+    "passage": "LUK.23.42-43",
+    "prompt": "주님께 '나를 기억해 주세요' 하고 부탁하고 싶은 일이 있나요?"
+   },
+   {
+    "title": "말씀하시던 대로 살아나셨느니라",
+    "passage": "MAT.28.6",
+    "prompt": "부활의 아침, 가장 먼저 떠오르는 기쁨은 무엇인가요?"
+   },
+   {
+    "title": "마리아야",
+    "passage": "JHN.20.16",
+    "prompt": "주님이 내 이름을 부르신다면 어떤 마음이 들까요?"
+   },
+   {
+    "title": "내가 주를 보았다",
+    "passage": "JHN.20.18",
+    "prompt": "주님을 만난 기쁨을 전하고 싶은 사람이 있나요?"
+   },
+   {
+    "title": "너희에게 평강이 있을지어다",
+    "passage": "JHN.20.21",
+    "prompt": "오늘 내가 평안을 전하러 갈 곳은 어디인가요?"
+   },
+   {
+    "title": "보지 못하고 믿는 자들은",
+    "passage": "JHN.20.29",
+    "prompt": "보이지 않아도 믿고 기다리는 일이 있나요?"
+   },
+   {
+    "title": "마음이 뜨겁지 아니하더냐",
+    "passage": "LUK.24.32",
+    "prompt": "최근 말씀을 읽다 마음이 뜨거워진 적이 있나요?"
+   },
+   {
+    "title": "떡을 떼어 주시매",
+    "passage": "LUK.24.30-31",
+    "prompt": "함께 밥을 먹으며 주님을 느낀 적이 있나요?"
+   },
+   {
+    "title": "와서 조반을 먹으라",
+    "passage": "JHN.21.12",
+    "prompt": "지친 아침, 주님이 차려 주셨으면 하는 것은 무엇인가요?"
+   },
+   {
+    "title": "내 어린 양을 먹이라",
+    "passage": "JHN.21.15",
+    "prompt": "주님을 사랑하는 마음으로 돌보고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "세상 끝날까지",
+    "passage": "MAT.28.20",
+    "prompt": "주님이 늘 함께 계심을 가장 크게 느낀 때는 언제인가요?"
+   },
+   {
+    "title": "나는 부활이요 생명이니",
+    "passage": "JHN.11.25-26",
+    "prompt": "'이것을 네가 믿느냐' 물으신다면 어떻게 대답하고 싶나요?"
+   },
+   {
+    "title": "사망에 매여 있을 수 없음이라",
+    "passage": "ACT.2.24",
+    "prompt": "주님 안에서 풀려나고 싶은 매임이 있나요?"
+   },
+   {
+    "title": "잠자는 자들의 첫 열매",
+    "passage": "1CO.15.20",
+    "prompt": "부활의 소망으로 다시 그려 보고 싶은 이별이 있나요?"
+   },
+   {
+    "title": "사망아 너의 이기는 것이",
+    "passage": "1CO.15.55-57",
+    "prompt": "오늘 감사하며 받고 싶은 이김은 무엇인가요?"
+   },
+   {
+    "title": "견고하며 흔들리지 말며",
+    "passage": "1CO.15.58",
+    "prompt": "헛되지 않다고 믿고 이어 가고 싶은 수고가 있나요?"
+   },
+   {
+    "title": "함께 살 줄을 믿노니",
+    "passage": "ROM.6.8",
+    "prompt": "주님과 함께 새로 살고 싶은 하루는 어떤 모습인가요?"
+   },
+   {
+    "title": "위엣 것을 찾으라",
+    "passage": "COL.3.1-2",
+    "prompt": "요즘 땅엣 것에 매여 있는 생각이 있나요?"
+   },
+   {
+    "title": "새로운 피조물",
+    "passage": "2CO.5.17",
+    "prompt": "지나간 것으로 보내 주고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "부활의 권능",
+    "passage": "PHP.3.10",
+    "prompt": "고난 속에서 주님을 더 알게 된 때가 있나요?"
+   },
+   {
+    "title": "보지 못하였으나 사랑하는도다",
+    "passage": "1PE.1.8",
+    "prompt": "말로 다 할 수 없는 기쁨을 느낀 순간이 있나요?"
+   },
+   {
+    "title": "내가 살았고 너희도 살겠음이라",
+    "passage": "JHN.14.19",
+    "prompt": "28일 동안 마음에 새긴 부활의 소망을 한 줄로 적어 볼까요?"
+   }
+  ],
+  "en": {
+   "title": "Resurrection Morning, 28 Days",
+   "subtitle": "From Holy Week into the season of Easter",
+   "summary": "Enter Jerusalem with the crowds crying Hosanna and walk through Holy Week, then on past the empty tomb, the road to Emmaus and a morning by the Sea of Galilee, to the hope of new life. One page a day, following the risen Lord in your own hand.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "A notebook in your own handwriting when you finish",
+    "A new book, first with Plus"
+   ],
+   "tags": [
+    "Easter",
+    "Resurrection",
+    "Holy Week",
+    "Empty tomb",
+    "Emmaus",
+    "New life",
+    "March"
+   ],
+   "days": [
+    {
+     "title": "Hosanna",
+     "prompt": "With what heart would you like to welcome the Lord today?"
+    },
+    {
+     "title": "He wept over the city",
+     "prompt": "Is there something you wish the Lord would weep over with you?"
+    },
+    {
+     "title": "She did what she could",
+     "prompt": "What would you like to give today, as much as you are able?"
+    },
+    {
+     "title": "In remembrance of Me",
+     "prompt": "Is there a place or a moment that helps you remember the Lord?"
+    },
+    {
+     "title": "Watch and pray",
+     "prompt": "Is there something your spirit is willing to do, but your body is slow to follow?"
+    },
+    {
+     "title": "The Lord turned and looked",
+     "prompt": "Under the Lord's gaze, what would you like to lay down?"
+    },
+    {
+     "title": "With Me in Paradise",
+     "prompt": "What would you like to ask the Lord to remember about you?"
+    },
+    {
+     "title": "He has risen, as He said",
+     "prompt": "On this morning of resurrection, what joy comes to mind first?"
+    },
+    {
+     "title": "Mary",
+     "prompt": "If the Lord called you by name, how would you feel?"
+    },
+    {
+     "title": "I have seen the Lord",
+     "prompt": "Is there someone you would like to tell about the joy of meeting the Lord?"
+    },
+    {
+     "title": "Peace be with you",
+     "prompt": "Where might you carry peace today?"
+    },
+    {
+     "title": "Blessed are those who have not seen",
+     "prompt": "Is there something you trust and wait for, though you cannot see it yet?"
+    },
+    {
+     "title": "Were not our hearts burning",
+     "prompt": "Lately, has a word of Scripture set your heart burning?"
+    },
+    {
+     "title": "He broke the bread",
+     "prompt": "Have you ever sensed the Lord while sharing a meal?"
+    },
+    {
+     "title": "Come, have breakfast",
+     "prompt": "On a weary morning, what would you like the Lord to prepare for you?"
+    },
+    {
+     "title": "Feed My lambs",
+     "prompt": "Out of love for the Lord, who would you like to care for?"
+    },
+    {
+     "title": "To the end of the age",
+     "prompt": "When have you felt most strongly that the Lord is always with you?"
+    },
+    {
+     "title": "I am the resurrection",
+     "prompt": "If He asked you, \"Do you believe this?\" how would you answer?"
+    },
+    {
+     "title": "Death could not hold Him",
+     "prompt": "Is there something holding you that you long to be freed from in the Lord?"
+    },
+    {
+     "title": "The firstfruits",
+     "prompt": "Is there a parting you would like to see again in the light of the resurrection?"
+    },
+    {
+     "title": "Where, O Death, is your victory",
+     "prompt": "What victory would you like to receive with thanks today?"
+    },
+    {
+     "title": "Steadfast and immovable",
+     "prompt": "What labor would you like to keep at, trusting that it is not in vain?"
+    },
+    {
+     "title": "We will also live with Him",
+     "prompt": "What would a day of new life with the Lord look like?"
+    },
+    {
+     "title": "Set your minds on things above",
+     "prompt": "Is there a thought that keeps your mind tied to earthly things these days?"
+    },
+    {
+     "title": "A new creation",
+     "prompt": "What would you like to let pass away?"
+    },
+    {
+     "title": "The power of His resurrection",
+     "prompt": "Was there a time you came to know the Lord more deeply through suffering?"
+    },
+    {
+     "title": "Though you have not seen Him",
+     "prompt": "Have you known a moment of joy too deep for words?"
+    },
+    {
+     "title": "Because I live, you also will live",
+     "prompt": "Would you write in one line the hope of the resurrection that stayed with you these 28 days?"
+    }
+   ]
+  },
+  "es": {
+   "title": "La mañana de la resurrección, 28 días",
+   "subtitle": "De la Semana Santa al tiempo de Pascua",
+   "summary": "Entra en Jerusalén con la multitud que clama Hosanna y recorre la Semana Santa; luego sigue por la tumba vacía, el camino de Emaús y una mañana junto al mar de Galilea, hasta la esperanza de una vida nueva. Una página al día, siguiendo al Señor resucitado con tu propia letra.",
+   "highlights": [
+    "Cuatro semanas, una página al día",
+    "Al terminar, reúne tu letra en un cuaderno",
+    "Un libro nuevo, primero en Plus"
+   ],
+   "tags": [
+    "Pascua",
+    "resurrección",
+    "Semana Santa",
+    "tumba vacía",
+    "Emaús",
+    "vida nueva",
+    "marzo"
+   ],
+   "days": [
+    {
+     "title": "Hosanna",
+     "prompt": "¿Con qué corazón quieres recibir hoy al Señor?"
+    },
+    {
+     "title": "Lloró sobre ella",
+     "prompt": "¿Hay algo por lo que quisieras que el Señor llorara contigo?"
+    },
+    {
+     "title": "Ha hecho lo que podía",
+     "prompt": "¿Qué quisieras ofrecer hoy, en la medida de lo que puedes?"
+    },
+    {
+     "title": "En memoria de mí",
+     "prompt": "¿Hay un lugar o un momento que te ayude a recordar al Señor?"
+    },
+    {
+     "title": "Velad y orad",
+     "prompt": "¿Hay algo que tu espíritu desea, pero que a tu cuerpo le cuesta seguir?"
+    },
+    {
+     "title": "El Señor miró a Pedro",
+     "prompt": "Bajo la mirada del Señor, ¿qué quisieras dejar?"
+    },
+    {
+     "title": "Conmigo en el paraíso",
+     "prompt": "¿Qué quisieras pedirle al Señor que recuerde de ti?"
+    },
+    {
+     "title": "Ha resucitado, como dijo",
+     "prompt": "En esta mañana de resurrección, ¿qué alegría te viene primero?"
+    },
+    {
+     "title": "María",
+     "prompt": "Si el Señor te llamara por tu nombre, ¿qué sentirías?"
+    },
+    {
+     "title": "He visto al Señor",
+     "prompt": "¿Hay alguien a quien quisieras contar la alegría de encontrarte con el Señor?"
+    },
+    {
+     "title": "Paz a vosotros",
+     "prompt": "¿A dónde podrías llevar paz hoy?"
+    },
+    {
+     "title": "Los que no vieron y creyeron",
+     "prompt": "¿Hay algo en lo que confías y esperas, aunque todavía no lo veas?"
+    },
+    {
+     "title": "¿No ardía nuestro corazón?",
+     "prompt": "¿Últimamente alguna palabra de la Escritura ha hecho arder tu corazón?"
+    },
+    {
+     "title": "Partió el pan",
+     "prompt": "¿Alguna vez has sentido al Señor al compartir la mesa?"
+    },
+    {
+     "title": "Venid, comed",
+     "prompt": "En una mañana cansada, ¿qué quisieras que el Señor preparara para ti?"
+    },
+    {
+     "title": "Apacienta mis corderos",
+     "prompt": "Por amor al Señor, ¿a quién quisieras cuidar?"
+    },
+    {
+     "title": "Hasta el fin del mundo",
+     "prompt": "¿Cuándo has sentido con más fuerza que el Señor está siempre contigo?"
+    },
+    {
+     "title": "Yo soy la resurrección",
+     "prompt": "Si te preguntara: \"¿Crees esto?\", ¿qué le responderías?"
+    },
+    {
+     "title": "No era posible que fuese detenido",
+     "prompt": "¿Hay algo que te ata y de lo que quisieras ser libre en el Señor?"
+    },
+    {
+     "title": "Primicias de los que durmieron",
+     "prompt": "¿Hay una despedida que quisieras mirar de nuevo a la luz de la resurrección?"
+    },
+    {
+     "title": "¿Dónde está, oh muerte, tu aguijón?",
+     "prompt": "¿Qué victoria quisieras recibir hoy con gratitud?"
+    },
+    {
+     "title": "Estad firmes y constantes",
+     "prompt": "¿Qué trabajo quisieras continuar, confiando en que no es en vano?"
+    },
+    {
+     "title": "También viviremos con él",
+     "prompt": "¿Cómo sería un día de vida nueva con el Señor?"
+    },
+    {
+     "title": "Buscad las cosas de arriba",
+     "prompt": "¿Hay algún pensamiento que te tiene atado a las cosas de la tierra estos días?"
+    },
+    {
+     "title": "Nueva criatura",
+     "prompt": "¿Qué quisieras dejar que pase?"
+    },
+    {
+     "title": "La virtud de su resurrección",
+     "prompt": "¿Hubo un tiempo en que conociste más al Señor en medio del sufrimiento?"
+    },
+    {
+     "title": "Al cual no habiendo visto, le amáis",
+     "prompt": "¿Has vivido un momento de gozo que no cabe en palabras?"
+    },
+    {
+     "title": "Porque yo vivo, vosotros también viviréis",
+     "prompt": "¿Escribirías en una línea la esperanza de la resurrección que guardaste estos 28 días?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "catholicEasterBook",
+  "kind": "plan",
+  "title": "십자가의 길과 부활 28일",
+  "subtitle": "성주간에서 부활 시기로",
+  "summary": "겟세마니 동산에서 무덤에 묻히시기까지 성경으로 걷는 십자가의 길 열네 처를 지나, 빈 무덤과 엠마오와 갈릴래아 호숫가의 아침으로 부활 시기를 씁니다. 하루 한 장, 부활하신 주님과 함께 걸어요.",
+  "symbol": "sunrise",
+  "tint": "peach",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "부활 시기",
+   "십자가의 길",
+   "성주간",
+   "부활",
+   "엠마오",
+   "하느님의 자비",
+   "3월"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": "dra",
+  "collection": "catholic",
+  "book": true,
+  "plusWindow": {
+   "from": "2027-03-01",
+   "until": "2027-04-30"
+  },
+  "days": [
+   {
+    "title": "깨어 있어라",
+    "passage": "MAT.26.38",
+    "prompt": "제1처 겟세마니 동산에서 근심하시는 주님 곁에 오늘 머물러 볼까요?"
+   },
+   {
+    "title": "입맞춤으로",
+    "passage": "LUK.22.47-48",
+    "prompt": "제2처 믿었던 사람에게 상처받은 기억을 주님께 맡겨 볼까요?"
+   },
+   {
+    "title": "내가 그다",
+    "passage": "MRK.14.61-62",
+    "prompt": "제3처 주님은 나에게 어떤 분이라고 고백하고 싶나요?"
+   },
+   {
+    "title": "베드로를 바라보시니",
+    "passage": "LUK.22.61-62",
+    "prompt": "제4처 주님의 눈길 앞에서 뉘우치고 싶은 일이 있나요?"
+   },
+   {
+    "title": "진리에 속한 사람은",
+    "passage": "JHN.18.37",
+    "prompt": "제5처 요즘 진실을 말하기 어려웠던 순간이 있나요?"
+   },
+   {
+    "title": "이 사람을 보라",
+    "passage": "JHN.19.5",
+    "prompt": "제6처 가시관을 쓰신 주님을 바라보며 어떤 마음이 드나요?"
+   },
+   {
+    "title": "몸소 십자가를 지시고",
+    "passage": "JHN.19.16-17",
+    "prompt": "제7처 요즘 내가 지고 가는 십자가는 무엇인가요?"
+   },
+   {
+    "title": "키레네 사람 시몬",
+    "passage": "LUK.23.26",
+    "prompt": "제8처 누군가의 짐을 함께 져 줄 수 있는 일이 있나요?"
+   },
+   {
+    "title": "예루살렘의 딸들아",
+    "passage": "LUK.23.27-28",
+    "prompt": "제9처 주님께 맡기고 싶은 우리 집 아이들과 가족이 있나요?"
+   },
+   {
+    "title": "저들을 용서해 주십시오",
+    "passage": "LUK.23.33-34",
+    "prompt": "제10처 아직 용서하기 어려운 사람이 있나요?"
+   },
+   {
+    "title": "오늘 나와 함께 낙원에",
+    "passage": "LUK.23.42-43",
+    "prompt": "제11처 주님께 '저를 기억해 주십시오' 하고 청하고 싶은 일이 있나요?"
+   },
+   {
+    "title": "이분이 네 어머니시다",
+    "passage": "JHN.19.26-27",
+    "prompt": "제12처 성모님께 맡기고 싶은 마음은 무엇인가요?"
+   },
+   {
+    "title": "아버지 손에 제 영을 맡기나이다",
+    "passage": "LUK.23.46",
+    "prompt": "제13처 오늘 하느님 손에 온전히 맡기고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "새 무덤에 모시고",
+    "passage": "MAT.27.59-60",
+    "prompt": "제14처 고요히 기다리는 마음으로 오늘 하루를 보내 볼까요?"
+   },
+   {
+    "title": "그분은 되살아나셨다",
+    "passage": "MAT.28.6",
+    "prompt": "부활하신 주님께 가장 먼저 드리고 싶은 말은 무엇인가요?"
+   },
+   {
+    "title": "마리아야",
+    "passage": "JHN.20.16",
+    "prompt": "주님이 내 이름을 부르신다면 어떤 마음이 들까요?"
+   },
+   {
+    "title": "평화가 너희와 함께",
+    "passage": "JHN.20.21-23",
+    "prompt": "하느님의 자비로 용서받고 싶은 일이 있나요?"
+   },
+   {
+    "title": "저의 주님, 저의 하느님",
+    "passage": "JHN.20.28",
+    "prompt": "토마스처럼 주님께 고백하고 싶은 한마디는 무엇인가요?"
+   },
+   {
+    "title": "보지 않고도 믿는 사람은",
+    "passage": "JHN.20.29",
+    "prompt": "보이지 않아도 믿고 기다리는 일이 있나요?"
+   },
+   {
+    "title": "마음이 타오르지 않았던가",
+    "passage": "LUK.24.32",
+    "prompt": "최근 말씀을 듣다 마음이 뜨거워진 적이 있나요?"
+   },
+   {
+    "title": "빵을 떼어 주실 때",
+    "passage": "LUK.24.30-31",
+    "prompt": "미사에서 주님을 가까이 느낀 순간이 있나요?"
+   },
+   {
+    "title": "와서 아침을 먹어라",
+    "passage": "JHN.21.12",
+    "prompt": "지친 아침, 주님이 차려 주셨으면 하는 것은 무엇인가요?"
+   },
+   {
+    "title": "내 어린양들을 돌보아라",
+    "passage": "JHN.21.15",
+    "prompt": "주님을 사랑하는 마음으로 돌보고 싶은 사람은 누구인가요?"
+   },
+   {
+    "title": "빵을 떼며 기도하였다",
+    "passage": "ACT.2.42",
+    "prompt": "함께 기도하고 싶은 공동체나 사람이 있나요?"
+   },
+   {
+    "title": "나는 착한 목자다",
+    "passage": "JHN.10.11",
+    "prompt": "나를 이끌어 준 목자 같은 사람이 있나요?"
+   },
+   {
+    "title": "나는 길이요 진리요 생명이다",
+    "passage": "JHN.14.6",
+    "prompt": "요즘 어느 길로 가야 할지 망설이는 일이 있나요?"
+   },
+   {
+    "title": "고아로 버려두지 않겠다",
+    "passage": "JHN.14.18",
+    "prompt": "혼자라고 느낄 때 주님께 드리고 싶은 기도는 무엇인가요?"
+   },
+   {
+    "title": "세상 끝날까지 언제나",
+    "passage": "MAT.28.20",
+    "prompt": "28일 동안 십자가의 길과 부활을 걸으며 마음에 남은 것은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The Cross and Easter, 28 Days",
+   "subtitle": "From Holy Week into the Easter season",
+   "summary": "Walk the fourteen stations of a Scriptural Way of the Cross, from the garden of Gethsemane to the tomb, then write the Easter season through the empty tomb, the road to Emmaus and a morning by the Sea of Galilee. One page a day, walking with the risen Lord.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "A notebook in your own handwriting when you finish",
+    "A new book, first with Plus"
+   ],
+   "tags": [
+    "Easter season",
+    "Way of the Cross",
+    "Holy Week",
+    "Resurrection",
+    "Emmaus",
+    "Divine Mercy",
+    "March"
+   ],
+   "days": [
+    {
+     "title": "Stay and watch with Me",
+     "prompt": "Station 1: will you stay today beside the Lord in His sorrow in Gethsemane?"
+    },
+    {
+     "title": "Betrayed with a kiss",
+     "prompt": "Station 2: will you give the Lord the memory of being hurt by someone you trusted?"
+    },
+    {
+     "title": "I am",
+     "prompt": "Station 3: who would you confess the Lord to be for you?"
+    },
+    {
+     "title": "The Lord looked on Peter",
+     "prompt": "Station 4: under the Lord's gaze, is there something you want to repent of?"
+    },
+    {
+     "title": "Everyone that is of the truth",
+     "prompt": "Station 5: has there been a moment lately when it was hard to speak the truth?"
+    },
+    {
+     "title": "Behold the Man",
+     "prompt": "Station 6: looking at the Lord crowned with thorns, what do you feel?"
+    },
+    {
+     "title": "Bearing His own cross",
+     "prompt": "Station 7: what cross are you carrying these days?"
+    },
+    {
+     "title": "Simon of Cyrene",
+     "prompt": "Station 8: is there someone whose burden you could help carry?"
+    },
+    {
+     "title": "Daughters of Jerusalem",
+     "prompt": "Station 9: which children or family members would you like to entrust to the Lord?"
+    },
+    {
+     "title": "Father, forgive them",
+     "prompt": "Station 10: is there someone you still find it hard to forgive?"
+    },
+    {
+     "title": "With Me in paradise",
+     "prompt": "Station 11: what would you ask the Lord to remember about you?"
+    },
+    {
+     "title": "Behold thy mother",
+     "prompt": "Station 12: what would you like to entrust to Our Lady?"
+    },
+    {
+     "title": "Into Thy hands",
+     "prompt": "Station 13: what would you like to place wholly into God's hands today?"
+    },
+    {
+     "title": "Laid in a new tomb",
+     "prompt": "Station 14: will you spend today in quiet, waiting?"
+    },
+    {
+     "title": "He is risen, as He said",
+     "prompt": "What would you like to say first to the risen Lord?"
+    },
+    {
+     "title": "Mary",
+     "prompt": "If the Lord called you by name, how would you feel?"
+    },
+    {
+     "title": "Peace be to you",
+     "prompt": "Is there something for which you long to receive God's merciful forgiveness?"
+    },
+    {
+     "title": "My Lord and my God",
+     "prompt": "Like Thomas, what words of faith would you like to say to the Lord?"
+    },
+    {
+     "title": "Blessed are they that have not seen",
+     "prompt": "Is there something you trust and wait for, though you cannot see it yet?"
+    },
+    {
+     "title": "Was not our heart burning",
+     "prompt": "Lately, has a word of Scripture set your heart burning?"
+    },
+    {
+     "title": "In the breaking of bread",
+     "prompt": "Was there a moment at Mass when you felt the Lord close?"
+    },
+    {
+     "title": "Come, and dine",
+     "prompt": "On a weary morning, what would you like the Lord to prepare for you?"
+    },
+    {
+     "title": "Feed my lambs",
+     "prompt": "Out of love for the Lord, who would you like to care for?"
+    },
+    {
+     "title": "Persevering in prayers",
+     "prompt": "Is there a community or a person you would like to pray with?"
+    },
+    {
+     "title": "I am the good shepherd",
+     "prompt": "Has someone been like a good shepherd to you?"
+    },
+    {
+     "title": "The way, the truth and the life",
+     "prompt": "Is there something you are unsure about, wondering which way to go?"
+    },
+    {
+     "title": "I will not leave you orphans",
+     "prompt": "When you feel alone, what prayer would you like to offer the Lord?"
+    },
+    {
+     "title": "With you all days",
+     "prompt": "After walking the Way of the Cross and Easter these 28 days, what stays with you?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "learnBook",
+  "kind": "plan",
+  "title": "배우는 즐거움 28일",
+  "subtitle": "새 학기, 다시 배우는 마음",
+  "summary": "왜 배우는지 묻고, 어떻게 배우고 무엇을 읽을지 옛사람에게 듣습니다. 가르치며 함께 자라는 마음과 나이 들어도 배우는 기쁨까지, 하루 한 장씩 배움의 문장을 옮겨 씁니다.",
+  "symbol": "lightbulb",
+  "tint": "mustard",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "고전",
+   "배움",
+   "공부",
+   "독서",
+   "새 학기",
+   "3월"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "life",
+  "book": true,
+  "plusWindow": {
+   "from": "2027-03-01",
+   "until": "2027-04-30"
+  },
+  "days": [
+   {
+    "title": "다듬지 않은 옥",
+    "passage": "life.learn.1",
+    "prompt": "요즘 나를 다듬어 주고 있는 배움은 무엇인가요?"
+   },
+   {
+    "title": "먹어 보아야",
+    "passage": "life.learn.2",
+    "prompt": "해 보기 전에는 몰랐던 즐거움이 있었나요?"
+   },
+   {
+    "title": "알고 싶은 마음",
+    "passage": "life.learn.3",
+    "prompt": "쓸모와 상관없이 그냥 알고 싶은 것이 있나요?"
+   },
+   {
+    "title": "놀라워하는 마음",
+    "passage": "life.learn.4",
+    "prompt": "최근에 나를 놀라게 한 것은 무엇인가요?"
+   },
+   {
+    "title": "나를 위한 배움",
+    "passage": "life.learn.5",
+    "prompt": "아무도 보지 않아도 계속하고 싶은 공부가 있나요?"
+   },
+   {
+    "title": "쪽보다 푸르게",
+    "passage": "life.learn.6",
+    "prompt": "나에게 무언가를 가르쳐 준 사람을 떠올려 보세요. 무엇을 물려받았나요?"
+   },
+   {
+    "title": "배우기를 좋아함",
+    "passage": "life.learn.7",
+    "prompt": "남보다 조금 더 좋아한다고 말할 수 있는 것이 있나요?"
+   },
+   {
+    "title": "다섯 가지 공부",
+    "passage": "life.learn.8",
+    "prompt": "다섯 가지 가운데 나에게 가장 모자란 것은 무엇인가요?"
+   },
+   {
+    "title": "높은 곳에 올라",
+    "passage": "life.learn.9",
+    "prompt": "혼자 오래 고민하던 것을 누구에게, 어디에서 배울 수 있을까요?"
+   },
+   {
+    "title": "묻기를 부끄러워 않고",
+    "passage": "life.learn.10",
+    "prompt": "나보다 어린 사람에게 배운 것이 있나요?"
+   },
+   {
+    "title": "마음이 먼저",
+    "passage": "life.learn.11",
+    "prompt": "오늘 이 글을 쓰는 동안 마음은 어디에 있었나요?"
+   },
+   {
+    "title": "외운 것과 아는 것",
+    "passage": "life.learn.12",
+    "prompt": "책을 보지 않고도 남에게 설명할 수 있는 것은 무엇인가요?"
+   },
+   {
+    "title": "불씨 하나",
+    "passage": "life.learn.13",
+    "prompt": "나에게 불씨가 되어 준 말이나 사람이 있나요?"
+   },
+   {
+    "title": "부지런히, 부지런히",
+    "passage": "life.learn.14",
+    "prompt": "느리지만 꾸준히 이어 가고 있는 것이 있나요?"
+   },
+   {
+    "title": "한 권을 익숙히",
+    "passage": "life.learn.15",
+    "prompt": "여러 번 다시 읽고 싶은 책이 있나요?"
+   },
+   {
+    "title": "산을 노닐듯",
+    "passage": "life.learn.16",
+    "prompt": "요즘 읽는 책은 산으로 치면 어디쯤 와 있나요?"
+   },
+   {
+    "title": "맛보고 삼키고",
+    "passage": "life.learn.17",
+    "prompt": "꼭꼭 씹어 읽은 책 한 권을 꼽는다면요?"
+   },
+   {
+    "title": "쓰는 사람",
+    "passage": "life.learn.18",
+    "prompt": "손으로 써 보고 나서 더 또렷해진 생각이 있나요?"
+   },
+   {
+    "title": "지은이의 뜻",
+    "passage": "life.learn.19",
+    "prompt": "오늘 쓴 글을 지은 사람은 무엇을 말하고 싶었을까요?"
+   },
+   {
+    "title": "몇 권에 머물기",
+    "passage": "life.learn.20",
+    "prompt": "곁에 두고 오래 읽고 싶은 글쓴이는 누구인가요?"
+   },
+   {
+    "title": "책 한 권의 새날",
+    "passage": "life.learn.21",
+    "prompt": "나의 하루를 바꾼 책이 있었나요?"
+   },
+   {
+    "title": "가르치며 자란다",
+    "passage": "life.learn.22",
+    "prompt": "누군가에게 설명하다가 내가 더 알게 된 적이 있나요?"
+   },
+   {
+    "title": "덜 가르치고 더 배우게",
+    "passage": "life.learn.23",
+    "prompt": "즐겁게 배웠던 때를 떠올려 보세요. 무엇이 달랐나요?"
+   },
+   {
+    "title": "마음을 쓰는 것",
+    "passage": "life.learn.24",
+    "prompt": "요즘 내가 마음을 쓰는 것들을 꼽아 보면요?"
+   },
+   {
+    "title": "뒤에 오는 사람",
+    "passage": "life.learn.25",
+    "prompt": "나보다 어린 사람에게서 본 좋은 점은 무엇인가요?"
+   },
+   {
+    "title": "촛불을 들고",
+    "passage": "life.learn.26",
+    "prompt": "늦었다고 미뤄 둔 배움이 있나요?"
+   },
+   {
+    "title": "사는 동안",
+    "passage": "life.learn.27",
+    "prompt": "올해 처음으로 배워 보고 싶은 것은 무엇인가요?"
+   },
+   {
+    "title": "늙는 줄도 모르고",
+    "passage": "life.learn.28",
+    "prompt": "시간 가는 줄 모르고 빠져드는 일은 무엇인가요?"
+   }
+  ],
+  "en": {
+   "title": "The Joy of Learning, 28 Days",
+   "subtitle": "A new school year, learning again",
+   "summary": "Ask why we learn, and hear from the old masters how to study and what to read. Through teaching and growing together to the joy of learning at any age, copy the lines of learning one page a day.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "A copybook in your own handwriting when you finish",
+    "A new book, first with Plus"
+   ],
+   "tags": [
+    "classics",
+    "learning",
+    "study",
+    "reading",
+    "new school year",
+    "March"
+   ],
+   "days": [
+    {
+     "title": "Uncarved jade",
+     "prompt": "What learning is shaping you these days?"
+    },
+    {
+     "title": "Until you taste it",
+     "prompt": "Was there a joy you only found once you tried?"
+    },
+    {
+     "title": "The wish to know",
+     "prompt": "Is there something you want to know just for its own sake?"
+    },
+    {
+     "title": "Wonder",
+     "prompt": "What surprised you recently?"
+    },
+    {
+     "title": "Learning for yourself",
+     "prompt": "Is there something you would keep studying even if no one saw?"
+    },
+    {
+     "title": "Bluer than indigo",
+     "prompt": "Think of someone who taught you. What did you receive from them?"
+    },
+    {
+     "title": "Loving to learn",
+     "prompt": "Is there something you can say you love a little more than most?"
+    },
+    {
+     "title": "Five ways of study",
+     "prompt": "Which of the five do you need most?"
+    },
+    {
+     "title": "Climbing up high",
+     "prompt": "Where could you learn what you have long puzzled over alone?"
+    },
+    {
+     "title": "Not ashamed to ask",
+     "prompt": "Have you learned something from someone younger than you?"
+    },
+    {
+     "title": "The mind first",
+     "prompt": "Where was your mind while you wrote today?"
+    },
+    {
+     "title": "Knowing by heart",
+     "prompt": "What could you explain to someone without opening a book?"
+    },
+    {
+     "title": "A single spark",
+     "prompt": "Has a word or a person ever been a spark for you?"
+    },
+    {
+     "title": "Diligence, diligence",
+     "prompt": "Is there something you keep at slowly but steadily?"
+    },
+    {
+     "title": "One book, well read",
+     "prompt": "Is there a book you would like to read again and again?"
+    },
+    {
+     "title": "Like walking the mountains",
+     "prompt": "If your current book were a mountain, how far up are you?"
+    },
+    {
+     "title": "Tasted and swallowed",
+     "prompt": "Which book have you truly chewed and digested?"
+    },
+    {
+     "title": "An exact man",
+     "prompt": "Has a thought become clearer once you wrote it by hand?"
+    },
+    {
+     "title": "The writer's intent",
+     "prompt": "What do you think the writer of today's line wanted to say?"
+    },
+    {
+     "title": "Staying with a few",
+     "prompt": "Which writer would you like to keep beside you for a long time?"
+    },
+    {
+     "title": "A new era from a book",
+     "prompt": "Was there a book that changed your days?"
+    },
+    {
+     "title": "Teaching and learning",
+     "prompt": "Have you ever understood more while explaining to someone?"
+    },
+    {
+     "title": "Teach less, learn more",
+     "prompt": "Recall a time you learned with joy. What was different?"
+    },
+    {
+     "title": "How much he cares",
+     "prompt": "What are the things you care about these days?"
+    },
+    {
+     "title": "Those who come after",
+     "prompt": "What have you admired in someone younger than you?"
+    },
+    {
+     "title": "Walking with a candle",
+     "prompt": "Is there something you put off learning because it felt too late?"
+    },
+    {
+     "title": "As long as we live",
+     "prompt": "What would you like to learn for the first time this year?"
+    },
+    {
+     "title": "Not noticing old age",
+     "prompt": "What makes you lose track of time?"
+    }
+   ]
+  }
+ },
+ {
+  "id": "jabiBook",
+  "kind": "plan",
+  "title": "자비의 마음 28일",
+  "subtitle": "사무량심, 모든 생명을 향한 마음",
+  "summary": "남이 행복하기를 바라는 자애에서 시작해 함께 아파하는 연민, 함께 기뻐하고 놓아 주는 마음을 지나 모든 생명을 향한 서원으로 맺는 4주입니다. 법구경, 유마경, 법화경, 대지도론, 화엄경의 글을 하루 한 장씩 쓰며 부처님오신날을 맞아요.",
+  "symbol": "heart",
+  "tint": "sage",
+  "highlights": [
+   "4주, 하루 한 장",
+   "다 쓰면 내 글씨로 엮은 필사 노트",
+   "Plus로 먼저 만나는 새 책"
+  ],
+  "tags": [
+   "자비",
+   "사무량심",
+   "부처님오신날",
+   "자애",
+   "연민",
+   "보시",
+   "사경"
+  ],
+  "previewDays": 3,
+  "recommendedMode": "trace",
+  "translationID": null,
+  "collection": "buddhist",
+  "book": true,
+  "plusWindow": {
+   "from": "2027-03-01",
+   "until": "2027-04-30"
+  },
+  "includedModes": null,
+  "includedThemes": null,
+  "days": [
+   {
+    "title": "즐거움을 주고 괴로움을 덜고",
+    "passage": "bud.jabi.1",
+    "prompt": "오늘 누군가에게 작은 기쁨을 건넨다면 무엇일까요?"
+   },
+   {
+    "title": "자애로 성냄을 녹이다",
+    "passage": "bud.jabi.2",
+    "prompt": "마음이 날카로워질 때 떠올리고 싶은 따뜻한 얼굴이 있나요?"
+   },
+   {
+    "title": "사방으로 번지는 자애",
+    "passage": "bud.jabi.3",
+    "prompt": "오늘 따뜻한 마음을 보내고 싶은 곳은 어디인가요?"
+   },
+   {
+    "title": "가는 곳마다 편안하다",
+    "passage": "bud.jabi.4",
+    "prompt": "요즘 마음 쓰이는 벗이 있다면 누구인가요?"
+   },
+   {
+    "title": "밤낮으로 자애를 생각하다",
+    "passage": "bud.jabi.5",
+    "prompt": "하루 가운데 따뜻한 마음을 떠올리기 좋은 때는 언제인가요?"
+   },
+   {
+    "title": "가장 행할 만한 것",
+    "passage": "bud.jabi.6",
+    "prompt": "오늘 해 볼 만한 다정한 일 하나는 무엇인가요?"
+   },
+   {
+    "title": "한 번의 자애",
+    "passage": "bud.jabi.7",
+    "prompt": "이번 주 받은 작은 친절 가운데 기억에 남는 것이 있나요?"
+   },
+   {
+    "title": "연민으로 해침을 거두다",
+    "passage": "bud.jabi.8",
+    "prompt": "요즘 힘들어하는 누군가에게 어떤 마음을 보내고 싶나요?"
+   },
+   {
+    "title": "부처님의 마음",
+    "passage": "bud.jabi.9",
+    "prompt": "조건 없이 누군가를 아껴 본 적이 있나요?"
+   },
+   {
+    "title": "외아들이 앓으면",
+    "passage": "bud.jabi.10",
+    "prompt": "누군가의 아픔이 내 아픔처럼 느껴진 적이 있나요?"
+   },
+   {
+    "title": "보살의 병",
+    "passage": "bud.jabi.11",
+    "prompt": "다른 이가 나아지는 것을 진심으로 기뻐했던 때가 있나요?"
+   },
+   {
+    "title": "자비는 불도의 뿌리",
+    "passage": "bud.jabi.12",
+    "prompt": "내가 하는 일 가운데 누군가의 괴로움을 덜어 주는 일이 있나요?"
+   },
+   {
+    "title": "지치지 않는 자비",
+    "passage": "bud.jabi.13",
+    "prompt": "지쳤을 때 다시 마음을 내게 해 주는 것은 무엇인가요?"
+   },
+   {
+    "title": "여래의 방과 옷과 자리",
+    "passage": "bud.jabi.14",
+    "prompt": "오늘 부드럽게 참아 낸 순간이 있었나요?"
+   },
+   {
+    "title": "기쁨과 놓아 줌",
+    "passage": "bud.jabi.15",
+    "prompt": "다른 사람의 기쁨을 내 일처럼 기뻐해 본 적이 있나요?"
+   },
+   {
+    "title": "함께 기뻐하는 마음",
+    "passage": "bud.jabi.16",
+    "prompt": "요즘 축하해 주고 싶은 누군가의 좋은 일이 있나요?"
+   },
+   {
+    "title": "곁에 선 사람의 향기",
+    "passage": "bud.jabi.17",
+    "prompt": "곁에서 지켜보다 덩달아 마음이 따뜻해진 일이 있나요?"
+   },
+   {
+    "title": "치우치지 않는 마음",
+    "passage": "bud.jabi.18",
+    "prompt": "누구에게나 같은 마음으로 대하기 어려운 때는 언제인가요?"
+   },
+   {
+    "title": "원수와 벗을 같이",
+    "passage": "bud.jabi.19",
+    "prompt": "이제 내려놓고 싶은 지난 서운함이 있나요?"
+   },
+   {
+    "title": "마지막 한 덩이 밥",
+    "passage": "bud.jabi.20",
+    "prompt": "아껴 두었지만 나누고 싶은 것이 있나요?"
+   },
+   {
+    "title": "머묾 없이 베풀다",
+    "passage": "bud.jabi.21",
+    "prompt": "보답을 바라지 않고 건넨 것이 있나요?"
+   },
+   {
+    "title": "모두가 죽음을 두려워하니",
+    "passage": "bud.jabi.22",
+    "prompt": "내 마음을 미루어 다른 이를 헤아려 본 일이 있나요?"
+   },
+   {
+    "title": "뭇 생명을 편안하게",
+    "passage": "bud.jabi.23",
+    "prompt": "오늘 작은 생명에게 다정했던 순간이 있나요?"
+   },
+   {
+    "title": "나를 지키고 남을 지키고",
+    "passage": "bud.jabi.24",
+    "prompt": "나를 잘 돌본 일이 다른 이에게도 도움이 된 적이 있나요?"
+   },
+   {
+    "title": "이기고 지는 마음 없이",
+    "passage": "bud.jabi.25",
+    "prompt": "이기고 지는 것을 내려놓고 싶은 관계가 있나요?"
+   },
+   {
+    "title": "모든 생명이 내 부모",
+    "passage": "bud.jabi.26",
+    "prompt": "오늘 스친 낯선 이를 가족처럼 바라본다면 어떤 마음이 드나요?"
+   },
+   {
+    "title": "모든 선의 뿌리",
+    "passage": "bud.jabi.27",
+    "prompt": "나에게 어버이 같은 자애를 보여 준 사람은 누구인가요?"
+   },
+   {
+    "title": "다만 괴로움을 벗어나기를",
+    "passage": "bud.jabi.28",
+    "prompt": "28일 동안 키운 자비의 마음을 누구에게 먼저 건네고 싶나요?"
+   }
+  ],
+  "en": {
+   "title": "A Heart of Compassion, 28 Days",
+   "subtitle": "The four immeasurables, a heart for all life",
+   "summary": "Four weeks that begin with loving-kindness, wishing others well, pass through compassion that shares their pain, joy in their joy and letting go, and close with a vow for all living beings. Copy one page a day from the Dhammapada, the Vimalakirti Sutra, the Lotus Sutra, the Great Treatise and the Avatamsaka Sutra as Buddha's Birthday draws near.",
+   "highlights": [
+    "4 weeks, one page a day",
+    "Finish and you have a notebook in your own handwriting",
+    "A new book for Plus members first"
+   ],
+   "tags": [
+    "compassion",
+    "loving-kindness",
+    "four immeasurables",
+    "Buddha's Birthday",
+    "giving",
+    "equanimity",
+    "sutra copying"
+   ],
+   "days": [
+    {
+     "title": "Giving joy, taking away pain",
+     "prompt": "If you passed someone a small joy today, what would it be?"
+    },
+    {
+     "title": "Kindness clears away anger",
+     "prompt": "Is there a warm face you would like to recall when your mind grows sharp?"
+    },
+    {
+     "title": "Kindness in every direction",
+     "prompt": "Where would you like to send warm thoughts today?"
+    },
+    {
+     "title": "At ease wherever you go",
+     "prompt": "Is there a friend on your mind these days?"
+    },
+    {
+     "title": "Kindness day and night",
+     "prompt": "When in your day is a good time to call up a warm heart?"
+    },
+    {
+     "title": "What is most worth doing",
+     "prompt": "What is one kind thing worth doing today?"
+    },
+    {
+     "title": "A single act of kindness",
+     "prompt": "Of the small kindnesses you received this week, which one stays with you?"
+    },
+    {
+     "title": "Compassion clears away harm",
+     "prompt": "What would you like to send to someone who is struggling these days?"
+    },
+    {
+     "title": "The heart of the Buddhas",
+     "prompt": "Have you ever cherished someone without conditions?"
+    },
+    {
+     "title": "When an only child is ill",
+     "prompt": "Have you ever felt someone else's pain as your own?"
+    },
+    {
+     "title": "The bodhisattva's illness",
+     "prompt": "When did you last feel truly glad that someone was getting better?"
+    },
+    {
+     "title": "Compassion is the root",
+     "prompt": "Is there something you do that eases someone's pain?"
+    },
+    {
+     "title": "Compassion that never tires",
+     "prompt": "What helps you find your heart again when you are tired?"
+    },
+    {
+     "title": "The room, robe and seat of the Tathagata",
+     "prompt": "Was there a moment today when you bore something gently?"
+    },
+    {
+     "title": "Joy and letting go",
+     "prompt": "Have you ever been as glad for someone's joy as if it were your own?"
+    },
+    {
+     "title": "Joy clears away envy",
+     "prompt": "Is there someone's good news you would like to celebrate these days?"
+    },
+    {
+     "title": "The scent reaches the bystander",
+     "prompt": "Has watching someone else's kindness ever warmed your own heart?"
+    },
+    {
+     "title": "Equanimity clears away pride",
+     "prompt": "When is it hard to meet everyone with the same heart?"
+    },
+    {
+     "title": "Foe and friend alike",
+     "prompt": "Is there an old hurt you would like to set down now?"
+    },
+    {
+     "title": "Even the last morsel",
+     "prompt": "Is there something you have been saving that you would like to share?"
+    },
+    {
+     "title": "Giving without clinging",
+     "prompt": "Have you given something without hoping for a return?"
+    },
+    {
+     "title": "All fear death",
+     "prompt": "Have you ever used your own heart to understand someone else's?"
+    },
+    {
+     "title": "Bringing ease to all beings",
+     "prompt": "Was there a moment today when you were gentle with a small life?"
+    },
+    {
+     "title": "Protecting oneself, protecting others",
+     "prompt": "Has taking good care of yourself ever helped someone else too?"
+    },
+    {
+     "title": "Beyond winning and losing",
+     "prompt": "Is there a relationship where you would like to let go of winning and losing?"
+    },
+    {
+     "title": "All beings are my parents",
+     "prompt": "If you looked at a stranger you passed today as family, how would it feel?"
+    },
+    {
+     "title": "The root of all good",
+     "prompt": "Who has shown you a kindness like a parent's?"
+    },
+    {
+     "title": "Only that beings be free of pain",
+     "prompt": "Who would you like to offer first the compassion you have grown over 28 days?"
+    }
+   ]
+  },
+  "ja": {
+   "title": "慈悲の心 28日",
+   "subtitle": "四無量心、すべての命へ向ける心",
+   "summary": "人の幸せを願う慈しみから始まり、痛みをともにする憐れみ、ともに喜び手放す心をへて、すべての命への誓いで結ぶ4週間です。法句経、維摩経、法華経、大智度論、華厳経の言葉を一日一枚ずつ書きながら、花まつりを迎えましょう。",
+   "highlights": [
+    "4週間、一日一枚",
+    "書き終えると、自分の字で綴じた筆写ノートに",
+    "Plusで先に出会える新しい本"
+   ],
+   "tags": [
+    "慈悲",
+    "四無量心",
+    "花まつり",
+    "慈しみ",
+    "布施",
+    "写経"
+   ],
+   "days": [
+    {
+     "title": "楽を与え、苦を抜く",
+     "prompt": "今日、だれかに小さな喜びを手渡すとしたら何ですか。"
+    },
+    {
+     "title": "慈しみが怒りを除く",
+     "prompt": "心がとがってしまうとき、思い出したいあたたかな顔はありますか。"
+    },
+    {
+     "title": "四方に広がる慈しみ",
+     "prompt": "今日、あたたかな思いを送りたい場所はどこですか。"
+    },
+    {
+     "title": "どこへ行っても安らか",
+     "prompt": "このごろ気にかかっている友はいますか。"
+    },
+    {
+     "title": "昼も夜も慈しみを思う",
+     "prompt": "一日のうちで、あたたかな心を思い起こしやすいのはいつですか。"
+    },
+    {
+     "title": "いちばん行うべきこと",
+     "prompt": "今日やってみたい、やさしいことをひとつ挙げるなら何ですか。"
+    },
+    {
+     "title": "ひとつの慈しみ",
+     "prompt": "今週受けた小さな親切で、心に残っているものはありますか。"
+    },
+    {
+     "title": "憐れみが害する心を除く",
+     "prompt": "このごろつらそうなだれかに、どんな思いを送りたいですか。"
+    },
+    {
+     "title": "仏の心",
+     "prompt": "条件なしに、だれかを大切にしたことはありますか。"
+    },
+    {
+     "title": "ひとり子が病めば",
+     "prompt": "だれかの痛みが、自分の痛みのように感じられたことはありますか。"
+    },
+    {
+     "title": "菩薩の病",
+     "prompt": "だれかが元気になるのを、心から喜んだことはありますか。"
+    },
+    {
+     "title": "慈悲は仏道の根本",
+     "prompt": "自分のしていることの中に、だれかの苦しみを和らげていることはありますか。"
+    },
+    {
+     "title": "疲れることのない慈悲",
+     "prompt": "疲れたとき、もう一度心を起こさせてくれるものは何ですか。"
+    },
+    {
+     "title": "如来の室と衣と座",
+     "prompt": "今日、やわらかく耐えた瞬間はありましたか。"
+    },
+    {
+     "title": "喜びと手放すこと",
+     "prompt": "ほかの人の喜びを、自分のことのように喜んだことはありますか。"
+    },
+    {
+     "title": "ともに喜ぶ心",
+     "prompt": "このごろお祝いしたい、だれかのよいことはありますか。"
+    },
+    {
+     "title": "そばにいる人にも香りが",
+     "prompt": "そばで見ていて、つられて心があたたかくなったことはありますか。"
+    },
+    {
+     "title": "かたよらない心",
+     "prompt": "だれにでも同じ心で接するのがむずかしいのは、どんなときですか。"
+    },
+    {
+     "title": "怨みある人も親しい人も",
+     "prompt": "もう手放したい、過ぎた日のわだかまりはありますか。"
+    },
+    {
+     "title": "最後のひとかたまりも",
+     "prompt": "大切にしまってきたけれど、分かち合いたいものはありますか。"
+    },
+    {
+     "title": "とらわれずに施す",
+     "prompt": "見返りを求めずに手渡したものはありますか。"
+    },
+    {
+     "title": "だれもが死を恐れる",
+     "prompt": "自分の心にひきくらべて、だれかを思いやったことはありますか。"
+    },
+    {
+     "title": "生きものを安らかに",
+     "prompt": "今日、小さな命にやさしくした瞬間はありましたか。"
+    },
+    {
+     "title": "自分を守り、人を守る",
+     "prompt": "自分を大切にしたことが、ほかの人の助けにもなったことはありますか。"
+    },
+    {
+     "title": "勝ち負けの心なく",
+     "prompt": "勝ち負けを手放したい関係はありますか。"
+    },
+    {
+     "title": "すべての命はわが父母",
+     "prompt": "今日すれちがった見知らぬ人を家族のように見るなら、どんな気持ちになりますか。"
+    },
+    {
+     "title": "すべての善の根本",
+     "prompt": "親のような慈しみを見せてくれた人はだれですか。"
+    },
+    {
+     "title": "ただ苦しみを離れるように",
+     "prompt": "28日間育ててきた慈悲の心を、まずだれに手渡したいですか。"
+    }
+   ]
+  },
+  "zh-Hant": {
+   "title": "慈悲之心 28 天",
+   "subtitle": "四無量心，向一切生命的心",
+   "summary": "從願他人幸福的慈心開始，經過同感痛苦的悲心、隨喜與放下之心，最後以對一切生命的誓願作結，共四周。每天抄寫一頁法句經、維摩經、法華經、大智度論、華嚴經的經文，迎接佛誕。",
+   "highlights": [
+    "四周，每天一頁",
+    "寫完得到用自己的字裝訂的抄寫本",
+    "Plus 搶先讀的新書"
+   ],
+   "tags": [
+    "慈悲",
+    "四無量心",
+    "佛誕",
+    "慈心",
+    "佈施",
+    "抄經"
+   ],
+   "days": [
+    {
+     "title": "予樂拔苦",
+     "prompt": "如果今天把一份小小的快樂送給別人，會是什麼？"
+    },
+    {
+     "title": "以慈心除瞋恚",
+     "prompt": "心變得尖銳的時候，有沒有一張你想想起的溫暖面孔？"
+    },
+    {
+     "title": "慈心遍滿四方",
+     "prompt": "今天你想把溫暖的心意送到哪裡？"
+    },
+    {
+     "title": "所到之處皆安",
+     "prompt": "最近有沒有讓你掛念的朋友？"
+    },
+    {
+     "title": "晝夜念慈",
+     "prompt": "一天之中，什麼時候最適合想起溫暖的心？"
+    },
+    {
+     "title": "慈最可行",
+     "prompt": "今天值得去做的一件溫柔的事是什麼？"
+    },
+    {
+     "title": "不如行一慈",
+     "prompt": "這一週收到的小小善意裡，有哪一個讓你記住了？"
+    },
+    {
+     "title": "以悲心除害心",
+     "prompt": "對最近正辛苦的人，你想送去怎樣的心意？"
+    },
+    {
+     "title": "佛心",
+     "prompt": "你有沒有無條件地珍惜過一個人？"
+    },
+    {
+     "title": "獨子生病",
+     "prompt": "有沒有哪一次，別人的痛讓你感同身受？"
+    },
+    {
+     "title": "菩薩之病",
+     "prompt": "你有沒有真心為別人的好轉而高興過？"
+    },
+    {
+     "title": "慈悲是佛道的根本",
+     "prompt": "你做的事裡，有沒有能減輕別人痛苦的？"
+    },
+    {
+     "title": "從不疲倦的慈悲",
+     "prompt": "疲憊的時候，是什麼讓你重新打起精神？"
+    },
+    {
+     "title": "如來的室、衣、座",
+     "prompt": "今天有沒有一個溫和忍耐的時刻？"
+    },
+    {
+     "title": "歡喜與放下",
+     "prompt": "你有沒有把別人的快樂當作自己的快樂？"
+    },
+    {
+     "title": "同喜之心",
+     "prompt": "最近有沒有想為誰的好事道賀？"
+    },
+    {
+     "title": "旁人也聞到香氣",
+     "prompt": "有沒有在一旁看著，自己的心也跟著暖起來的事？"
+    },
+    {
+     "title": "不偏不倚的心",
+     "prompt": "什麼時候最難以同樣的心對待每個人？"
+    },
+    {
+     "title": "怨親平等",
+     "prompt": "有沒有想放下的過去的委屈？"
+    },
+    {
+     "title": "最後一團飯",
+     "prompt": "有沒有一直捨不得、卻想與人分享的東西？"
+    },
+    {
+     "title": "無住佈施",
+     "prompt": "有沒有不求回報而給出的東西？"
+    },
+    {
+     "title": "人人都怕死",
+     "prompt": "你有沒有將心比心地體諒過別人？"
+    },
+    {
+     "title": "常安群生",
+     "prompt": "今天有沒有善待一個小生命的時刻？"
+    },
+    {
+     "title": "自護護他",
+     "prompt": "好好照顧自己，有沒有也幫到了別人？"
+    },
+    {
+     "title": "無勝負之心",
+     "prompt": "有沒有一段關係，你想放下輸贏？"
+    },
+    {
+     "title": "一切眾生皆我父母",
+     "prompt": "如果把今天擦肩而過的陌生人看作家人，你會有怎樣的心情？"
+    },
+    {
+     "title": "一切善根之本",
+     "prompt": "誰曾給過你父母般的慈愛？"
+    },
+    {
+     "title": "但願眾生得離苦",
+     "prompt": "這 28 天培養的慈悲之心，你最想先送給誰？"
+    }
+   ]
+  },
+  "zh-Hans": {
+   "title": "慈悲之心 28 天",
+   "subtitle": "四无量心，向一切生命的心",
+   "summary": "从愿他人幸福的慈心开始，经过同感痛苦的悲心、随喜与放下之心，最后以对一切生命的誓愿作结，共四周。每天抄写一页法句经、维摩经、法华经、大智度论、华严经的经文，迎接佛诞。",
+   "highlights": [
+    "四周，每天一页",
+    "写完得到用自己的字装订的抄写本",
+    "Plus 抢先读的新书"
+   ],
+   "tags": [
+    "慈悲",
+    "四无量心",
+    "佛诞",
+    "慈心",
+    "布施",
+    "抄经"
+   ],
+   "days": [
+    {
+     "title": "予乐拔苦",
+     "prompt": "如果今天把一份小小的快乐送给别人，会是什么？"
+    },
+    {
+     "title": "以慈心除瞋恚",
+     "prompt": "心变得尖锐的时候，有没有一张你想想起的温暖面孔？"
+    },
+    {
+     "title": "慈心遍满四方",
+     "prompt": "今天你想把温暖的心意送到哪里？"
+    },
+    {
+     "title": "所到之处皆安",
+     "prompt": "最近有没有让你挂念的朋友？"
+    },
+    {
+     "title": "昼夜念慈",
+     "prompt": "一天之中，什么时候最适合想起温暖的心？"
+    },
+    {
+     "title": "慈最可行",
+     "prompt": "今天值得去做的一件温柔的事是什么？"
+    },
+    {
+     "title": "不如行一慈",
+     "prompt": "这一周收到的小小善意里，有哪一个让你记住了？"
+    },
+    {
+     "title": "以悲心除害心",
+     "prompt": "对最近正辛苦的人，你想送去怎样的心意？"
+    },
+    {
+     "title": "佛心",
+     "prompt": "你有没有无条件地珍惜过一个人？"
+    },
+    {
+     "title": "独子生病",
+     "prompt": "有没有哪一次，别人的痛让你感同身受？"
+    },
+    {
+     "title": "菩萨之病",
+     "prompt": "你有没有真心为别人的好转而高兴过？"
+    },
+    {
+     "title": "慈悲是佛道的根本",
+     "prompt": "你做的事里，有没有能减轻别人痛苦的？"
+    },
+    {
+     "title": "从不疲倦的慈悲",
+     "prompt": "疲惫的时候，是什么让你重新打起精神？"
+    },
+    {
+     "title": "如来的室、衣、座",
+     "prompt": "今天有没有一个温和忍耐的时刻？"
+    },
+    {
+     "title": "欢喜与放下",
+     "prompt": "你有没有把别人的快乐当作自己的快乐？"
+    },
+    {
+     "title": "同喜之心",
+     "prompt": "最近有没有想为谁的好事道贺？"
+    },
+    {
+     "title": "旁人也闻到香气",
+     "prompt": "有没有在一旁看着，自己的心也跟着暖起来的事？"
+    },
+    {
+     "title": "不偏不倚的心",
+     "prompt": "什么时候最难以同样的心对待每个人？"
+    },
+    {
+     "title": "怨亲平等",
+     "prompt": "有没有想放下的过去的委屈？"
+    },
+    {
+     "title": "最后一团饭",
+     "prompt": "有没有一直舍不得、却想与人分享的东西？"
+    },
+    {
+     "title": "无住布施",
+     "prompt": "有没有不求回报而给出的东西？"
+    },
+    {
+     "title": "人人都怕死",
+     "prompt": "你有没有将心比心地体谅过别人？"
+    },
+    {
+     "title": "常安群生",
+     "prompt": "今天有没有善待一个小生命的时刻？"
+    },
+    {
+     "title": "自护护他",
+     "prompt": "好好照顾自己，有没有也帮到了别人？"
+    },
+    {
+     "title": "无胜负之心",
+     "prompt": "有没有一段关系，你想放下输赢？"
+    },
+    {
+     "title": "一切众生皆我父母",
+     "prompt": "如果把今天擦肩而过的陌生人看作家人，你会有怎样的心情？"
+    },
+    {
+     "title": "一切善根之本",
+     "prompt": "谁曾给过你父母般的慈爱？"
+    },
+    {
+     "title": "但愿众生得离苦",
+     "prompt": "这 28 天培养的慈悲之心，你最想先送给谁？"
+    }
+   ]
+  }
  }
 ]

@@ -251,41 +251,6 @@
    }
   },
   {
-   "id": "spring2027",
-   "from": "2027-02-01",
-   "until": "2027-02-21",
-   "art": "moment_spring",
-   "symbol": "leaf",
-   "tint": "sage",
-   "pack": "springBook",
-   "text": {
-    "ko": {
-     "title": "입춘과 설날",
-     "line": "새봄을 기다리는 고전의 문장을 하루 한 장 옮겨 써 볼까요?"
-    },
-    "en": {
-     "title": "Spring is on its way",
-     "line": "Welcome the new spring with classic lines, one page a day."
-    },
-    "es": {
-     "title": "La primavera se acerca",
-     "line": "Recibe la nueva primavera con frases clásicas, una página al día."
-    },
-    "ja": {
-     "title": "立春を迎えて",
-     "line": "春を待つ古典の言葉を、一日一枚書き写してみませんか。"
-    },
-    "zh-Hans": {
-     "title": "立春与春节",
-     "line": "每天一页，抄写迎接新春的经典名句吧。"
-    },
-    "zh-Hant": {
-     "title": "立春與春節",
-     "line": "每天一頁，抄寫迎接新春的經典名句吧。"
-    }
-   }
-  },
-  {
    "id": "dongangeo2026",
    "from": "2026-11-29",
    "until": "2027-02-20",
@@ -354,6 +319,40 @@
    }
   },
   {
+   "id": "jabi2027",
+   "from": "2027-03-23",
+   "until": "2027-05-05",
+   "traditions": [
+    "buddhist"
+   ],
+   "art": "moment_jabi",
+   "symbol": "heart",
+   "tint": "sage",
+   "pack": "jabiBook",
+   "text": {
+    "ko": {
+     "title": "부처님오신날을 기다리며",
+     "line": "모든 생명을 향한 자비의 마음을 하루 한 장 써 볼까요?"
+    },
+    "en": {
+     "title": "Toward the Buddha's Birthday",
+     "line": "Copy the heart of compassion for all life, one page a day."
+    },
+    "ja": {
+     "title": "慈悲の心",
+     "line": "すべての命へ向ける慈悲の心を、一日一枚書いてみませんか。"
+    },
+    "zh-Hans": {
+     "title": "慈悲之心",
+     "line": "每天抄一页，写下向一切生命的慈悲之心吧。"
+    },
+    "zh-Hant": {
+     "title": "慈悲之心",
+     "line": "每天抄一頁，寫下向一切生命的慈悲之心吧。"
+    }
+   }
+  },
+  {
    "id": "lent2027-protestant",
    "from": "2027-02-10",
    "until": "2027-03-20",
@@ -411,22 +410,21 @@
    "art": "moment_easter",
    "symbol": "sunrise",
    "tint": "mustard",
-   "collection": "bible",
-   "passage": "MAT.28.5-6",
    "text": {
     "ko": {
      "title": "부활절을 맞아요",
-     "line": "무덤이 비었던 그 아침의 말씀을 한 장에 담아 볼까요?"
+     "line": "무덤이 비었던 아침부터 새 생명의 소망까지, 하루 한 장 말씀을 써 볼까요?"
     },
     "en": {
      "title": "Easter is here",
-     "line": "Write the words spoken on the morning the tomb was empty."
+     "line": "From the morning of the empty tomb to the hope of new life, write one page a day."
     },
     "es": {
      "title": "Llega la Pascua",
-     "line": "Escribe las palabras de la mañana en que el sepulcro estaba vacío."
+     "line": "De la mañana de la tumba vacía a la esperanza de una vida nueva, escribe una página al día."
     }
-   }
+   },
+   "pack": "easterBook"
   },
   {
    "id": "easter2027-catholic",
@@ -438,16 +436,85 @@
    "art": "moment_easter",
    "symbol": "sunrise",
    "tint": "mustard",
-   "collection": "catholic",
-   "passage": "MAT.28.5-6",
    "text": {
     "ko": {
      "title": "주님 부활을 축하해요",
-     "line": "무덤이 비었던 그 아침의 말씀을 한 장에 담아 볼까요?"
+     "line": "십자가의 길에서 부활의 아침까지, 하루 한 장 말씀을 써 볼까요?"
     },
     "en": {
      "title": "He is risen",
-     "line": "Write the words spoken on the morning the tomb was empty."
+     "line": "From the Way of the Cross to the morning of the resurrection, write one page a day."
+    }
+   },
+   "pack": "catholicEasterBook"
+  },
+  {
+   "id": "spring2027",
+   "from": "2027-02-01",
+   "until": "2027-02-21",
+   "art": "moment_spring",
+   "symbol": "leaf",
+   "tint": "sage",
+   "pack": "springBook",
+   "text": {
+    "ko": {
+     "title": "입춘과 설날",
+     "line": "새봄을 기다리는 고전의 문장을 하루 한 장 옮겨 써 볼까요?"
+    },
+    "en": {
+     "title": "Spring is on its way",
+     "line": "Welcome the new spring with classic lines, one page a day."
+    },
+    "es": {
+     "title": "La primavera se acerca",
+     "line": "Recibe la nueva primavera con frases clásicas, una página al día."
+    },
+    "ja": {
+     "title": "立春を迎えて",
+     "line": "春を待つ古典の言葉を、一日一枚書き写してみませんか。"
+    },
+    "zh-Hans": {
+     "title": "立春与春节",
+     "line": "每天一页，抄写迎接新春的经典名句吧。"
+    },
+    "zh-Hant": {
+     "title": "立春與春節",
+     "line": "每天一頁，抄寫迎接新春的經典名句吧。"
+    }
+   }
+  },
+  {
+   "id": "learn2027",
+   "from": "2027-03-01",
+   "until": "2027-03-21",
+   "art": "moment_learn",
+   "symbol": "lightbulb",
+   "tint": "mustard",
+   "pack": "learnBook",
+   "text": {
+    "ko": {
+     "title": "새 학기예요",
+     "line": "배우는 즐거움을 말한 고전의 문장을 하루 한 장 옮겨 써 볼까요?"
+    },
+    "en": {
+     "title": "A new season of learning",
+     "line": "Copy classic lines on the joy of learning, one page a day."
+    },
+    "es": {
+     "title": "Un nuevo tiempo para aprender",
+     "line": "Copia frases clásicas sobre la alegría de aprender, una página al día."
+    },
+    "ja": {
+     "title": "新しい学びの季節",
+     "line": "学ぶ喜びを語った古典の言葉を、一日一枚書き写してみませんか。"
+    },
+    "zh-Hans": {
+     "title": "新学期",
+     "line": "每天一页，抄写讲述学习之乐的经典名句吧。"
+    },
+    "zh-Hant": {
+     "title": "新學期",
+     "line": "每天一頁，抄寫講述學習之樂的經典名句吧。"
     }
    }
   },

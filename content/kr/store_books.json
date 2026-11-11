@@ -415,6 +415,70 @@
     "title": "出家与涅槃 28 天",
     "subtitle": "从出家日到涅槃日"
    }
+  },
+  {
+   "productID": "kr.book.easterbook",
+   "unlock": "pack:easterBook",
+   "price": 4400,
+   "title": "부활의 아침 28일",
+   "subtitle": "고난주간에서 부활의 계절로",
+   "en": {
+    "title": "Resurrection Morning, 28 Days",
+    "subtitle": "From Holy Week into the season of Easter"
+   },
+   "new": true,
+   "es": {
+    "title": "La mañana de la resurrección, 28 días",
+    "subtitle": "De la Semana Santa al tiempo de Pascua"
+   }
+  },
+  {
+   "productID": "kr.book.catholiceasterbook",
+   "unlock": "pack:catholicEasterBook",
+   "price": 4400,
+   "title": "십자가의 길과 부활 28일",
+   "subtitle": "성주간에서 부활 시기로",
+   "en": {
+    "title": "The Cross and Easter, 28 Days",
+    "subtitle": "From Holy Week into the Easter season"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.learnbook",
+   "unlock": "pack:learnBook",
+   "price": 4400,
+   "title": "배우는 즐거움 28일",
+   "subtitle": "새 학기, 다시 배우는 마음",
+   "en": {
+    "title": "The Joy of Learning, 28 Days",
+    "subtitle": "A new school year, learning again"
+   },
+   "new": true
+  },
+  {
+   "productID": "kr.book.jabibook",
+   "unlock": "pack:jabiBook",
+   "price": 4400,
+   "title": "자비의 마음 28일",
+   "subtitle": "사무량심, 모든 생명을 향한 마음",
+   "en": {
+    "title": "A Heart of Compassion, 28 Days",
+    "subtitle": "The four immeasurables, a heart for all life"
+   },
+   "new": true,
+   "ja": {
+    "title": "慈悲の心 28日",
+    "subtitle": "四無量心、すべての命へ向ける心"
+   },
+   "zh-Hant": {
+    "title": "慈悲之心 28 天",
+    "subtitle": "四無量心，向一切生命的心"
+   },
+   "zh-Hans": {
+    "title": "慈悲之心 28 天",
+    "subtitle": "四无量心，向一切生命的心"
+   }
   }
  ]
 }
